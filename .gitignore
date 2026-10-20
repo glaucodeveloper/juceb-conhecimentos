@@ -3,6 +3,8 @@
 /memories/records/
 /memories/snapshots/
 /source-bundle/
+/source-okfs/provisions/
+/source-okfs/provision-index.json
 /sync-official.log
 /.venv/
 __pycache__/

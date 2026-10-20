@@ -1,0 +1,93 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.NFE_SIMPLES_PIPELINE",
+  "title": "Pipeline NF-e e estimativa do Simples Nacional",
+  "summary": "Processa NF-e de mercadorias, associa a parte do cliente, registra propriedades e só calcula estimativa documental quando a receita, o período, o perfil e a segregação legal estão suportados.",
+  "elements": [
+    { "id": "nfe-simples.1", "type": "fator_de_decisao", "name": "competencia e data de vigencia da regra" },
+    { "id": "nfe-simples.2", "type": "fator_de_decisao", "name": "modelo, finalidade, tpNF e autorizacao do documento" },
+    { "id": "nfe-simples.3", "type": "fator_de_decisao", "name": "emitente, destinatario e CNPJ associado ao cliente" },
+    { "id": "nfe-simples.4", "type": "fator_de_decisao", "name": "atividade efetiva e natureza da receita" },
+    { "id": "nfe-simples.5", "type": "fator_de_decisao", "name": "RBT12, faixa, anexo e alíquota efetiva" },
+    { "id": "nfe-simples.6", "type": "fator_de_decisao", "name": "receita bruta do periodo e base documental reconciliada" },
+    { "id": "nfe-simples.7", "type": "fator_de_decisao", "name": "segregacao por atividade, estabelecimento e tratamento tributario" },
+    { "id": "nfe-simples.8", "type": "fator_de_decisao", "name": "CSOSN/CST, CFOP, NCM, CEST, ST, monofasico, exportacao e devolucao" },
+    { "id": "nfe-simples.9", "type": "fator_de_decisao", "name": "regime de competencia ou caixa e recebimentos efetivos" },
+    { "id": "nfe-simples.10", "type": "fator_de_decisao", "name": "ISSQN, municipio, retencoes, fator R e documento NFS-e" }
+  ],
+  "properties": [
+    { "name": "jurisdicao", "value": "Brasil; UF e municipio da operacao devem ser identificados" },
+    { "name": "escopo_automatico", "value": "NF-e modelo 55 de mercadorias; estimativa documental por nota com regras versionadas ate 2026-12" },
+    { "name": "entrada_nao_e_receita", "value": true },
+    { "name": "cfop_ncm_nao_definem_atividade_sozinhos", "value": true },
+    { "name": "receita_de_servico_exige_fluxo_nfs_e", "value": true },
+    { "name": "nao_calcular_sem_segregacao_especial", "value": true },
+    { "name": "estimativa_por_documento_nao_e_das_mensal", "value": true },
+    { "name": "declaracao_oficial", "value": "PGDAS-D; totalidade das receitas auferidas/recebidas, segregadas no periodo" },
+    { "name": "certificado_e_autorizacao_sefaz_nao_inferidos_do_xml", "value": true },
+    { "name": "efeitos_2027", "value": "Revalidar atos CGSN e transicao CBS/IBS antes de processar competencia 2027 ou posterior." }
+  ],
+  "relations": [
+    { "type": "fundamentado_em", "target": "BR.LC.123.2006" },
+    { "type": "fundamentado_em", "target": "BR.LC.155.2016" },
+    { "type": "fundamentado_em", "target": "BR.RESOLUÇÃO_CGSN.140.2018" },
+    { "type": "fundamentado_em", "target": "BR.RESOLUÇÃO_CGSN.190.2026" },
+    { "type": "fundamentado_em", "target": "BR.RESOLUÇÃO_CGSN.191.2026" },
+    { "type": "formato_e_validacao", "target": "BR.PORTAL_ENCAT.nfe.2026" },
+    { "type": "procedimento_declaratorio", "target": "BR.RFB.PGDAS-D.MANUAL.2025" }
+  ],
+  "functions": [
+    {
+      "name": "processar_nfe_e_estimar_simples",
+      "type": "deterministic_pipeline",
+      "inputs": ["XML NF-e", "CNPJ e regime do cliente", "atividade e anexo validados", "RBT12", "regime de apuracao", "receitas segregadas", "competencia"],
+      "steps": [
+        "Parsear namespace, chave, partes, data, natureza, itens, totais e grupos tributarios do XML.",
+        "Validar o arquivo contra a versao de XSD correspondente a competencia e manter separadas validade estrutural, assinatura, autorizacao e eventos fiscais.",
+        "Associar pela parte contribuinte: emitente na saida e destinatario na entrada; manter entradas fora da base de receita de saida.",
+        "Classificar atividade/receita por cadastro fiscal e evidencias; nao deduzir o anexo apenas do nome, CFOP, NCM ou CSOSN.",
+        "Reconciliar itens, totais e base documental; registrar campos dinamicos, fonte, versao normativa e trilha do processamento.",
+        "Segregar receitas e encaminhar ST/antecipacao, monofasico, exportacao, devolucao/cancelamento, isencao, suspensao, ISSQN e retencoes para regra especifica.",
+        "Quando todos os parametros legais da categoria estiverem configurados, aplicar a tabela do anexo e registrar formula, faixa, aliquota nominal, parcela a deduzir e aliquota efetiva.",
+        "Agregar e reconciliar a totalidade da receita da empresa por estabelecimento, atividade e PA antes de qualquer simulacao mensal; direcionar a declaracao ao PGDAS-D."
+      ],
+      "outputs": ["propriedades extraidas", "vinculo de cliente", "receita/segregacao", "estimativa ou pendencia tipificada", "versao legal", "trilha auditavel"],
+      "stop_conditions": ["competencia fora da vigencia do ruleset", "RBT12 ausente ou regra de inicio de atividade", "atividade/anexo incerto", "receita em regime de caixa sem recebimentos", "documento de entrada", "tratamento especial sem regra", "base documental nao reconciliada"],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    { "id": "BR.LC.123.2006", "title": "Lei Complementar 123/2006 consolidada", "authority": "Presidencia da Republica / Planalto", "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm", "articles": ["art. 3, § 1", "art. 18, §§ 1, 1-A, 4, 4-A, 5-J a 5-M", "Anexos I a V"], "verified_as_of": "2026-10-20", "full_text_present": true },
+    { "id": "BR.LC.155.2016", "title": "Lei Complementar 155/2016", "authority": "Presidencia da Republica / Planalto", "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp155.htm", "articles": ["alteracoes ao art. 18 e aos Anexos"], "verified_as_of": "2026-10-20", "full_text_present": true },
+    { "id": "BR.RESOLUÇÃO_CGSN.140.2018", "title": "Resolucao CGSN 140/2018 compilada", "authority": "Receita Federal / SIJUT", "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/normas.receisulta/link.action?idAto=92278&visao=compilado", "articles": ["arts. 16-19", "arts. 21-26", "art. 25"], "verified_as_of": "2026-10-20", "full_text_present": true },
+    { "id": "BR.RESOLUÇÃO_CGSN.190.2026", "title": "Resolucao CGSN 190/2026 e transicao CBS/IBS", "authority": "Receita Federal", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/cgsn-atualiza-regras-do-simples-nacional-para-adequacao-a-reforma-tributaria-do-consumo", "effect_date": "2027-01-01 em regra", "verified_as_of": "2026-10-20", "full_text_present": false, "act_text_verified": false },
+    { "id": "BR.RESOLUÇÃO_CGSN.191.2026", "title": "Resolucao CGSN 191/2026 e NFS-e nacional", "authority": "Receita Federal", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-epp-a-partir-de-1o-de-novembro-de-2026", "effect_date": "2026-11-01 para obrigatoriedade nacional NFS-e; confirmar excecoes e texto vigente", "verified_as_of": "2026-10-20", "full_text_present": false, "act_text_verified": false },
+    { "id": "BR.PORTAL_ENCAT.nfe.2026", "title": "Portal Nacional da NF-e e pacotes de esquemas", "authority": "SEFAZ/ENCAT", "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=BMPFMBoln3w%3D", "schema_fixture_validated": "PL_010f_v1.04 / nfe_v4.00.xsd", "schema_package_sha256": "b8589490a58a09a993a80e6ac4d7ed10f20892061ecfc56719337098d4b95998", "verified_as_of": "2026-10-20", "full_text_present": false },
+    { "id": "BR.RFB.PGDAS-D.MANUAL.2025", "title": "Manual PGDAS-D e DEFIS, versao 17/06/2025", "authority": "Receita Federal", "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/Arquivos/manual/MANUAL_PGDAS-D_2018_V4.pdf", "verified_as_of": "2026-10-20", "full_text_present": false },
+    { "id": "BR.PORTAL_ENCAT.NFE_SCHEMA.PL010F_2026", "title": "Pacote XSD NF-e PL_010f v1.04", "authority": "Portal Nacional da NF-e / ENCAT", "url": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=8ITFuBLltXs=", "verified_as_of": "2026-10-20", "full_text_present": false }
+  ],
+  "linked_sources": [
+    { "id": "BR.LC.123.2006", "reference_okf": "references/02_simples/lc-123-2006.okf", "source_verified": true },
+    { "id": "BR.LC.155.2016", "reference_okf": "references/02_simples/lc-155-2016.okf", "source_verified": true },
+    { "id": "BR.RESOLUÇÃO_CGSN.140.2018", "reference_okf": "references/02_simples/resolu-o-cgsn-140-2018.okf", "source_verified": true },
+    { "id": "BR.RESOLUÇÃO_CGSN.190.2026", "reference_okf": "references/02_simples/resolu-o-cgsn-190-2026.okf", "source_verified": false },
+    { "id": "BR.RESOLUÇÃO_CGSN.191.2026", "reference_okf": "references/02_simples/resolu-o-cgsn-191-2026.okf", "source_verified": false },
+    { "id": "BR.PORTAL_ENCAT.nfe.2026", "reference_okf": "references/04_obrigacoes/portal-encat-nfe-2026.okf", "source_verified": true },
+    { "id": "BR.PORTAL_ENCAT.NFE_SCHEMA.PL010F_2026", "reference_okf": "references/04_obrigacoes/nfe-xsd-pl-010f-2026.okf", "source_verified": true },
+    { "id": "BR.RFB.PGDAS-D.MANUAL.2025", "reference_okf": "references/02_simples/manual-pgdas-d-2025.okf", "source_verified": true },
+    { "id": "BR.PORTAL_NFS-E.nacional.2026", "reference_okf": "references/04_obrigacoes/portal-nfs-e-nacional-2026.okf", "source_verified": true }
+  ],
+  "open_questions": [
+    "Capturar e validar o texto integral vigente das Resolucoes CGSN 190 e 191 e ligar os artigos alterados ao indice por dispositivo.",
+    "Implementar fluxo de NFS-e com municipio, codigo de servico, ISS, retencoes, fator R e regras de competencia/caixa.",
+    "Adicionar regra mensal PGDAS-D com a totalidade de receitas de todos estabelecimentos e segregacoes previstas no art. 25.",
+    "Confirmar qual pacote XSD, NT e regra de validacao estarao vigentes para cada UF e ambiente SEFAZ antes de enviar XML real."
+  ],
+  "completeness": { "classification": "mapa_tematico_de_processamento", "full_text": false, "requires_live_source_validation": true, "reviewer_required_for_new_legal_rules": true },
+  "compatibility": { "cognoscere_okf_version": "0.1", "document_type": "skill", "status": "review", "contract": { "no_unverified_normative_conclusions": true, "keep_invoice_estimate_distinct_from_monthly_das": true } },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "simples/nfe-pipeline",
+  "review_status": "source_checked_2026-10-20_human_review_pending",
+  "provenance": { "source_bundle": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip", "supplemental_sources_checked": "2026-10-20", "processing_spec": "escritorio-assistente/fixtures/nfe/README.md" }
+}

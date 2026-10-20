@@ -1,0 +1,37 @@
+{
+  "schema": "okfforge.juceb.legal_source.v1",
+  "id": "BR.PORTAL_ENCAT.NFE_SCHEMA.PL010F_2026",
+  "title": "Pacote XSD NF-e PL_010f v1.04 (2026)",
+  "summary": "Schema tecnico oficial usado para validar estruturalmente as amostras de NF-e do aplicativo. Validacao XSD nao comprova assinatura ICP-Brasil, autorizacao, situacao ou validade fiscal da nota.",
+  "elements": [
+    { "id": "nfe-xsd.1", "type": "schema_xml", "name": "nfe_v4.00.xsd" },
+    { "id": "nfe-xsd.2", "type": "pacote_schema", "name": "PL_010f_v1.04" }
+  ],
+  "properties": [
+    { "name": "pacote", "value": "PL_010f_v1.04" },
+    { "name": "documento", "value": "NF-e modelo 55 / leiaute 4.00" },
+    { "name": "publicacao", "value": "2026-08-31" },
+    { "name": "pacote_sha256", "value": "b8589490a58a09a993a80e6ac4d7ed10f20892061ecfc56719337098d4b95998" },
+    { "name": "validacao_fixtures", "value": "12/12 XMLs passam por nfe_v4.00.xsd; assinatura XMLDSig verificavel com certificado de teste autossinado" },
+    { "name": "nao_prova_autorizacao_sefaz", "value": true }
+  ],
+  "sources": [
+    {
+      "id": "BR.PORTAL_ENCAT.NFE_SCHEMA.PL010F_2026",
+      "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=BMPFMBoln3w%3D",
+      "download_url": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=8ITFuBLltXs=",
+      "authority": "Portal Nacional da NF-e / ENCAT",
+      "published_at": "2026-08-31",
+      "verified_as_of": "2026-10-20",
+      "full_text_present": false,
+      "official_source": true
+    }
+  ],
+  "open_questions": ["Conferir no portal a versao vigente antes de validar XML de competencia futura ou transmitir a SEFAZ."],
+  "completeness": { "classification": "referencia_tecnica_de_schema", "full_text": false, "business_rules_validated": false },
+  "compatibility": { "cognoscere_okf_version": "0.1", "document_type": "source", "status": "review" },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_source_reference",
+  "topic_key": "references/br-nfe-xsd-pl-010f-2026",
+  "review_status": "official_xsd_downloaded_and_fixtures_validated_2026-10-20"
+}

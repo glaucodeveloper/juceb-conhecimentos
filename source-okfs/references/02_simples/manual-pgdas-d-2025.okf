@@ -1,0 +1,38 @@
+{
+  "schema": "okfforge.juceb.legal_source.v1",
+  "id": "BR.RFB.PGDAS-D.MANUAL.2025",
+  "title": "Manual PGDAS-D e DEFIS, versao 17/06/2025",
+  "summary": "Manual oficial de uso e preenchimento do PGDAS-D/DEFIS; orienta declaracao mensal, regime de apuracao, segregacao e operacao do sistema. Nao substitui LC 123/2006 nem Resolucao CGSN 140/2018.",
+  "elements": [
+    { "id": "manual-pgdas-d.1", "type": "manual_oficial", "name": "Declaracao mensal e periodo de apuracao" },
+    { "id": "manual-pgdas-d.2", "type": "manual_oficial", "name": "Opcao por competencia ou caixa" },
+    { "id": "manual-pgdas-d.3", "type": "manual_oficial", "name": "Preenchimento de receitas por atividade e tratamento" }
+  ],
+  "properties": [
+    { "name": "authority", "value": "Receita Federal do Brasil" },
+    { "name": "manual_version", "value": "2025-06-17" },
+    { "name": "normative_force", "value": "orientacao operacional; a norma legal prevalece" }
+  ],
+  "relations": [
+    { "type": "orienta_procedimento_de", "target": "BR.LC.123.2006" },
+    { "type": "orienta_procedimento_de", "target": "BR.RESOLUÇÃO_CGSN.140.2018" }
+  ],
+  "sources": [
+    {
+      "id": "BR.RFB.PGDAS-D.MANUAL.2025",
+      "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/Arquivos/manual/MANUAL_PGDAS-D_2018_V4.pdf",
+      "authority": "Receita Federal do Brasil",
+      "document_date": "2025-06-17",
+      "verified_as_of": "2026-10-20",
+      "full_text_present": false,
+      "official_source": true
+    }
+  ],
+  "open_questions": ["Verificar no portal se uma versao posterior do manual foi publicada."],
+  "completeness": { "classification": "referencia_operacional", "full_text": false, "do_not_treat_as_law": true },
+  "compatibility": { "cognoscere_okf_version": "0.1", "document_type": "source", "status": "review" },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_source_reference",
+  "topic_key": "references/br-rfb-pgdas-d-manual-2025",
+  "review_status": "official_document_checked_2026-10-20"
+}
