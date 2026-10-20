@@ -1,0 +1,87 @@
+{
+  "schema": "okfforge.juceb.legal_source.v1",
+  "id": "BR.BA.PORTAL_SEFAZ_BA.normas.2026",
+  "title": "Acompanhamento de normas e portarias tributárias da Bahia",
+  "summary": "Referência normativa no domínio 07_bahia; sem transcrição integral no arquivo de descoberta. Texto obtido posteriormente por sync_official.py.",
+  "elements": [
+    {
+      "id": "norma:BR.BA.PORTAL_SEFAZ_BA.normas.2026",
+      "type": "ato_normativo",
+      "name": "Acompanhamento de normas e portarias tributárias da Bahia",
+      "attributes": {
+        "kind": "Portal SEFAZ BA",
+        "year": 2026,
+        "jurisdiction": "BA",
+        "subjects": [
+          "icms bahia",
+          "portarias",
+          "decretos"
+        ]
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "fonte_primaria_obrigatoria",
+      "value": true
+    },
+    {
+      "name": "proibido_inferir_vigencia_sem_conferencia",
+      "value": true
+    }
+  ],
+  "relations": [],
+  "functions": [],
+  "sources": [
+    {
+      "id": "BR.BA.PORTAL_SEFAZ_BA.normas.2026",
+      "tipo": "Portal SEFAZ BA",
+      "numero": "normas",
+      "ano": 2026,
+      "jurisdicao": "BA",
+      "orgao": "SEFAZ-BA",
+      "url": "https://www.sefaz.ba.gov.br/",
+      "verificacao_url": "consulta_dirigida",
+      "consultado_em": "2026-10-19",
+      "texto_integral_capturado": false,
+      "hash_sha256": null
+    }
+  ],
+  "open_questions": [
+    "Conferir vigência material e efeitos diferidos; captura de texto integral ainda pendente."
+  ],
+  "provenance": {
+    "status": "indice_documental",
+    "retrieved_at": null,
+    "notes": "Portal raiz: descoberta complementar de atos aplicáveis.",
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "completeness": {
+    "classification": "referencia_catalogada",
+    "full_text": false,
+    "article_count": 0,
+    "do_not_use_as_consolidated_law": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review",
+    "contract": {
+      "no_unverified_normative_conclusions": true
+    }
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_source_reference",
+  "topic_key": "references/br-ba-portal-sefaz-ba-normas-2026",
+  "catalog_status": "url-unverified",
+  "official_source": {
+    "id": "BR.BA.PORTAL_SEFAZ_BA.normas.2026",
+    "authority": "SEFAZ-BA",
+    "url": "https://www.sefaz.ba.gov.br/",
+    "evidence_url": "",
+    "source_verified": false,
+    "notes": "Portal oficial geral; certificado TLS falhou na captura. Não desativar validação do certificado."
+  }
+}

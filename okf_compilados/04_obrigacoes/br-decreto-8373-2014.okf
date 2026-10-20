@@ -1,0 +1,160 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.DECRETO.8373.2014",
+  "title": "eSocial",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.DECRETO.8373.2014#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1º Fica instituído o Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas - eSocial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 395,
+        "char_end": 519
+      }
+    },
+    {
+      "id": "BR.DECRETO.8373.2014#2",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2º O eSocial é o instrumento de unificação da prestação das informações referentes à escrituração das obrigações fiscais, previdenciárias e trabalhistas e tem por finalidade padronizar sua transmissão, validação, armazenamento e distribuição, constituindo ambiente nacional composto por:\nI - escrituração digital, contendo informações fiscais, previdenciárias e trabalhistas;\nII - aplicação para preenchimento, geração, transmissão, recepção, validação e distribuição da escrituração; e\nIII - repositório nacional, contendo o armazenamento da escrituração.\n§ 1º A prestação das informações ao eSocial substituirá, na forma disciplinada pelos órgãos ou entidades partícipes, a obrigação de entrega das mesmas informações em outros formulários e declarações a que estão sujeitos:\nI - o empregador, inclusive o doméstico, a empresa e os que forem a eles equiparados em lei;\nII - o segurado especial, inclusive em relação a trabalhadores que lhe prestem serviço;\nIII - as pessoas jurídicas de direito público da União, dos Estados, do Distrito Federal e dos Municípios; e\nIV - as demais pessoas jurídicas e físicas que pagarem ou creditarem por si rendimentos sobre os quais tenha incidido retenção do Imposto sobre a Renda Retido na Fonte - IRRF, ainda que em um único mês do ano-calendário.\n§ 2º A prestação de informação ao eSocial pelas microempresas e empresas de pequeno porte, conforme a\nLei Complementar nº 123, de 15 de dezembro de 2006,\ne pelo Microempreendedor Individual - MEI será efetuada em sistema simplificado, compatível com as especificidades dessas empresas.\n§ 3º As informações prestadas por meio do eSocial substituirão as constantes na Guia de Recolhimento do Fundo de Garantia por Tempo de Serviço e Informações à Previdência Social - GFIP, na forma disciplinada no Manual de Orientação do eSocial.\n§ 4º As informações prestadas pelos empregadores serão enviadas ao Fundo de Garantia do Tempo de Serviço - FGTS e armazenadas no repositório nacional.\n§ 5º A escrituração digital de que trata o inciso I do\ncaput\né composta pelos registros de eventos tributários, previdenciários e trabalhistas, na forma disciplinada no Manual de Orientação do eSocial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 519,
+        "char_end": 2696
+      }
+    },
+    {
+      "id": "BR.DECRETO.8373.2014#3",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3º O eSocial rege-se pelos seguintes princípios:\nI - viabilizar a garantia de direitos previdenciários e trabalhistas;\nII - racionalizar e simplificar o cumprimento de obrigações;\nIII - eliminar a redundância nas informações prestadas pelas pessoas físicas e jurídicas;\nIV - aprimorar a qualidade de informações das relações de trabalho, previdenciárias e tributárias; e\nV - conferir tratamento diferenciado às microempresas e empresas de pequeno porte",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2696,
+        "char_end": 3154
+      }
+    },
+    {
+      "id": "BR.DECRETO.8373.2014#4",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4º Fica instituído o Comitê Diretivo do eSocial, composto pelos Secretários-Executivos dos seguintes órgãos:\n(Revogado \n pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nI - Ministério da Fazenda;\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nII - Ministério da Previdência Social;\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nIII - Ministério do Trabalho e Emprego; e\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nIV - Secretaria da Micro e Pequena Empresa da Presidência da República.\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\n§ 1º Ao Comitê Diretivo, com coordenação exercida alternadamente por período de um ano, compete:\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nI - estabelecer o prazo máximo da substituição de que trata o § 1º do art. 2º .\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nII - estabelecer diretrizes gerais e formular as políticas referentes ao eSocial;\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nIII - acompanhar e avaliar a implementação das diretrizes gerais e políticas do eSocial\n;\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nIV - propor o orçamento e acompanhar a execução das ações referentes ao eSocial e das integrações dele decorrentes;\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nV - propor ações e parcerias para comunicação, divulgação e aperfeiçoamento do eSocial entre os empregadores e empregados;\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nVI - propor ajustes nos processos de trabalhos dos órgãos, visando à melhoria da qualidade da informação e dos serviços prestados à sociedade; e\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nVII - decidir, em última instância administrativa, mediante representação do subcomitê temático específico e após oitiva do Comitê Gestor, sobre proposições não implementadas no âmbito de suas atribuições, discriminadas no § 1º do art. 6º .\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\n§ 2º As deliberações do Comitê Diretivo serão tomadas por consenso e formalizadas por meio de resolução.\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3154,
+        "char_end": 5313
+      }
+    },
+    {
+      "id": "BR.DECRETO.8373.2014#5",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5º Fica instituído o Comitê Gestor do eSocial, formado por representantes dos seguintes órgãos:\n(Revogado \n pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nI\n- Ministério do Trabalho e Emprego;\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nII - Ministério da Previdência Social;\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nIII - Secretaria da Receita Federal do Brasil;\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nIV - Instituto Nacional do Seguro Social - INSS; e\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nV - Conselho Curador do FGTS, representado pela Caixa Econômica Federal, na qualidade de agente operador do FGTS\n.\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\n§ 1º Compete ao Comitê Gestor:\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nI - estabelecer diretrizes para o funcionamento e a divulgação do ambiente nacional;\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nII - especificar, desenvolver, implantar e manter o ambiente nacional;\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nIII - promover a integração com os demais módulos do sistema;\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nIV - auxiliar e regular o compartilhamento e a utilização das informações armazenadas no ambiente nacional do eSocial; e\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\nV - aprovar o Manual de Orientação do eSocial e suas atualizações.\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\n§ 2º A gestão do eSocial será exercida de forma compartilhada e as deliberações do Comitê Gestor serão adotadas por meio de resolução\n.\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\n§ 3º Os órgãos e entidades partícipes do Comitê Gestor exercerão, alternadamente, as funções de Secretaria-Executiva pelo período de um ano, tendo como secretário-executivo o respectivo representante no Comitê\n.\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5313,
+        "char_end": 7275
+      }
+    },
+    {
+      "id": "BR.DECRETO.8373.2014#6",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6º O Comitê Gestor será assessorado pelo Subcomitê Temático do Módulo Micro e Pequena Empresa e Microempreendedor Individual - MEI, formado por representantes dos órgãos referidos no\ncaput\ndo art. 6º e por representante da Secretaria da Micro e Pequena Empresa da Presidência da República.\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\n§ 1º Ao Subcomitê Temático de que trata o\ncaput\ncompete formular proposta de simplificação, formalização, inovação, melhorias da especificação, arquitetura do sistema e de processos de trabalho que envolvam MEI, microempresas, empresas de pequeno porte e outros beneficiários enquadrados no Estatuto da Microempresa e Empresa de Pequeno Porte, disciplinado pela\nLei Complementar nº 123, de 15 de dezembro de 2006.\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\n§ 2º As deliberações do subcomitê serão tomadas por consenso, registradas em ata e encaminhadas ao Comitê Gestor.\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\n§ 3º O Comitê Gestor se pronunciará, de forma motivada, sobre as propostas encaminhadas pelo subcomitê na forma prevista no § 2º do art. 6º .\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\n§ 4º As propostas elaboradas pelo subcomitê que não forem aceitas pelo Comitê Gestor poderão ser analisadas pelo Comitê Diretivo, mediante representação, para decisão final acerca de sua implantação\n.\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\n§ 5º Em caso de divergências no subcomitê temático, a iniciativa apenas poderá ser implementada pelo Comitê Gestor após decisão do Conselho Diretivo.\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)\n§ 6º O Comitê Gestor poderá constituir outros subcomitês para desenvolver as ações necessárias à implementação, à operacionalização, ao controle e ao aprimoramento do eSocial.\n(Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7275,
+        "char_end": 9159
+      }
+    },
+    {
+      "id": "BR.DECRETO.8373.2014#7",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7º A participação nas atividades dos Comitês Diretivo e Gestor será considerada função relevante, não remunerada.\n((Revogado pelo \r\nDecreto nº 10.087, de 2019)\n(Vigência)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9159,
+        "char_end": 9335
+      }
+    },
+    {
+      "id": "BR.DECRETO.8373.2014#8",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8º A Caixa Econômica Federal, na qualidade de agente operador do FGTS, o Instituto Nacional do Seguro Social, a Secretaria da Receita Federal do Brasil, o Ministério da Previdência Social e o Ministério do Trabalho e Emprego regulamentarão, no âmbito de suas competências, sobre o disposto neste Decreto.\n§ 1º O eSocial não implica, em qualquer hipótese, transferência de atribuições e competências entre os órgãos ou entidades partícipes, nem transferência ou compartilhamento de propriedade intelectual de produtos não abrangidos por esse sistema.\n§ 2º Os integrantes do Comitê Gestor terão acesso compartilhado às informações que integram o ambiente nacional do eSocial e farão uso delas no limite de suas respectivas competências e atribuições, não podendo transferi-las a terceiros ou divulgá-las, salvo previsão legal.\n§ 3º As informações de natureza tributária e do FGTS observarão as regras de sigilo fiscal e bancário, respectivamente.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9335,
+        "char_end": 10285
+      }
+    },
+    {
+      "id": "BR.DECRETO.8373.2014#9",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9º Este Decreto entra em vigor na data de sua publicação.\nBrasília, 11 de dezembro de 2014; 193º da Independência e 126º da República.\nDILMA ROUSSEFF\nGuido Mantega\nManoel Dias\nGaribaldi Alves Filho\nGuilherme Afif Domingos\nEste texto não substitui o publicado no DOU de 12.12.2014\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 10285,
+        "char_end": 10572
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "5f43a173deccf154d7e5f307883fde88f3aec2fdefb700a92ae3dbba272bb53d"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "esocial"
+    },
+    {
+      "type": "subject",
+      "target": "folha"
+    },
+    {
+      "type": "subject",
+      "target": "obrigacoes"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8373.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8373.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:31:12.130137+00:00",
+      "sha256": "5f43a173deccf154d7e5f307883fde88f3aec2fdefb700a92ae3dbba272bb53d",
+      "file": "documentos_oficiais/04_obrigacoes/br-decreto-8373-2014.html",
+      "extracted_text": "textos_extraidos/04_obrigacoes/br-decreto-8373-2014.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 9,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

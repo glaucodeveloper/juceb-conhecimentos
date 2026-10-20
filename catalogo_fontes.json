@@ -1,0 +1,1650 @@
+{
+  "date": "2026-10-19",
+  "version": "0.1",
+  "status": "inventario_bibliografico_nao_compilacao_integral",
+  "acts": [
+    {
+      "id": "BR.CONSTITUIÇÃO.1988.1988",
+      "slug": "constitui-o-1988-1988",
+      "domain": "00_fundamentos",
+      "kind": "Constituição",
+      "number": "1988",
+      "year": 1988,
+      "title": "Constituição Federal (texto compilado)",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+      "subjects": [
+        "competencias tributarias",
+        "direitos fundamentais",
+        "ordem economica"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.5172.1966",
+      "slug": "lei-5172-1966",
+      "domain": "00_fundamentos",
+      "kind": "Lei",
+      "number": "5172",
+      "year": 1966,
+      "title": "Código Tributário Nacional",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "subjects": [
+        "tributos",
+        "obrigacao tributaria",
+        "credito tributario",
+        "prescricao"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.13105.2015",
+      "slug": "lei-13105-2015",
+      "domain": "00_fundamentos",
+      "kind": "Lei",
+      "number": "13105",
+      "year": 2015,
+      "title": "Código de Processo Civil",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+      "subjects": [
+        "processo judicial",
+        "execucao"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.9784.1999",
+      "slug": "lei-9784-1999",
+      "domain": "00_fundamentos",
+      "kind": "Lei",
+      "number": "9784",
+      "year": 1999,
+      "title": "Processo administrativo federal",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+      "subjects": [
+        "processo administrativo"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.12016.2009",
+      "slug": "lei-12016-2009",
+      "domain": "00_fundamentos",
+      "kind": "Lei",
+      "number": "12016",
+      "year": 2009,
+      "title": "Mandado de segurança",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm",
+      "subjects": [
+        "contencioso",
+        "direitos"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.8934.1994",
+      "slug": "lei-8934-1994",
+      "domain": "01_registro",
+      "kind": "Lei",
+      "number": "8934",
+      "year": 1994,
+      "title": "Registro Público de Empresas Mercantis",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm",
+      "subjects": [
+        "junta comercial",
+        "registro",
+        "atos",
+        "arquivamento"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.DECRETO.1800.1996",
+      "slug": "decreto-1800-1996",
+      "domain": "01_registro",
+      "kind": "Decreto",
+      "number": "1800",
+      "year": 1996,
+      "title": "Regulamenta o Registro Público de Empresas",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/decreto/d1800.htm",
+      "subjects": [
+        "junta comercial",
+        "sinrem",
+        "registro"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.10406.2002",
+      "slug": "lei-10406-2002",
+      "domain": "01_registro",
+      "kind": "Lei",
+      "number": "10406",
+      "year": 2002,
+      "title": "Código Civil",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+      "subjects": [
+        "sociedade limitada",
+        "empresario individual",
+        "contratos"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.6404.1976",
+      "slug": "lei-6404-1976",
+      "domain": "01_registro",
+      "kind": "Lei",
+      "number": "6404",
+      "year": 1976,
+      "title": "Lei das Sociedades por Ações",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm",
+      "subjects": [
+        "sociedade anonima",
+        "fusao",
+        "incorporacao",
+        "cisao"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.5764.1971",
+      "slug": "lei-5764-1971",
+      "domain": "01_registro",
+      "kind": "Lei",
+      "number": "5764",
+      "year": 1971,
+      "title": "Lei das Cooperativas",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+      "subjects": [
+        "cooperativa",
+        "registro"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.11598.2007",
+      "slug": "lei-11598-2007",
+      "domain": "01_registro",
+      "kind": "Lei",
+      "number": "11598",
+      "year": 2007,
+      "title": "REDESIM",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm",
+      "subjects": [
+        "redesim",
+        "abertura",
+        "legalizacao",
+        "licenciamento"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.13874.2019",
+      "slug": "lei-13874-2019",
+      "domain": "01_registro",
+      "kind": "Lei",
+      "number": "13874",
+      "year": 2019,
+      "title": "Declaração de Direitos de Liberdade Econômica",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm",
+      "subjects": [
+        "licenciamento",
+        "baixo risco",
+        "liberdade economica"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.14195.2021",
+      "slug": "lei-14195-2021",
+      "domain": "01_registro",
+      "kind": "Lei",
+      "number": "14195",
+      "year": 2021,
+      "title": "Ambiente de Negócios",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14195.htm",
+      "subjects": [
+        "registro empresarial",
+        "facilitacao",
+        "proteção investidores"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.11101.2005",
+      "slug": "lei-11101-2005",
+      "domain": "01_registro",
+      "kind": "Lei",
+      "number": "11101",
+      "year": 2005,
+      "title": "Recuperação Judicial e Falência",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "subjects": [
+        "recuperacao",
+        "falencia"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.12529.2011",
+      "slug": "lei-12529-2011",
+      "domain": "01_registro",
+      "kind": "Lei",
+      "number": "12529",
+      "year": 2011,
+      "title": "Sistema Brasileiro de Defesa da Concorrência",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm",
+      "subjects": [
+        "concorrencia",
+        "fusao"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.IN_DREI.81.2020",
+      "slug": "in-drei-81-2020",
+      "domain": "01_registro",
+      "kind": "IN DREI",
+      "number": "81",
+      "year": 2020,
+      "title": "Normas gerais de registro e manuais",
+      "official_url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file",
+      "subjects": [
+        "registro",
+        "atos",
+        "empresario individual",
+        "sociedade limitada",
+        "cooperativa"
+      ],
+      "links": [],
+      "authority": "DREI",
+      "source_verified": true,
+      "notes": "Catálogo inclui versões atualizadas e anexos; coletor faz descoberta de links dos manuais."
+    },
+    {
+      "id": "BR.IN_DREI.82.2021",
+      "slug": "in-drei-82-2021",
+      "domain": "01_registro",
+      "kind": "IN DREI",
+      "number": "82",
+      "year": 2021,
+      "title": "Autenticação de livros empresariais",
+      "official_url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/arquivos/legislacoes-federais/indrei822023_compilada.pdf/@@display-file/file",
+      "subjects": [
+        "livros",
+        "escrituracao"
+      ],
+      "links": [],
+      "authority": "DREI",
+      "source_verified": true,
+      "notes": "Página índice: localizar arquivo da IN 82."
+    },
+    {
+      "id": "BR.MANUAL_DREI.anexoII.2025",
+      "slug": "manual-drei-anexoii-2025",
+      "domain": "01_registro",
+      "kind": "Manual DREI",
+      "number": "anexoII",
+      "year": 2025,
+      "title": "Manual de Registro de Empresário Individual — IN DREI 81/2020",
+      "official_url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-ii-empresario-individual_link.pdf/@@display-file/file",
+      "subjects": [
+        "empresario individual",
+        "registro",
+        "constituicao",
+        "alteracao",
+        "extincao"
+      ],
+      "links": [],
+      "authority": "DREI",
+      "source_verified": true,
+      "notes": "Versão do anexo referida no índice oficial; contém histórico e link à versão compilada."
+    },
+    {
+      "id": "BR.MANUAL_DREI.anexoIV.2025",
+      "slug": "manual-drei-anexoiv-2025",
+      "domain": "01_registro",
+      "kind": "Manual DREI",
+      "number": "anexoIV",
+      "year": 2025,
+      "title": "Manual de Registro de Sociedade Limitada — IN DREI 81/2020",
+      "official_url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-iv-limitada_link.pdf/@@display-file/file",
+      "subjects": [
+        "sociedade limitada",
+        "contrato social",
+        "registro",
+        "alteracao",
+        "extincao"
+      ],
+      "links": [],
+      "authority": "DREI",
+      "source_verified": true,
+      "notes": "Conferir versão compilada linkada no PDF."
+    },
+    {
+      "id": "BR.MANUAL_DREI.anexoV.2025",
+      "slug": "manual-drei-anexov-2025",
+      "domain": "01_registro",
+      "kind": "Manual DREI",
+      "number": "anexoV",
+      "year": 2025,
+      "title": "Manual de Registro de Sociedade Anônima — IN DREI 81/2020",
+      "official_url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-v-sa_link.pdf/@@display-file/file",
+      "subjects": [
+        "sociedade anonima",
+        "registro",
+        "ata"
+      ],
+      "links": [],
+      "authority": "DREI",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.MANUAL_DREI.anexoVI.2025",
+      "slug": "manual-drei-anexovi-2025",
+      "domain": "01_registro",
+      "kind": "Manual DREI",
+      "number": "anexoVI",
+      "year": 2025,
+      "title": "Manual de Registro de Cooperativa — IN DREI 81/2020",
+      "official_url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-vi-cooperativa_link.pdf/@@display-file/file",
+      "subjects": [
+        "cooperativa",
+        "registro",
+        "atos societarios"
+      ],
+      "links": [],
+      "authority": "DREI",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.IN_DREI.1.2025",
+      "slug": "in-drei-1-2025",
+      "domain": "01_registro",
+      "kind": "IN DREI",
+      "number": "1",
+      "year": 2025,
+      "title": "Altera IN DREI 81/2020",
+      "official_url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas",
+      "subjects": [
+        "registro",
+        "atualizacoes"
+      ],
+      "links": [],
+      "authority": "DREI",
+      "source_verified": true,
+      "notes": "Pág. índice. Vigência e alterações devem ser verificadas no ato."
+    },
+    {
+      "id": "BR.PORTAL_JUCEB.legislacao.2026",
+      "slug": "portal-juceb-legislacao-2026",
+      "domain": "01_registro",
+      "kind": "Portal JUCEB",
+      "number": "legislacao",
+      "year": 2026,
+      "title": "Legislação indexada pela Junta Comercial da Bahia",
+      "official_url": "https://www.ba.gov.br/juceb/legislacao/leis",
+      "subjects": [
+        "juceb",
+        "normas empresariais"
+      ],
+      "links": [],
+      "authority": "JUCEB",
+      "source_verified": true,
+      "notes": "Página índice, não ato normativo isolado."
+    },
+    {
+      "id": "BR.PORTAL_JUCEB.resolucoes.2026",
+      "slug": "portal-juceb-resolucoes-2026",
+      "domain": "01_registro",
+      "kind": "Portal JUCEB",
+      "number": "resolucoes",
+      "year": 2026,
+      "title": "Resoluções do Plenário JUCEB",
+      "official_url": "https://www.ba.gov.br/juceb/editais/12622/resolucoes-do-plenario-2",
+      "subjects": [
+        "juceb",
+        "resolucoes",
+        "procedimentos"
+      ],
+      "links": [],
+      "authority": "JUCEB",
+      "source_verified": true,
+      "notes": "Contém resoluções 2025/2026; descobrir PDFs individualmente."
+    },
+    {
+      "id": "BR.LC.123.2006",
+      "slug": "lc-123-2006",
+      "domain": "02_simples",
+      "kind": "LC",
+      "number": "123",
+      "year": 2006,
+      "title": "Estatuto ME/EPP e Simples Nacional",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+      "subjects": [
+        "simples nacional",
+        "mei",
+        "me",
+        "epp",
+        "anexos",
+        "fator r",
+        "vedacoes",
+        "sublimites",
+        "das"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LC.128.2008",
+      "slug": "lc-128-2008",
+      "domain": "02_simples",
+      "kind": "LC",
+      "number": "128",
+      "year": 2008,
+      "title": "Institui regulamentações relativas ao MEI",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp128.htm",
+      "subjects": [
+        "mei",
+        "microempreendedor"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": "URL oficial corrigida após o endereço original do bundle retornar 404."
+    },
+    {
+      "id": "BR.LC.147.2014",
+      "slug": "lc-147-2014",
+      "domain": "02_simples",
+      "kind": "LC",
+      "number": "147",
+      "year": 2014,
+      "title": "Alterações do Simples Nacional",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp147.htm",
+      "subjects": [
+        "simples nacional",
+        "enquadramento"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": "URL oficial corrigida após o endereço original do bundle retornar 404."
+    },
+    {
+      "id": "BR.LC.155.2016",
+      "slug": "lc-155-2016",
+      "domain": "02_simples",
+      "kind": "LC",
+      "number": "155",
+      "year": 2016,
+      "title": "Reestruturação da apuração do Simples Nacional",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp155.htm",
+      "subjects": [
+        "simples nacional",
+        "anexos",
+        "aliquota efetiva"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LC.167.2019",
+      "slug": "lc-167-2019",
+      "domain": "02_simples",
+      "kind": "LC",
+      "number": "167",
+      "year": 2019,
+      "title": "Empresa Simples de Crédito e Inova Simples",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp167.htm",
+      "subjects": [
+        "simples nacional",
+        "inova simples"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.RESOLUÇÃO_CGSN.140.2018",
+      "slug": "resolu-o-cgsn-140-2018",
+      "domain": "02_simples",
+      "kind": "Resolução CGSN",
+      "number": "140",
+      "year": 2018,
+      "title": "Regulamento geral do Simples Nacional",
+      "official_url": "https://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=compilado",
+      "subjects": [
+        "simples nacional",
+        "pgdas",
+        "defis",
+        "opcao",
+        "anexos",
+        "fator r",
+        "escrituracao"
+      ],
+      "links": [],
+      "authority": "Receita Federal (SIJUT)",
+      "source_verified": true,
+      "notes": "Página oficial multivigente em aplicação dinâmica; captura HTML automatizada insuficiente."
+    },
+    {
+      "id": "BR.RESOLUÇÃO_CGSN.187.2026",
+      "slug": "resolu-o-cgsn-187-2026",
+      "domain": "02_simples",
+      "kind": "Resolução CGSN",
+      "number": "187",
+      "year": 2026,
+      "title": "Alterações CGSN 140/2018 (abril 2026)",
+      "official_url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?orgaosSelecionados=CGSN&numero_ato=187&ano_ato=2026&tipoData=2&tiposAtosSelecionados=67",
+      "subjects": [
+        "simples nacional",
+        "alteracoes"
+      ],
+      "links": [],
+      "authority": "Receita Federal (SIJUT)",
+      "source_verified": false,
+      "notes": "O link do bundle aponta para o ato 140, não para a Resolução 187. Consulta oficial identifica a 187 como alteração da Resolução 140; localizar a ficha direta do ato.",
+      "evidence_url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?orgaosSelecionados=CGSN&tipoData=2&tiposAtosSelecionados=67"
+    },
+    {
+      "id": "BR.RESOLUÇÃO_CGSN.190.2026",
+      "slug": "resolu-o-cgsn-190-2026",
+      "domain": "02_simples",
+      "kind": "Resolução CGSN",
+      "number": "190",
+      "year": 2026,
+      "title": "Alterações CGSN 140/2018 (agosto 2026)",
+      "official_url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?orgaosSelecionados=CGSN&numero_ato=190&ano_ato=2026&tipoData=2&tiposAtosSelecionados=67",
+      "subjects": [
+        "simples nacional",
+        "tributacao reforma",
+        "transicao"
+      ],
+      "links": [],
+      "authority": "Receita Federal (SIJUT)",
+      "source_verified": false,
+      "notes": "O link do bundle aponta para o ato 140, não para a Resolução 190. Comunicado oficial confirma alterações e efeitos previstos para 2027; localizar a ficha direta no SIJUT.",
+      "evidence_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/cgsn-atualiza-regras-do-simples-nacional-para-adequacao-a-reforma-tributaria-do-consumo"
+    },
+    {
+      "id": "BR.RESOLUÇÃO_CGSN.191.2026",
+      "slug": "resolu-o-cgsn-191-2026",
+      "domain": "02_simples",
+      "kind": "Resolução CGSN",
+      "number": "191",
+      "year": 2026,
+      "title": "Alterações CGSN 140/2018 (agosto 2026)",
+      "official_url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?orgaosSelecionados=CGSN&numero_ato=191&ano_ato=2026&tipoData=2&tiposAtosSelecionados=67",
+      "subjects": [
+        "simples nacional",
+        "regime caixa"
+      ],
+      "links": [],
+      "authority": "Receita Federal (SIJUT)",
+      "source_verified": false,
+      "notes": "O link do bundle aponta para o ato 140, não para a Resolução 191. Comunicado oficial confirma a alteração e a data de efeitos; localizar a ficha direta no SIJUT.",
+      "evidence_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-epp-a-partir-de-1o-de-novembro-de-2026"
+    },
+    {
+      "id": "BR.PORTAL_RECEITA.simples.2026",
+      "slug": "portal-receita-simples-2026",
+      "domain": "02_simples",
+      "kind": "Portal Receita",
+      "number": "simples",
+      "year": 2026,
+      "title": "Orientações tributárias do Simples Nacional",
+      "official_url": "https://www8.receita.fazenda.gov.br/SimplesNacional/",
+      "subjects": [
+        "simples nacional",
+        "pgdas",
+        "manuais"
+      ],
+      "links": [],
+      "authority": "Receita Federal",
+      "source_verified": false,
+      "notes": "Portal de serviços e manuais, não diploma legal."
+    },
+    {
+      "id": "BR.LC.87.1996",
+      "slug": "lc-87-1996",
+      "domain": "03_tributos",
+      "kind": "LC",
+      "number": "87",
+      "year": 1996,
+      "title": "Lei Kandir — ICMS",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm",
+      "subjects": [
+        "icms",
+        "circulacao",
+        "credito",
+        "nao incidencia",
+        "difal"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LC.190.2022",
+      "slug": "lc-190-2022",
+      "domain": "03_tributos",
+      "kind": "LC",
+      "number": "190",
+      "year": 2022,
+      "title": "ICMS diferencial de alíquotas (DIFAL)",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp190.htm",
+      "subjects": [
+        "icms",
+        "difal",
+        "consumidor final"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LC.192.2022",
+      "slug": "lc-192-2022",
+      "domain": "03_tributos",
+      "kind": "LC",
+      "number": "192",
+      "year": 2022,
+      "title": "Regime monofásico do ICMS sobre combustíveis",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp192.htm",
+      "subjects": [
+        "icms",
+        "combustiveis",
+        "monofasico"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LC.116.2003",
+      "slug": "lc-116-2003",
+      "domain": "03_tributos",
+      "kind": "LC",
+      "number": "116",
+      "year": 2003,
+      "title": "ISS e lista de serviços",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm",
+      "subjects": [
+        "iss",
+        "servicos",
+        "lista servicos",
+        "local incidencia"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LC.157.2016",
+      "slug": "lc-157-2016",
+      "domain": "03_tributos",
+      "kind": "LC",
+      "number": "157",
+      "year": 2016,
+      "title": "Alterações da legislação do ISS",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp157.htm",
+      "subjects": [
+        "iss",
+        "aliquota minima"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LC.175.2020",
+      "slug": "lc-175-2020",
+      "domain": "03_tributos",
+      "kind": "LC",
+      "number": "175",
+      "year": 2020,
+      "title": "ISS de serviços determinados e obrigações acessórias",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp175.htm",
+      "subjects": [
+        "iss",
+        "servicos",
+        "local incidencia"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.DECRETO.7212.2010",
+      "slug": "decreto-7212-2010",
+      "domain": "03_tributos",
+      "kind": "Decreto",
+      "number": "7212",
+      "year": 2010,
+      "title": "Regulamento do IPI",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7212.htm",
+      "subjects": [
+        "ipi",
+        "industrializacao",
+        "estabelecimento industrial"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.DECRETO.11158.2022",
+      "slug": "decreto-11158-2022",
+      "domain": "03_tributos",
+      "kind": "Decreto",
+      "number": "11158",
+      "year": 2022,
+      "title": "TIPI — Tabela de Incidência do IPI",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11158.htm",
+      "subjects": [
+        "ipi",
+        "tipi",
+        "ncm"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.9718.1998",
+      "slug": "lei-9718-1998",
+      "domain": "03_tributos",
+      "kind": "Lei",
+      "number": "9718",
+      "year": 1998,
+      "title": "PIS/Pasep e Cofins; legislação geral",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l9718.htm",
+      "subjects": [
+        "pis",
+        "cofins",
+        "cumulativo"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.10637.2002",
+      "slug": "lei-10637-2002",
+      "domain": "03_tributos",
+      "kind": "Lei",
+      "number": "10637",
+      "year": 2002,
+      "title": "PIS/Pasep — não cumulatividade",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637compilado.htm",
+      "subjects": [
+        "pis",
+        "creditos",
+        "nao cumulatividade"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.10833.2003",
+      "slug": "lei-10833-2003",
+      "domain": "03_tributos",
+      "kind": "Lei",
+      "number": "10833",
+      "year": 2003,
+      "title": "Cofins — não cumulatividade",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.833compilado.htm",
+      "subjects": [
+        "cofins",
+        "creditos",
+        "nao cumulatividade"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": "Versão compilada confirmada no Planalto."
+    },
+    {
+      "id": "BR.LEI.10865.2004",
+      "slug": "lei-10865-2004",
+      "domain": "03_tributos",
+      "kind": "Lei",
+      "number": "10865",
+      "year": 2004,
+      "title": "PIS/Cofins Importação",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865.htm",
+      "subjects": [
+        "pis",
+        "cofins",
+        "importacao"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.DECRETO.9580.2018",
+      "slug": "decreto-9580-2018",
+      "domain": "03_tributos",
+      "kind": "Decreto",
+      "number": "9580",
+      "year": 2018,
+      "title": "Regulamento do Imposto sobre a Renda",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9580.htm",
+      "subjects": [
+        "irpj",
+        "irpf",
+        "lucro real",
+        "lucro presumido"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.7689.1988",
+      "slug": "lei-7689-1988",
+      "domain": "03_tributos",
+      "kind": "Lei",
+      "number": "7689",
+      "year": 1988,
+      "title": "Contribuição Social sobre o Lucro Líquido",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l7689.htm",
+      "subjects": [
+        "csll",
+        "lucro"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.9249.1995",
+      "slug": "lei-9249-1995",
+      "domain": "03_tributos",
+      "kind": "Lei",
+      "number": "9249",
+      "year": 1995,
+      "title": "IRPJ e CSLL - disposições gerais",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm",
+      "subjects": [
+        "irpj",
+        "csll",
+        "lucro presumido"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.9430.1996",
+      "slug": "lei-9430-1996",
+      "domain": "03_tributos",
+      "kind": "Lei",
+      "number": "9430",
+      "year": 1996,
+      "title": "Legislação tributária federal e fiscalização",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l9430.htm",
+      "subjects": [
+        "irpj",
+        "tributos federais",
+        "fiscalizacao"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.8981.1995",
+      "slug": "lei-8981-1995",
+      "domain": "03_tributos",
+      "kind": "Lei",
+      "number": "8981",
+      "year": 1995,
+      "title": "Imposto de Renda e legislação correlata",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l8981.htm",
+      "subjects": [
+        "irpj",
+        "retencoes"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.DECRETO.6306.2007",
+      "slug": "decreto-6306-2007",
+      "domain": "03_tributos",
+      "kind": "Decreto",
+      "number": "6306",
+      "year": 2007,
+      "title": "Regulamento do IOF",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6306.htm",
+      "subjects": [
+        "iof",
+        "credito",
+        "cambio",
+        "seguro"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.DECRETO_LEI.37.1966",
+      "slug": "decreto-lei-37-1966",
+      "domain": "03_tributos",
+      "kind": "Decreto Lei",
+      "number": "37",
+      "year": 1966,
+      "title": "Imposto de Importação e normas aduaneiras",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0037.htm",
+      "subjects": [
+        "importacao",
+        "tributos aduaneiros"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.DECRETO.6759.2009",
+      "slug": "decreto-6759-2009",
+      "domain": "03_tributos",
+      "kind": "Decreto",
+      "number": "6759",
+      "year": 2009,
+      "title": "Regulamento Aduaneiro",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6759.htm",
+      "subjects": [
+        "importacao",
+        "exportacao",
+        "aduana"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.8212.1991",
+      "slug": "lei-8212-1991",
+      "domain": "03_tributos",
+      "kind": "Lei",
+      "number": "8212",
+      "year": 1991,
+      "title": "Custeio da Seguridade Social",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm",
+      "subjects": [
+        "contribuicoes previdenciarias",
+        "cpp",
+        "folha"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.8213.1991",
+      "slug": "lei-8213-1991",
+      "domain": "03_tributos",
+      "kind": "Lei",
+      "number": "8213",
+      "year": 1991,
+      "title": "Planos de Benefícios da Previdência Social",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm",
+      "subjects": [
+        "previdencia",
+        "trabalhista"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.DECRETO_LEI.5452.1943",
+      "slug": "decreto-lei-5452-1943",
+      "domain": "03_tributos",
+      "kind": "Decreto Lei",
+      "number": "5452",
+      "year": 1943,
+      "title": "Consolidação das Leis do Trabalho",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+      "subjects": [
+        "clt",
+        "trabalhista",
+        "folha"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.8036.1990",
+      "slug": "lei-8036-1990",
+      "domain": "03_tributos",
+      "kind": "Lei",
+      "number": "8036",
+      "year": 1990,
+      "title": "FGTS",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm",
+      "subjects": [
+        "fgts",
+        "trabalho"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.DECRETO.6022.2007",
+      "slug": "decreto-6022-2007",
+      "domain": "04_obrigacoes",
+      "kind": "Decreto",
+      "number": "6022",
+      "year": 2007,
+      "title": "SPED — Sistema Público de Escrituração Digital",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm",
+      "subjects": [
+        "sped",
+        "escrituracao digital"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.DECRETO.8373.2014",
+      "slug": "decreto-8373-2014",
+      "domain": "04_obrigacoes",
+      "kind": "Decreto",
+      "number": "8373",
+      "year": 2014,
+      "title": "eSocial",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8373.htm",
+      "subjects": [
+        "esocial",
+        "folha",
+        "obrigacoes"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.IN_RFB.2005.2021",
+      "slug": "in-rfb-2005-2021",
+      "domain": "04_obrigacoes",
+      "kind": "IN RFB",
+      "number": "2005",
+      "year": 2021,
+      "title": "DCTFWeb (verificar alterações e atos substitutos)",
+      "official_url": "https://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=102406",
+      "subjects": [
+        "dctfweb",
+        "previdencia",
+        "tributos"
+      ],
+      "links": [],
+      "authority": "Receita Federal",
+      "source_verified": true,
+      "notes": "Ato original capturado como histórico; revogado pela IN RFB 2.237/2024. Consultar o ato atual e alterações posteriores antes de responder sobre DCTFWeb."
+    },
+    {
+      "id": "BR.IN_RFB.2110.2022",
+      "slug": "in-rfb-2110-2022",
+      "domain": "04_obrigacoes",
+      "kind": "IN RFB",
+      "number": "2110",
+      "year": 2022,
+      "title": "Normas gerais de tributação previdenciária",
+      "official_url": "https://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=126687",
+      "subjects": [
+        "contribuicoes previdenciarias",
+        "folha"
+      ],
+      "links": [],
+      "authority": "Receita Federal",
+      "source_verified": true,
+      "notes": "Ato original; alterado, inclusive pela IN RFB 2.321/2026. Consultar texto compilado e alterações posteriores."
+    },
+    {
+      "id": "BR.PORTAL_ENCAT.nfe.2026",
+      "slug": "portal-encat-nfe-2026",
+      "domain": "04_obrigacoes",
+      "kind": "Portal ENCAT",
+      "number": "nfe",
+      "year": 2026,
+      "title": "NF-e, NFC-e, CT-e, MDF-e — notas técnicas e esquemas",
+      "official_url": "https://www.nfe.fazenda.gov.br/portal/principal.aspx",
+      "subjects": [
+        "nfe",
+        "nfce",
+        "documentos fiscais"
+      ],
+      "links": [],
+      "authority": "SEFAZ/ENCAT",
+      "source_verified": false,
+      "notes": "Documentos técnicos mudam: selecionar pacote e NT exatos na ingestão."
+    },
+    {
+      "id": "BR.PORTAL_NFS-E.nacional.2026",
+      "slug": "portal-nfs-e-nacional-2026",
+      "domain": "04_obrigacoes",
+      "kind": "Portal NFS-e",
+      "number": "nacional",
+      "year": 2026,
+      "title": "Padrão Nacional NFS-e e documentação",
+      "official_url": "https://www.gov.br/nfse/pt-br",
+      "subjects": [
+        "nfse",
+        "documentos fiscais",
+        "iss"
+      ],
+      "links": [],
+      "authority": "Comitê Gestor NFS-e",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.EC.132.2023",
+      "slug": "ec-132-2023",
+      "domain": "05_reforma",
+      "kind": "EC",
+      "number": "132",
+      "year": 2023,
+      "title": "Reforma Tributária do Consumo",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+      "subjects": [
+        "ibs",
+        "cbs",
+        "is",
+        "transicao"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LC.214.2025",
+      "slug": "lc-214-2025",
+      "domain": "05_reforma",
+      "kind": "LC",
+      "number": "214",
+      "year": 2025,
+      "title": "IBS, CBS, Imposto Seletivo e legislação do consumo",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "subjects": [
+        "ibs",
+        "cbs",
+        "is",
+        "creditos",
+        "regimes diferenciados",
+        "transicao"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LC.227.2026",
+      "slug": "lc-227-2026",
+      "domain": "05_reforma",
+      "kind": "LC",
+      "number": "227",
+      "year": 2026,
+      "title": "CGIBS e processo administrativo do IBS",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm",
+      "subjects": [
+        "ibs",
+        "cgibs",
+        "processo administrativo",
+        "alteracoes simples"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.DECRETO.12955.2026",
+      "slug": "decreto-12955-2026",
+      "domain": "05_reforma",
+      "kind": "Decreto",
+      "number": "12955",
+      "year": 2026,
+      "title": "Regulamentação da LC 214/2025",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12955.htm",
+      "subjects": [
+        "ibs",
+        "cbs",
+        "reforma"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LC.229.2026",
+      "slug": "lc-229-2026",
+      "domain": "05_reforma",
+      "kind": "LC",
+      "number": "229",
+      "year": 2026,
+      "title": "Benefícios tributários e despesas de 2026",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp229.htm",
+      "subjects": [
+        "tributos",
+        "beneficios"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LC.228.2026",
+      "slug": "lc-228-2026",
+      "domain": "05_reforma",
+      "kind": "LC",
+      "number": "228",
+      "year": 2026,
+      "title": "PIS/Cofins na indústria química",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp228.htm",
+      "subjects": [
+        "pis",
+        "cofins",
+        "industria"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.BA.LEI_BA.7014.1996",
+      "slug": "lei-ba-7014-1996",
+      "domain": "07_bahia",
+      "kind": "Lei BA",
+      "number": "7014",
+      "year": 1996,
+      "title": "ICMS da Bahia — Lei 7.014/1996",
+      "official_url": "https://mbusca.sefaz.ba.gov.br/DITRI/leis/leis_estaduais/legest_1996_7014_icmscomnotas.pdf",
+      "subjects": [
+        "icms bahia",
+        "fato gerador",
+        "aliquota",
+        "creditos"
+      ],
+      "links": [],
+      "authority": "SEFAZ-BA",
+      "source_verified": true,
+      "notes": "PDF compilado informativo; fonte autêntica é Diário Oficial; versão de compilação observada inclui alterações até Lei 14.971/2024."
+    },
+    {
+      "id": "BR.BA.DECRETO_BA.13780.2012",
+      "slug": "decreto-ba-13780-2012",
+      "domain": "07_bahia",
+      "kind": "Decreto BA",
+      "number": "13780",
+      "year": 2012,
+      "title": "Regulamento ICMS da Bahia (RICMS-BA)",
+      "official_url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_texto_2021.pdf",
+      "subjects": [
+        "icms bahia",
+        "cad icms",
+        "substituicao tributaria",
+        "notas fiscais"
+      ],
+      "links": [],
+      "authority": "SEFAZ-BA",
+      "source_verified": true,
+      "notes": "PDF compilado informativo, capa observada com atualização até Decreto 24.829/2026; verificar data de acesso e publicação."
+    },
+    {
+      "id": "BR.BA.ANEXO_RICMS_BA.1.2026",
+      "slug": "anexo-ricms-ba-1-2026",
+      "domain": "07_bahia",
+      "kind": "Anexo RICMS BA",
+      "number": "1",
+      "year": 2026,
+      "title": "Anexo I RICMS-BA — Substituição Tributária",
+      "official_url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2026.pdf",
+      "subjects": [
+        "icms bahia",
+        "ncm",
+        "cest",
+        "st",
+        "mv a"
+      ],
+      "links": [],
+      "authority": "SEFAZ-BA",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.BA.PORTAL_SEFAZ_BA.normas.2026",
+      "slug": "portal-sefaz-ba-normas-2026",
+      "domain": "07_bahia",
+      "kind": "Portal SEFAZ BA",
+      "number": "normas",
+      "year": 2026,
+      "title": "Acompanhamento de normas e portarias tributárias da Bahia",
+      "official_url": "https://www.sefaz.ba.gov.br/",
+      "subjects": [
+        "icms bahia",
+        "portarias",
+        "decretos"
+      ],
+      "links": [],
+      "authority": "SEFAZ-BA",
+      "source_verified": false,
+      "notes": "Portal oficial geral; certificado TLS falhou na captura. Não desativar validação do certificado."
+    },
+    {
+      "id": "BR.BA.PORTAL_JUCEB.drei.2026",
+      "slug": "portal-juceb-drei-2026",
+      "domain": "07_bahia",
+      "kind": "Portal JUCEB",
+      "number": "drei",
+      "year": 2026,
+      "title": "Instruções normativas DREI reconhecidas pela JUCEB",
+      "official_url": "https://www.ba.gov.br/juceb/legislacao/instrucoes-normativas-drei",
+      "subjects": [
+        "juceb",
+        "drei",
+        "registro"
+      ],
+      "links": [],
+      "authority": "JUCEB",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.BA.PORTAL_JUCEB.procedimentos.2026",
+      "slug": "portal-juceb-procedimentos-2026",
+      "domain": "07_bahia",
+      "kind": "Portal JUCEB",
+      "number": "procedimentos",
+      "year": 2026,
+      "title": "Passo a passo de registro na JUCEB",
+      "official_url": "https://www.ba.gov.br/juceb/passo-passo",
+      "subjects": [
+        "juceb",
+        "atos",
+        "viabilidade",
+        "registro"
+      ],
+      "links": [],
+      "authority": "JUCEB",
+      "source_verified": true,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.8078.1990",
+      "slug": "lei-8078-1990",
+      "domain": "08_transversal",
+      "kind": "Lei",
+      "number": "8078",
+      "year": 1990,
+      "title": "Código de Defesa do Consumidor",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "subjects": [
+        "consumidor",
+        "servicos",
+        "mercadorias"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.13709.2018",
+      "slug": "lei-13709-2018",
+      "domain": "08_transversal",
+      "kind": "Lei",
+      "number": "13709",
+      "year": 2018,
+      "title": "LGPD — proteção de dados pessoais",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+      "subjects": [
+        "lgpd",
+        "tratamento dados",
+        "empresa"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.12965.2014",
+      "slug": "lei-12965-2014",
+      "domain": "08_transversal",
+      "kind": "Lei",
+      "number": "12965",
+      "year": 2014,
+      "title": "Marco Civil da Internet",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+      "subjects": [
+        "internet",
+        "prestador",
+        "dados"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.9605.1998",
+      "slug": "lei-9605-1998",
+      "domain": "08_transversal",
+      "kind": "Lei",
+      "number": "9605",
+      "year": 1998,
+      "title": "Crimes Ambientais",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "subjects": [
+        "meio ambiente",
+        "licenciamento"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LC.140.2011",
+      "slug": "lc-140-2011",
+      "domain": "08_transversal",
+      "kind": "LC",
+      "number": "140",
+      "year": 2011,
+      "title": "Competências ambientais e licenciamento",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp140.htm",
+      "subjects": [
+        "licenciamento ambiental",
+        "competencias"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.12305.2010",
+      "slug": "lei-12305-2010",
+      "domain": "08_transversal",
+      "kind": "Lei",
+      "number": "12305",
+      "year": 2010,
+      "title": "Política Nacional de Resíduos Sólidos",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm",
+      "subjects": [
+        "residuos",
+        "industria",
+        "comercio"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.14133.2021",
+      "slug": "lei-14133-2021",
+      "domain": "08_transversal",
+      "kind": "Lei",
+      "number": "14133",
+      "year": 2021,
+      "title": "Nova Lei de Licitações e Contratos Administrativos",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "subjects": [
+        "licitacoes",
+        "vendas governo",
+        "servicos"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.12187.2009",
+      "slug": "lei-12187-2009",
+      "domain": "08_transversal",
+      "kind": "Lei",
+      "number": "12187",
+      "year": 2009,
+      "title": "Política Nacional sobre Mudança do Clima",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12187.htm",
+      "subjects": [
+        "industria",
+        "ambiental"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.10192.2001",
+      "slug": "lei-10192-2001",
+      "domain": "08_transversal",
+      "kind": "Lei",
+      "number": "10192",
+      "year": 2001,
+      "title": "Normas sobre medidas complementares ao Plano Real",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10192.htm",
+      "subjects": [
+        "contratos",
+        "precos"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    },
+    {
+      "id": "BR.LEI.10741.2003",
+      "slug": "lei-10741-2003",
+      "domain": "08_transversal",
+      "kind": "Lei",
+      "number": "10741",
+      "year": 2003,
+      "title": "Estatuto da Pessoa Idosa",
+      "official_url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+      "subjects": [
+        "atendimento",
+        "consumidor"
+      ],
+      "links": [],
+      "authority": "Planalto",
+      "source_verified": false,
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.ICMS_DIFAL",
+  "title": "DIFAL de ICMS",
+  "summary": "Operações interestaduais destinadas a consumidor final e regras de destino.",
+  "elements": [
+    {
+      "id": "icms-difal.1",
+      "type": "fator_de_decisao",
+      "name": "UF"
+    },
+    {
+      "id": "icms-difal.2",
+      "type": "fator_de_decisao",
+      "name": "UF destino"
+    },
+    {
+      "id": "icms-difal.3",
+      "type": "fator_de_decisao",
+      "name": "consumidor final"
+    },
+    {
+      "id": "icms-difal.4",
+      "type": "fator_de_decisao",
+      "name": "contribuinte"
+    },
+    {
+      "id": "icms-difal.5",
+      "type": "fator_de_decisao",
+      "name": "valor"
+    },
+    {
+      "id": "icms-difal.6",
+      "type": "fator_de_decisao",
+      "name": "NCM"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "tributacao"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": true
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.87.1996"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.190.2022"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.BA.DECRETO_BA.13780.2012"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "UF",
+        "UF destino",
+        "consumidor final",
+        "contribuinte",
+        "valor",
+        "NCM"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.LC.87.1996",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LC.190.2022",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp190.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.BA.DECRETO_BA.13780.2012",
+      "url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_texto_2021.pdf",
+      "authority": "SEFAZ-BA",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Conferir alíquotas e data de vigência"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "tributacao/icms-difal",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.LC.87.1996",
+      "title": "Lei Kandir — ICMS",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lc-87-1996.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LC.190.2022",
+      "title": "ICMS diferencial de alíquotas (DIFAL)",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp190.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lc-190-2022.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.BA.DECRETO_BA.13780.2012",
+      "title": "Regulamento ICMS da Bahia (RICMS-BA)",
+      "authority": "SEFAZ-BA",
+      "url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_texto_2021.pdf",
+      "evidence_url": "",
+      "reference_okf": "references/07_bahia/decreto-ba-13780-2012.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

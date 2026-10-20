@@ -1,0 +1,9 @@
+/memories/**/*.safetensors
+/memories/active.safetensors
+/memories/records/
+/memories/snapshots/
+/source-bundle/
+/sync-official.log
+/.venv/
+__pycache__/
+*.py[cod]

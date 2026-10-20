@@ -1,0 +1,122 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.MANUAIS_DREI",
+  "title": "Manuais DREI",
+  "summary": "Manuais de empresário individual, LTDA, SA e cooperativas.",
+  "elements": [
+    {
+      "id": "manuais-drei.1",
+      "type": "fator_de_decisao",
+      "name": "tipo juridico"
+    },
+    {
+      "id": "manuais-drei.2",
+      "type": "fator_de_decisao",
+      "name": "versao do manual"
+    },
+    {
+      "id": "manuais-drei.3",
+      "type": "fator_de_decisao",
+      "name": "ato empresarial"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "registro"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.IN_DREI.81.2020"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.IN_DREI.1.2025"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "tipo juridico",
+        "versao do manual",
+        "ato empresarial"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.IN_DREI.81.2020",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file",
+      "authority": "DREI",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.IN_DREI.1.2025",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas",
+      "authority": "DREI",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Obter versão de anexos publicada no DREI"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "registro/manuais-drei",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.IN_DREI.81.2020",
+      "title": "Normas gerais de registro e manuais",
+      "authority": "DREI",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/in-drei-81-2020.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.IN_DREI.1.2025",
+      "title": "Altera IN DREI 81/2020",
+      "authority": "DREI",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/in-drei-1-2025.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

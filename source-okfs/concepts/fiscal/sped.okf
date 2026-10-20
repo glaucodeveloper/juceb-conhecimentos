@@ -1,0 +1,129 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.SPED",
+  "title": "Escrituração e SPED",
+  "summary": "Obrigações EFD ICMS/IPI, EFD-Contribuições, ECD e ECF.",
+  "elements": [
+    {
+      "id": "sped.1",
+      "type": "fator_de_decisao",
+      "name": "regime"
+    },
+    {
+      "id": "sped.2",
+      "type": "fator_de_decisao",
+      "name": "atividade"
+    },
+    {
+      "id": "sped.3",
+      "type": "fator_de_decisao",
+      "name": "UF"
+    },
+    {
+      "id": "sped.4",
+      "type": "fator_de_decisao",
+      "name": "competencia"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "fiscal"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": true
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.DECRETO.6022.2007"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.9430.1996"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "regime",
+        "atividade",
+        "UF",
+        "competencia"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.DECRETO.6022.2007",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LEI.9430.1996",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9430.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Obter instruções e leiautes vigentes",
+    " obrigações variam por regime"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "fiscal/sped",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.DECRETO.6022.2007",
+      "title": "SPED — Sistema Público de Escrituração Digital",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm",
+      "evidence_url": "",
+      "reference_okf": "references/04_obrigacoes/decreto-6022-2007.okf",
+      "source_verified": false
+    },
+    {
+      "id": "BR.LEI.9430.1996",
+      "title": "Legislação tributária federal e fiscalização",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9430.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lei-9430-1996.okf",
+      "source_verified": false
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

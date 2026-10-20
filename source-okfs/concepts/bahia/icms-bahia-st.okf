@@ -1,0 +1,134 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.ICMS_BAHIA_ST",
+  "title": "ICMS-ST Bahia",
+  "summary": "Tabela estadual de substituição tributária e tratamento dos produtos por NCM/CEST.",
+  "elements": [
+    {
+      "id": "icms-bahia-st.1",
+      "type": "fator_de_decisao",
+      "name": "NCM"
+    },
+    {
+      "id": "icms-bahia-st.2",
+      "type": "fator_de_decisao",
+      "name": "CEST"
+    },
+    {
+      "id": "icms-bahia-st.3",
+      "type": "fator_de_decisao",
+      "name": "UF origem"
+    },
+    {
+      "id": "icms-bahia-st.4",
+      "type": "fator_de_decisao",
+      "name": "UF destino"
+    },
+    {
+      "id": "icms-bahia-st.5",
+      "type": "fator_de_decisao",
+      "name": "competencia"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "bahia"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.BA.ANEXO_RICMS_BA.1.2026"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.BA.DECRETO_BA.13780.2012"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "NCM",
+        "CEST",
+        "UF origem",
+        "UF destino",
+        "competencia"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.BA.ANEXO_RICMS_BA.1.2026",
+      "url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2026.pdf",
+      "authority": "SEFAZ-BA",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.BA.DECRETO_BA.13780.2012",
+      "url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_texto_2021.pdf",
+      "authority": "SEFAZ-BA",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Conferir última versão do anexo e protocolos aplicáveis"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "bahia/icms-bahia-st",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.BA.ANEXO_RICMS_BA.1.2026",
+      "title": "Anexo I RICMS-BA — Substituição Tributária",
+      "authority": "SEFAZ-BA",
+      "url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2026.pdf",
+      "evidence_url": "",
+      "reference_okf": "references/07_bahia/anexo-ricms-ba-1-2026.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.BA.DECRETO_BA.13780.2012",
+      "title": "Regulamento ICMS da Bahia (RICMS-BA)",
+      "authority": "SEFAZ-BA",
+      "url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_texto_2021.pdf",
+      "evidence_url": "",
+      "reference_okf": "references/07_bahia/decreto-ba-13780-2012.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

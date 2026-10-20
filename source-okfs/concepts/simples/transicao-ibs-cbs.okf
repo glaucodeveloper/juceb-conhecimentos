@@ -1,0 +1,172 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.TRANSICAO_IBS_CBS",
+  "title": "Simples e IBS/CBS",
+  "summary": "Analisar transição tributária e alternativas legalmente disponíveis para micro e pequenas empresas.",
+  "elements": [
+    {
+      "id": "transicao-ibs-cbs.1",
+      "type": "fator_de_decisao",
+      "name": "competencia"
+    },
+    {
+      "id": "transicao-ibs-cbs.2",
+      "type": "fator_de_decisao",
+      "name": "regime"
+    },
+    {
+      "id": "transicao-ibs-cbs.3",
+      "type": "fator_de_decisao",
+      "name": "operacao"
+    },
+    {
+      "id": "transicao-ibs-cbs.4",
+      "type": "fator_de_decisao",
+      "name": "valor"
+    },
+    {
+      "id": "transicao-ibs-cbs.5",
+      "type": "fator_de_decisao",
+      "name": "tratamento creditos"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "simples"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.123.2006"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.214.2025"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.227.2026"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.RESOLUÇÃO_CGSN.140.2018"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "competencia",
+        "regime",
+        "operacao",
+        "valor",
+        "tratamento creditos"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.LC.123.2006",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LC.214.2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LC.227.2026",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.RESOLUÇÃO_CGSN.140.2018",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta/normas.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=original",
+      "authority": "Receita Federal (SIJUT)",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Verificar datas de produção de efeitos do IBS e CBS"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "simples/transicao-ibs-cbs",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.LC.123.2006",
+      "title": "Estatuto ME/EPP e Simples Nacional",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+      "evidence_url": "",
+      "reference_okf": "references/02_simples/lc-123-2006.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LC.214.2025",
+      "title": "IBS, CBS, Imposto Seletivo e legislação do consumo",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "evidence_url": "",
+      "reference_okf": "references/05_reforma/lc-214-2025.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LC.227.2026",
+      "title": "CGIBS e processo administrativo do IBS",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm",
+      "evidence_url": "",
+      "reference_okf": "references/05_reforma/lc-227-2026.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.RESOLUÇÃO_CGSN.140.2018",
+      "title": "Regulamento geral do Simples Nacional",
+      "authority": "Receita Federal (SIJUT)",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=compilado",
+      "evidence_url": "",
+      "reference_okf": "references/02_simples/resolu-o-cgsn-140-2018.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

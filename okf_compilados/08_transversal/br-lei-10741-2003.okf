@@ -1,0 +1,2070 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.LEI.10741.2003",
+  "title": "Estatuto da Pessoa Idosa",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.LEI.10741.2003#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1\no\nÉ instituído o Estatuto do Idoso, destinado a regular\r\nos direitos assegurados ŕs pessoas com idade igual ou superior a 60 (sessenta) anos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 506,
+        "char_end": 655
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#2",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1ş É instituído o Estatuto da Pessoa Idosa, destinado a regular os \r\ndireitos assegurados ŕs pessoas com idade igual ou superior a 60 (sessenta) \r\nanos.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 655,
+        "char_end": 856
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#3",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2\no\nO idoso goza de todos os direitos fundamentais inerentes\r\nŕ pessoa humana, sem prejuízo da proteçăo integral de que trata esta Lei,\r\nassegurando-se-lhe, por lei ou por outros meios, todas as oportunidades e facilidades,\r\npara preservaçăo de sua saúde física e mental e seu aperfeiçoamento moral,\r\nintelectual, espiritual e social, em condiçőes de liberdade e dignidade.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 856,
+        "char_end": 1235
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#4",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2ş A pessoa idosa goza de todos os direitos fundamentais inerentes ŕ \r\npessoa humana, sem prejuízo da proteçăo integral de que trata esta Lei, \r\nassegurando-se-lhe, por lei ou por outros meios, todas as oportunidades e \r\nfacilidades, para preservaçăo de sua saúde física e mental e seu aperfeiçoamento \r\nmoral, intelectual, espiritual e social, em condiçőes de liberdade e dignidade.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1235,
+        "char_end": 1667
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#5",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3\no\nÉ obrigaçăo da família, da comunidade, da sociedade e\r\ndo Poder Público assegurar ao idoso, com absoluta prioridade, a efetivaçăo do direito\r\nŕ vida, ŕ saúde, ŕ alimentaçăo, ŕ educaçăo, ŕ cultura, ao esporte, ao lazer, ao\r\ntrabalho, ŕ cidadania, ŕ liberdade, ŕ dignidade, ao respeito e ŕ convivęncia familiar\r\ne comunitária.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1667,
+        "char_end": 2001
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#6",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3ş É obrigaçăo da família, da comunidade, da sociedade e do poder \r\npúblico assegurar ŕ pessoa idosa, com absoluta prioridade, a efetivaçăo do \r\ndireito ŕ vida, ŕ saúde, ŕ alimentaçăo, ŕ educaçăo, ŕ cultura, ao esporte, ao \r\nlazer, ao trabalho, ŕ cidadania, ŕ liberdade, ŕ dignidade, ao respeito e ŕ \r\nconvivęncia familiar e comunitária.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nParágrafo único. A garantia de prioridade compreende:\n§ 1ş A garantia de prioridade compreende:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nI – atendimento preferencial imediato e individualizado junto aos\r\nórgăos públicos e privados prestadores de serviços ŕ populaçăo;\nII – preferęncia na formulaçăo e na execuçăo de políticas sociais públicas\r\nespecíficas;\nIII – destinaçăo privilegiada de recursos públicos nas áreas relacionadas com a\r\nproteçăo ao idoso;\nIII – \r\ndestinaçăo privilegiada de recursos públicos nas áreas relacionadas com a \r\nproteçăo ŕ pessoa idosa;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nIV – viabilizaçăo de formas alternativas de participaçăo, ocupaçăo e convívio\r\ndo idoso com as demais geraçőes;\nIV – \r\nviabilizaçăo de formas alternativas de participaçăo, ocupaçăo e convívio da \r\npessoa idosa com as demais geraçőes;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nV – priorizaçăo do atendimento do idoso por sua própria família, em detrimento do\r\natendimento asilar, exceto dos que năo a possuam ou careçam de condiçőes de\r\nmanutençăo da própria sobrevivęncia;\nV – \r\npriorizaçăo do atendimento da pessoa idosa por sua própria família, em \r\ndetrimento do atendimento asilar, exceto dos que năo a possuam ou careçam de \r\ncondiçőes de manutençăo da própria sobrevivęncia;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nVI – capacitaçăo e reciclagem dos recursos humanos nas áreas de geriatria e gerontologia e na prestaçăo de serviços aos idosos;\nVI – \r\ncapacitaçăo e reciclagem dos recursos humanos nas áreas de geriatria e \r\ngerontologia e na prestaçăo de serviços ŕs pessoas idosas;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nVII – estabelecimento de mecanismos que favoreçam a divulgaçăo de informaçőes de\r\ncaráter educativo sobre os aspectos biopsicossociais de envelhecimento;\nVIII – garantia de acesso ŕ rede de serviços de saúde e de assistęncia social\r\nlocais.\nIX \r\n– prioridade no recebimento da restituiçăo do Imposto de Renda.\n(Incluído pela Lei nş \r\n11.765, de 2008).\n§ 2ş  Dentre os idosos, é assegurada prioridade especial aos maiores de \r\noitenta anos, atendendo-se suas necessidades sempre preferencialmente em relaçăo \r\naos demais idosos.\n(Incluído pela Lei nş \r\n13.466, de 2017)\n§ 2ş \r\nEntre as pessoas idosas, é assegurada prioridade especial aos maiores de 80 \r\n(oitenta) anos, atendendo-se suas necessidades sempre preferencialmente em \r\nrelaçăo ŕs demais pessoas idosas.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2001,
+        "char_end": 4841
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#7",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4\no\nNenhum idoso será objeto de qualquer tipo de\r\nnegligęncia, discriminaçăo, violęncia, crueldade ou opressăo, e todo atentado aos\r\nseus direitos, por açăo ou omissăo, será punido na forma da lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4841,
+        "char_end": 5044
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#8",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4ş Nenhuma pessoa idosa será objeto de qualquer tipo de \r\nnegligęncia, discriminaçăo, violęncia, crueldade ou opressăo, e todo atentado \r\naos seus direitos, por açăo ou omissăo, será punido na forma da lei.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 1\no\nÉ dever de todos prevenir a ameaça ou violaçăo aos direitos do\r\nidoso.\n§ 1ş É dever de todos prevenir a ameaça ou violaçăo aos direitos da \r\n pessoa idosa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 2\no\nAs obrigaçőes previstas nesta Lei năo excluem da prevençăo\r\noutras decorrentes dos princípios por ela adotados.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5044,
+        "char_end": 5622
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#9",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5\no\nA inobservância das normas de prevençăo importará em\r\nresponsabilidade ŕ pessoa física ou jurídica nos termos da lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5622,
+        "char_end": 5749
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#10",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6\no\nTodo cidadăo tem o dever de comunicar ŕ autoridade\r\ncompetente qualquer forma de violaçăo a esta Lei que tenha testemunhado ou de que tenha\r\nconhecimento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5749,
+        "char_end": 5913
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#11",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7\no\nOs Conselhos Nacional, Estaduais, do Distrito Federal e\r\nMunicipais do Idoso, previstos na\nLei n\no\n8.842,\r\nde 4 de janeiro de 1994\n, zelarăo pelo cumprimento dos direitos do idoso, definidos\r\nnesta Lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5913,
+        "char_end": 6125
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#12",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7ş Os Conselhos Nacional, Estaduais, do \r\nDistrito Federal e Municipais da Pessoa Idosa, previstos na\nLei nş 8.842, de 4 de janeiro de \r\n 1994\n, zelarăo pelo cumprimento dos direitos da pessoa idosa, \r\ndefinidos nesta Lei.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nTÍTULO II\nDos Direitos Fundamentais\nCAPÍTULO I\nDo Direito ŕ Vida",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6125,
+        "char_end": 6461
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#13",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8\no\nO envelhecimento é um direito personalíssimo e a sua\r\nproteçăo um direito social, nos termos desta Lei e da legislaçăo vigente.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6461,
+        "char_end": 6598
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#14",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9\no\nÉ obrigaçăo do Estado, garantir ŕ pessoa idosa a\r\nproteçăo ŕ vida e ŕ saúde, mediante efetivaçăo de políticas sociais públicas que\r\npermitam um envelhecimento saudável e em condiçőes de dignidade.\nCAPÍTULO II\nDo Direito ŕ Liberdade, ao Respeito e ŕ\r\nDignidade",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6598,
+        "char_end": 6867
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#15",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10.\nÉ obrigaçăo do Estado e da sociedade, assegurar ŕ pessoa idosa a\r\nliberdade, o respeito e a dignidade, como pessoa humana e sujeito de direitos civis,\r\npolíticos, individuais e sociais, garantidos na Constituiçăo e nas leis.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6867,
+        "char_end": 7101
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#16",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. É obrigaçăo do Estado e da sociedade \r\nassegurar ŕ pessoa idosa a liberdade, o respeito e a dignidade, como pessoa \r\nhumana e sujeito de direitos civis, políticos, individuais e sociais, garantidos \r\nna Constituiçăo e nas leis.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 1\no\nO direito ŕ liberdade compreende, entre outros, os seguintes\r\naspectos:\nI – faculdade de ir, vir e estar nos logradouros públicos e espaços comunitários,\r\nressalvadas as restriçőes legais;\nII – opiniăo e expressăo;\nIII – crença e culto religioso;\nIV – prática de esportes e de diversőes;\nV – participaçăo na vida familiar e comunitária;\nVI – participaçăo na vida política, na forma da lei;\nVII – faculdade de buscar refúgio, auxílio e orientaçăo.\n§ 2\no\nO direito ao respeito consiste na inviolabilidade da integridade\r\nfísica, psíquica e moral, abrangendo a preservaçăo da imagem, da identidade, da\r\nautonomia, de valores, idéias e crenças, dos espaços e dos objetos pessoais.\n§ 3\no\nÉ dever de todos zelar pela dignidade do idoso, colocando-o a\r\nsalvo de qualquer tratamento desumano, violento, aterrorizante, vexatório ou\r\nconstrangedor.\n§ 3ş É dever de todos zelar pela dignidade da pessoa idosa, \r\ncolocando-a a salvo de qualquer tratamento desumano, violento, aterrorizante, \r\nvexatório ou constrangedor.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nCAPÍTULO III\nDos Alimentos",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7101,
+        "char_end": 8466
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#17",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11\n.\nOs alimentos serăo prestados ao idoso na forma da lei civil.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8466,
+        "char_end": 8537
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#18",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11. Os alimentos serăo prestados ŕ pessoa \r\nidosa na forma da lei civil.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8537,
+        "char_end": 8658
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#19",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12\n.\nA obrigaçăo alimentar é solidária, podendo o idoso optar entre os\r\nprestadores.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8658,
+        "char_end": 8748
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#20",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12. A obrigaçăo alimentar é solidária, \r\npodendo a pessoa idosa optar entre os prestadores.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8748,
+        "char_end": 8888
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#21",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13.\nAs transaçőes relativas a alimentos poderăo ser celebradas perante o\r\nPromotor de Justiça, que as referendará, e passarăo a ter efeito de título executivo\r\nextrajudicial nos termos da lei processual civil.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8888,
+        "char_end": 9103
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#22",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13.  As transaçőes relativas a \r\n alimentos poderăo ser celebradas perante o Promotor de Justiça ou \r\n Defensor Público, que as referendará, e passarăo a ter efeito de título \r\n executivo extrajudicial nos termos da lei processual civil.\n(Redaçăo dada pela Lei nş \r\n11.737, de 2008)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9103,
+        "char_end": 9391
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#23",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14.\nSe o idoso ou seus familiares năo possuírem condiçőes econômicas de\r\nprover o seu sustento, impőe-se ao Poder Público esse provimento, no âmbito da\r\nassistęncia social.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9391,
+        "char_end": 9569
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#24",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14. Se a pessoa idosa ou seus familiares năo possuírem \r\ncondiçőes econômicas de prover o seu sustento, impőe-se ao poder público esse \r\nprovimento, no âmbito da assistęncia social.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nCAPÍTULO IV\nDo Direito ŕ Saúde",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9569,
+        "char_end": 9830
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#25",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15.\nÉ assegurada a atençăo integral ŕ saúde do idoso, por intermédio do\r\nSistema Único de Saúde – SUS, garantindo-lhe o acesso universal e igualitário, em\r\nconjunto articulado e contínuo das açőes e serviços, para a prevençăo, promoçăo,\r\nproteçăo e recuperaçăo da saúde, incluindo a atençăo especial ŕs doenças que\r\nafetam preferencialmente os idosos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9830,
+        "char_end": 10187
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#26",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15. É assegurada a atençăo integral ŕ \r\nsaúde da pessoa idosa, por intermédio do Sistema Único de Saúde (SUS), \r\ngarantindo-lhe o acesso universal e igualitário, em conjunto articulado e \r\ncontínuo das açőes e serviços, para a prevençăo, promoçăo, proteçăo e \r\nrecuperaçăo da saúde, incluindo a atençăo especial ŕs doenças que afetam \r\npreferencialmente as pessoas idosas.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 1\no\nA prevençăo e a manutençăo da saúde do idoso serăo\r\nefetivadas por meio de:\n§ 1ş A prevençăo e a manutençăo da saúde da pessoa idosa serăo \r\n efetivadas por meio de:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nI – cadastramento da populaçăo idosa em base territorial;\nII – atendimento geriátrico e gerontológico em ambulatórios;\nIII – unidades geriátricas de referęncia, com pessoal especializado nas áreas de\r\ngeriatria e gerontologia social;\nIV – atendimento domiciliar, incluindo a internaçăo, para a populaçăo que dele\r\nnecessitar e esteja impossibilitada de se locomover, inclusive para idosos abrigados e\r\nacolhidos por instituiçőes públicas, filantrópicas ou sem fins lucrativos e\r\neventualmente conveniadas com o Poder Público, nos meios urbano e rural;\nIV – atendimento domiciliar, incluindo a internaçăo, para a \r\n populaçăo que dele necessitar e esteja impossibilitada de se \r\n locomover, inclusive para as pessoas idosas abrigadas e acolhidas \r\n por instituiçőes públicas, filantrópicas ou sem fins lucrativos e \r\n eventualmente conveniadas com o poder público, nos meios urbano e \r\n rural;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nV – reabilitaçăo orientada pela geriatria e gerontologia, para reduçăo das\r\nseqüelas decorrentes do agravo da saúde.\n§ 2\no\nIncumbe ao Poder Público fornecer aos idosos, gratuitamente,\r\nmedicamentos, especialmente os de uso continuado, assim como próteses, órteses e outros\r\nrecursos relativos ao tratamento, habilitaçăo ou reabilitaçăo.\n§ 2ş Incumbe ao poder público fornecer ŕs pessoas idosas, \r\n gratuitamente, medicamentos, especialmente os de uso continuado, \r\n assim como próteses, órteses e outros recursos relativos ao \r\n tratamento, habilitaçăo ou reabilitaçăo.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 3\no\nÉ vedada a discriminaçăo do idoso nos planos de saúde pela\r\ncobrança de valores diferenciados em razăo da idade.\n§ 3ş É vedada a discriminaçăo da pessoa idosa nos planos de saúde \r\n pela cobrança de valores diferenciados em razăo da idade.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 4\no\nOs idosos portadores de deficięncia ou com limitaçăo\r\nincapacitante terăo atendimento especializado, nos termos da lei.\n§ 4ş As pessoas idosas com deficięncia ou com limitaçăo \r\n incapacitante terăo atendimento especializado, nos termos da lei.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 5\no\nÉ vedado exigir o \r\ncomparecimento do idoso enfermo perante os órgăos públicos, hipótese na qual \r\nserá admitido o seguinte procedimento:\n(Incluído pela Lei nş 12.896, \r\nde 2013)\n§ 5ş É vedado exigir o comparecimento da pessoa idosa enferma \r\n perante os órgăos públicos, hipótese na qual será admitido o \r\n seguinte procedimento:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nI - quando de interesse do poder público, o agente \r\npromoverá o contato necessário com o idoso em sua residęncia; ou\n(Incluído pela Lei nş 12.896, \r\nde 2013)\nI - quando de interesse do poder público, o agente promoverá o \r\n contato necessário com a pessoa idosa em sua residęncia; ou\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nII - quando de interesse do próprio idoso, este se \r\nfará representar por procurador legalmente constituído.\n(Incluído pela Lei nş 12.896, \r\nde 2013)\nII - quando de interesse da própria pessoa idosa, esta se fará \r\n representar por procurador legalmente constituído.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 6\no\nÉ assegurado ao idoso enfermo \r\no atendimento domiciliar pela perícia médica do Instituto Nacional do Seguro \r\nSocial - INSS, pelo serviço público de saúde ou pelo serviço privado de saúde, \r\ncontratado ou conveniado, que integre o Sistema Único de Saúde - SUS, para \r\nexpediçăo do laudo de saúde necessário ao exercício de seus direitos sociais e \r\nde isençăo tributária.\n(Incluído pela Lei nş 12.896, \r\nde 2013)\n§ 6ş É assegurado ŕ pessoa idosa enferma o atendimento domiciliar \r\n pela perícia médica do Instituto Nacional do Seguro Social (INSS), \r\n pelo serviço público de saúde ou pelo serviço privado de saúde, \r\n contratado ou conveniado, que integre o SUS, para expediçăo do laudo \r\n de saúde necessário ao exercício de seus direitos sociais e de \r\n isençăo tributária.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 7ş  Em todo atendimento de saúde, os maiores de oitenta anos \r\nterăo preferęncia especial sobre os demais idosos, exceto em caso de emergęncia.\n(Incluído pela Lei nş \r\n13.466, de 2017).\n§ 7ş Em todo atendimento de saúde, os maiores de 80 (oitenta) anos \r\nterăo preferęncia especial sobre as demais pessoas idosas, exceto em caso de \r\nemergęncia.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 10187,
+        "char_end": 15191
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#27",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16.\nAo idoso internado ou em observaçăo é assegurado o direito a\r\nacompanhante, devendo o órgăo de saúde proporcionar as condiçőes adequadas para a sua\r\npermanęncia em tempo integral, segundo o critério médico.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15191,
+        "char_end": 15407
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#28",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16. Ŕ pessoa idosa internada ou em \r\nobservaçăo é assegurado o direito a acompanhante, devendo o órgăo de saúde \r\nproporcionar as condiçőes adequadas para a sua permanęncia em tempo integral, \r\nsegundo o critério médico.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nParágrafo único. Caberá ao profissional de saúde responsável pelo tratamento conceder\r\nautorizaçăo para o acompanhamento do idoso ou, no caso de impossibilidade, justificá-la\r\npor escrito.\nParágrafo único. Caberá ao profissional de \r\nsaúde responsável pelo tratamento conceder autorizaçăo para o acompanhamento da \r\npessoa idosa ou, no caso de impossibilidade, justificá-la por escrito.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15407,
+        "char_end": 16106
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#29",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17.\nAo idoso que esteja no domínio de suas faculdades mentais é assegurado o\r\ndireito de optar pelo tratamento de saúde que lhe for reputado mais favorável.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 16106,
+        "char_end": 16268
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#30",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17. Ŕ pessoa idosa que esteja no domínio de suas faculdades \r\nmentais é assegurado o direito de optar pelo tratamento de saúde que lhe for \r\nreputado mais favorável.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nParágrafo único. Năo estando o idoso em condiçőes de proceder ŕ opçăo, esta será\r\nfeita:\nParágrafo único. Năo estando a pessoa idosa em condiçőes de proceder \r\n ŕ opçăo, esta será feita:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nI – pelo curador, quando o idoso for interditado;\nI – pelo curador, quando a pessoa idosa for interditada;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nII – pelos familiares, quando o idoso năo tiver curador ou este năo puder ser contactado em tempo hábil;\nII – pelos familiares, quando a pessoa idosa năo tiver curador ou \r\n este năo puder ser contactado em tempo hábil;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nIII – pelo médico, quando ocorrer iminente risco de vida e năo houver tempo hábil\r\npara consulta a curador ou familiar;\nIV – pelo próprio médico, quando năo houver curador ou familiar conhecido, caso em\r\nque deverá comunicar o fato ao Ministério Público.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 16268,
+        "char_end": 17380
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#31",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "Art. 18.\nAs instituiçőes de saúde devem atender aos critérios mínimos para o\r\natendimento ŕs necessidades do idoso, promovendo o treinamento e a capacitaçăo dos\r\nprofissionais, assim como orientaçăo a cuidadores familiares e grupos de auto-ajuda.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17380,
+        "char_end": 17627
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#32",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "Art. 18. As instituiçőes de saúde devem atender aos critérios \r\nmínimos para o atendimento ŕs necessidades da pessoa idosa, promovendo o \r\ntreinamento e a capacitaçăo dos profissionais, assim como orientaçăo a cuidadores familiares e grupos de autoajuda.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17627,
+        "char_end": 17925
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#33",
+      "type": "artigo_candidato",
+      "name": "Art. 19",
+      "content": "Art. 19.\nOs casos de suspeita ou confirmaçăo de maus-tratos contra idoso serăo\r\nobrigatoriamente comunicados pelos profissionais de saúde a quaisquer dos seguintes\r\nórgăos:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17925,
+        "char_end": 18098
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#34",
+      "type": "artigo_candidato",
+      "name": "Art. 19",
+      "content": "Art. 19.  Os casos de \r\nsuspeita ou confirmaçăo de violęncia praticada contra idosos serăo objeto de \r\nnotificaçăo compulsória pelos serviços de saúde públicos e privados ŕ autoridade \r\nsanitária, bem como serăo obrigatoriamente comunicados por eles a quaisquer dos \r\nseguintes órgăos:\n(Redaçăo dada pela Lei nş 12.461, de 2011)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18098,
+        "char_end": 18427
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#35",
+      "type": "artigo_candidato",
+      "name": "Art. 19",
+      "content": "Art. 19. Os casos de suspeita ou confirmaçăo de violęncia praticada \r\ncontra pessoas idosas serăo objeto de notificaçăo compulsória pelos serviços de \r\nsaúde públicos e privados ŕ autoridade sanitária, bem como serăo \r\nobrigatoriamente comunicados por eles a quaisquer dos seguintes órgăos:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nI – autoridade policial;\nII – Ministério Público;\nIII – Conselho Municipal do Idoso;\nIII – Conselho Municipal da Pessoa Idosa;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nIV – Conselho Estadual do Idoso;\nIV – Conselho Estadual da Pessoa Idosa;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nV – Conselho Nacional do Idoso.\nV – Conselho Nacional da Pessoa Idosa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 1\no\nPara os efeitos desta \r\n Lei, considera-se violęncia contra o idoso qualquer açăo ou omissăo \r\n praticada em local público ou privado que lhe cause morte, dano ou \r\n sofrimento físico ou psicológico.\n(Incluído \r\npela Lei nş 12.461, de 2011)\n§ 1ş Para os efeitos desta Lei, considera-se violęncia contra a \r\n pessoa idosa qualquer açăo ou omissăo praticada em local público ou \r\n privado que lhe cause morte, dano ou sofrimento físico ou \r\n psicológico.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 2\no\nAplica-se, no que \r\n couber, ŕ notificaçăo compulsória prevista no\ncaput\ndeste artigo, \r\n o disposto na\nLei n\no\n6.259, de \r\n30 de outubro de 1975\n.\n(Incluído pela Lei nş \r\n12.461, de 2011)\nCAPÍTULO V\nDa Educaçăo, Cultura, Esporte e Lazer",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18427,
+        "char_end": 19907
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#36",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20. O idoso tem direito a educaçăo, cultura, esporte, lazer, diversőes,\r\nespetáculos, produtos e serviços que respeitem sua peculiar condiçăo de idade.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 19907,
+        "char_end": 20064
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#37",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20. A pessoa idosa tem direito a \r\neducaçăo, cultura, esporte, lazer, diversőes, espetáculos, produtos e serviços \r\nque respeitem sua peculiar condiçăo de idade.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 20064,
+        "char_end": 20274
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#38",
+      "type": "artigo_candidato",
+      "name": "Art. 21",
+      "content": "Art. 21.\nO Poder Público criará oportunidades de acesso do idoso ŕ educaçăo,\r\nadequando currículos, metodologias e material didático aos programas educacionais a ele\r\ndestinados.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 20274,
+        "char_end": 20453
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#39",
+      "type": "artigo_candidato",
+      "name": "Art. 21",
+      "content": "Art. 21. O poder público criará oportunidades \r\nde acesso da pessoa idosa ŕ educaçăo, adequando currículos, metodologias e \r\nmaterial didático aos programas educacionais a ela destinados.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 1\no\nOs cursos especiais para idosos incluirăo conteúdo relativo ŕs\r\ntécnicas de comunicaçăo, computaçăo e demais avanços tecnológicos, para sua\r\nintegraçăo ŕ vida moderna.\n§ 1ş Os cursos especiais para pessoas idosas incluirăo conteúdo \r\n relativo ŕs técnicas de comunicaçăo, computaçăo e demais avanços \r\n tecnológicos, para sua integraçăo ŕ vida moderna.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 2\no\nOs idosos participarăo das comemoraçőes de caráter cívico ou\r\ncultural, para transmissăo de conhecimentos e vivęncias ŕs demais geraçőes, no\r\nsentido da preservaçăo da memória e da identidade culturais.\n§ 2ş As pessoas idosas participarăo das comemoraçőes de caráter \r\ncívico ou cultural, para transmissăo de conhecimentos e vivęncias ŕs demais \r\ngeraçőes, no sentido da preservaçăo da memória e da identidade culturais.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 20453,
+        "char_end": 21556
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#40",
+      "type": "artigo_candidato",
+      "name": "Art. 22",
+      "content": "Art. 22.\nNos currículos mínimos dos diversos níveis de ensino formal serăo\r\ninseridos conteúdos voltados ao processo de envelhecimento, ao respeito e ŕ\r\nvalorizaçăo do idoso, de forma a eliminar o preconceito e a produzir conhecimentos sobre\r\na matéria.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21556,
+        "char_end": 21810
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#41",
+      "type": "artigo_candidato",
+      "name": "Art. 22",
+      "content": "Art. 22. Nos currículos mínimos dos diversos níveis de ensino formal \r\nserăo inseridos conteúdos voltados ao processo de envelhecimento, ao respeito e \r\nŕ valorizaçăo da pessoa idosa, de forma a eliminar o preconceito e a produzir \r\nconhecimentos sobre a matéria.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21810,
+        "char_end": 22117
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#42",
+      "type": "artigo_candidato",
+      "name": "Art. 23",
+      "content": "Art. 23.\nA participaçăo dos idosos em atividades culturais e de\r\nlazer será proporcionada mediante descontos de pelo menos 50% (cinqüenta por cento) nos\r\ningressos para eventos artísticos, culturais, esportivos e de lazer, bem como o acesso\r\npreferencial aos respectivos locais.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 22117,
+        "char_end": 22396
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#43",
+      "type": "artigo_candidato",
+      "name": "Art. 23",
+      "content": "Art. 23. A participaçăo das pessoas idosas em atividades culturais e \r\nde lazer será proporcionada mediante descontos de pelo menos 50% (cinquenta por \r\ncento) nos ingressos para eventos artísticos, culturais, esportivos e de lazer, \r\nbem como o acesso preferencial aos respectivos locais.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 22396,
+        "char_end": 22729
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#44",
+      "type": "artigo_candidato",
+      "name": "Art. 24",
+      "content": "Art. 24\n.\nOs meios de comunicaçăo manterăo espaços ou horários especiais\r\nvoltados aos idosos, com finalidade informativa, educativa, artística e cultural, e ao\r\npúblico sobre o processo de envelhecimento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 22729,
+        "char_end": 22935
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#45",
+      "type": "artigo_candidato",
+      "name": "Art. 24",
+      "content": "Art. 24. Os meios de comunicaçăo manterăo espaços ou horários \r\nespeciais voltados ŕs pessoas idosas, com finalidade informativa, educativa, \r\nartística e cultural, e ao público sobre o processo de envelhecimento.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 22935,
+        "char_end": 23192
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#46",
+      "type": "artigo_candidato",
+      "name": "Art. 25",
+      "content": "Art. 25.\nO Poder Público apoiará a criaçăo de universidade aberta para as\r\npessoas idosas e incentivará a publicaçăo de livros e periódicos, de conteúdo e\r\npadrăo editorial adequados ao idoso, que facilitem a leitura, considerada a natural\r\nreduçăo da capacidade visual.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 23192,
+        "char_end": 23463
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#47",
+      "type": "artigo_candidato",
+      "name": "Art. 25",
+      "content": "Art. 25.  As instituiçőes de \r\n educaçăo superior ofertarăo ŕs pessoas idosas, na perspectiva da educaçăo ao \r\n longo da vida, cursos e programas de extensăo, presenciais ou a distância, \r\n constituídos por atividades formais e năo formais.\n(Redaçăo \r\n dada pela lei nş 13.535, de 2017)\nParágrafo único.  O poder público apoiará a \r\n criaçăo de universidade aberta para as pessoas idosas e incentivará a \r\n publicaçăo de livros e periódicos, de conteúdo e padrăo editorial adequados \r\n ao idoso, que facilitem a leitura, considerada a natural reduçăo da \r\n capacidade visual.\n(Incluído \r\n pela lei nş 13.535, de 2017)\nParágrafo único. O poder público apoiará a criaçăo de universidade \r\n aberta para as pessoas idosas e incentivará a publicaçăo de livros e \r\n periódicos, de conteúdo e padrăo editorial adequados ŕ pessoa idosa, que \r\n facilitem a leitura, considerada a natural reduçăo da capacidade visual.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nCAPÍTULO VI\nDa Profissionalizaçăo e do Trabalho",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 23463,
+        "char_end": 24463
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#48",
+      "type": "artigo_candidato",
+      "name": "Art. 26",
+      "content": "Art. 26\n.\nO idoso tem direito ao exercício de atividade profissional, respeitadas\r\nsuas condiçőes físicas, intelectuais e psíquicas.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 24463,
+        "char_end": 24596
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#49",
+      "type": "artigo_candidato",
+      "name": "Art. 26",
+      "content": "Art. 26. A pessoa idosa tem direito ao \r\nexercício de atividade profissional, respeitadas suas condiçőes físicas, \r\nintelectuais e psíquicas.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 24596,
+        "char_end": 24781
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#50",
+      "type": "artigo_candidato",
+      "name": "Art. 27",
+      "content": "Art. 27.\nNa admissăo do \r\nidoso em qualquer trabalho ou emprego, é vedada a discriminaçăo e a fixaçăo de \r\nlimite máximo de idade, inclusive para concursos, ressalvados os casos em que a \r\nnatureza do cargo o exigir.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 24781,
+        "char_end": 24998
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#51",
+      "type": "artigo_candidato",
+      "name": "Art. 27",
+      "content": "Art. 27. Na admissăo da pessoa idosa em \r\nqualquer trabalho ou emprego, săo vedadas a discriminaçăo e a fixaçăo de limite \r\nmáximo de idade, inclusive para concursos, ressalvados os casos em que a \r\nnatureza do cargo o exigir.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nParágrafo único. O primeiro critério de desempate em concurso público será a idade,\r\ndando-se preferęncia ao de idade mais elevada.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 24998,
+        "char_end": 25400
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#52",
+      "type": "artigo_candidato",
+      "name": "Art. 28",
+      "content": "Art. 28.\nO Poder Público criará e estimulará programas de:\nI – profissionalizaçăo especializada para os idosos, aproveitando seus potenciais e\r\nhabilidades para atividades regulares e remuneradas;\nI – profissionalizaçăo especializada para as pessoas idosas, \r\n aproveitando seus potenciais e habilidades para atividades regulares \r\n e remuneradas;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nII – preparaçăo dos trabalhadores para a aposentadoria, com antecedęncia mínima\r\nde 1 (um) ano, por meio de estímulo a novos projetos sociais, conforme seus interesses, e\r\nde esclarecimento sobre os direitos sociais e de cidadania;\nIII – estímulo ŕs empresas privadas para admissăo de idosos ao trabalho.\nIII – estímulo ŕs empresas privadas para admissăo de pessoas idosas \r\nao trabalho.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nCAPÍTULO VII\nDa Previdęncia Social",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 25400,
+        "char_end": 26257
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#53",
+      "type": "artigo_candidato",
+      "name": "Art. 29",
+      "content": "Art. 29.\nOs benefícios de aposentadoria e pensăo do Regime Geral da Previdęncia\r\nSocial observarăo, na sua concessăo, critérios de cálculo que preservem o valor real\r\ndos salários sobre os quais incidiram contribuiçăo, nos termos da legislaçăo vigente.\nParágrafo único. Os valores dos benefícios em manutençăo serăo reajustados na mesma\r\ndata de reajuste do salário-mínimo,\npro rata\n, de acordo com suas respectivas\r\ndatas de início ou do seu último reajustamento, com base em percentual definido em\r\nregulamento, observados os critérios estabelecidos pela\nLei n\no\n8.213, de 24 de julho de 1991.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26257,
+        "char_end": 26853
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#54",
+      "type": "artigo_candidato",
+      "name": "Art. 30",
+      "content": "Art. 30.\nA perda da condiçăo de segurado năo será considerada para a concessăo\r\nda aposentadoria por idade, desde que a pessoa conte com, no mínimo, o tempo de\r\ncontribuiçăo correspondente ao exigido para efeito de caręncia na data de requerimento\r\ndo benefício.\nParágrafo único. O cálculo do valor do benefício previsto no\ncaput\nobservará o\r\ndisposto no\ncaput\ne\n§ 2\no\ndo art. 3\no\nda Lei n\no\n9.876, de 26 de novembro de 1999\n, ou, năo havendo salários-de-contribuiçăo\r\nrecolhidos a partir da competęncia de julho de 1994, o disposto no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26853,
+        "char_end": 27389
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#55",
+      "type": "artigo_candidato",
+      "name": "Art. 35",
+      "content": "art. 35 da Lei n\no\n8.213, de 1991\n.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 27389,
+        "char_end": 27425
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#56",
+      "type": "artigo_candidato",
+      "name": "Art. 31",
+      "content": "Art. 31. O pagamento de parcelas relativas a benefícios, efetuado com atraso por\r\nresponsabilidade da Previdęncia Social, será atualizado pelo mesmo índice utilizado\r\npara os reajustamentos dos benefícios do Regime Geral de Previdęncia Social, verificado\r\nno período compreendido entre o męs que deveria ter sido pago e o męs do efetivo\r\npagamento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 27425,
+        "char_end": 27774
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#57",
+      "type": "artigo_candidato",
+      "name": "Art. 32",
+      "content": "Art. 32. O Dia Mundial do Trabalho, 1\no\nde Maio, é a data-base dos\r\naposentados e pensionistas.\nCAPÍTULO VIII\nDa Assistęncia Social",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 27774,
+        "char_end": 27906
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#58",
+      "type": "artigo_candidato",
+      "name": "Art. 33",
+      "content": "Art. 33.\nA assistęncia social aos idosos será prestada, de forma articulada,\r\nconforme os princípios e diretrizes previstos na Lei Orgânica da Assistęncia Social, na\r\nPolítica Nacional do Idoso, no Sistema Único de Saúde e demais normas pertinentes.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 27906,
+        "char_end": 28156
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#59",
+      "type": "artigo_candidato",
+      "name": "Art. 33",
+      "content": "Art. 33. A assistęncia social ŕs pessoas \r\nidosas será prestada, de forma articulada, conforme os princípios e diretrizes \r\nprevistos na Lei Orgânica da Assistęncia Social (Loas), na Política Nacional da \r\nPessoa Idosa, no SUS e nas demais normas pertinentes\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 28156,
+        "char_end": 28458
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#60",
+      "type": "artigo_candidato",
+      "name": "Art. 34",
+      "content": "Art. 34.\nAos idosos, a partir de 65 (sessenta e cinco) anos, que năo possuam meios\r\npara prover sua subsistęncia, nem de tę-la provida por sua família, é assegurado o\r\nbenefício mensal de 1 (um) salário-mínimo, nos termos da Lei Orgânica da Assistęncia\r\nSocial – Loas.\n(Vide Decreto nş \r\n6.214, de 2007)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 28458,
+        "char_end": 28762
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#61",
+      "type": "artigo_candidato",
+      "name": "Art. 34",
+      "content": "Art. 34. Ŕs pessoas idosas, a partir de 65 \r\n(sessenta e cinco) anos, que năo possuam meios para prover sua subsistęncia, nem \r\nde tę-la provida por sua família, é assegurado o benefício mensal de 1 (um) \r\nsalário mínimo, nos termos da Loas.\n(Vide Decreto nş \r\n6.214, de 2007)\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nParágrafo único. O benefício já concedido a qualquer membro da família nos termos do\ncaput\nnăo será computado para os fins do cálculo da renda familiar\nper capita\na que se\r\nrefere a Loas.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 28762,
+        "char_end": 29270
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#62",
+      "type": "artigo_candidato",
+      "name": "Art. 35",
+      "content": "Art. 35.\nTodas as entidades de longa permanęncia, ou casa-lar, săo obrigadas a\r\nfirmar contrato de prestaçăo de serviços com a pessoa idosa abrigada.\n§ 1\no\nNo caso de entidades filantrópicas, ou casa-lar, é facultada a\r\ncobrança de participaçăo do idoso no custeio da entidade.\n§ 1ş No caso de entidade filantrópica, ou casa-lar, é facultada a \r\ncobrança de participaçăo da pessoa idosa no custeio da entidade.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 2\no\nO Conselho Municipal do Idoso ou o Conselho Municipal da\r\nAssistęncia Social estabelecerá a forma de participaçăo prevista no § 1\no\n,\r\nque năo poderá exceder a 70% (setenta por cento) de qualquer benefício previdenciário\r\nou de assistęncia social percebido pelo idoso.\n§ 2ş O Conselho Municipal da Pessoa Idosa ou o Conselho Municipal da \r\nAssistęncia Social estabelecerá a forma de participaçăo prevista no § 1ş deste \r\nartigo, que năo poderá exceder a 70% (setenta por cento) de qualquer benefício \r\nprevidenciário ou de assistęncia social percebido pela pessoa idosa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 3\no\nSe a pessoa idosa for incapaz, caberá a seu representante legal\r\nfirmar o contrato a que se refere o\ncaput\ndeste artigo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 29270,
+        "char_end": 30471
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#63",
+      "type": "artigo_candidato",
+      "name": "Art. 36",
+      "content": "Art. 36.\nO acolhimento de idosos em situaçăo de risco social, por adulto ou\r\nnúcleo familiar, caracteriza a dependęncia econômica, para os efeitos legais.\n(Vigęncia)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30471,
+        "char_end": 30637
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#64",
+      "type": "artigo_candidato",
+      "name": "Art. 36",
+      "content": "Art. 36. O acolhimento de pessoas idosas em \r\nsituaçăo de risco social, por adulto ou núcleo familiar, caracteriza a \r\ndependęncia econômica, para os efeitos legais.\n(Vigęncia)\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nCAPÍTULO IX\nDa Habitaçăo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30637,
+        "char_end": 30882
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#65",
+      "type": "artigo_candidato",
+      "name": "Art. 37",
+      "content": "Art. 37.\nO idoso tem direito a moradia digna, no seio da família natural ou\r\nsubstituta, ou desacompanhado de seus familiares, quando assim o desejar, ou, ainda, em\r\ninstituiçăo pública ou privada.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30882,
+        "char_end": 31080
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#66",
+      "type": "artigo_candidato",
+      "name": "Art. 37",
+      "content": "Art. 37. A pessoa idosa tem direito a moradia \r\ndigna, no seio da família natural ou substituta, ou desacompanhada de seus \r\nfamiliares, quando assim o desejar, ou, ainda, em instituiçăo pública ou \r\nprivada.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 1\no\nA assistęncia integral na modalidade de entidade de longa\r\npermanęncia será prestada quando verificada inexistęncia de grupo familiar, casa-lar,\r\nabandono ou caręncia de recursos financeiros próprios ou da família.\n§ 2\no\nToda instituiçăo dedicada ao atendimento ao idoso fica obrigada\r\na manter identificaçăo externa visível, sob pena de interdiçăo, além de atender toda\r\na legislaçăo pertinente.\n§ 2ş Toda instituiçăo dedicada ao atendimento ŕ pessoa idosa fica \r\n obrigada a manter identificaçăo externa visível, sob pena de \r\n interdiçăo, além de atender toda a legislaçăo pertinente.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 3\no\nAs instituiçőes que abrigarem idosos săo obrigadas a manter\r\npadrőes de habitaçăo compatíveis com as necessidades deles, bem como provę-los com\r\nalimentaçăo regular e higiene indispensáveis ŕs normas sanitárias e com estas\r\ncondizentes, sob as penas da lei.\n§ 3ş As instituiçőes que abrigarem pessoas \r\nidosas săo obrigadas a manter padrőes de habitaçăo compatíveis com as \r\nnecessidades delas, bem como provę-las com alimentaçăo regular e higiene \r\nindispensáveis ŕs normas sanitárias e com estas condizentes, sob as penas da \r\nlei.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31080,
+        "char_end": 32552
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#67",
+      "type": "artigo_candidato",
+      "name": "Art. 38",
+      "content": "Art. 38.\nNos programas habitacionais, públicos ou subsidiados com recursos\r\npúblicos, o idoso goza de prioridade na aquisiçăo de imóvel para moradia própria,\r\nobservado o seguinte:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 32552,
+        "char_end": 32733
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#68",
+      "type": "artigo_candidato",
+      "name": "Art. 38",
+      "content": "Art. 38. Nos programas habitacionais, públicos \r\nou subsidiados com recursos públicos, a pessoa idosa goza de prioridade na \r\naquisiçăo de imóvel para moradia própria, observado o seguinte:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nI – reserva de 3% (tręs por cento) das unidades residenciais para atendimento aos\r\nidosos;\nI - reserva de pelo menos 3% (tręs por cento) das unidades \r\nhabitacionais residenciais para atendimento aos idosos;\n(Redaçăo dada pela Lei nş 12.418, de 2011)\nI - reserva de pelo menos 3% (tręs por cento) das unidades \r\n habitacionais residenciais para atendimento ŕs pessoas idosas;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nII – implantaçăo de equipamentos urbanos comunitários voltados ao idoso;\nII – implantaçăo de equipamentos urbanos comunitários voltados ŕ \r\n pessoa idosa;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nIII – eliminaçăo de barreiras arquitetônicas e urbanísticas, para garantia de\r\nacessibilidade ao idoso;\nIII – eliminaçăo de barreiras arquitetônicas e urbanísticas, para \r\n garantia de acessibilidade ŕ pessoa idosa;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nIV – critérios de financiamento compatíveis com os rendimentos de aposentadoria e\r\npensăo.\nParágrafo \r\núnico.  As unidades residenciais reservadas para atendimento a idosos devem \r\nsituar-se, preferencialmente, no pavimento térreo.\n(Incluído pela Lei nş 12.419, de 2011)\nParágrafo único. As unidades residenciais reservadas para \r\natendimento a pessoas idosas devem situar-se, preferencialmente, no pavimento \r\ntérreo.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nCAPÍTULO X\nDo Transporte",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 32733,
+        "char_end": 34329
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#69",
+      "type": "artigo_candidato",
+      "name": "Art. 39",
+      "content": "Art. 39.\nAos maiores de 65 (sessenta e cinco) anos fica assegurada a gratuidade dos\r\ntransportes coletivos públicos urbanos e semi-urbanos, exceto nos serviços seletivos e\r\nespeciais, quando prestados paralelamente aos serviços regulares.\n§ 1\no\nPara ter acesso ŕ gratuidade, basta que o idoso apresente\r\nqualquer documento pessoal que faça prova de sua idade.\n§ 1ş Para ter acesso ŕ gratuidade, basta que a pessoa idosa \r\n apresente qualquer documento pessoal que faça prova de sua idade.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 2\no\nNos veículos de transporte coletivo de que trata este artigo,\r\nserăo reservados 10% (dez por cento) dos assentos para os idosos, devidamente\r\nidentificados com a placa de reservado preferencialmente para idosos.\n§ 2ş Nos veículos de transporte coletivo de que trata este artigo, \r\n serăo reservados 10% (dez por cento) dos assentos para as pessoas \r\n idosas, devidamente identificados com a placa de reservado \r\n preferencialmente para pessoas idosas.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 3\no\nNo caso das pessoas compreendidas na faixa etária entre 60\r\n(sessenta) e 65 (sessenta e cinco) anos, ficará a critério da legislaçăo local dispor\r\nsobre as condiçőes para exercício da gratuidade nos meios de transporte previstos no\ncaput\ndeste artigo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 34329,
+        "char_end": 35620
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#70",
+      "type": "artigo_candidato",
+      "name": "Art. 40",
+      "content": "Art. 40.\nNo sistema de transporte coletivo interestadual\r\nobservar-se-á, nos termos da legislaçăo específica:\n(Regulamento)\n(Vide Decreto nş 5.934, de \r\n2006)\nI – a reserva de 2 (duas) vagas gratuitas por veículo para idosos com renda igual ou\r\ninferior a 2 (dois) salários-mínimos;\nI – a reserva de 2 (duas) vagas gratuitas por veículo para pessoas \r\n idosas com renda igual ou inferior a 2 (dois) salários mínimos;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nII – desconto de 50% (cinqüenta por cento), no mínimo, no valor das passagens, para\r\nos idosos que excederem as vagas gratuitas, com renda igual ou inferior a 2 (dois)\r\nsalários-mínimos.\nII – desconto de 50% (cinquenta por cento), no mínimo, no valor das \r\n passagens, para as pessoas idosas que excederem as vagas gratuitas, \r\n com renda igual ou inferior a 2 (dois) salários mínimos.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nParágrafo único. Caberá aos órgăos competentes definir os mecanismos e os critérios\r\npara o exercício dos direitos previstos nos incisos I e II.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 35620,
+        "char_end": 36654
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#71",
+      "type": "artigo_candidato",
+      "name": "Art. 41",
+      "content": "Art. 41.\nÉ assegurada a reserva, para os idosos, nos termos da lei local, de 5%\r\n(cinco por cento) das vagas nos estacionamentos públicos e privados, as quais deverăo\r\nser posicionadas de forma a garantir a melhor comodidade ao idoso.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 36654,
+        "char_end": 36889
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#72",
+      "type": "artigo_candidato",
+      "name": "Art. 41",
+      "content": "Art. 41. É assegurada a reserva para as \r\npessoas idosas, nos termos da lei local, de 5% (cinco por cento) das vagas nos \r\nestacionamentos públicos e privados, as quais deverăo ser posicionadas de forma \r\na garantir a melhor comodidade ŕ pessoa idosa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 36889,
+        "char_end": 37184
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#73",
+      "type": "artigo_candidato",
+      "name": "Art. 42",
+      "content": "Art. 42.\nÉ assegurada a prioridade do idoso no embarque no sistema de transporte\r\ncoletivo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 37184,
+        "char_end": 37276
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#74",
+      "type": "artigo_candidato",
+      "name": "Art. 42",
+      "content": "Art. 42. Săo asseguradas a \r\nprioridade e a segurança do idoso nos procedimentos de embarque e desembarque \r\nnos veículos do sistema de transporte coletivo.\n(Redaçăo dada pela Lei nş \r\n12.899, de 2013)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 37276,
+        "char_end": 37478
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#75",
+      "type": "artigo_candidato",
+      "name": "Art. 42",
+      "content": "Art. 42. Săo asseguradas a prioridade e a \r\nsegurança da pessoa idosa nos procedimentos de embarque e desembarque nos \r\nveículos do sistema de transporte coletivo.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nTÍTULO III\nDas Medidas de Proteçăo\nCAPÍTULO I\nDas Disposiçőes Gerais",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 37478,
+        "char_end": 37754
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#76",
+      "type": "artigo_candidato",
+      "name": "Art. 43",
+      "content": "Art. 43.\nAs medidas de proteçăo ao idoso săo aplicáveis sempre que os direitos\r\nreconhecidos nesta Lei forem ameaçados ou violados:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 37754,
+        "char_end": 37886
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#77",
+      "type": "artigo_candidato",
+      "name": "Art. 43",
+      "content": "Art. 43. As medidas de proteçăo ŕ pessoa idosa \r\nsăo aplicáveis sempre que os direitos reconhecidos nesta Lei forem ameaçados ou \r\nviolados:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nI – por açăo ou omissăo da sociedade ou do Estado;\nII – por falta, omissăo ou abuso da família, curador ou entidade de atendimento;\nIII – em razăo de sua condiçăo pessoal.\nCAPÍTULO II\nDas Medidas Específicas de Proteçăo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 37886,
+        "char_end": 38290
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#78",
+      "type": "artigo_candidato",
+      "name": "Art. 44",
+      "content": "Art. 44.\nAs medidas de proteçăo ao idoso previstas nesta Lei poderăo ser\r\naplicadas, isolada ou cumulativamente, e levarăo em conta os fins sociais a que se\r\ndestinam e o fortalecimento dos vínculos familiares e comunitários.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 38290,
+        "char_end": 38516
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#79",
+      "type": "artigo_candidato",
+      "name": "Art. 44",
+      "content": "Art. 44. As medidas de proteçăo ŕ pessoa idosa \r\nprevistas nesta Lei poderăo ser aplicadas, isolada ou cumulativamente, e levarăo \r\nem conta os fins sociais a que se destinam e o fortalecimento dos vínculos \r\nfamiliares e comunitários.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 38516,
+        "char_end": 38795
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#80",
+      "type": "artigo_candidato",
+      "name": "Art. 45",
+      "content": "Art. 45. Verificada qualquer das hipóteses previstas no art. 43, o Ministério Público\r\nou o Poder Judiciário, a requerimento daquele, poderá determinar, dentre outras, as\r\nseguintes medidas:\nI – encaminhamento ŕ família ou curador, mediante termo de responsabilidade;\nII – orientaçăo, apoio e acompanhamento temporários;\nIII – requisiçăo para tratamento de sua saúde, em regime ambulatorial, hospitalar\r\nou domiciliar;\nIV – inclusăo em programa oficial ou comunitário de auxílio, orientaçăo e\r\ntratamento a usuários dependentes de drogas lícitas ou ilícitas, ao próprio idoso ou\r\nŕ pessoa de sua convivęncia que lhe cause perturbaçăo;\nIV – inclusăo em programa oficial ou comunitário de auxílio, \r\n orientaçăo e tratamento a usuários dependentes de drogas lícitas ou \r\n ilícitas, ŕ própria pessoa idosa ou ŕ pessoa de sua convivęncia que \r\n lhe cause perturbaçăo;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nV – abrigo em entidade;\nVI – abrigo temporário.\nTÍTULO IV\nDa Política de Atendimento ao Idoso\nCAPÍTULO I\nDisposiçőes Gerais",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 38795,
+        "char_end": 39826
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#81",
+      "type": "artigo_candidato",
+      "name": "Art. 46",
+      "content": "Art. 46.\nA política de atendimento ao idoso far-se-á por meio do conjunto\r\narticulado de açőes governamentais e năo-governamentais da Uniăo, dos Estados, do\r\nDistrito Federal e dos Municípios.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 39826,
+        "char_end": 40019
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#82",
+      "type": "artigo_candidato",
+      "name": "Art. 46",
+      "content": "Art. 46. A política \r\nde atendimento ŕ pessoa idosa far-se-á por meio do conjunto articulado de açőes \r\ngovernamentais e năo governamentais da Uniăo, dos Estados, do Distrito Federal e \r\ndos Municípios.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 40019,
+        "char_end": 40265
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#83",
+      "type": "artigo_candidato",
+      "name": "Art. 47",
+      "content": "Art. 47.\nSăo linhas de açăo da política de atendimento:\nI – políticas sociais básicas, previstas na\nLei n\no\n8.842, de 4 de janeiro de 1994;\nII – políticas e programas de assistęncia social, em caráter supletivo, para\r\naqueles que necessitarem;\nIII – serviços especiais de prevençăo e atendimento ŕs vítimas de negligęncia,\r\nmaus-tratos, exploraçăo, abuso, crueldade e opressăo;\nIV – serviço de identificaçăo e localizaçăo de parentes ou responsáveis por\r\nidosos abandonados em hospitais e instituiçőes de longa permanęncia;\nIV – serviço de identificaçăo e \r\n localizaçăo de parentes ou responsáveis por pessoas idosas \r\n abandonados em hospitais e instituiçőes de longa permanęncia;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nV – proteçăo jurídico-social por entidades de defesa dos direitos dos idosos;\nV – proteçăo jurídico-social por entidades \r\n de defesa dos direitos das pessoas idosas;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nVI – mobilizaçăo da opiniăo pública no sentido da participaçăo dos diversos\r\nsegmentos da sociedade no atendimento do idoso.\nVI – mobilizaçăo da opiniăo pública no \r\nsentido da participaçăo dos diversos segmentos da sociedade no atendimento da \r\npessoa idosa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nCAPÍTULO II\nDas Entidades de Atendimento ao Idoso",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 40265,
+        "char_end": 41554
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#84",
+      "type": "artigo_candidato",
+      "name": "Art. 48",
+      "content": "Art. 48.\nAs entidades de atendimento săo responsáveis pela manutençăo das\r\npróprias unidades, observadas as normas de planejamento e execuçăo emanadas do órgăo\r\ncompetente da Política Nacional do Idoso, conforme a\nLei n\no\n8.842, de 1994.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 41554,
+        "char_end": 41792
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#85",
+      "type": "artigo_candidato",
+      "name": "Art. 48",
+      "content": "Art. 48. As entidades de \r\natendimento săo responsáveis pela manutençăo das próprias unidades, observadas \r\nas normas de planejamento e execuçăo emanadas do órgăo competente da Política \r\nNacional da Pessoa Idosa, conforme a\nLei nş 8.842, de 4 de \r\n janeiro de 1994.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nParágrafo único. As entidades governamentais e năo-governamentais de assistęncia ao\r\nidoso ficam sujeitas ŕ inscriçăo de seus programas, junto ao órgăo competente da\r\nVigilância Sanitária e Conselho Municipal da Pessoa Idosa, e em sua falta, junto ao\r\nConselho Estadual ou Nacional da Pessoa Idosa, especificando os regimes de atendimento,\r\nobservados os seguintes requisitos:\nParágrafo único. As entidades \r\n governamentais e năo governamentais de assistęncia ŕ pessoa idosa \r\n ficam sujeitas ŕ inscriçăo de seus programas perante o órgăo \r\n competente da Vigilância Sanitária e o Conselho Municipal da Pessoa \r\n Idosa e, em sua falta, perante o Conselho Estadual ou Nacional da \r\n Pessoa Idosa, especificando os regimes de atendimento, observados os \r\n seguintes requisitos:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nI – oferecer instalaçőes físicas em condiçőes adequadas de habitabilidade,\r\nhigiene, salubridade e segurança;\nII – apresentar objetivos estatutários e plano de trabalho compatíveis com os\r\nprincípios desta Lei;\nIII – estar regularmente constituída;\nIV – demonstrar a idoneidade de seus dirigentes.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 41792,
+        "char_end": 43220
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#86",
+      "type": "artigo_candidato",
+      "name": "Art. 49",
+      "content": "Art. 49.\nAs entidades que desenvolvam programas de institucionalizaçăo de longa\r\npermanęncia adotarăo os seguintes princípios:\nI – preservaçăo dos vínculos familiares;\nII – atendimento personalizado e em pequenos grupos;\nIII – manutençăo do idoso na mesma instituiçăo, salvo em caso de força maior;\nIII – manutençăo da pessoa idosa na mesma \r\n instituiçăo, salvo em caso de força maior;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nIV – participaçăo do idoso nas atividades comunitárias, de caráter interno e\r\nexterno;\nIV – participaçăo da pessoa idosa nas \r\n atividades comunitárias, de caráter interno e externo;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nV – observância dos direitos e garantias dos idosos;\nV – observância dos direitos e garantias \r\n das pessoas idosas;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nVI – preservaçăo da identidade do idoso e oferecimento de ambiente de respeito e\r\ndignidade.\nVI – preservaçăo da identidade da pessoa \r\n idosa e oferecimento de ambiente de respeito e dignidade.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nParágrafo único. O dirigente de instituiçăo prestadora de atendimento ao idoso\r\nresponderá civil e criminalmente pelos atos que praticar em detrimento do idoso, sem\r\nprejuízo das sançőes administrativas.\nParágrafo único. O dirigente de \r\ninstituiçăo prestadora de atendimento ŕ pessoa idosa responderá civil e \r\ncriminalmente pelos atos que praticar em detrimento da pessoa idosa, sem \r\nprejuízo das sançőes administrativas.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 43220,
+        "char_end": 44742
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#87",
+      "type": "artigo_candidato",
+      "name": "Art. 50",
+      "content": "Art. 50.\nConstituem obrigaçőes das entidades de atendimento:\nI – celebrar contrato escrito de prestaçăo de serviço com o idoso, especificando o\r\ntipo de atendimento, as obrigaçőes da entidade e prestaçőes decorrentes do contrato,\r\ncom os respectivos preços, se for o caso;\nI – celebrar contrato escrito de prestaçăo \r\n de serviço com a pessoa idosa, especificando o tipo de atendimento, \r\n as obrigaçőes da entidade e prestaçőes decorrentes do contrato, com \r\n os respectivos preços, se for o caso;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nII – observar os direitos e as garantias de que săo titulares os idosos;\nII – observar os direitos e as garantias \r\n de que săo titulares as pessoas idosas;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nIII – fornecer vestuário adequado, se for pública, e alimentaçăo suficiente;\nIV – oferecer instalaçőes físicas em condiçőes adequadas de habitabilidade;\nV – oferecer atendimento personalizado;\nVI – diligenciar no sentido da preservaçăo dos vínculos familiares;\nVII – oferecer acomodaçőes apropriadas para recebimento de visitas;\nVIII – proporcionar cuidados ŕ saúde, conforme a necessidade do idoso;\nVIII – proporcionar cuidados ŕ saúde, \r\n conforme a necessidade da pessoa idosa;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nIX – promover atividades educacionais, esportivas, culturais e de lazer;\nX – propiciar assistęncia religiosa ŕqueles que desejarem, de acordo com suas\r\ncrenças;\nXI – proceder a estudo social e pessoal de cada caso;\nXII – comunicar ŕ autoridade competente de saúde toda ocorręncia de idoso portador\r\nde doenças infecto-contagiosas;\nXII – comunicar ŕ autoridade competente de \r\n saúde toda ocorręncia de pessoa idosa com doenças infectocontagiosas;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nXIII – providenciar ou solicitar que o Ministério Público requisite os documentos\r\nnecessários ao exercício da cidadania ŕqueles que năo os tiverem, na forma da lei;\nXIV – fornecer comprovante de depósito dos bens móveis que receberem dos idosos;\nXIV – fornecer comprovante de depósito dos \r\n bens móveis que receberem das pessoas idosas;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nXV – manter arquivo de anotaçőes onde constem data e circunstâncias do\r\natendimento, nome do idoso, responsável, parentes, endereços, cidade, relaçăo de seus\r\npertences, bem como o valor de contribuiçőes, e suas alteraçőes, se houver, e demais\r\ndados que possibilitem sua identificaçăo e a individualizaçăo do atendimento;\nXV – manter arquivo de anotaçőes no qual \r\n constem data e circunstâncias do atendimento, nome da pessoa idosa, \r\n responsável, parentes, endereços, cidade, relaçăo de seus pertences, \r\n bem como o valor de contribuiçőes, e suas alteraçőes, se houver, e \r\n demais dados que possibilitem sua identificaçăo e a individualizaçăo \r\n do atendimento;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nXVI – comunicar ao Ministério Público, para as providęncias cabíveis, a\r\nsituaçăo de abandono moral ou material por parte dos familiares;\nXVII – manter no quadro de pessoal profissionais com formaçăo específica.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 44742,
+        "char_end": 47803
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#88",
+      "type": "artigo_candidato",
+      "name": "Art. 51",
+      "content": "Art. 51.\nAs instituiçőes filantrópicas ou sem fins lucrativos prestadoras de\r\nserviço ao idoso terăo direito ŕ assistęncia judiciária\ngratuita.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 47803,
+        "char_end": 47947
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#89",
+      "type": "artigo_candidato",
+      "name": "Art. 51",
+      "content": "Art. 51. As \r\ninstituiçőes filantrópicas ou sem fins lucrativos prestadoras de serviço ŕs \r\npessoas idosas terăo direito ŕ assistęncia judiciária gratuita.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nCAPÍTULO III\nDa Fiscalizaçăo das Entidades de\r\nAtendimento",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 47947,
+        "char_end": 48205
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#90",
+      "type": "artigo_candidato",
+      "name": "Art. 52",
+      "content": "Art. 52.\nAs entidades governamentais e năo-governamentais de atendimento ao idoso\r\nserăo fiscalizadas pelos Conselhos do Idoso, Ministério Público, Vigilância Sanitária\r\ne outros previstos em lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 48205,
+        "char_end": 48402
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#91",
+      "type": "artigo_candidato",
+      "name": "Art. 52",
+      "content": "Art. 52. As entidades governamentais e năo \r\ngovernamentais de atendimento ŕ pessoa idosa serăo fiscalizadas pelos Conselhos \r\nda Pessoa Idosa, Ministério Público, Vigilância Sanitária e outros previstos em \r\nlei.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 48402,
+        "char_end": 48659
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#92",
+      "type": "artigo_candidato",
+      "name": "Art. 53",
+      "content": "Art. 53.\nO art. 7\no\nda\nLei n\no\n8.842, de 1994,\npassa a vigorar com a\r\nseguinte redaçăo:\n\"",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 48659,
+        "char_end": 48749
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#93",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7\no\nCompete aos\r\n Conselhos de que trata o art. 6\no\ndesta Lei a supervisăo, o\r\n acompanhamento, a fiscalizaçăo e a avaliaçăo da política nacional do idoso, no\r\n âmbito das respectivas instâncias político-administrativas.\" (NR)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 48749,
+        "char_end": 48981
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#94",
+      "type": "artigo_candidato",
+      "name": "Art. 54",
+      "content": "Art. 54.\nSerá dada publicidade das prestaçőes de contas dos recursos públicos e\r\nprivados recebidos pelas entidades de atendimento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 48981,
+        "char_end": 49113
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#95",
+      "type": "artigo_candidato",
+      "name": "Art. 55",
+      "content": "Art. 55.\nAs entidades de atendimento que descumprirem as determinaçőes desta Lei\r\nficarăo sujeitas, sem prejuízo da responsabilidade civil e criminal de seus dirigentes\r\nou prepostos, ŕs seguintes penalidades, observado o devido processo legal:\nI – as entidades governamentais:\na) advertęncia;\nb) afastamento provisório de seus dirigentes;\nc) afastamento definitivo de seus dirigentes;\nd) fechamento de unidade ou interdiçăo de programa;\nII – as entidades năo-governamentais:\na) advertęncia;\nb) multa;\nc) suspensăo parcial ou total do repasse de verbas públicas;\nd) interdiçăo de unidade ou suspensăo de programa;\ne) proibiçăo de atendimento a idosos a bem do interesse público.\ne) proibiçăo de atendimento a pessoas idosas a bem do interesse \r\n público.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 1\no\nHavendo danos aos idosos abrigados ou qualquer tipo de fraude em\r\nrelaçăo ao programa, caberá o afastamento provisório dos dirigentes ou a interdiçăo\r\nda unidade e a suspensăo do programa.\n§ 1ş Havendo danos ŕs pessoas idosas abrigadas ou qualquer tipo de \r\n fraude em relaçăo ao programa, caberá o afastamento provisório dos \r\n dirigentes ou a interdiçăo da unidade e a suspensăo do programa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 2\no\nA suspensăo parcial ou total do repasse de verbas públicas\r\nocorrerá quando verificada a má aplicaçăo ou desvio de finalidade dos recursos.\n§ 3\no\nNa ocorręncia de infraçăo por entidade de atendimento, que\r\ncoloque em risco os direitos assegurados nesta Lei, será o fato comunicado ao Ministério\r\nPúblico, para as providęncias cabíveis, inclusive para promover a suspensăo das\r\natividades ou dissoluçăo da entidade, com a proibiçăo de atendimento a idosos a bem do\r\ninteresse público, sem prejuízo das providęncias a serem tomadas pela Vigilância\r\nSanitária.\n§ 3ş Na ocorręncia de infraçăo por entidade de atendimento que \r\n coloque em risco os direitos assegurados nesta Lei, será o fato \r\n comunicado ao Ministério Público, para as providęncias cabíveis, \r\n inclusive para promover a suspensăo das atividades ou dissoluçăo da \r\n entidade, com a proibiçăo de atendimento a pessoas idosas a bem do \r\n interesse público, sem prejuízo das providęncias a serem tomadas \r\n pela Vigilância Sanitária.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 4\no\nNa aplicaçăo das penalidades, serăo consideradas a natureza e a\r\ngravidade da infraçăo cometida, os danos que dela provierem para o idoso, as\r\ncircunstâncias agravantes ou atenuantes e os antecedentes da entidade.\n§ 4ş Na aplicaçăo das penalidades, serăo consideradas a natureza e a \r\ngravidade da infraçăo cometida, os danos que dela provierem para a pessoa idosa, \r\nas circunstâncias agravantes ou atenuantes e os antecedentes da entidade.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nCAPÍTULO IV\nDas Infraçőes Administrativas",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 49113,
+        "char_end": 51931
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#96",
+      "type": "artigo_candidato",
+      "name": "Art. 56",
+      "content": "Art. 56.\nDeixar a entidade de atendimento de cumprir as determinaçőes do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 51931,
+        "char_end": 52004
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#97",
+      "type": "artigo_candidato",
+      "name": "Art. 50",
+      "content": "art. 50 desta Lei:\nPena – multa de R$ 500,00 (quinhentos reais) a R$ 3.000,00 (tręs mil reais), se o\r\nfato năo for caracterizado como crime, podendo haver a interdiçăo do estabelecimento\r\naté que sejam cumpridas as exigęncias legais.\nParágrafo único. No caso de interdiçăo do estabelecimento de longa permanęncia, os\r\nidosos abrigados serăo transferidos para outra instituiçăo, a expensas do\r\nestabelecimento interditado, enquanto durar a interdiçăo.\nParágrafo único. No caso de interdiçăo do estabelecimento de longa \r\npermanęncia, as pessoas idosas abrigadas serăo transferidas para outra \r\ninstituiçăo, a expensas do estabelecimento interditado, enquanto durar a \r\ninterdiçăo.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 52004,
+        "char_end": 52727
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#98",
+      "type": "artigo_candidato",
+      "name": "Art. 57",
+      "content": "Art. 57. Deixar o profissional de saúde ou o responsável por estabelecimento de saúde\r\nou instituiçăo de longa permanęncia de comunicar ŕ autoridade competente os casos de\r\ncrimes contra idoso de que tiver conhecimento:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 52727,
+        "char_end": 52947
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#99",
+      "type": "artigo_candidato",
+      "name": "Art. 57",
+      "content": "Art. 57. Deixar o profissional de saúde ou o \r\nresponsável por estabelecimento de saúde ou instituiçăo de longa permanęncia de \r\ncomunicar ŕ autoridade competente os casos de crimes contra pessoa idosa de que \r\ntiver conhecimento:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nPena – multa de R$ 500,00 (quinhentos reais) a R$ 3.000,00 (tręs mil reais),\r\naplicada em dobro no caso de reincidęncia.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 52947,
+        "char_end": 53342
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#100",
+      "type": "artigo_candidato",
+      "name": "Art. 58",
+      "content": "Art. 58.\nDeixar de cumprir as determinaçőes desta Lei sobre a prioridade no\r\natendimento ao idoso:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 53342,
+        "char_end": 53441
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#101",
+      "type": "artigo_candidato",
+      "name": "Art. 58",
+      "content": "Art. 58. Deixar de cumprir as determinaçőes \r\ndesta Lei sobre a prioridade no atendimento ŕ pessoa idosa:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nPena – multa de R$ 500,00 (quinhentos reais) a R$ 1.000,00 (um mil reais) e multa\r\ncivil a ser estipulada pelo juiz, conforme o dano sofrido pelo idoso.\nPena – multa de R$ 500,00 (quinhentos reais) a R$ 1.000,00 (mil \r\nreais) e multa civil a ser estipulada pelo juiz, conforme o dano sofrido pela \r\npessoa idosa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nCAPÍTULO V\nDa Apuraçăo Administrativa de Infraçăo\r\nŕs\nNormas de Proteçăo ao Idoso\nDa Apuraçăo Administrativa de Infraçăo ŕs Normas de Proteçăo ŕ \r\n Pessoa Idosa\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 53441,
+        "char_end": 54150
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#102",
+      "type": "artigo_candidato",
+      "name": "Art. 59",
+      "content": "Art. 59.\nOs valores monetários expressos no Capítulo IV serăo atualizados\r\nanualmente, na forma da lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 54150,
+        "char_end": 54254
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#103",
+      "type": "artigo_candidato",
+      "name": "Art. 60",
+      "content": "Art. 60. O procedimento para a imposiçăo de penalidade administrativa por infraçăo ŕs\r\nnormas de proteçăo ao idoso terá início com requisiçăo do Ministério Público ou\r\nauto de infraçăo elaborado por servidor efetivo e assinado, se possível, por duas\r\ntestemunhas.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 54254,
+        "char_end": 54518
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#104",
+      "type": "artigo_candidato",
+      "name": "Art. 60",
+      "content": "Art. 60. O procedimento para a imposiçăo de \r\npenalidade administrativa por infraçăo ŕs normas de proteçăo ŕ pessoa idosa terá \r\ninício com requisiçăo do Ministério Público ou auto de infraçăo elaborado por \r\nservidor efetivo e assinado, se possível, por 2 (duas) testemunhas.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 1\no\nNo procedimento iniciado com o auto de infraçăo poderăo ser\r\nusadas fórmulas impressas, especificando-se a natureza e as circunstâncias da\r\ninfraçăo.\n§ 2\no\nSempre que possível, ŕ verificaçăo da infraçăo seguir-se-á\r\na lavratura do auto, ou este será lavrado dentro de 24 (vinte e quatro) horas, por motivo\r\njustificado.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 54518,
+        "char_end": 55164
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#105",
+      "type": "artigo_candidato",
+      "name": "Art. 61",
+      "content": "Art. 61. O autuado terá prazo de 10 (dez) dias para a apresentaçăo da defesa, contado\r\nda data da intimaçăo, que será feita:\nI – pelo autuante, no instrumento de autuaçăo, quando for lavrado na presença do\r\ninfrator;\nII – por via postal, com aviso de recebimento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 55164,
+        "char_end": 55428
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#106",
+      "type": "artigo_candidato",
+      "name": "Art. 62",
+      "content": "Art. 62.\nHavendo risco para a vida ou ŕ saúde do idoso, a autoridade competente\r\naplicará ŕ entidade de atendimento as sançőes regulamentares, sem prejuízo da\r\niniciativa e das providęncias que vierem a ser adotadas pelo Ministério Público ou\r\npelas demais instituiçőes legitimadas para a fiscalizaçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 55428,
+        "char_end": 55731
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#107",
+      "type": "artigo_candidato",
+      "name": "Art. 62",
+      "content": "Art. 62. Havendo risco para a vida ou ŕ saúde \r\nda pessoa idosa, a autoridade competente aplicará ŕ entidade de atendimento as \r\nsançőes regulamentares, sem prejuízo da iniciativa e das providęncias que vierem \r\na ser adotadas pelo Ministério Público ou pelas demais instituiçőes legitimadas \r\npara a fiscalizaçăo.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 55731,
+        "char_end": 56089
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#108",
+      "type": "artigo_candidato",
+      "name": "Art. 63",
+      "content": "Art. 63. Nos casos em que năo houver risco para a vida ou a saúde da pessoa idosa\r\nabrigada, a autoridade competente aplicará ŕ entidade de atendimento as sançőes\r\nregulamentares, sem prejuízo da iniciativa e das providęncias que vierem a ser adotadas\r\npelo Ministério Público ou pelas demais instituiçőes legitimadas para a\r\nfiscalizaçăo.\nCAPÍTULO VI\nDa Apuraçăo Judicial de Irregularidades em\r\nEntidade de Atendimento",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 56089,
+        "char_end": 56509
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#109",
+      "type": "artigo_candidato",
+      "name": "Art. 64",
+      "content": "Art. 64.\nAplicam-se, subsidiariamente, ao procedimento administrativo de que trata\r\neste Capítulo as disposiçőes das\nLeis n\nos\n6.437, de 20 de agosto de 1977\n, e\n9.784, de 29 de janeiro de\r\n1999.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 56509,
+        "char_end": 56705
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#110",
+      "type": "artigo_candidato",
+      "name": "Art. 65",
+      "content": "Art. 65. O procedimento de apuraçăo de irregularidade em entidade governamental e\r\nnăo-governamental de atendimento ao idoso terá início mediante petiçăo fundamentada\r\nde pessoa interessada ou iniciativa do Ministério Público.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 56705,
+        "char_end": 56932
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#111",
+      "type": "artigo_candidato",
+      "name": "Art. 65",
+      "content": "Art. 65. O procedimento de apuraçăo de irregularidade em entidade \r\ngovernamental e năo governamental de atendimento ŕ pessoa idosa terá início \r\nmediante petiçăo fundamentada de pessoa interessada ou iniciativa do Ministério \r\nPúblico.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 56932,
+        "char_end": 57212
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#112",
+      "type": "artigo_candidato",
+      "name": "Art. 66",
+      "content": "Art. 66. Havendo motivo grave, poderá a autoridade judiciária, ouvido o Ministério\r\nPúblico, decretar liminarmente o afastamento provisório do dirigente da entidade ou\r\noutras medidas que julgar adequadas, para evitar lesăo aos direitos do idoso, mediante\r\ndecisăo fundamentada.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 57212,
+        "char_end": 57491
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#113",
+      "type": "artigo_candidato",
+      "name": "Art. 66",
+      "content": "Art. 66. Havendo motivo grave, poderá a autoridade judiciária, \r\nouvido o Ministério Público, decretar liminarmente o afastamento provisório do \r\ndirigente da entidade ou outras medidas que julgar adequadas, para evitar lesăo \r\naos direitos da pessoa idosa, mediante decisăo fundamentada.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 57491,
+        "char_end": 57823
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#114",
+      "type": "artigo_candidato",
+      "name": "Art. 67",
+      "content": "Art. 67.\nO dirigente da entidade será citado para, no prazo de 10 (dez) dias,\r\noferecer resposta escrita, podendo juntar documentos e indicar as provas a produzir.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 57823,
+        "char_end": 57987
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#115",
+      "type": "artigo_candidato",
+      "name": "Art. 68",
+      "content": "Art. 68.\nApresentada a defesa, o juiz procederá na conformidade do art. 69 ou, se\r\nnecessário, designará audięncia de instruçăo e julgamento, deliberando sobre a\r\nnecessidade de produçăo de outras provas.\n§ 1\no\nSalvo manifestaçăo em audięncia, as partes e o Ministério\r\nPúblico terăo 5 (cinco) dias para oferecer alegaçőes finais, decidindo a autoridade\r\njudiciária em igual prazo.\n§ 2\no\nEm se tratando de afastamento provisório ou definitivo de\r\ndirigente de entidade governamental, a autoridade judiciária oficiará a autoridade\r\nadministrativa imediatamente superior ao afastado, fixando-lhe prazo de 24 (vinte e\r\nquatro) horas para proceder ŕ substituiçăo.\n§ 3\no\nAntes de aplicar qualquer das medidas, a autoridade judiciária\r\npoderá fixar prazo para a remoçăo das irregularidades verificadas. Satisfeitas as\r\nexigęncias, o processo será extinto, sem julgamento do mérito.\n§ 4\no\nA multa e a advertęncia serăo impostas ao dirigente da entidade\r\nou ao responsável pelo programa de atendimento.\nTÍTULO V\nDo Acesso ŕ Justiça\nCAPÍTULO I\nDisposiçőes Gerais",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 57987,
+        "char_end": 59041
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#116",
+      "type": "artigo_candidato",
+      "name": "Art. 69",
+      "content": "Art. 69.\nAplica-se, subsidiariamente, ŕs disposiçőes deste Capítulo, o\r\nprocedimento sumário previsto no Código de Processo Civil, naquilo que năo contrarie os\r\nprazos previstos nesta Lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 59041,
+        "char_end": 59230
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#117",
+      "type": "artigo_candidato",
+      "name": "Art. 70",
+      "content": "Art. 70.\nO Poder Público poderá criar varas especializadas e exclusivas do idoso.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 59230,
+        "char_end": 59312
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#118",
+      "type": "artigo_candidato",
+      "name": "Art. 70",
+      "content": "Art. 70. O poder público poderá criar varas \r\nespecializadas e exclusivas da pessoa idosa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 59312,
+        "char_end": 59446
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#119",
+      "type": "artigo_candidato",
+      "name": "Art. 71",
+      "content": "Art. 71. É assegurada prioridade na tramitaçăo dos processos e procedimentos e na\r\nexecuçăo dos atos e diligęncias judiciais em que figure como parte ou interveniente\r\npessoa com idade igual ou superior a 60 (sessenta) anos, em qualquer instância.\n§ 1\no\nO interessado na obtençăo da prioridade a que alude este artigo,\r\nfazendo prova de sua idade, requererá o benefício ŕ autoridade judiciária competente\r\npara decidir o feito, que determinará as providęncias a serem cumpridas, anotando-se\r\nessa circunstância em local visível nos autos do processo.\n§ 2\no\nA prioridade năo cessará com a morte do beneficiado,\r\nestendendo-se em favor do cônjuge supérstite, companheiro ou companheira, com uniăo\r\nestável, maior de 60 (sessenta) anos.\n§ 3\no\nA prioridade se estende aos processos e procedimentos na\r\nAdministraçăo Pública, empresas prestadoras de serviços públicos e instituiçőes\r\nfinanceiras, ao atendimento preferencial junto ŕ Defensoria Publica da Uniăo, dos\r\nEstados e do Distrito Federal em relaçăo aos Serviços de Assistęncia Judiciária.\n§ 4\no\nPara o atendimento prioritário será garantido ao idoso o fácil\r\nacesso aos assentos e caixas, identificados com a destinaçăo a idosos em local visível\r\ne caracteres legíveis.\n§ 4ş Para o atendimento prioritário, será garantido ŕ pessoa idosa o \r\n fácil acesso aos assentos e caixas, identificados com a destinaçăo a \r\n pessoas idosas em local visível e caracteres legíveis.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 5ş  Dentre os processos de idosos, dar-se-á prioridade especial aos \r\nmaiores de oitenta anos.\n(Incluído pela Lei nş \r\n13.466, de 2017).\n§ 5ş Dentre os processos de pessoas idosas, dar-se-á prioridade \r\n especial aos das maiores de 80 (oitenta) anos.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nCAPÍTULO II\nDo Ministério Público",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 59446,
+        "char_end": 61242
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#120",
+      "type": "artigo_candidato",
+      "name": "Art. 73",
+      "content": "Art. 73.\nAs funçőes do Ministério Público, previstas nesta Lei, serăo\r\nexercidas nos termos da respectiva Lei Orgânica.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 61260,
+        "char_end": 61380
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#121",
+      "type": "artigo_candidato",
+      "name": "Art. 74",
+      "content": "Art. 74. Compete ao Ministério Público:\nI – instaurar o inquérito civil e a açăo civil pública para a proteçăo dos\r\ndireitos e interesses difusos ou coletivos, individuais indisponíveis e individuais\r\nhomogęneos do idoso;\nI – instaurar o inquérito civil e a açăo civil pública para a \r\n proteçăo dos direitos e interesses difusos ou coletivos, individuais \r\n indisponíveis e individuais homogęneos da pessoa idosa;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nII – promover e acompanhar as açőes de alimentos, de interdiçăo total ou parcial,\r\nde designaçăo de curador especial, em circunstâncias que justifiquem a medida e oficiar\r\nem todos os feitos em que se discutam os direitos de idosos em condiçőes de risco;\nII – promover e acompanhar as açőes de alimentos, de interdiçăo \r\n total ou parcial, de designaçăo de curador especial, em \r\n circunstâncias que justifiquem a medida e oficiar em todos os feitos \r\n em que se discutam os direitos das pessoas idosas em condiçőes de \r\n risco;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nIII – atuar como substituto processual do idoso em situaçăo de risco, conforme o\r\ndisposto no art. 43 desta Lei;\nIII – atuar como substituto processual da pessoa idosa em situaçăo \r\n de risco, conforme o disposto no art. 43 desta Lei;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nIV – promover a revogaçăo de instrumento procuratório do idoso, nas hipóteses\r\nprevistas no art. 43 desta Lei, quando necessário ou o interesse público justificar;\nIV – promover a revogaçăo de instrumento procuratório da pessoa \r\n idosa, nas hipóteses previstas no art. 43 desta Lei, quando \r\n necessário ou o interesse público justificar;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nV – instaurar procedimento administrativo e, para instruí-lo:\na) expedir notificaçőes, colher depoimentos ou esclarecimentos e, em caso de năo\r\ncomparecimento injustificado da pessoa notificada, requisitar conduçăo coercitiva,\r\ninclusive pela Polícia Civil ou Militar;\nb) requisitar informaçőes, exames, perícias e documentos de autoridades municipais,\r\nestaduais e federais, da administraçăo direta e indireta, bem como promover inspeçőes\r\ne diligęncias investigatórias;\nc) requisitar informaçőes e documentos particulares de instituiçőes privadas;\nVI – instaurar sindicâncias, requisitar diligęncias investigatórias e a\r\ninstauraçăo de inquérito policial, para a apuraçăo de ilícitos ou infraçőes ŕs\r\nnormas de proteçăo ao idoso;\nVI – instaurar sindicâncias, requisitar diligęncias investigatórias \r\n e a instauraçăo de inquérito policial, para a apuraçăo de ilícitos \r\n ou infraçőes ŕs normas de proteçăo ŕ pessoa idosa;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nVII – zelar pelo efetivo respeito aos direitos e garantias legais assegurados ao\r\nidoso, promovendo as medidas judiciais e extrajudiciais cabíveis;\nVII – zelar pelo efetivo respeito aos direitos e garantias legais \r\n assegurados ŕ pessoa idosa, promovendo as medidas judiciais e \r\n extrajudiciais cabíveis;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nVIII – inspecionar as entidades públicas e particulares de atendimento e os\r\nprogramas de que trata esta Lei, adotando de pronto as medidas administrativas ou\r\njudiciais necessárias ŕ remoçăo de irregularidades porventura verificadas;\nIX – requisitar força policial, bem como a colaboraçăo dos serviços de saúde,\r\neducacionais e de assistęncia social, públicos, para o desempenho de suas atribuiçőes;\nX – referendar transaçőes envolvendo interesses e direitos dos idosos previstos\r\nnesta Lei.\nX – referendar transaçőes envolvendo interesses e direitos das \r\n pessoas idosas previstos nesta Lei.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\n§ 1\no\nA legitimaçăo do Ministério Público para as açőes cíveis\r\nprevistas neste artigo năo impede a de terceiros, nas mesmas hipóteses, segundo dispuser\r\na lei.\n§ 2\no\nAs atribuiçőes constantes deste artigo năo excluem outras,\r\ndesde que compatíveis com a finalidade e atribuiçőes do Ministério Público.\n§ 3\no\nO representante do Ministério Público, no exercício de suas\r\nfunçőes, terá livre acesso a toda entidade de atendimento ao idoso.\n§ 3ş O representante do Ministério Público, no exercício de suas \r\nfunçőes, terá livre acesso a toda entidade de atendimento ŕ pessoa idosa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 61380,
+        "char_end": 65648
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#122",
+      "type": "artigo_candidato",
+      "name": "Art. 75",
+      "content": "Art. 75.\nNos processos e procedimentos em que năo for parte, atuará\r\nobrigatoriamente o Ministério Público na defesa dos direitos e interesses de que cuida\r\nesta Lei, hipóteses em que terá vista dos autos depois das partes, podendo juntar\r\ndocumentos, requerer diligęncias e produçăo de outras provas, usando os recursos\r\ncabíveis.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 65648,
+        "char_end": 65980
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#123",
+      "type": "artigo_candidato",
+      "name": "Art. 76",
+      "content": "Art. 76.\nA intimaçăo do Ministério Público, em qualquer caso, será feita\r\npessoalmente.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 65980,
+        "char_end": 66068
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#124",
+      "type": "artigo_candidato",
+      "name": "Art. 77",
+      "content": "Art. 77. A falta de intervençăo do Ministério Público acarreta a nulidade do feito,\r\nque será declarada de ofício pelo juiz ou a requerimento de qualquer interessado.\nCAPÍTULO III\nDa Proteçăo Judicial dos Interesses\r\nDifusos, Coletivos e Individuais Indisponíveis ou Homogęneos",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 66068,
+        "char_end": 66346
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#125",
+      "type": "artigo_candidato",
+      "name": "Art. 78",
+      "content": "Art. 78.\nAs manifestaçőes processuais do representante do Ministério Público\r\ndeverăo ser fundamentadas.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 66346,
+        "char_end": 66451
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#126",
+      "type": "artigo_candidato",
+      "name": "Art. 79",
+      "content": "Art. 79.\nRegem-se pelas disposiçőes desta Lei as açőes de responsabilidade por\r\nofensa aos direitos assegurados ao idoso, referentes ŕ omissăo ou ao oferecimento\r\ninsatisfatório de:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 66451,
+        "char_end": 66633
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#127",
+      "type": "artigo_candidato",
+      "name": "Art. 79",
+      "content": "Art. 79. Regem-se pelas disposiçőes desta Lei \r\nas açőes de responsabilidade por ofensa aos direitos assegurados ŕ pessoa idosa, \r\nreferentes ŕ omissăo ou ao oferecimento insatisfatório de:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nI – acesso ŕs açőes e serviços de saúde;\nII – atendimento especializado ao idoso portador de deficięncia ou com limitaçăo incapacitante;\nII – atendimento especializado ŕ pessoa idosa com deficięncia ou com \r\n limitaçăo incapacitante;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nIII – atendimento especializado ao idoso portador de doença infecto-contagiosa;\nIII – atendimento especializado ŕ pessoa idosa com doença \r\n infectocontagiosa;\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nIV – serviço de assistęncia social visando ao amparo do idoso.\nIV – serviço de assistęncia social visando ao amparo da pessoa \r\n idosa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nParágrafo único. As hipóteses previstas neste artigo năo excluem da proteçăo\r\njudicial outros interesses difusos, coletivos, individuais indisponíveis ou homogęneos,\r\npróprios do idoso, protegidos em lei.\nParágrafo único. As hipóteses previstas neste artigo năo excluem da \r\nproteçăo judicial outros interesses difusos, coletivos, individuais \r\nindisponíveis ou homogęneos, próprios da pessoa idosa, protegidos em lei.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 66633,
+        "char_end": 67987
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#128",
+      "type": "artigo_candidato",
+      "name": "Art. 80",
+      "content": "Art. 80.\nAs açőes previstas neste Capítulo serăo propostas no foro do\r\ndomicílio do idoso, cujo juízo terá competęncia absoluta para processar a causa,\r\nressalvadas as competęncias da Justiça Federal e a competęncia originária dos\r\nTribunais Superiores.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 67987,
+        "char_end": 68241
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#129",
+      "type": "artigo_candidato",
+      "name": "Art. 80",
+      "content": "Art. 80. As açőes previstas neste Capítulo \r\nserăo propostas no foro do domicílio da pessoa idosa, cujo juízo terá \r\ncompetęncia absoluta para processar a causa, ressalvadas as competęncias da \r\nJustiça Federal e a competęncia originária dos Tribunais Superiores.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 68241,
+        "char_end": 68548
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#130",
+      "type": "artigo_candidato",
+      "name": "Art. 81",
+      "content": "Art. 81. Para as açőes cíveis fundadas em interesses difusos, coletivos, individuais\r\nindisponíveis ou homogęneos, consideram-se legitimados, concorrentemente:\nI – o Ministério Público;\nII – a Uniăo, os Estados, o Distrito Federal e os Municípios;\nIII – a Ordem dos Advogados do Brasil;\nIV – as associaçőes legalmente constituídas há pelo menos 1 (um) ano e que\r\nincluam entre os fins institucionais a defesa dos interesses e direitos da pessoa idosa,\r\ndispensada a autorizaçăo da assembléia, se houver prévia autorizaçăo estatutária.\n§ 1\no\nAdmitir-se-á litisconsórcio facultativo entre os Ministérios\r\nPúblicos da Uniăo e dos Estados na defesa dos interesses e direitos de que cuida esta\r\nLei.\n§ 2\no\nEm caso de desistęncia ou abandono da açăo por associaçăo\r\nlegitimada, o Ministério Público ou outro legitimado deverá assumir a titularidade\r\nativa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 68548,
+        "char_end": 69399
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#131",
+      "type": "artigo_candidato",
+      "name": "Art. 82",
+      "content": "Art. 82.\nPara defesa dos interesses e direitos protegidos por esta Lei, săo\r\nadmissíveis todas as espécies de açăo pertinentes.\nParágrafo único. Contra atos ilegais ou abusivos de autoridade pública ou agente de\r\npessoa jurídica no exercício de atribuiçőes de Poder Público, que lesem direito\r\nlíquido e certo previsto nesta Lei, caberá açăo mandamental, que se regerá pelas\r\nnormas da lei do mandado de segurança.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 69399,
+        "char_end": 69814
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#132",
+      "type": "artigo_candidato",
+      "name": "Art. 83",
+      "content": "Art. 83.\nNa açăo que tenha por objeto o cumprimento de obrigaçăo de fazer ou\r\nnăo-fazer, o juiz concederá a tutela específica da obrigaçăo ou determinará\r\nprovidęncias que assegurem o resultado prático equivalente ao adimplemento.\n§ 1\no\nSendo relevante o fundamento da demanda e havendo justificado\r\nreceio de ineficácia do provimento final, é lícito ao juiz conceder a tutela\r\nliminarmente ou após justificaçăo prévia, na forma do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 69814,
+        "char_end": 70246
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#133",
+      "type": "artigo_candidato",
+      "name": "Art. 273",
+      "content": "art.\r\n273 do Código de Processo Civil.\n§ 2\no\nO juiz poderá, na hipótese do § 1\no\nou na\r\nsentença, impor multa diária ao réu, independentemente do pedido do autor, se for\r\nsuficiente ou compatível com a obrigaçăo, fixando prazo razoável para o cumprimento do\r\npreceito.\n§ 3\no\nA multa só será exigível do réu após o trânsito em julgado\r\nda sentença favorável ao autor, mas será devida desde o dia em que se houver\r\nconfigurado.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 70246,
+        "char_end": 70672
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#134",
+      "type": "artigo_candidato",
+      "name": "Art. 84",
+      "content": "Art. 84.\nOs valores das multas previstas nesta Lei reverterăo ao Fundo do Idoso,\r\nonde houver, ou na falta deste, ao Fundo Municipal de Assistęncia Social, ficando\r\nvinculados ao atendimento ao idoso.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 70672,
+        "char_end": 70873
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#135",
+      "type": "artigo_candidato",
+      "name": "Art. 84",
+      "content": "Art. 84. Os valores das multas previstas nesta \r\nLei reverterăo ao Fundo da Pessoa Idosa, onde houver, ou na falta deste, ao \r\nFundo Municipal de Assistęncia Social, ficando vinculados ao atendimento ŕ \r\npessoa idosa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nParágrafo único. As multas năo recolhidas até 30 (trinta) dias após o trânsito em\r\njulgado da decisăo serăo exigidas por meio de execuçăo promovida pelo Ministério\r\nPúblico, nos mesmos autos, facultada igual iniciativa aos demais legitimados em caso de\r\ninércia daquele.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 70873,
+        "char_end": 71405
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#136",
+      "type": "artigo_candidato",
+      "name": "Art. 85",
+      "content": "Art. 85.\nO juiz poderá conferir efeito suspensivo aos recursos, para evitar dano\r\nirreparável ŕ parte.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 71405,
+        "char_end": 71508
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#137",
+      "type": "artigo_candidato",
+      "name": "Art. 86",
+      "content": "Art. 86.\nTransitada em julgado a sentença que impuser condenaçăo ao Poder\r\nPúblico, o juiz determinará a remessa de peças ŕ autoridade competente, para\r\napuraçăo da responsabilidade civil e administrativa do agente a que se atribua a açăo\r\nou omissăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 71508,
+        "char_end": 71760
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#138",
+      "type": "artigo_candidato",
+      "name": "Art. 87",
+      "content": "Art. 87. Decorridos 60 (sessenta) dias do trânsito em julgado da sentença condenatória\r\nfavorável ao idoso sem que o autor lhe promova a execuçăo, deverá fazę-lo o\r\nMinistério Público, facultada, igual iniciativa aos demais legitimados, como assistentes\r\nou assumindo o pólo ativo, em caso de inércia desse órgăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 71760,
+        "char_end": 72074
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#139",
+      "type": "artigo_candidato",
+      "name": "Art. 87",
+      "content": "Art. 87. Decorridos 60 (sessenta) dias do \r\ntrânsito em julgado da sentença condenatória favorável ŕ pessoa idosa sem que o \r\nautor lhe promova a execuçăo, deverá fazę-lo o Ministério Público, facultada \r\nigual iniciativa aos demais legitimados, como assistentes ou assumindo o polo \r\nativo, em caso de inércia desse órgăo.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 72074,
+        "char_end": 72441
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#140",
+      "type": "artigo_candidato",
+      "name": "Art. 88",
+      "content": "Art. 88. Nas açőes de que trata este Capítulo, năo haverá adiantamento de custas,\r\nemolumentos, honorários periciais e quaisquer outras despesas.\nParágrafo único. Năo se imporá sucumbęncia ao Ministério Público.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 72441,
+        "char_end": 72653
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#141",
+      "type": "artigo_candidato",
+      "name": "Art. 89",
+      "content": "Art. 89.\nQualquer pessoa poderá, e o servidor deverá, provocar a iniciativa do\r\nMinistério Público, prestando-lhe informaçőes sobre os fatos que constituam objeto de\r\naçăo civil e indicando-lhe os elementos de convicçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 72653,
+        "char_end": 72874
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#142",
+      "type": "artigo_candidato",
+      "name": "Art. 90",
+      "content": "Art. 90. Os agentes públicos em geral, os juízes e tribunais, no exercício de suas\r\nfunçőes, quando tiverem conhecimento de fatos que possam configurar crime de açăo\r\npública contra idoso ou ensejar a propositura de açăo para sua defesa, devem encaminhar\r\nas peças pertinentes ao Ministério Público, para as providęncias cabíveis.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 72874,
+        "char_end": 73205
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#143",
+      "type": "artigo_candidato",
+      "name": "Art. 90",
+      "content": "Art. 90. Os agentes públicos em geral, os \r\njuízes e tribunais, no exercício de suas funçőes, quando tiverem conhecimento de \r\nfatos que possam configurar crime de açăo pública contra a pessoa idosa ou \r\nensejar a propositura de açăo para sua defesa, devem encaminhar as peças \r\npertinentes ao Ministério Público, para as providęncias cabíveis.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 73205,
+        "char_end": 73593
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#144",
+      "type": "artigo_candidato",
+      "name": "Art. 91",
+      "content": "Art. 91.\nPara instruir a petiçăo inicial, o interessado poderá requerer ŕs\r\nautoridades competentes as certidőes e informaçőes que julgar necessárias, que serăo\r\nfornecidas no prazo de 10 (dez) dias.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 73593,
+        "char_end": 73793
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#145",
+      "type": "artigo_candidato",
+      "name": "Art. 92",
+      "content": "Art. 92.\nO Ministério Público poderá instaurar sob sua presidęncia, inquérito\r\ncivil, ou requisitar, de qualquer pessoa, organismo público ou particular, certidőes,\r\ninformaçőes, exames ou perícias, no prazo que assinalar, o qual năo poderá ser\r\ninferior a 10 (dez) dias.\n§ 1\no\nSe o órgăo do Ministério Público, esgotadas todas as\r\ndiligęncias, se convencer da inexistęncia de fundamento para a propositura da açăo\r\ncivil ou de peças informativas, determinará o seu arquivamento, fazendo-o\r\nfundamentadamente.\n§ 2\no\nOs autos do inquérito civil ou as peças de informaçăo\r\narquivados serăo remetidos, sob pena de se incorrer em falta grave, no prazo de 3 (tręs)\r\ndias, ao Conselho Superior do Ministério Público ou ŕ Câmara de Coordenaçăo e\r\nRevisăo do Ministério Público.\n§ 3\no\nAté que seja homologado ou rejeitado o arquivamento, pelo\r\nConselho Superior do Ministério Público ou por Câmara de Coordenaçăo e Revisăo do\r\nMinistério Público, as associaçőes legitimadas poderăo apresentar razőes escritas ou\r\ndocumentos, que serăo juntados ou anexados ŕs peças de informaçăo.\n§ 4\no\nDeixando o Conselho Superior ou a Câmara de Coordenaçăo e\r\nRevisăo do Ministério Público de homologar a promoçăo de arquivamento, será\r\ndesignado outro membro do Ministério Público para o ajuizamento da açăo.\nTÍTULO VI\nDos Crimes\nCAPÍTULO I\nDisposiçőes Gerais",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 73793,
+        "char_end": 75131
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#146",
+      "type": "artigo_candidato",
+      "name": "Art. 93",
+      "content": "Art. 93.\nAplicam-se subsidiariamente, no que couber, as disposiçőes da\nLei n\no\n7.347, de 24 de julho de 1985.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 75131,
+        "char_end": 75241
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#147",
+      "type": "artigo_candidato",
+      "name": "Art. 94",
+      "content": "Art. 94.\nAos crimes previstos nesta Lei, cuja pena máxima privativa de liberdade\r\nnăo ultrapasse 4 (quatro) anos, aplica-se o procedimento previsto na\nLei n\no\n9.099, de 26 de setembro de 1995\n, e,\r\nsubsidiariamente, no que couber, as disposiçőes do Código Penal e do Código de\r\nProcesso Penal.\n(Vide ADIN 3.096-5 - STF)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 75241,
+        "char_end": 75561
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#148",
+      "type": "artigo_candidato",
+      "name": "Art. 94",
+      "content": "Art. 94. Aos crimes previstos nesta Lei aplicam-se, no que \r\ncouber, as disposiçőes do Decreto-Lei nş 2.848, de 7 de dezembro de 1940 (Código \r\n Penal), e do Decreto-Lei nş 3.689, de 3 de outubro de 1941 (Código de \r\n Processo Penal).\n(Redaçăo dada pela Lei nş \r\n15.163, de 2025)\nParágrafo único. Aos crimes previstos nesta Lei e aos crimes praticados com \r\n violęncia contra a pessoa idosa, independentemente da pena prevista, năo se \r\n aplica a Lei nş 9.099, de 26 de setembro de 1995.\n(Incluído pela Lei nş \r\n15.163, de 2025)\nCAPÍTULO II\nDos Crimes em Espécie",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 75561,
+        "char_end": 76124
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#149",
+      "type": "artigo_candidato",
+      "name": "Art. 95",
+      "content": "Art. 95.\nOs crimes definidos nesta Lei săo de açăo penal pública\r\nincondicionada, năo se lhes aplicando os\narts.\r\n181\ne\n182 do Código Penal.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 76124,
+        "char_end": 76265
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#150",
+      "type": "artigo_candidato",
+      "name": "Art. 96",
+      "content": "Art. 96. Discriminar pessoa idosa, impedindo ou dificultando seu acesso a operaçőes\r\nbancárias, aos meios de transporte, ao direito de contratar ou por qualquer outro meio ou\r\ninstrumento necessário ao exercício da cidadania, por motivo de idade:\nPena – reclusăo de 6 (seis) meses a 1 (um) ano e multa.\n§ 1\no\nNa mesma pena incorre quem desdenhar, humilhar, menosprezar ou\r\ndiscriminar pessoa idosa, por qualquer motivo.\n§ 2\no\nA pena será aumentada de 1/3 (um terço) se a vítima se\r\nencontrar sob os cuidados ou responsabilidade do agente.\n§ 3ş Năo constitui crime a negativa de crédito motivada por superendividamento \r\ndo idoso.\n(Incluído pela Lei nş \r\n14.181, de 2021)\n§ 3ş Năo constitui crime a negativa de crédito motivada por \r\n superendividamento da pessoa idosa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 76265,
+        "char_end": 77078
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#151",
+      "type": "artigo_candidato",
+      "name": "Art. 97",
+      "content": "Art. 97.\nDeixar de prestar assistęncia ao idoso, quando possível fazę-lo sem\r\nrisco pessoal, em situaçăo de iminente perigo, ou recusar, retardar ou dificultar sua\r\nassistęncia ŕ saúde, sem justa causa, ou năo pedir, nesses casos, o socorro de\r\nautoridade pública:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 77078,
+        "char_end": 77343
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#152",
+      "type": "artigo_candidato",
+      "name": "Art. 97",
+      "content": "Art. 97. Deixar de prestar assistęncia ŕ \r\npessoa idosa, quando possível fazę-lo sem risco pessoal, em situaçăo de iminente \r\nperigo, ou recusar, retardar ou dificultar sua assistęncia ŕ saúde, sem justa \r\ncausa, ou năo pedir, nesses casos, o socorro de autoridade pública:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nPena – detençăo de 6 (seis) meses a 1 (um) ano e multa.\nParágrafo único. A pena é aumentada de metade, se da omissăo resulta lesăo corporal\r\nde natureza grave, e triplicada, se resulta a morte.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 77343,
+        "char_end": 77854
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#153",
+      "type": "artigo_candidato",
+      "name": "Art. 98",
+      "content": "Art. 98. Abandonar o idoso em hospitais, casas de saúde, entidades de longa permanęncia,\r\nou congęneres, ou năo prover suas necessidades básicas, quando obrigado por lei ou\r\nmandado:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 77854,
+        "char_end": 78037
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#154",
+      "type": "artigo_candidato",
+      "name": "Art. 98",
+      "content": "Art. 98. Abandonar a pessoa idosa em \r\nhospitais, casas de saúde, entidades de longa permanęncia, ou congęneres, ou năo \r\nprover suas necessidades básicas, quando obrigado por lei ou mandado:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nPena – detençăo de 6 (seis) meses a 3 (tręs) anos e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 78037,
+        "char_end": 78331
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#155",
+      "type": "artigo_candidato",
+      "name": "Art. 99",
+      "content": "Art. 99.\nExpor a perigo a integridade e a saúde, física ou psíquica, do idoso,\r\nsubmetendo-o a condiçőes desumanas ou degradantes ou privando-o de alimentos e cuidados\r\nindispensáveis, quando obrigado a fazę-lo, ou sujeitando-o a trabalho excessivo ou\r\ninadequado:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 78331,
+        "char_end": 78596
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#156",
+      "type": "artigo_candidato",
+      "name": "Art. 99",
+      "content": "Art. 99. Expor a perigo a integridade e a \r\nsaúde, física ou psíquica, da pessoa idosa, submetendo-a a condiçőes desumanas \r\nou degradantes ou privando-a de alimentos e cuidados indispensáveis, quando \r\nobrigado a fazę-lo, ou sujeitando-a a trabalho excessivo ou inadequado:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nPena – detençăo de 2 (dois) meses a 1 (um) ano e multa.\nPena \r\n - reclusăo, de 2 (dois) a 5 (cinco) anos.\n(Redaçăo dada pela Lei nş \r\n15.163, de 2025)\n§ 1\no\nSe do fato resulta lesăo corporal de natureza grave:\nPena – reclusăo de 1 (um) a 4 (quatro) anos.\nPena \r\n - reclusăo, de 3 (tręs) a 7 (sete) anos.\n(Redaçăo dada pela Lei nş \r\n15.163, de 2025)\n§ 2\no\nSe resulta a morte:\nPena – reclusăo de 4 (quatro) a 12 (doze) anos.\nPena - reclusăo, de 8 (oito) a 14 (quatorze) anos.\n(Redaçăo dada pela Lei nş \r\n15.163, de 2025)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 78596,
+        "char_end": 79433
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#157",
+      "type": "artigo_candidato",
+      "name": "Art. 100",
+      "content": "Art. 100.\nConstitui crime punível com reclusăo de 6 (seis) meses a 1 (um) ano e\r\nmulta:\nI – obstar o acesso de alguém a qualquer cargo público por motivo de idade;\nII – negar a alguém, por motivo de idade, emprego ou trabalho;\nIII – recusar, retardar ou dificultar atendimento ou deixar de prestar assistęncia\r\nŕ saúde, sem justa causa, a pessoa idosa;\nIV – deixar de cumprir, retardar ou frustrar, sem justo motivo, a execuçăo de ordem\r\njudicial expedida na açăo civil a que alude esta Lei;\nV – recusar, retardar ou omitir dados técnicos indispensáveis ŕ propositura da\r\naçăo civil objeto desta Lei, quando requisitados pelo Ministério Público.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 79433,
+        "char_end": 80079
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#158",
+      "type": "artigo_candidato",
+      "name": "Art. 101",
+      "content": "Art. 101.\nDeixar d\ne cumprir, retardar ou frustrar, sem justo motivo, a execuçăo\r\nde ordem judicial expedida nas açőes em que for parte ou interveniente o idoso:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 80079,
+        "char_end": 80241
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#159",
+      "type": "artigo_candidato",
+      "name": "Art. 101",
+      "content": "Art. 101. Deixar de cumprir, retardar ou \r\nfrustrar, sem justo motivo, a execuçăo de ordem judicial expedida nas açőes em \r\nque for parte ou interveniente a pessoa idosa:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nPena – detençăo de 6 (seis) meses a 1 (um) ano e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 80241,
+        "char_end": 80511
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#160",
+      "type": "artigo_candidato",
+      "name": "Art. 102",
+      "content": "Art. 102.\nApropriar-se de ou desviar bens, proventos, pensăo ou qualquer outro\r\nrendimento do idoso, dando-lhes aplicaçăo diversa da de sua finalidade:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 80511,
+        "char_end": 80663
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#161",
+      "type": "artigo_candidato",
+      "name": "Art. 102",
+      "content": "Art. 102. Apropriar-se de ou desviar bens, \r\nproventos, pensăo ou qualquer outro rendimento da pessoa idosa, dando-lhes \r\naplicaçăo diversa da de sua finalidade:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nPena – reclusăo de 1 (um) a 4 (quatro) anos e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 80663,
+        "char_end": 80921
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#162",
+      "type": "artigo_candidato",
+      "name": "Art. 103",
+      "content": "Art. 103.\nNegar o acolhimento ou a permanęncia do idoso, como abrigado, por recusa\r\ndeste em outorgar procuraçăo ŕ entidade de atendimento:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 80921,
+        "char_end": 81061
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#163",
+      "type": "artigo_candidato",
+      "name": "Art. 103",
+      "content": "Art. 103. Negar o acolhimento ou a \r\npermanęncia da pessoa idosa, como abrigada, por recusa desta em outorgar \r\nprocuraçăo ŕ entidade de atendimento:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nPena – detençăo de 6 (seis) meses a 1 (um) ano e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 81061,
+        "char_end": 81310
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#164",
+      "type": "artigo_candidato",
+      "name": "Art. 104",
+      "content": "Art. 104. Reter o cartăo magnético de conta bancária relativa a benefícios, proventos\r\nou pensăo do idoso, bem como qualquer outro documento com objetivo de assegurar\r\nrecebimento ou ressarcimento de dívida:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 81310,
+        "char_end": 81518
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#165",
+      "type": "artigo_candidato",
+      "name": "Art. 104",
+      "content": "Art. 104. Reter o cartăo magnético de conta \r\nbancária relativa a benefícios, proventos ou pensăo da pessoa idosa, bem como \r\nqualquer outro documento com objetivo de assegurar recebimento ou ressarcimento \r\nde dívida:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nPena – detençăo de 6 (seis) meses a 2 (dois) anos e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 81518,
+        "char_end": 81839
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#166",
+      "type": "artigo_candidato",
+      "name": "Art. 105",
+      "content": "Art. 105.\nExibir ou veicular, por qualquer meio de comunicaçăo, informaçőes ou\r\nimagens depreciativas ou injuriosas ŕ pessoa do idoso:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 81839,
+        "char_end": 81974
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#167",
+      "type": "artigo_candidato",
+      "name": "Art. 105",
+      "content": "Art. 105. Exibir ou veicular, por qualquer \r\nmeio de comunicaçăo, informaçőes ou imagens depreciativas ou injuriosas ŕ pessoa \r\nidosa:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nPena – detençăo de 1 (um) a 3 (tręs) anos e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 81974,
+        "char_end": 82203
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#168",
+      "type": "artigo_candidato",
+      "name": "Art. 106",
+      "content": "Art. 106.\nInduzir pessoa idosa sem discernimento de seus atos a outorgar\r\nprocuraçăo para fins de administraçăo de bens ou deles dispor livremente:\nPena – reclusăo de 2 (dois) a 4 (quatro) anos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 82203,
+        "char_end": 82398
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#169",
+      "type": "artigo_candidato",
+      "name": "Art. 107",
+      "content": "Art. 107.\nCoagir, de qualquer modo, o idoso a doar, contratar, testar ou outorgar\r\nprocuraçăo:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 82398,
+        "char_end": 82493
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#170",
+      "type": "artigo_candidato",
+      "name": "Art. 107",
+      "content": "Art. 107. Coagir, de qualquer modo, a pessoa \r\nidosa a doar, contratar, testar ou outorgar procuraçăo:\n(Redaçăo dada pela Lei nş 14.423, de 2022)\nPena – reclusăo de 2 (dois) a 5 (cinco) anos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 82493,
+        "char_end": 82685
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#171",
+      "type": "artigo_candidato",
+      "name": "Art. 108",
+      "content": "Art. 108.\nLavrar ato notarial que envolva pessoa idosa sem discernimento de seus\r\natos, sem a devida representaçăo legal:\nPena – reclusăo de 2 (dois) a 4 (quatro) anos.\nTÍTULO VII\nDisposiçőes Finais e Transitórias",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 82685,
+        "char_end": 82899
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#172",
+      "type": "artigo_candidato",
+      "name": "Art. 109",
+      "content": "Art. 109.\nImpedir ou embaraçar ato do representante do Ministério Público ou de\r\nqualquer outro agente fiscalizador:\nPena – reclusăo de 6 (seis) meses a 1 (um) ano e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 82899,
+        "char_end": 83072
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#173",
+      "type": "artigo_candidato",
+      "name": "Art. 110",
+      "content": "Art.\r\n110.\nO\nDecreto-Lei nş 2.848, de 7 de dezembro de 1940\n, Código\r\nPenal, passa a vigorar com as seguintes alteraçőes:\n\"Art. 61.\r\n ............................................................................\n............................................................................\nII -\r\n ............................................................................\n............................................................................\nh)\ncontra criança, maior de 60\r\n (sessenta) anos, enfermo ou mulher grávida;\n.............................................................................\"\r\n (NR)\n\"Art. 121.\r\n ............................................................................\n............................................................................\n§ 4\no\nNo homicídio\r\n culposo, a pena é aumentada de 1/3 (um terço), se o crime resulta de inobservância de\r\n regra técnica de profissăo, arte ou ofício, ou se o agente deixa de prestar imediato\r\n socorro ŕ vítima, năo procura diminuir as conseqüęncias do seu ato, ou foge para\r\n evitar prisăo em flagrante. Sendo doloso o homicídio, a pena é aumentada de 1/3 (um\r\n terço) se o crime é praticado contra pessoa menor de 14 (quatorze) ou maior de 60\r\n (sessenta) anos.\n.............................................................................\"\r\n (NR)\n\"Art. 133.\r\n ............................................................................\n............................................................................\n§ 3\no\n............................................................................\n............................................................................\nIII –\nse a vítima é maior de\r\n 60 (sessenta) anos.\" (NR)\n\"Art. 140.\r\n ............................................................................\n............................................................................\n§ 3\no\nSe a injúria\r\n consiste na utilizaçăo de elementos referentes a raça, cor, etnia, religiăo, origem ou\r\n a condiçăo de pessoa idosa ou portadora de deficięncia:\n............................................................................\r\n (NR)\n\"Art. 141.\r\n ............................................................................\n............................................................................\nIV –\ncontra pessoa maior de 60\r\n (sessenta) anos ou portadora de deficięncia, exceto no caso de injúria.\n.............................................................................\"\r\n (NR)\n\"Art. 148.\r\n ............................................................................\n............................................................................\n§ 1\no\n............................................................................\nI –\nse a vítima é ascendente,\r\n descendente, cônjuge do agente ou maior de 60 (sessenta) anos.\n............................................................................\"\r\n (NR)\n\"Art.\r\n 159............................................................................\n............................................................................\n§ 1\no\nSe o seqüestro\r\n dura mais de 24 (vinte e quatro) horas, se o seqüestrado é menor de 18 (dezoito) ou\r\n maior de 60 (sessenta) anos, ou se o crime é cometido por bando ou quadrilha.\n............................................................................\"\r\n (NR)\n\"Art.\r\n 183............................................................................\n............................................................................\nIII –\nse o crime é praticado\r\n contra pessoa com idade igual ou superior a 60 (sessenta) anos.\" (NR)\n\"Art. 244.\nDeixar, sem justa causa,\r\n de prover a subsistęncia do cônjuge, ou de filho menor de 18 (dezoito) anos ou inapto\r\n para o trabalho, ou de ascendente inválido ou maior de 60 (sessenta) anos, năo lhes\r\n proporcionando os recursos necessários ou faltando ao pagamento de pensăo alimentícia\r\n judicialmente acordada, fixada ou majorada; deixar, sem justa causa, de socorrer\r\n descendente ou ascendente, gravemente enfermo:\n............................................................................\"\r\n (NR)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 83072,
+        "char_end": 87210
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#174",
+      "type": "artigo_candidato",
+      "name": "Art. 111",
+      "content": "Art. 111.\nO\nO art. 21 do\r\nDecreto-Lei n\no\n3.688, de 3 de outubro de 1941\n, Lei das\r\nContravençőes Penais, passa a vigorar acrescido do seguinte parágrafo único:\n\"Art.\r\n 21............................................................................\n............................................................................\nParágrafo único\n. Aumenta-se a pena de 1/3\r\n (um terço) até a metade se a vítima é maior de 60 (sessenta) anos.\" (NR)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 87210,
+        "char_end": 87653
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#175",
+      "type": "artigo_candidato",
+      "name": "Art. 112",
+      "content": "Art. 112.\nO\ninciso II do § 4\no\ndo art. 1\no\nda Lei n\no\n9.455, de 7 de abril de 1997\n,\r\npassa a vigorar com a seguinte redaçăo:\n\"Art. 1\no\n............................................................................\n............................................................................\n§ 4\no\n............................................................................\nII –\nse o crime é cometido contra\r\n criança, gestante, portador de deficięncia, adolescente ou maior de 60 (sessenta) anos;\n............................................................................\"\r\n (NR)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 87653,
+        "char_end": 88235
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#176",
+      "type": "artigo_candidato",
+      "name": "Art. 113",
+      "content": "Art. 113.\nO\ninciso III do art.\r\n18 da Lei n\no\n6.368, de 21 de outubro de 1976\n, passa a vigorar com a\r\nseguinte redaçăo:\n\"Art.\r\n 18............................................................................\n............................................................................\nIII –\nse qualquer deles decorrer de\r\n associaçăo ou visar a menores de 21 (vinte e um) anos ou a pessoa com idade igual ou\r\n superior a 60 (sessenta) anos ou a quem tenha, por qualquer causa, diminuída ou suprimida\r\n a capacidade de discernimento ou de autodeterminaçăo:\n............................................................................\"\r\n (NR)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 88235,
+        "char_end": 88876
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#177",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "art 1ş da Lei n\no\n10.048, de 8 de novembro de 2000\n, passa a vigorar com a seguinte redaçăo:\n\"",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 88888,
+        "char_end": 88983
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#178",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1\no\nAs\r\n pessoas portadoras de deficięncia, os idosos com idade igual ou superior a 60 (sessenta)\r\n anos, as gestantes, as lactantes e as pessoas acompanhadas por crianças de colo terăo\r\n atendimento prioritário, nos termos desta Lei.\" (NR)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 88983,
+        "char_end": 89229
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#179",
+      "type": "artigo_candidato",
+      "name": "Art. 115",
+      "content": "Art. 115. O Orçamento da Seguridade Social destinará ao Fundo Nacional de Assistęncia\r\nSocial, até que o Fundo Nacional do Idoso seja criado, os recursos necessários, em cada\r\nexercício financeiro, para aplicaçăo em programas e açőes relativos ao idoso.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 89229,
+        "char_end": 89483
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#180",
+      "type": "artigo_candidato",
+      "name": "Art. 115",
+      "content": "Art. 115. O Orçamento da Seguridade Social \r\ndestinará ao Fundo Nacional de Assistęncia Social, até que o Fundo Nacional da \r\nPessoa Idosa seja criado, os recursos necessários, em cada exercício financeiro, \r\npara aplicaçăo em programas e açőes relativos ŕ pessoa idosa.\n(Redaçăo dada pela Lei nş 14.423, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 89483,
+        "char_end": 89797
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#181",
+      "type": "artigo_candidato",
+      "name": "Art. 116",
+      "content": "Art. 116.\nSerăo incluídos nos censos demográficos dados relativos ŕ populaçăo\r\nidosa do País.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 89797,
+        "char_end": 89891
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#182",
+      "type": "artigo_candidato",
+      "name": "Art. 117",
+      "content": "Art. 117.\nO Poder Executivo encaminhará ao Congresso Nacional projeto de lei\r\nrevendo os critérios de concessăo do Benefício de Prestaçăo Continuada previsto na\r\nLei Orgânica da Assistęncia Social, de forma a garantir que o acesso ao direito seja\r\ncondizente com o estágio de desenvolvimento sócio-econômico alcançado pelo País.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 89891,
+        "char_end": 90220
+      }
+    },
+    {
+      "id": "BR.LEI.10741.2003#183",
+      "type": "artigo_candidato",
+      "name": "Art. 118",
+      "content": "Art. 118.\nEsta Lei entra em vigor decorridos 90 (noventa) dias\r\nda sua publicaçăo, ressalvado o disposto no\ncaput\ndo art. 36\n, que vigorará a\r\npartir de 1\no\nde janeiro de 2004.\nBrasília, 1\no\nde outubro de 2003; 182\no\nda\r\nIndependęncia e 115\no\nda República.\nLUIZ INÁCIO LULA DA SILVA\nMárcio Thomaz Bastos\nAntonio Palocci Filho\nRubem Fonseca Filho\nHumberto Sérgio Costa LIma\nGuido Mantega\nRicardo José Ribeiro Berzoini\nBenedita Souza da Silva Sampaio\nÁlvaro Augusto Ribeiro Costa\nEste texto năo substitui o\r\npublicado no DOU de 3.10.2003\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 90220,
+        "char_end": 90758
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "ab907f131a2a1d226a45212578039576a5df43f2cf8ff31b5a9deee3c4e6b571"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "atendimento"
+    },
+    {
+      "type": "subject",
+      "target": "consumidor"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:31:43.506735+00:00",
+      "sha256": "ab907f131a2a1d226a45212578039576a5df43f2cf8ff31b5a9deee3c4e6b571",
+      "file": "documentos_oficiais/08_transversal/br-lei-10741-2003.html",
+      "extracted_text": "textos_extraidos/08_transversal/br-lei-10741-2003.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 183,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

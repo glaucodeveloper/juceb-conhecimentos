@@ -1,0 +1,129 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.LIBERDADE_ECONOMICA",
+  "title": "Atividades de baixo risco e liberdade econômica",
+  "summary": "Licenciamento e dispensas dependem de atividades, território e atos locais.",
+  "elements": [
+    {
+      "id": "liberdade-economica.1",
+      "type": "fator_de_decisao",
+      "name": "UF"
+    },
+    {
+      "id": "liberdade-economica.2",
+      "type": "fator_de_decisao",
+      "name": "municipio"
+    },
+    {
+      "id": "liberdade-economica.3",
+      "type": "fator_de_decisao",
+      "name": "atividade economica"
+    },
+    {
+      "id": "liberdade-economica.4",
+      "type": "fator_de_decisao",
+      "name": "grau de risco"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "registro"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": true
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.13874.2019"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.11598.2007"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "UF",
+        "municipio",
+        "atividade economica",
+        "grau de risco"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.LEI.13874.2019",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LEI.11598.2007",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Confirmar enquadramento local",
+    "Verificar ausência de dispensa genérica"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "registro/liberdade-economica",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.LEI.13874.2019",
+      "title": "Declaração de Direitos de Liberdade Econômica",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/lei-13874-2019.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LEI.11598.2007",
+      "title": "REDESIM",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/lei-11598-2007.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

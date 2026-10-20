@@ -1,0 +1,15 @@
+{
+  "schema": "cognoscere.speciality.v1",
+  "slug": "juceb-conhecimentos",
+  "title": "JUCEB | Legislação empresarial e fiscal da Bahia",
+  "description": "Speciality de pesquisa sobre registro empresarial na Bahia e legislação empresarial, tributária e fiscal brasileira. Corpus em curadoria; exige validação de fontes e vigência.",
+  "created_at": "2026-10-20T00:00:00Z",
+  "updated_at": "2026-10-20T07:47:25Z",
+  "memory_path": "memories",
+  "metadata": {
+    "status": "source-corpus-staged",
+    "source_bundle": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip",
+    "metis_tensors_ready": false,
+    "source_archive_sha256": "6e1afbd5ee467980c94311d351aa3c97a36e3e98ec644cbde7e4f69a4ddca903"
+  }
+}

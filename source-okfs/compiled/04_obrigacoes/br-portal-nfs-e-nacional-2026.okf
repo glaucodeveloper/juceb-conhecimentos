@@ -1,0 +1,69 @@
+{
+  "schema": "okfforge.juceb.compiled_source.v1",
+  "id": "BR.PORTAL_NFS-E.nacional.2026",
+  "title": "Padrão Nacional NFS-e e documentação",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "40f50d17816aeb1dec7fa2959ec2d9b6bf4da2a54e7051281e9314a12f50b4ce"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "nfse"
+    },
+    {
+      "type": "subject",
+      "target": "documentos fiscais"
+    },
+    {
+      "type": "subject",
+      "target": "iss"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.gov.br/nfse/pt-br",
+      "original_url": "https://www.gov.br/nfse/pt-br",
+      "authority": "Comitê Gestor NFS-e",
+      "retrieved_at": "2026-10-20T07:31:17.855616+00:00",
+      "sha256": "40f50d17816aeb1dec7fa2959ec2d9b6bf4da2a54e7051281e9314a12f50b4ce",
+      "file": "documentos_oficiais/04_obrigacoes/br-portal-nfs-e-nacional-2026.html",
+      "extracted_text": "textos_extraidos/04_obrigacoes/br-portal-nfs-e-nacional-2026.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 0,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "automatically_extracted_legal_source",
+  "topic_key": "compiled/br-portal-nfs-e-nacional-2026",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "review_status": "automatic_extraction_not_legally_consolidated"
+}

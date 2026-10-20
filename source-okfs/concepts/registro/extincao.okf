@@ -1,0 +1,154 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.EXTINCAO",
+  "title": "Encerramento e baixa",
+  "summary": "Distinção entre arquivamento de extinção e regularização de obrigações fiscais.",
+  "elements": [
+    {
+      "id": "extincao.1",
+      "type": "fator_de_decisao",
+      "name": "tipo juridico"
+    },
+    {
+      "id": "extincao.2",
+      "type": "fator_de_decisao",
+      "name": "inscricoes"
+    },
+    {
+      "id": "extincao.3",
+      "type": "fator_de_decisao",
+      "name": "regime"
+    },
+    {
+      "id": "extincao.4",
+      "type": "fator_de_decisao",
+      "name": "UF"
+    },
+    {
+      "id": "extincao.5",
+      "type": "fator_de_decisao",
+      "name": "municipio"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "registro"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": true
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.8934.1994"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.11598.2007"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.123.2006"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "tipo juridico",
+        "inscricoes",
+        "regime",
+        "UF",
+        "municipio"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.LEI.8934.1994",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LEI.11598.2007",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LC.123.2006",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Conferir formalidades de baixa",
+    "Verificar obrigações remanescentes"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "registro/extincao",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.LEI.8934.1994",
+      "title": "Registro Público de Empresas Mercantis",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/lei-8934-1994.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LEI.11598.2007",
+      "title": "REDESIM",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/lei-11598-2007.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LC.123.2006",
+      "title": "Estatuto ME/EPP e Simples Nacional",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+      "evidence_url": "",
+      "reference_okf": "references/02_simples/lc-123-2006.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

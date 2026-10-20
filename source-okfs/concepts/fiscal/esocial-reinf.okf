@@ -1,0 +1,153 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.ESOCIAL_REINF",
+  "title": "eSocial, Reinf e DCTFWeb",
+  "summary": "Obrigações de folha de pagamento, retenções e consolidação.",
+  "elements": [
+    {
+      "id": "esocial-reinf.1",
+      "type": "fator_de_decisao",
+      "name": "empregados"
+    },
+    {
+      "id": "esocial-reinf.2",
+      "type": "fator_de_decisao",
+      "name": "folha"
+    },
+    {
+      "id": "esocial-reinf.3",
+      "type": "fator_de_decisao",
+      "name": "retencoes"
+    },
+    {
+      "id": "esocial-reinf.4",
+      "type": "fator_de_decisao",
+      "name": "regime"
+    },
+    {
+      "id": "esocial-reinf.5",
+      "type": "fator_de_decisao",
+      "name": "competencia"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "fiscal"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.DECRETO.8373.2014"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.8212.1991"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.IN_RFB.2005.2021"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "empregados",
+        "folha",
+        "retencoes",
+        "regime",
+        "competencia"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.DECRETO.8373.2014",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8373.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LEI.8212.1991",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.IN_RFB.2005.2021",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action",
+      "authority": "Receita Federal",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Checar leiautes, fase e portarias vigentes"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "fiscal/esocial-reinf",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.DECRETO.8373.2014",
+      "title": "eSocial",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8373.htm",
+      "evidence_url": "",
+      "reference_okf": "references/04_obrigacoes/decreto-8373-2014.okf",
+      "source_verified": false
+    },
+    {
+      "id": "BR.LEI.8212.1991",
+      "title": "Custeio da Seguridade Social",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lei-8212-1991.okf",
+      "source_verified": false
+    },
+    {
+      "id": "BR.IN_RFB.2005.2021",
+      "title": "DCTFWeb (verificar alterações e atos substitutos)",
+      "authority": "Receita Federal",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=102406",
+      "evidence_url": "",
+      "reference_okf": "references/04_obrigacoes/in-rfb-2005-2021.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

@@ -1,0 +1,189 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.DECRETO.6022.2007",
+  "title": "SPED — Sistema Público de Escrituração Digital",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.DECRETO.6022.2007#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1\no\nFica instituído o Sistema \r\nPúblico de Escrituração Digital - Sped.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 602,
+        "char_end": 679
+      }
+    },
+    {
+      "id": "BR.DECRETO.6022.2007#2",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2\no\nO \r\nSped é instrumento que unifica as atividades de recepção, validação, \r\narmazenamento e autenticação de livros e documentos que integram a escrituração \r\ncomercial e fiscal dos empresários e das sociedades empresárias, mediante fluxo \r\núnico, computadorizado, de informações\n.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 679,
+        "char_end": 968
+      }
+    },
+    {
+      "id": "BR.DECRETO.6022.2007#3",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2\no\nO \r\nSped é instrumento que unifica as atividades de recepção, validação, \r\narmazenamento e autenticação de livros e documentos que integram a escrituração \r\ncontábil e fiscal dos empresários e das pessoas jurídicas, inclusive imunes ou \r\nisentas, mediante fluxo único, computadorizado, de informações.\n(Redação dada pelo \r\nDecreto nº 7.979, de 2013)\n§ 1\no\nOs \r\nlivros e documentos de que trata o caput serão emitidos em forma eletrônica, \r\nobservado o disposto na Medida Provisória n\no\n2.200-2, de 24 de \r\nagosto de 2001.\n§ 2\no\nO disposto no caput não dispensa \r\no empresário e a sociedade empresária de manter sob sua guarda e \r\nresponsabilidade os livros e documentos na forma e prazos previstos na \r\nlegislação aplicável.\n§ 2\no\nO \r\ndisposto no\ncaput\nnão dispensa o empresário e as pessoas jurídicas, \r\ninclusive imunes ou isentas, de manter sob sua guarda e responsabilidade os \r\nlivros e documentos na forma e prazos previstos na legislação aplicável.\n(Redação dada pelo \r\nDecreto nº 7.979, de 2013)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 968,
+        "char_end": 1981
+      }
+    },
+    {
+      "id": "BR.DECRETO.6022.2007#4",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3\no\nSão usuários do Sped:\nI - a Secretaria da Receita Federal do Ministério da \r\nFazenda;\nII - as\nadministrações tributárias dos Estados, do \r\nDistrito Federal e dos Municípios, mediante convênio celebrado com a Secretaria \r\nda Receita Federal; e\nIII - os órgãos e as entidades da administração pública \r\nfederal direta e indireta que tenham atribuição legal de regulação, normatização, controle e fiscalização dos\nempresários e das sociedades \r\nempresárias.\nIII - os órgãos e \r\nas entidades da administração pública federal direta e indireta que tenham \r\natribuição legal de regulação, normatização, controle e fiscalização dos \r\nempresários e das pessoas jurídicas, inclusive imunes ou isentas.\n(Redação dada pelo \r\nDecreto nº 7.979, de 2013)\n§ 1\no\nOs \r\nusuários de que trata o caput\n, no âmbito de suas \r\nrespectivas competências, deverão estabelecer a obrigatoriedade, periodicidade e \r\nprazos de apresentação dos livros e documentos, por eles exigidos, por \r\nintermédio do Sped.\n§ 2\no\nOs \r\natos administrativos expedidos em observância ao disposto no § 1\nº\ndeverão \r\nser implementados no Sped concomitantemente com a entrada em vigor desses atos.\n§ 3\no\nO \r\ndisposto no § 1\no\nnão exclui a competência dos usuários ali \r\nmencionados de exigir, a qualquer tempo, informações adicionais necessárias ao \r\ndesempenho de suas atribuições.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1981,
+        "char_end": 3323
+      }
+    },
+    {
+      "id": "BR.DECRETO.6022.2007#5",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4\no\nO \r\nacesso às informações armazenadas no Sped deverá ser compartilhado com seus \r\nusuários\n, no limite de suas respectivas competências e \r\nsem prejuízo da observância à legislação referente aos sigilos comercial, fiscal \r\ne bancário.\nParágrafo único.  O acesso previsto no caput também será possível aos \r\nempresários e às sociedades empresárias em relação às informações por eles \r\ntransmitidas ao Sped.\nParágrafo \r\núnico.  O acesso previsto no\ncaput\ntambém será possível aos empresários e \r\nàs pessoas jurídicas, inclusive imunes ou isentas, em relação às informações por \r\neles transmitidas ao Sped.\n(Redação dada pelo \r\nDecreto nº 7.979, de 2013)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3323,
+        "char_end": 3984
+      }
+    },
+    {
+      "id": "BR.DECRETO.6022.2007#6",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5\no\nO \r\nSped será administrado pela Secretaria da Receita Federal com a participação de \r\nrepresentantes indicados pelos usuários de que tratam os incisos II e III do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3984,
+        "char_end": 4158
+      }
+    },
+    {
+      "id": "BR.DECRETO.6022.2007#7",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "art. 3\no\n.\n§ 1\no\nOs usuários do Sped, com vistas \r\na atender o disposto no\n§ 2\no\ndo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4158,
+        "char_end": 4244
+      }
+    },
+    {
+      "id": "BR.DECRETO.6022.2007#8",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "art. 3\no\n,\ne previamente à edição de \r\nseus atos administrativos, deverão articular-se com a Secretaria da Receita \r\nFederal por intermédio de seu representante.\n§ 2\no\nA Secretaria da Receita Federal, \r\nsempre que necessário, poderá solicitar a participação de representantes dos \r\nempresários e das sociedades empresárias, bem assim de entidades de âmbito \r\nnacional representativas dos profissionais da área contábil, nas atividades \r\nrelacionadas ao Sped.\n§ 2\no\nA \r\nSecretaria da Receita Federal do Brasil do Ministério da Fazenda poderá \r\nsolicitar a participação de representantes dos empresários, das pessoas \r\njurídicas, inclusive imunes ou isentas, e de entidades de âmbito nacional \r\nrepresentativas dos profissionais da área contábil, nas atividades relacionadas \r\nao Sped.\n(Redação dada pelo Decreto nº 7.979, de 2013)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4244,
+        "char_end": 5074
+      }
+    },
+    {
+      "id": "BR.DECRETO.6022.2007#9",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6\no\nCompete à Secretaria da Receita Federal:\nI - adotar as medidas necessárias para viabilizar a implantação e o \r\nfuncionamento do Sped;\nII - coordenar as atividades relacionadas ao Sped;\nIII - compatibilizar as necessidades dos usuários do Sped; e\nIV - estabelecer a política de segurança e de acesso às informações armazenadas \r\nno Sped, observado o disposto no art. 4\no\n.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5074,
+        "char_end": 5455
+      }
+    },
+    {
+      "id": "BR.DECRETO.6022.2007#10",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7\no\nO Sped manterá, ainda, funcionalidades de uso \r\nexclusivo dos órgãos de registro para as atividades de autenticação de livros \r\nmercantis.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5455,
+        "char_end": 5603
+      }
+    },
+    {
+      "id": "BR.DECRETO.6022.2007#11",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8\no\nA Secretaria da Receita Federal e os órgãos a que se \r\nrefere o inciso III do art. 3\no\nexpedirão, em suas respectivas \r\náreas de atuação, normas complementares ao cumprimento do disposto neste \r\nDecreto.\n§ 1\no\nAs normas\nde que trata o caput \r\nrelacionadas a leiautes e prazos de apresentação de informações contábeis serão \r\neditadas após consulta e, quando couber, anuência dos usuários do Sped.\n§ 2\no\nEm relação às informações de \r\nnatureza fiscal de interesse comum, os leiautes e prazos de apresentação serão \r\nestabelecidos mediante convênio celebrado entre a Secretaria da Receita Federal \r\ne os usuários de que trata o inciso II do art. 3\n°\n.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5603,
+        "char_end": 6262
+      }
+    },
+    {
+      "id": "BR.DECRETO.6022.2007#12",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9\no\nEste Decreto entra em vigor \r\nna data de sua publicação.\nBrasília, 22 de janeiro de 2007; 186\nº\nda Independência e 119\nº\nda \r\nRepública.\nLUIZ INÁCIO LULA DA SILVA\nBernard \r\nAppy\nEste \r\ntexto não substitui o publicado no DOU de 22.1.2007 - Edição extra\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6262,
+        "char_end": 6525
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "9e23b0085d22a6eb4b2b3e49be15ed4622c9fdf189ca6f6f22e0670292271150"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "sped"
+    },
+    {
+      "type": "subject",
+      "target": "escrituracao digital"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:31:11.650007+00:00",
+      "sha256": "9e23b0085d22a6eb4b2b3e49be15ed4622c9fdf189ca6f6f22e0670292271150",
+      "file": "documentos_oficiais/04_obrigacoes/br-decreto-6022-2007.html",
+      "extracted_text": "textos_extraidos/04_obrigacoes/br-decreto-6022-2007.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 12,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

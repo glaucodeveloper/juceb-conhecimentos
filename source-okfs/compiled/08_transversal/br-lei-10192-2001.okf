@@ -1,0 +1,297 @@
+{
+  "schema": "okfforge.juceb.compiled_source.v1",
+  "id": "BR.LEI.10192.2001",
+  "title": "Normas sobre medidas complementares ao Plano Real",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.LEI.10192.2001#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1\no\nAs estipulaçőes de pagamento\r\nde obrigaçőes pecuniárias exeqüíveis no território nacional deverăo ser feitas em\r\nReal, pelo seu valor nominal.\nParágrafo único. Săo vedadas, sob pena de nulidade, quaisquer estipulaçőes de:\nI - pagamento expressas em, ou vinculadas a ouro ou moeda estrangeira, ressalvado o\r\ndisposto nos\narts. 2\no\ne 3\no\ndo Decreto-Lei n\no\n857, de 11 de setembro de 1969\n, e na parte final\r\ndo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 566,
+        "char_end": 984
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#2",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "art. 6\no\nda Lei n\no\n8.880, de 27 de maio de 1994;\nI - pagamento expressas ou vinculadas a ouro ou moeda \r\n estrangeira, ressalvadas as hipóteses previstas em lei ou na \r\n regulamentaçăo editada pelo Banco Central do Brasil;\n(Redaçăo dada pela Lei nş 14.286, de \r\n2021)\n(Vigęncia)\nII - reajuste ou correçăo monetária expressas em, ou vinculadas a unidade monetária de\r\nconta de qualquer natureza;\nIII - correçăo monetária ou de reajuste por índices de preços gerais, setoriais ou\r\nque reflitam a variaçăo dos custos de produçăo ou dos insumos utilizados, ressalvado o\r\ndisposto no artigo seguinte.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 984,
+        "char_end": 1581
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#3",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2\no\nÉ admitida estipulaçăo de\r\ncorreçăo monetária ou de reajuste por índices de preços gerais, setoriais ou que\r\nreflitam a variaçăo dos custos de produçăo ou dos insumos utilizados nos contratos de\r\nprazo de duraçăo igual ou superior a um ano.\n§ 1\no\nÉ nula de pleno direito\r\nqualquer estipulaçăo de reajuste ou correçăo monetária de periodicidade inferior a um\r\nano.\n§ 2\no\nEm caso de revisăo contratual, o termo inicial do período de\r\ncorreçăo monetária ou reajuste, ou de nova revisăo, será a data em que a anterior\r\nrevisăo tiver ocorrido.\n§ 3\no\nRessalvado o disposto no\n§ 7\no\ndo art. 28 da Lei n\no\n9.069, de 29 de junho de 1995\n, e no parágrafo seguinte, săo nulos de pleno direito\r\nquaisquer expedientes que, na apuraçăo do índice de reajuste, produzam efeitos\r\nfinanceiros equivalentes aos de reajuste de periodicidade inferior ŕ anual.\n§ 4\no\nNos contratos de prazo de duraçăo igual ou superior a tręs\r\nanos, cujo objeto seja a produçăo de bens para entrega futura ou a aquisiçăo de bens\r\nou direitos a eles relativos, as partes poderăo pactuar a atualizaçăo das obrigaçőes,\r\na cada período de um ano, contado a partir da contrataçăo, e no seu vencimento final,\r\nconsiderada a periodicidade de pagamento das prestaçőes, e abatidos os pagamentos,\r\natualizados da mesma forma, efetuados no período.\n§ 5\no\nO disposto no parágrafo\r\nanterior aplica-se aos contratos celebrados a partir de 28 de outubro de 1995 até 11 de\r\noutubro de 1997.\n(Vide Medida Provisória nş 2.223, de 4.9.2001)\n§ 6\no\nO prazo a que alude o parágrafo anterior poderá ser prorrogado\r\nmediante ato do Poder Executivo.\n(Vide Medida Provisória nş 2.223, de 4.9.2001)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1581,
+        "char_end": 3223
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#4",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3\no\nOs contratos em que seja parte órgăo ou entidade da\r\nAdministraçăo Pública direta ou indireta da Uniăo, dos Estados, do Distrito Federal e\r\ndos Municípios, serăo reajustados ou corrigidos monetariamente de acordo com as\r\ndisposiçőes desta Lei, e, no que com ela năo conflitarem, da\nLei\r\nn\no\n8.666, de 21 de junho de 1993.\n§ 1\no\nA periodicidade anual nos contratos de que trata o caput deste\r\nartigo será contada a partir da data limite para apresentaçăo da proposta ou do\r\norçamento a que essa se referir.\n§ 2\no\nO Poder Executivo regulamentará o disposto neste artigo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3223,
+        "char_end": 3801
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#5",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4\no\nOs contratos celebrados no âmbito dos mercados referidos no\n§ 5\no\ndo art. 27 da Lei n\no\n9.069, de 1995\n, inclusive as condiçőes de remuneraçăo da poupança financeira, bem\r\nassim no da previdęncia privada fechada, permanecem regidos por legislaçăo própria.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3801,
+        "char_end": 4066
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#6",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5\no\nFica instituída Taxa Básica Financeira - TBF, para ser\r\nutilizada exclusivamente como base de remuneraçăo de operaçőes realizadas no mercado\r\nfinanceiro, de prazo de duraçăo igual ou superior a sessenta dias.\nParágrafo único. O Conselho Monetário Nacional expedirá as instruçőes necessárias\r\nao cumprimento do disposto neste artigo, podendo, inclusive, ampliar o prazo mínimo\r\nprevisto no caput.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4066,
+        "char_end": 4471
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#7",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6\no\nA Unidade Fiscal de Referęncia - UFIR,\r\ncriada pela\nLei n\no\n8.383, de 30 de dezembro de\r\n1991\n, será reajustada:\nI - semestralmente, durante o ano-calendário de 1996;\nII - anualmente, a partir de 1\no\nde janeiro de 1997.\nParágrafo único. A reconversăo, para Real, dos valores expressos em UFIR, extinta em 27\r\nde outubro de 2000, será efetuada com base no valor dessa Unidade fixado para o\r\nexercício de 2000.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4471,
+        "char_end": 4889
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#8",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7\no\nObservado o disposto no artigo anterior, ficam extintas, a\r\npartir de 1\no\nde julho de 1995, as unidades monetárias de conta criadas\r\nou reguladas pelo Poder Público, exceto as unidades monetárias de conta fiscais\r\nestaduais, municipais e do Distrito Federal, que serăo extintas a partir de 1\no\nde janeiro de 1996.\n§ 1\no\nEm 1\no\nde julho de 1995 e em 1\no\nde janeiro de 1996, os valores expressos, respectivamente, nas unidades monetárias de\r\nconta extintas na forma do caput deste artigo serăo convertidos em Real, com observância\r\ndo disposto no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4889,
+        "char_end": 5443
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#9",
+      "type": "artigo_candidato",
+      "name": "Art. 44",
+      "content": "art. 44 da Lei n\no\n9.069, de\r\n1995\n, no que couber.\n§ 2\no\nOs Estados, o Distrito Federal e os Municípios poderăo utilizar\r\na UFIR nas mesmas condiçőes e periodicidade adotadas pela Uniăo, em substituiçăo ŕs\r\nrespectivas unidades monetárias de conta fiscais extintas.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5443,
+        "char_end": 5710
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#10",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8\no\nA partir de 1\no\nde julho de 1995, a Fundaçăo\r\nInstituto Brasileiro de Geografia e Estatística - IBGE deixará de calcular e divulgar o\r\nIPC-r.\n§ 1\no\nNas obrigaçőes e contratos em que haja estipulaçăo de reajuste\r\npelo IPC-r, este será substituído, a partir de 1\no\nde julho de 1995,\r\npelo índice previsto contratualmente para este fim.\n§ 2\no\nNa hipótese de năo existir previsăo de índice de preços\r\nsubstituto, e caso năo haja acordo entre as partes, deverá ser utilizada média de\r\níndices de preços de abrangęncia nacional, na forma de regulamentaçăo a ser baixada\r\npelo Poder Executivo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5710,
+        "char_end": 6306
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#11",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9\no\nÉ assegurado aos trabalhadores, na primeira data-base da\r\nrespectiva categoria após julho de 1995, o pagamento de reajuste relativo ŕ variaçăo\r\nacumulada do IPC-r entre a última data-base, anterior a julho de 1995, e junho de 1995,\r\ninclusive.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6306,
+        "char_end": 6559
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#12",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. Os salários e as demais condiçőes referentes ao trabalho continuam a ser\r\nfixados e revistos, na respectiva data-base anual, por intermédio da livre negociaçăo\r\ncoletiva.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6559,
+        "char_end": 6739
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#13",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11. Frustrada a negociaçăo entre as partes, promovida diretamente ou através de\r\nmediador, poderá ser ajuizada a açăo de dissídio coletivo.\n§ 1\no\nO mediador será designado de comum acordo pelas partes ou, a\r\npedido destas, pelo Ministério do Trabalho e Emprego, na forma da regulamentaçăo de que\r\ntrata o § 5\no\ndeste artigo.\n§ 2\no\nA parte que se considerar sem as condiçőes adequadas para, em\r\nsituaçăo de equilíbrio, participar da negociaçăo direta, poderá, desde logo,\r\nsolicitar ao Ministério do Trabalho e Emprego a designaçăo de mediador, que convocará\r\na outra parte.\n§ 3\no\nO mediador designado terá prazo de até trinta dias para a\r\nconclusăo do processo de negociaçăo, salvo acordo expresso com as partes interessadas.\n§ 4\no\nNăo alcançado o entendimento entre as partes, ou recusando-se\r\nqualquer delas ŕ mediaçăo, lavrar-se-á ata contendo as causas motivadoras do conflito\r\ne as reivindicaçőes de natureza econômica, documento que instruirá a representaçăo\r\npara o ajuizamento do dissídio coletivo.\n§ 5\no\nO Poder Executivo regulamentará o disposto neste artigo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6739,
+        "char_end": 7814
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#14",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12. No ajuizamento do dissídio coletivo, as partes deverăo apresentar,\r\nfundamentadamente, suas propostas finais, que serăo objeto de conciliaçăo ou\r\ndeliberaçăo do Tribunal, na sentença normativa.\n§ 1\no\nA decisăo que puser fim ao dissídio será fundamentada, sob pena\r\nde nulidade, deverá traduzir, em seu conjunto, a justa composiçăo do conflito de\r\ninteresse das partes, e guardar adequaçăo com o interesse da coletividade.\n§ 2\no\nA sentença normativa deverá ser publicada no prazo de quinze\r\ndias da decisăo do Tribunal.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7814,
+        "char_end": 8342
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#15",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13. No acordo ou convençăo e no dissídio, coletivos, é vedada a estipulaçăo ou\r\nfixaçăo de cláusula de reajuste ou correçăo salarial automática vinculada a índice\r\nde preços.\n§ 1\no\nNas revisőes salariais na data-base anual, serăo deduzidas as\r\nantecipaçőes concedidas no período anterior ŕ revisăo.\n§ 2\no\nQualquer concessăo de aumento salarial a título de produtividade\r\ndeverá estar amparada em indicadores objetivos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8342,
+        "char_end": 8766
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#16",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14. O recurso interposto de decisăo normativa da Justiça do Trabalho terá efeito\r\nsuspensivo, na medida e extensăo conferidas em despacho do Presidente do Tribunal\r\nSuperior do Trabalho.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8766,
+        "char_end": 8958
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#17",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15. Permanecem em vigor as disposiçőes legais relativas a correçăo monetária de\r\ndébitos trabalhistas, de débitos resultantes de decisăo judicial, de débitos relativos\r\na ressarcimento em virtude de inadimplemento de obrigaçőes contratuais e do passivo de\r\nempresas e instituiçőes sob os regimes de concordata, falęncia, intervençăo e\r\nliquidaçăo extrajudicial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8958,
+        "char_end": 9325
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#18",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16. Ficam convalidados os atos praticados com base na\nMedida Provisória n\no\n2.074-72, de\r\n27 de dezembro de 2000.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9325,
+        "char_end": 9444
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#19",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17. Esta Lei entra em vigor na data de sua publicaçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9444,
+        "char_end": 9504
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#20",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "Art. 18. Revogam-se os\n§§ 1\no\ne\n2\no\ndo art. 947 do Código Civil\n, os\n§§ 1\no\ne 2\no\ndo art. 1\no\nda Lei n\no\n8.542, de 23 de dezembro de\r\n1992\n, e o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9504,
+        "char_end": 9649
+      }
+    },
+    {
+      "id": "BR.LEI.10192.2001#21",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "art. 14 da Lei n\no\n8.177, de 1\no\nde março de 1991\n.\nCongresso Nacional, em 14 de fevereiro de 2001;\r\n180\no\nda Independęncia e 113\no\nda República\nSenador\r\nAntonio Carlos Magalhăes\nPresidente\nEste texto năo substitui\r\no publicado no DOU de 16.2.2001\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9649,
+        "char_end": 9899
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "06bba93231d9dc22811a1c26b8e374984ef5c7944eec8968c72af83fec2c0a7a"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "contratos"
+    },
+    {
+      "type": "subject",
+      "target": "precos"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10192.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10192.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:31:42.832579+00:00",
+      "sha256": "06bba93231d9dc22811a1c26b8e374984ef5c7944eec8968c72af83fec2c0a7a",
+      "file": "documentos_oficiais/08_transversal/br-lei-10192-2001.html",
+      "extracted_text": "textos_extraidos/08_transversal/br-lei-10192-2001.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 21,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "automatically_extracted_legal_source",
+  "topic_key": "compiled/br-lei-10192-2001",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "review_status": "automatic_extraction_not_legally_consolidated"
+}

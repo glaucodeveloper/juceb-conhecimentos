@@ -1,0 +1,171 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.DECRETO.11158.2022",
+  "title": "TIPI — Tabela de Incidência do IPI",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.DECRETO.11158.2022#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. \r\n 1ş  Fica aprovada a Tabela de Incidęncia do Imposto sobre Produtos \r\n Industrializados - TIPI, anexa a este Decreto.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 502,
+        "char_end": 627
+      }
+    },
+    {
+      "id": "BR.DECRETO.11158.2022#2",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. \r\n 2ş  A TIPI tem por base a Nomenclatura Comum do Mercosul - NCM.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 627,
+        "char_end": 699
+      }
+    },
+    {
+      "id": "BR.DECRETO.11158.2022#3",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. \r\n 3ş  A NCM constitui a Nomenclatura Brasileira de Mercadorias - NBM, baseada \r\n no Sistema Harmonizado - SH, para todos os efeitos previstos no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 699,
+        "char_end": 850
+      }
+    },
+    {
+      "id": "BR.DECRETO.11158.2022#4",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "art. 2ş do \r\n Decreto-Lei nş 1.154, de 1ş de março de 1971.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 850,
+        "char_end": 910
+      }
+    },
+    {
+      "id": "BR.DECRETO.11158.2022#5",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. \r\n 4ş  Fica a Secretaria Especial da Receita Federal do Brasil do Ministério da \r\n Economia autorizada a adequar a TIPI sempre que năo implicar alteraçăo de \r\n alíquota, em decorręncia de alteraçőes promovidas na NCM pelo \r\n Comitę-Executivo de Gestăo da Câmara de Comércio Exterior - Camex do \r\n Ministério da Economia.\nParágrafo único.  Aplica-se ao ato de adequaçăo editado pela Secretaria \r\n Especial da Receita Federal do Brasil do Ministério da Economia o disposto \r\n no\ninciso I do\ncaput\ndo art. 106 da Lei nş 5.172, de 25 de outubro de \r\n 1966.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 910,
+        "char_end": 1468
+      }
+    },
+    {
+      "id": "BR.DECRETO.11158.2022#6",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5ş  Os distribuidores de que trata o\ninciso II do caput do art. 2ş da \r\n Lei nş 6.729, de 28 de novembro de 1979\n, poderăo efetuar a devoluçăo \r\n ficta ao produtor de veículos classificados na posiçăo 87.03 da TIPI dos \r\n automóveis existentes em seu estoque em 31 de julho de 2022.\n§ \r\n 1ş  A devoluçăo ficta a que se refere o\ncaput\n:\nI - \r\n será efetuada mediante emissăo de nota fiscal de devoluçăo; e\nII - \r\n poderá ser efetuada até 31 de outubro de 2022.\n§ \r\n 2ş  A nota fiscal de devoluçăo a que se refere o inciso I do § 1ş conterá a \r\n expressăo “Nota fiscal de devoluçăo emitida na forma prevista no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1468,
+        "char_end": 2082
+      }
+    },
+    {
+      "id": "BR.DECRETO.11158.2022#7",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "art. 5ş do \r\n Decreto nş 11.158, de 29 de julho de 2022\n”.\n§ \r\n 3ş  O produtor de veículos a que se refere o\ncaput\ndeverá:\nI - \r\n registrar a devoluçăo do veículo em seu estoque, com os registros fiscais e \r\n contábeis referentes a essa operaçăo, e creditar-se do Imposto sobre \r\n Produtos Industrializados - IPI que houver incidido sobre a saída efetiva do \r\n produto;\nII - \r\n promover a saída ficta para o mesmo distribuidor que houver efetuado a \r\n devoluçăo ficta e registrar o IPI com a alíquota vigente ŕ data da emissăo \r\n da nota fiscal referente ŕ saída ficta; e\nIII \r\n - registrar, na nota fiscal referente ŕ saída ficta, a expressăo “Nota \r\n fiscal emitida na forma prevista no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2082,
+        "char_end": 2771
+      }
+    },
+    {
+      "id": "BR.DECRETO.11158.2022#8",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "art. 5ş do Decreto nş 11.158, de 29 de \r\n julho de 2022\n, referente ŕ nota fiscal de devoluçăo nş          ”.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2771,
+        "char_end": 2881
+      }
+    },
+    {
+      "id": "BR.DECRETO.11158.2022#9",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. \r\n 6ş  Ficam revogados:\nI - \r\n o\nDecreto nş 10.923, de 30 dezembro de 2021\n; e\nII - \r\n o\nDecreto nş 11.055, de 28 de abril de 2022\n.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2881,
+        "char_end": 3019
+      }
+    },
+    {
+      "id": "BR.DECRETO.11158.2022#10",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. \r\n 7ş  Este Decreto entra em vigor na data de sua publicaçăo e produz efeitos a \r\n partir de 1ş de agosto de 2022.\nBrasília, 29 de julho \r\n de 2022; 201ş da Independęncia e 134ş da República.\nJAIR MESSIAS \r\n BOLSONARO\nPaulo \r\n Guedes\nEste texto năo substitui o \r\n publicado no DOU de 29.7.2022 - Ediçăo extra,\nrepublicado no DOU \r\n de 30.7.2022\n- Ediçăo extra\ne\nrepublicado no \r\n DOU de 31.7.2022\n- Ediçăo extra\nDownload para anexos\nAnexo I\nAnexo II\nAnexo III\nAnexo IV\nALTERAÇŐES:\n(Vide Decreto nş 11.182, de 2022)\n(Vide Decreto nş \r\n 11.764, de 2023)\n(Vide Decreto nş \r\n 11.970, de 2024)\n(Vide Decreto nş \r\n 12.052, de 2024)\n(\nVide Decreto nş \r\n 12.549, de 2025)\n(Vide Decreto nş \r\n 12.665, de 2025)\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3019,
+        "char_end": 3727
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "aa8f560eafb73b0c25e6c194e79a3ef7bfaa8721ff79ee90609a706ce7fe09c8"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "ipi"
+    },
+    {
+      "type": "subject",
+      "target": "tipi"
+    },
+    {
+      "type": "subject",
+      "target": "ncm"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11158.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11158.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:30:51.239999+00:00",
+      "sha256": "aa8f560eafb73b0c25e6c194e79a3ef7bfaa8721ff79ee90609a706ce7fe09c8",
+      "file": "documentos_oficiais/03_tributos/br-decreto-11158-2022.html",
+      "extracted_text": "textos_extraidos/03_tributos/br-decreto-11158-2022.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 10,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

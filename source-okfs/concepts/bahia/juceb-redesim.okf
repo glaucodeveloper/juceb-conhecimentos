@@ -1,0 +1,153 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.JUCEB_REDESIM",
+  "title": "Fluxo JUCEB e REDESIM",
+  "summary": "Alinhamento dos atos de registro com legalização tributária estadual/municipal.",
+  "elements": [
+    {
+      "id": "juceb-redesim.1",
+      "type": "fator_de_decisao",
+      "name": "tipo juridico"
+    },
+    {
+      "id": "juceb-redesim.2",
+      "type": "fator_de_decisao",
+      "name": "ato"
+    },
+    {
+      "id": "juceb-redesim.3",
+      "type": "fator_de_decisao",
+      "name": "atividade"
+    },
+    {
+      "id": "juceb-redesim.4",
+      "type": "fator_de_decisao",
+      "name": "municipio"
+    },
+    {
+      "id": "juceb-redesim.5",
+      "type": "fator_de_decisao",
+      "name": "UF"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "bahia"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": true
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.BA.PORTAL_JUCEB.procedimentos.2026"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.11598.2007"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.IN_DREI.81.2020"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "tipo juridico",
+        "ato",
+        "atividade",
+        "municipio",
+        "UF"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.BA.PORTAL_JUCEB.procedimentos.2026",
+      "url": "https://www.ba.gov.br/juceb/passo-passo",
+      "authority": "JUCEB",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LEI.11598.2007",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.IN_DREI.81.2020",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file",
+      "authority": "DREI",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Comprovar se serviço municipal integrado se aplica"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "bahia/juceb-redesim",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.BA.PORTAL_JUCEB.procedimentos.2026",
+      "title": "Passo a passo de registro na JUCEB",
+      "authority": "JUCEB",
+      "url": "https://www.ba.gov.br/juceb/passo-passo",
+      "evidence_url": "",
+      "reference_okf": "references/07_bahia/portal-juceb-procedimentos-2026.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LEI.11598.2007",
+      "title": "REDESIM",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/lei-11598-2007.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.IN_DREI.81.2020",
+      "title": "Normas gerais de registro e manuais",
+      "authority": "DREI",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/in-drei-81-2020.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

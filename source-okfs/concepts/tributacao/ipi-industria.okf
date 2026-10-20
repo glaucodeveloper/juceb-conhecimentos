@@ -1,0 +1,134 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.IPI_INDUSTRIA",
+  "title": "IPI e TIPI",
+  "summary": "Incidência em industrialização e importação de produtos, com classificação fiscal.",
+  "elements": [
+    {
+      "id": "ipi-industria.1",
+      "type": "fator_de_decisao",
+      "name": "NCM"
+    },
+    {
+      "id": "ipi-industria.2",
+      "type": "fator_de_decisao",
+      "name": "industrializacao"
+    },
+    {
+      "id": "ipi-industria.3",
+      "type": "fator_de_decisao",
+      "name": "produto"
+    },
+    {
+      "id": "ipi-industria.4",
+      "type": "fator_de_decisao",
+      "name": "operacao"
+    },
+    {
+      "id": "ipi-industria.5",
+      "type": "fator_de_decisao",
+      "name": "competencia"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "tributacao"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.DECRETO.7212.2010"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.DECRETO.11158.2022"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "NCM",
+        "industrializacao",
+        "produto",
+        "operacao",
+        "competencia"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.DECRETO.7212.2010",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7212.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.DECRETO.11158.2022",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11158.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Confirmar exceções e TIPI atualizada"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "tributacao/ipi-industria",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.DECRETO.7212.2010",
+      "title": "Regulamento do IPI",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7212.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/decreto-7212-2010.okf",
+      "source_verified": false
+    },
+    {
+      "id": "BR.DECRETO.11158.2022",
+      "title": "TIPI — Tabela de Incidência do IPI",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11158.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/decreto-11158-2022.okf",
+      "source_verified": false
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

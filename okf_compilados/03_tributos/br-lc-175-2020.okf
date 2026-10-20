@@ -1,0 +1,281 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.LC.175.2020",
+  "title": "ISS de serviços determinados e obrigações acessórias",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.LC.175.2020#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1ş  Esta Lei Complementar dispőe sobre o \r\npadrăo nacional de obrigaçăo acessória do Imposto Sobre Serviços de Qualquer \r\nNatureza (ISSQN), de competęncia dos Municípios e do Distrito Federal, incidente \r\nsobre os serviços previstos nos subitens 4.22, 4.23, 5.09, 15.01 e 15.09 da \r\nlista de serviços anexa ŕ\nLei Complementar nş 116, de 31 de julho de 2003\n; \r\naltera dispositivos da referida Lei Complementar; prevę regra de transiçăo para \r\na partilha do produto da arrecadaçăo do ISSQN entre o Município do local do \r\nestabelecimento prestador e o Município do domicílio do tomador relativamente \r\naos serviços de que trata, cujo período de apuraçăo esteja compreendido entre a \r\ndata de publicaçăo desta Lei Complementar e o último dia do exercício financeiro \r\nde 2022; e dá outras providęncias.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 878,
+        "char_end": 1684
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#2",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2ş O ISSQN devido em razăo dos serviços \r\nreferidos no art. 1ş será apurado pelo contribuinte e declarado por meio de \r\nsistema eletrônico de padrăo unificado em todo o território nacional.\n(Vide ADPF \r\nnş 499)\n(Vide ADI Nş 5862)\n(Vide ADI \r\nnş 5835)\n§ 1ş O sistema eletrônico de padrăo unificado de que trata o\ncaput\nserá desenvolvido pelo contribuinte, individualmente ou em conjunto \r\ncom outros contribuintes sujeitos ŕs disposiçőes desta Lei Complementar, e \r\nseguirá leiautes e padrőes definidos pelo Comitę Gestor das Obrigaçőes \r\nAcessórias do ISSQN (CGOA), nos termos dos arts. 9ş a 11 desta Lei Complementar.\n§ 2ş O contribuinte deverá franquear aos Municípios e ao \r\nDistrito Federal acesso mensal e gratuito ao sistema eletrônico de padrăo \r\nunificado utilizado para cumprimento da obrigaçăo acessória padronizada.\n§ 3ş Quando o sistema eletrônico de padrăo unificado for \r\ndesenvolvido em conjunto por mais de um contribuinte, cada contribuinte acessará \r\no sistema exclusivamente em relaçăo ŕs suas próprias informaçőes.\n§ 4ş Os Municípios e o Distrito Federal acessarăo o sistema \r\neletrônico de padrăo unificado dos contribuintes exclusivamente em relaçăo ŕs \r\ninformaçőes de suas respectivas competęncias.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1684,
+        "char_end": 2915
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#3",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3ş O contribuinte do ISSQN declarará as \r\ninformaçőes objeto da obrigaçăo acessória de que trata esta Lei Complementar de \r\nforma padronizada, exclusivamente por meio do sistema eletrônico de que trata o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2915,
+        "char_end": 3126
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#4",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "art. 2ş, até o 25ş (vigésimo quinto) dia do męs seguinte ao de ocorręncia dos \r\nfatos geradores.\n(Vide ADPF \r\nnş 499)\n(Vide ADI Nş 5862)\n(Vide ADI \r\nnş 5835)\nParágrafo único. A falta da declaraçăo, na forma do\ncaput\n, \r\ndas informaçőes relativas a determinado Município ou ao Distrito Federal \r\nsujeitará o contribuinte ŕs disposiçőes da respectiva legislaçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3126,
+        "char_end": 3487
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#5",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4ş Cabe aos Municípios e ao Distrito \r\nFederal fornecer as seguintes informaçőes diretamente no sistema eletrônico do \r\ncontribuinte, conforme definiçőes do CGOA:\nI - alíquotas, conforme o período de vigęncia, aplicadas aos \r\nserviços referidos no art. 1ş desta Lei Complementar;\nII - arquivos da legislaçăo vigente no Município ou no Distrito \r\nFederal que versem sobre os serviços referidos no art. 1ş desta Lei Complementar;\nIII - dados do domicílio bancário para recebimento do ISSQN.\n§ 1ş Os Municípios e o Distrito Federal terăo até o último dia do \r\nmęs subsequente ao da disponibilizaçăo do sistema de cadastro para fornecer as \r\ninformaçőes de que trata o\ncaput\n, sem prejuízo do recebimento do imposto \r\ndevido retroativo a janeiro de 2021.\n§ 2ş Na hipótese de atualizaçăo, pelos Municípios e pelo Distrito \r\nFederal, das informaçőes de que trata o\ncaput\n, essas somente produzirăo \r\nefeitos no período de competęncia mensal seguinte ao de sua inserçăo no sistema, \r\nobservado o disposto no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3487,
+        "char_end": 4493
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#6",
+      "type": "artigo_candidato",
+      "name": "Art. 150",
+      "content": "art. 150, inciso III, alíneas “b”\ne “\nc”, da Constituiçăo \r\nFederal,\nno que se refere ŕ base de cálculo e ŕ alíquota, bem como ao previsto \r\nno § 1ş deste artigo.\n§ 3ş É de responsabilidade dos Municípios e do Distrito Federal a \r\nhigidez dos dados que esses prestarem no sistema previsto no\ncaput\n, sendo \r\nvedada a imposiçăo de penalidades ao contribuinte em caso de omissăo, de \r\ninconsistęncia ou de inexatidăo de tais dados.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4493,
+        "char_end": 4923
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#7",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5ş Ressalvadas as hipóteses previstas \r\nnesta Lei Complementar, é vedada aos Municípios e ao Distrito Federal a \r\nimposiçăo a contribuintes năo estabelecidos em seu território de qualquer outra \r\nobrigaçăo acessória com relaçăo aos serviços referidos no art. 1ş, inclusive a \r\nexigęncia de inscriçăo nos cadastros municipais e distritais ou de licenças e \r\nalvarás de abertura de estabelecimentos nos respectivos Municípios e no Distrito \r\nFederal.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4923,
+        "char_end": 5377
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#8",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6ş A emissăo, pelo contribuinte, de notas \r\nfiscais de serviços referidos no art. 1ş pode ser exigida, nos termos da \r\nlegislaçăo de cada Município e do Distrito Federal, exceto para os serviços \r\ndescritos nos subitens 15.01 e 15.09, que săo dispensados da emissăo de notas \r\nfiscais.\n(Vide ADPF \r\nnş 499)\n(Vide ADI Nş 5862)\n(Vide ADI \r\nnş 5835)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5377,
+        "char_end": 5729
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#9",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7ş O ISSQN de que trata esta Lei \r\nComplementar será pago até o 15ş (décimo quinto) dia do męs subsequente ao de \r\nocorręncia dos fatos geradores, exclusivamente por meio de transferęncia \r\nbancária, no âmbito do Sistema de Pagamentos Brasileiro (SPB), ao domicílio \r\nbancário informado pelos Municípios e pelo Distrito Federal, nos termos do \r\ninciso III do art. 4ş.\n§ 1ş Quando năo houver expediente bancário no 15ş (décimo quinto) \r\ndia do męs subsequente ao de ocorręncia dos fatos geradores, o vencimento do \r\nISSQN será antecipado para o 1ş (primeiro) dia anterior com expediente bancário.\n§ 2ş O comprovante da transferęncia bancária emitido segundo as \r\nregras do SPB é documento hábil para comprovar o pagamento do ISSQN.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5729,
+        "char_end": 6465
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#10",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8ş É vedada a atribuiçăo, a terceira \r\npessoa, de responsabilidade pelo crédito tributário relativa aos serviços \r\nreferidos no art. 1ş desta Lei Complementar, permanecendo a responsabilidade \r\nexclusiva do contribuinte.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6465,
+        "char_end": 6691
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#11",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9ş É instituído o Comitę Gestor das \r\nObrigaçőes Acessórias do ISSQN (CGOA).\n(Vide ADPF \r\nnş 499)\n(Vide ADI Nş 5862)\n(Vide ADI \r\nnş 5835)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6691,
+        "char_end": 6834
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#12",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. Compete ao CGOA regular a aplicaçăo \r\ndo padrăo nacional da obrigaçăo acessória dos serviços referidos no art. 1ş.\n(Vide ADPF \r\nnş 499)\n(Vide ADI Nş 5862)\n(Vide ADI \r\nnş 5835)\n§ 1ş O leiaute, o acesso e a forma de fornecimento das \r\ninformaçőes serăo definidos pelo CGOA e somente poderăo ser alterados após \r\ndecorrido o prazo de 3 (tręs) anos, contado da definiçăo inicial ou da última \r\nalteraçăo.\n§ 2ş A alteraçăo do leiaute ou da forma de fornecimento das \r\ninformaçőes será comunicada pelo CGOA com o prazo de pelo menos 1 (um) ano antes \r\nde sua entrada em vigor.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6834,
+        "char_end": 7414
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#13",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11. O CGOA será composto de 10 (dez) \r\nmembros, representando as regiőes Sul, Sudeste, Centro-Oeste, Nordeste e Norte \r\ndo Brasil, da seguinte forma:\nI - 1 (um) representante de Município capital ou do Distrito \r\nFederal por regiăo;\nII - 1 (um) representante de Município năo capital por regiăo.\n§ 1ş Para cada representante titular será indicado 1 (um) \r\nsuplente, observado o critério regional adotado nos incisos I e II do\ncaput\n.\n§ 2ş Os representantes dos Municípios previstos no inciso I do\ncaput\nserăo indicados pela Frente Nacional de Prefeitos (FNP), e os \r\nrepresentantes previstos no inciso II do\ncaput\n, pela Confederaçăo \r\nNacional de Municípios (CNM).\n§ 3ş O CGOA elaborará seu regimento interno mediante resoluçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7414,
+        "char_end": 8149
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#14",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12. É instituído o Grupo Técnico do \r\nComitę Gestor das Obrigaçőes Acessórias do ISSQN (GTCGOA), que auxiliará o CGOA \r\ne terá a participaçăo de representantes dos contribuintes dos serviços referidos \r\nno art. 1ş desta Lei Complementar.\n§ 1ş O GTCGOA será composto de 4 (quatro) membros:\nI - 2 (dois) membros indicados pelas entidades municipalistas que \r\ncompőem o CGOA;\nII - 2 (dois) membros indicados pela Confederaçăo Nacional das \r\nInstituiçőes Financeiras (CNF), representando os contribuintes.\n§ 2ş O GTCGOA terá suas atribuiçőes definidas pelo CGOA mediante \r\nresoluçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8149,
+        "char_end": 8734
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#15",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13. Em relaçăo ŕs competęncias de \r\njaneiro, fevereiro e março de 2021, é assegurada ao contribuinte a possibilidade \r\nde recolher o ISSQN e de declarar as informaçőes objeto da obrigaçăo acessória \r\nde que trata o art. 2ş desta Lei Complementar até o 15ş (décimo quinto) dia do \r\nmęs de abril de 2021, sem a imposiçăo de nenhuma penalidade.\n(Vide ADPF \r\nnş 499)\n(Vide ADI Nş 5862)\n(Vide ADI \r\nnş 5835)\nParágrafo único. O ISSQN de que trata o\ncaput\nserá \r\natualizado pela taxa referencial do Sistema Especial de Liquidaçăo e de Custódia \r\n(Selic) para títulos federais, a partir do 1ş (primeiro) dia do męs subsequente \r\nao męs de seu vencimento normal até o męs anterior ao do pagamento, e pela taxa \r\nde 1% (um por cento) no męs de pagamento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8734,
+        "char_end": 9484
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#16",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14. A\nLei Complementar nş 116, de 31 de \r\njulho de 2003,\npassa a vigorar com as seguintes alteraçőes:\n(Vide ADPF \r\nnş 499)\n(Vide ADI Nş 5862)\n(Vide ADI \r\nnş 5835)\n“Art. 3ş \r\n ..........................................................................................................\n........................................................................................................................\nXXV -\ndo domicílio do tomador do serviço do subitem 15.09.\n.........................................................................................................................\n§ 5ş\nRessalvadas as exceçőes e especificaçőes estabelecidas \r\n nos §§ 6ş a 12 deste artigo, considera-se tomador dos serviços referidos nos \r\n incisos XXIII, XXIV e XXV do\ncaput\ndeste artigo o contratante do \r\n serviço e, no caso de negócio jurídico que envolva estipulaçăo em favor de \r\n unidade da pessoa jurídica contratante, a unidade em favor da qual o serviço \r\n foi estipulado, sendo irrelevantes para caracterizá-la as denominaçőes de \r\n sede, filial, agęncia, posto de atendimento, sucursal, escritório de \r\n representaçăo ou contato ou quaisquer outras que venham a ser utilizadas.\n§ 6ş No caso dos serviços de planos de saúde ou de medicina e \r\n congęneres, referidos nos subitens 4.22 e 4.23 da lista de serviços anexa a \r\n esta Lei Complementar, o tomador do serviço é a pessoa física beneficiária \r\n vinculada ŕ operadora por meio de convęnio ou contrato de plano de saúde \r\n individual, familiar, coletivo empresarial ou coletivo por adesăo.\n§ 7ş Nos casos em que houver dependentes vinculados ao \r\n titular do plano, será considerado apenas o domicílio do titular para fins \r\n do disposto no § 6ş deste artigo.\n§ 8ş No caso dos serviços de administraçăo de cartăo de \r\n crédito ou débito e congęneres, referidos no subitem 15.01 da lista de \r\n serviços anexa a esta Lei Complementar, prestados diretamente aos portadores \r\n de cartőes de crédito ou débito e congęneres, o tomador é o primeiro titular \r\n do cartăo.\n§ 9ş O local do estabelecimento credenciado é considerado o \r\n domicílio do tomador dos demais serviços referidos no subitem 15.01 da lista \r\n de serviços anexa a esta Lei Complementar relativos ŕs transferęncias \r\n realizadas por meio de cartăo de crédito ou débito, ou a eles conexos, que \r\n sejam prestados ao tomador, direta ou indiretamente, por:\nI - bandeiras;\nII - credenciadoras; ou\nIII - emissoras de cartőes de crédito e débito.\n§ 10. No caso dos serviços de administraçăo de carteira de \r\n valores mobiliários e dos serviços de administraçăo e gestăo de fundos e \r\n clubes de investimento, referidos no subitem 15.01 da lista de serviços \r\n anexa a esta Lei Complementar, o tomador é o cotista.\n§ 11. No caso dos serviços de administraçăo de consórcios, o \r\n tomador de serviço é o consorciado.\n§ 12. No caso dos serviços de arrendamento mercantil, o \r\n tomador do serviço é o arrendatário, pessoa física ou a unidade beneficiária \r\n da pessoa jurídica, domiciliado no País, e, no caso de arrendatário năo \r\n domiciliado no País, o tomador é o beneficiário do serviço no País.” (NR)\n“Art. 6ş \r\n ........................................................................................................\n.......................................................................................................................\n§ 2ş \r\n ...............................................................................................................\n........................................................................................................................\nIV -\nas pessoas referidas nos incisos II ou III do § 9ş do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9484,
+        "char_end": 13137
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#17",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "art. 3ş desta Lei Complementar, pelo imposto devido pelas pessoas a que se \r\n refere o inciso I do mesmo parágrafo, em decorręncia dos serviços prestados \r\n na forma do subitem 15.01 da lista de serviços anexa a esta Lei Complementar.\n§ 3ş\n(Revogado).\n..............................................................................................................” \r\n (NR)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 13137,
+        "char_end": 13510
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#18",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15. O produto da arrecadaçăo do ISSQN \r\nrelativo aos serviços descritos nos subitens 4.22, 4.23, 5.09, 15.01 e 15.09 da \r\nlista de serviços anexa ŕ\nLei Complementar nş 116, de 31 de julho de 2003,\ncujo \r\nperíodo de apuraçăo esteja compreendido entre a data de publicaçăo desta Lei \r\nComplementar e o último dia do exercício financeiro de 2022 será partilhado \r\nentre o Município do local do estabelecimento prestador e o Município do \r\ndomicílio do tomador desses serviços, da seguinte forma:\nI - relativamente aos períodos de apuraçăo ocorridos no exercício \r\nde 2021, 33,5% (trinta e tręs inteiros e cinco décimos por cento) do produto da \r\narrecadaçăo pertencerăo ao Município do local do estabelecimento prestador do \r\nserviço, e 66,5% (sessenta e seis inteiros e cinco décimos por cento), ao \r\nMunicípio do domicílio do tomador;\nII - relativamente aos períodos de apuraçăo ocorridos no \r\nexercício de 2022, 15% (quinze por cento) do produto da arrecadaçăo pertencerăo \r\nao Município do local do estabelecimento prestador do serviço, e 85% (oitenta e \r\ncinco por cento), ao Município do domicílio do tomador;\nIII - relativamente aos períodos de apuraçăo ocorridos a partir \r\ndo exercício de 2023, 100% (cem por cento) do produto da arrecadaçăo pertencerăo \r\nao Município do domicílio do tomador.\n§ 1ş Na ausęncia de convęnio, ajuste ou protocolo firmado entre \r\nos Municípios interessados ou entre esses e o CGOA para regulamentaçăo do \r\ndisposto no\ncaput\ndeste artigo, o Município do domicílio do tomador do \r\nserviço deverá transferir ao Município do local do estabelecimento prestador a \r\nparcela do imposto que lhe cabe até o 5ş (quinto) dia útil seguinte ao seu \r\nrecolhimento.\n§ 2ş O Município do domicílio do tomador do serviço poderá \r\natribuir ŕs instituiçőes financeiras arrecadadoras a obrigaçăo de reter e de \r\ntransferir ao Município do estabelecimento prestador do serviço os valores \r\ncorrespondentes ŕ respectiva participaçăo no produto da arrecadaçăo do ISSQN.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 13510,
+        "char_end": 15497
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#19",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16. Revoga-se o\n§ 3ş do art. 6ş da Lei \r\nComplementar nş 116, de 31 de julho de 2003.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15497,
+        "char_end": 15588
+      }
+    },
+    {
+      "id": "BR.LC.175.2020#20",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17. Esta Lei Complementar entra em vigor na data de sua publicaçăo.\nBrasília,  23  de  setembro  de 2020; 199\no\nda \r\nIndependęncia e 132\no\nda República.\nJAIR MESSIAS BOLSONARO\nJorge Antonio de Oliveira Francisco\nJosé Levi Mello do Amaral Júnior\nEste texto năo substitui o publicado no DOU \r\nde 24.9.2020\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15588,
+        "char_end": 15899
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "06598e7aea7256985e332d02d97fd219c4c46c1e2d991423b7261e459f070540"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "iss"
+    },
+    {
+      "type": "subject",
+      "target": "servicos"
+    },
+    {
+      "type": "subject",
+      "target": "local incidencia"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp175.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp175.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:30:47.990271+00:00",
+      "sha256": "06598e7aea7256985e332d02d97fd219c4c46c1e2d991423b7261e459f070540",
+      "file": "documentos_oficiais/03_tributos/br-lc-175-2020.html",
+      "extracted_text": "textos_extraidos/03_tributos/br-lc-175-2020.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 20,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

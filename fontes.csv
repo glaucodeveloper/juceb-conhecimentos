@@ -1,0 +1,87 @@
+id,domain,title,official_url,authority,source_verified,notes
+BR.CONSTITUIÇÃO.1988.1988,00_fundamentos,Constituição Federal (texto compilado),https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm,Planalto,True,
+BR.LEI.5172.1966,00_fundamentos,Código Tributário Nacional,https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm,Planalto,False,
+BR.LEI.13105.2015,00_fundamentos,Código de Processo Civil,https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm,Planalto,False,
+BR.LEI.9784.1999,00_fundamentos,Processo administrativo federal,https://www.planalto.gov.br/ccivil_03/leis/l9784.htm,Planalto,False,
+BR.LEI.12016.2009,00_fundamentos,Mandado de segurança,https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm,Planalto,False,
+BR.LEI.8934.1994,01_registro,Registro Público de Empresas Mercantis,https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm,Planalto,True,
+BR.DECRETO.1800.1996,01_registro,Regulamenta o Registro Público de Empresas,https://www.planalto.gov.br/ccivil_03/decreto/d1800.htm,Planalto,True,
+BR.LEI.10406.2002,01_registro,Código Civil,https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm,Planalto,True,
+BR.LEI.6404.1976,01_registro,Lei das Sociedades por Ações,https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm,Planalto,False,
+BR.LEI.5764.1971,01_registro,Lei das Cooperativas,https://www.planalto.gov.br/ccivil_03/leis/l5764.htm,Planalto,False,
+BR.LEI.11598.2007,01_registro,REDESIM,https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm,Planalto,True,
+BR.LEI.13874.2019,01_registro,Declaração de Direitos de Liberdade Econômica,https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm,Planalto,True,
+BR.LEI.14195.2021,01_registro,Ambiente de Negócios,https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14195.htm,Planalto,False,
+BR.LEI.11101.2005,01_registro,Recuperação Judicial e Falência,https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm,Planalto,False,
+BR.LEI.12529.2011,01_registro,Sistema Brasileiro de Defesa da Concorrência,https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm,Planalto,False,
+BR.IN_DREI.81.2020,01_registro,Normas gerais de registro e manuais,https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file,DREI,True,Catálogo inclui versões atualizadas e anexos; coletor faz descoberta de links dos manuais.
+BR.IN_DREI.82.2021,01_registro,Autenticação de livros empresariais,https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/arquivos/legislacoes-federais/indrei822023_compilada.pdf/@@display-file/file,DREI,True,Página índice: localizar arquivo da IN 82.
+BR.MANUAL_DREI.anexoII.2025,01_registro,Manual de Registro de Empresário Individual — IN DREI 81/2020,https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-ii-empresario-individual_link.pdf/@@display-file/file,DREI,True,Versão do anexo referida no índice oficial; contém histórico e link à versão compilada.
+BR.MANUAL_DREI.anexoIV.2025,01_registro,Manual de Registro de Sociedade Limitada — IN DREI 81/2020,https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-iv-limitada_link.pdf/@@display-file/file,DREI,True,Conferir versão compilada linkada no PDF.
+BR.MANUAL_DREI.anexoV.2025,01_registro,Manual de Registro de Sociedade Anônima — IN DREI 81/2020,https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-v-sa_link.pdf/@@display-file/file,DREI,True,
+BR.MANUAL_DREI.anexoVI.2025,01_registro,Manual de Registro de Cooperativa — IN DREI 81/2020,https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-vi-cooperativa_link.pdf/@@display-file/file,DREI,True,
+BR.IN_DREI.1.2025,01_registro,Altera IN DREI 81/2020,https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas,DREI,True,Pág. índice. Vigência e alterações devem ser verificadas no ato.
+BR.PORTAL_JUCEB.legislacao.2026,01_registro,Legislação indexada pela Junta Comercial da Bahia,https://www.ba.gov.br/juceb/legislacao/leis,JUCEB,True,"Página índice, não ato normativo isolado."
+BR.PORTAL_JUCEB.resolucoes.2026,01_registro,Resoluções do Plenário JUCEB,https://www.ba.gov.br/juceb/editais/12622/resolucoes-do-plenario-2,JUCEB,True,Contém resoluções 2025/2026; descobrir PDFs individualmente.
+BR.LC.123.2006,02_simples,Estatuto ME/EPP e Simples Nacional,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm,Planalto,True,
+BR.LC.128.2008,02_simples,Institui regulamentações relativas ao MEI,https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/lcp128.htm,Planalto,False,
+BR.LC.147.2014,02_simples,Alterações do Simples Nacional,https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/lcp147.htm,Planalto,False,
+BR.LC.155.2016,02_simples,Reestruturação da apuração do Simples Nacional,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp155.htm,Planalto,True,
+BR.LC.167.2019,02_simples,Empresa Simples de Crédito e Inova Simples,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp167.htm,Planalto,False,
+BR.RESOLUÇÃO_CGSN.140.2018,02_simples,Regulamento geral do Simples Nacional,https://normas.receita.fazenda.gov.br/sijut2consulta/consulta/normas.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=original,Receita Federal (SIJUT),True,Ato multivigente: coletar versao compilada por instrumento do SIJUT; nao assumir original como vigente.
+BR.RESOLUÇÃO_CGSN.187.2026,02_simples,Alterações CGSN 140/2018 (abril 2026),https://normas.receita.fazenda.gov.br/sijut2consulta/consulta/normas.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=original,Receita Federal (SIJUT),True,"Link para histórico do ato 140, não para texto isolado 187."
+BR.RESOLUÇÃO_CGSN.190.2026,02_simples,Alterações CGSN 140/2018 (agosto 2026),https://normas.receita.fazenda.gov.br/sijut2consulta/consulta/normas.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=original,Receita Federal (SIJUT),True,Link para histórico do ato 140; alterações com produção futura de efeitos.
+BR.RESOLUÇÃO_CGSN.191.2026,02_simples,Alterações CGSN 140/2018 (agosto 2026),https://normas.receita.fazenda.gov.br/sijut2consulta/consulta/normas.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=original,Receita Federal (SIJUT),True,Link para histórico do ato 140; verificar datas de produção de efeitos.
+BR.PORTAL_RECEITA.simples.2026,02_simples,Orientações tributárias do Simples Nacional,https://www8.receita.fazenda.gov.br/SimplesNacional/,Receita Federal,False,"Portal de serviços e manuais, não diploma legal."
+BR.LC.87.1996,03_tributos,Lei Kandir — ICMS,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm,Planalto,True,
+BR.LC.190.2022,03_tributos,ICMS diferencial de alíquotas (DIFAL),https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp190.htm,Planalto,True,
+BR.LC.192.2022,03_tributos,Regime monofásico do ICMS sobre combustíveis,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp192.htm,Planalto,False,
+BR.LC.116.2003,03_tributos,ISS e lista de serviços,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm,Planalto,True,
+BR.LC.157.2016,03_tributos,Alterações da legislação do ISS,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp157.htm,Planalto,False,
+BR.LC.175.2020,03_tributos,ISS de serviços determinados e obrigações acessórias,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp175.htm,Planalto,False,
+BR.DECRETO.7212.2010,03_tributos,Regulamento do IPI,https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7212.htm,Planalto,False,
+BR.DECRETO.11158.2022,03_tributos,TIPI — Tabela de Incidência do IPI,https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11158.htm,Planalto,False,
+BR.LEI.9718.1998,03_tributos,PIS/Pasep e Cofins; legislação geral,https://www.planalto.gov.br/ccivil_03/leis/l9718.htm,Planalto,False,
+BR.LEI.10637.2002,03_tributos,PIS/Pasep — não cumulatividade,https://www.planalto.gov.br/ccivil_03/leis/2002/l10637compilado.htm,Planalto,True,
+BR.LEI.10833.2003,03_tributos,Cofins — não cumulatividade,https://www.planalto.gov.br/ccivil_03/leis/2003/l10.833compilado.htm,Planalto,True,Versão compilada confirmada no Planalto.
+BR.LEI.10865.2004,03_tributos,PIS/Cofins Importação,https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865.htm,Planalto,False,
+BR.DECRETO.9580.2018,03_tributos,Regulamento do Imposto sobre a Renda,https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9580.htm,Planalto,False,
+BR.LEI.7689.1988,03_tributos,Contribuição Social sobre o Lucro Líquido,https://www.planalto.gov.br/ccivil_03/leis/l7689.htm,Planalto,False,
+BR.LEI.9249.1995,03_tributos,IRPJ e CSLL - disposições gerais,https://www.planalto.gov.br/ccivil_03/leis/l9249.htm,Planalto,False,
+BR.LEI.9430.1996,03_tributos,Legislação tributária federal e fiscalização,https://www.planalto.gov.br/ccivil_03/leis/l9430.htm,Planalto,False,
+BR.LEI.8981.1995,03_tributos,Imposto de Renda e legislação correlata,https://www.planalto.gov.br/ccivil_03/leis/l8981.htm,Planalto,False,
+BR.DECRETO.6306.2007,03_tributos,Regulamento do IOF,https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6306.htm,Planalto,False,
+BR.DECRETO_LEI.37.1966,03_tributos,Imposto de Importação e normas aduaneiras,https://www.planalto.gov.br/ccivil_03/decreto-lei/del0037.htm,Planalto,False,
+BR.DECRETO.6759.2009,03_tributos,Regulamento Aduaneiro,https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6759.htm,Planalto,False,
+BR.LEI.8212.1991,03_tributos,Custeio da Seguridade Social,https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm,Planalto,False,
+BR.LEI.8213.1991,03_tributos,Planos de Benefícios da Previdência Social,https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm,Planalto,False,
+BR.DECRETO_LEI.5452.1943,03_tributos,Consolidação das Leis do Trabalho,https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm,Planalto,False,
+BR.LEI.8036.1990,03_tributos,FGTS,https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm,Planalto,False,
+BR.DECRETO.6022.2007,04_obrigacoes,SPED — Sistema Público de Escrituração Digital,https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm,Planalto,False,
+BR.DECRETO.8373.2014,04_obrigacoes,eSocial,https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8373.htm,Planalto,False,
+BR.IN_RFB.2005.2021,04_obrigacoes,DCTFWeb (verificar alterações e atos substitutos),https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action,Receita Federal,False,Página genérica: localizar ato exato no SIJUT antes de importar.
+BR.IN_RFB.2110.2022,04_obrigacoes,Normas gerais de tributação previdenciária,https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action,Receita Federal,False,Página genérica: localizar ato exato no SIJUT antes de importar.
+BR.PORTAL_ENCAT.nfe.2026,04_obrigacoes,"NF-e, NFC-e, CT-e, MDF-e — notas técnicas e esquemas",https://www.nfe.fazenda.gov.br/portal/principal.aspx,SEFAZ/ENCAT,False,Documentos técnicos mudam: selecionar pacote e NT exatos na ingestão.
+BR.PORTAL_NFS-E.nacional.2026,04_obrigacoes,Padrão Nacional NFS-e e documentação,https://www.gov.br/nfse/pt-br,Comitê Gestor NFS-e,False,
+BR.EC.132.2023,05_reforma,Reforma Tributária do Consumo,https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm,Planalto,True,
+BR.LC.214.2025,05_reforma,"IBS, CBS, Imposto Seletivo e legislação do consumo",https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm,Planalto,True,
+BR.LC.227.2026,05_reforma,CGIBS e processo administrativo do IBS,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm,Planalto,True,
+BR.DECRETO.12955.2026,05_reforma,Regulamentação da LC 214/2025,https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12955.htm,Planalto,False,
+BR.LC.229.2026,05_reforma,Benefícios tributários e despesas de 2026,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp229.htm,Planalto,True,
+BR.LC.228.2026,05_reforma,PIS/Cofins na indústria química,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp228.htm,Planalto,True,
+BR.BA.LEI_BA.7014.1996,07_bahia,ICMS da Bahia — Lei 7.014/1996,https://mbusca.sefaz.ba.gov.br/DITRI/leis/leis_estaduais/legest_1996_7014_icmscomnotas.pdf,SEFAZ-BA,True,PDF compilado informativo; fonte autêntica é Diário Oficial; versão de compilação observada inclui alterações até Lei 14.971/2024.
+BR.BA.DECRETO_BA.13780.2012,07_bahia,Regulamento ICMS da Bahia (RICMS-BA),https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_texto_2021.pdf,SEFAZ-BA,True,"PDF compilado informativo, capa observada com atualização até Decreto 24.829/2026; verificar data de acesso e publicação."
+BR.BA.ANEXO_RICMS_BA.1.2026,07_bahia,Anexo I RICMS-BA — Substituição Tributária,https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2026.pdf,SEFAZ-BA,True,
+BR.BA.PORTAL_SEFAZ_BA.normas.2026,07_bahia,Acompanhamento de normas e portarias tributárias da Bahia,https://www.sefaz.ba.gov.br/,SEFAZ-BA,True,Portal raiz: descoberta complementar de atos aplicáveis.
+BR.BA.PORTAL_JUCEB.drei.2026,07_bahia,Instruções normativas DREI reconhecidas pela JUCEB,https://www.ba.gov.br/juceb/legislacao/instrucoes-normativas-drei,JUCEB,True,
+BR.BA.PORTAL_JUCEB.procedimentos.2026,07_bahia,Passo a passo de registro na JUCEB,https://www.ba.gov.br/juceb/passo-passo,JUCEB,True,
+BR.LEI.8078.1990,08_transversal,Código de Defesa do Consumidor,https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm,Planalto,False,
+BR.LEI.13709.2018,08_transversal,LGPD — proteção de dados pessoais,https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm,Planalto,False,
+BR.LEI.12965.2014,08_transversal,Marco Civil da Internet,https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm,Planalto,False,
+BR.LEI.9605.1998,08_transversal,Crimes Ambientais,https://www.planalto.gov.br/ccivil_03/leis/l9605.htm,Planalto,False,
+BR.LC.140.2011,08_transversal,Competências ambientais e licenciamento,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp140.htm,Planalto,False,
+BR.LEI.12305.2010,08_transversal,Política Nacional de Resíduos Sólidos,https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm,Planalto,False,
+BR.LEI.14133.2021,08_transversal,Nova Lei de Licitações e Contratos Administrativos,https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm,Planalto,False,
+BR.LEI.12187.2009,08_transversal,Política Nacional sobre Mudança do Clima,https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12187.htm,Planalto,False,
+BR.LEI.10192.2001,08_transversal,Normas sobre medidas complementares ao Plano Real,https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10192.htm,Planalto,False,
+BR.LEI.10741.2003,08_transversal,Estatuto da Pessoa Idosa,https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm,Planalto,False,

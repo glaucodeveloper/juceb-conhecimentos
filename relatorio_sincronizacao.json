@@ -1,0 +1,1237 @@
+{
+  "run_at": "2026-10-20T07:42:17.359199+00:00",
+  "attempted_this_run": 4,
+  "catalog_total": 86,
+  "status_counts": {
+    "extracted_automatic": 78,
+    "failed": 8
+  },
+  "records": [
+    {
+      "id": "BR.CONSTITUIÇÃO.1988.1988",
+      "source": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:04.971589+00:00",
+      "sha256": "5297f6dfecb1991e5c418faab0a5ddde55763b45b51447604e12e8117a2f0d6b",
+      "bytes": 1507134,
+      "text_chars": 697781,
+      "articles": 474,
+      "files": [
+        "documentos_oficiais/00_fundamentos/br-constituicao-1988-1988.html",
+        "okf_compilados/00_fundamentos/br-constituicao-1988-1988.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+    },
+    {
+      "id": "BR.LEI.5172.1966",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:07.411053+00:00",
+      "sha256": "bc6601cfaeecd3070d8c56c5d54c180f2d1398845c35c990d37c3bf331f50dab",
+      "bytes": 289910,
+      "text_chars": 143109,
+      "articles": 246,
+      "files": [
+        "documentos_oficiais/00_fundamentos/br-lei-5172-1966.html",
+        "okf_compilados/00_fundamentos/br-lei-5172-1966.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+    },
+    {
+      "id": "BR.LEI.13105.2015",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:08.220540+00:00",
+      "sha256": "a841e7d5ba8f4474cf77de42c7805af0c0663a0c153f0f11de333fc96366d1fd",
+      "bytes": 1691185,
+      "text_chars": 587886,
+      "articles": 1246,
+      "files": [
+        "documentos_oficiais/00_fundamentos/br-lei-13105-2015.html",
+        "okf_compilados/00_fundamentos/br-lei-13105-2015.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    },
+    {
+      "id": "BR.LEI.9784.1999",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:12.393248+00:00",
+      "sha256": "1d9d5ea1ebb2c2aca078f1ca5cbf09a8d27ee1072a38b2c48d82e790889d21a3",
+      "bytes": 74941,
+      "text_chars": 33370,
+      "articles": 80,
+      "files": [
+        "documentos_oficiais/00_fundamentos/br-lei-9784-1999.html",
+        "okf_compilados/00_fundamentos/br-lei-9784-1999.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+    },
+    {
+      "id": "BR.LEI.12016.2009",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:13.222271+00:00",
+      "sha256": "02a4255695c90c9f740bcd49c915feb507fe411600cfd844bd1ed506bf084c69",
+      "bytes": 36372,
+      "text_chars": 16169,
+      "articles": 36,
+      "files": [
+        "documentos_oficiais/00_fundamentos/br-lei-12016-2009.html",
+        "okf_compilados/00_fundamentos/br-lei-12016-2009.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm"
+    },
+    {
+      "id": "BR.LEI.8934.1994",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:14.218520+00:00",
+      "sha256": "0e32e18b747bf42835c6dbb519d14d67951192ccdf8db9e257e58ce0afcd50ab",
+      "bytes": 85118,
+      "text_chars": 35425,
+      "articles": 70,
+      "files": [
+        "documentos_oficiais/01_registro/br-lei-8934-1994.html",
+        "okf_compilados/01_registro/br-lei-8934-1994.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm"
+    },
+    {
+      "id": "BR.DECRETO.1800.1996",
+      "source": "https://www.planalto.gov.br/ccivil_03/decreto/d1800.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:15.309088+00:00",
+      "sha256": "5a2f7e8a47dff4bf5e720d22ad82329916ab85ce76c311cc0832bf43f963f67c",
+      "bytes": 233730,
+      "text_chars": 119801,
+      "articles": 147,
+      "files": [
+        "documentos_oficiais/01_registro/br-decreto-1800-1996.html",
+        "okf_compilados/01_registro/br-decreto-1800-1996.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/decreto/d1800.htm"
+    },
+    {
+      "id": "BR.LEI.10406.2002",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:16.179029+00:00",
+      "sha256": "42e0d7bb1424f872650e10b9ac6112f0e33fea94f6107882495e89c28150386f",
+      "bytes": 923899,
+      "text_chars": 640207,
+      "articles": 1500,
+      "files": [
+        "documentos_oficiais/01_registro/br-lei-10406-2002.html",
+        "okf_compilados/01_registro/br-lei-10406-2002.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+      "id": "BR.LEI.6404.1976",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:17.239551+00:00",
+      "sha256": "4ba37f0082e212b4f11e2962b8e8d40c074ad0e3c337716ef26200b095ebcf69",
+      "bytes": 757607,
+      "text_chars": 386878,
+      "articles": 394,
+      "files": [
+        "documentos_oficiais/01_registro/br-lei-6404-1976.html",
+        "okf_compilados/01_registro/br-lei-6404-1976.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm"
+    },
+    {
+      "id": "BR.LEI.5764.1971",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:18.259817+00:00",
+      "sha256": "aa2a82800c544987f508f6e8bd9232320d5d21fc8d0b588abd3cfe2081a77ab8",
+      "bytes": 120771,
+      "text_chars": 68836,
+      "articles": 127,
+      "files": [
+        "documentos_oficiais/01_registro/br-lei-5764-1971.html",
+        "okf_compilados/01_registro/br-lei-5764-1971.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm"
+    },
+    {
+      "id": "BR.LEI.11598.2007",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:18.864484+00:00",
+      "sha256": "8ec2cd6840eba4103a1d4c3c4150149f3bf311397230b22d2c57633201e7891f",
+      "bytes": 88786,
+      "text_chars": 35605,
+      "articles": 32,
+      "files": [
+        "documentos_oficiais/01_registro/br-lei-11598-2007.html",
+        "okf_compilados/01_registro/br-lei-11598-2007.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm"
+    },
+    {
+      "id": "BR.LEI.13874.2019",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:19.394713+00:00",
+      "sha256": "94602460d964e11bb4441c6c31a6b05cb86b667d45a56bdcd7c9245263923360",
+      "bytes": 160728,
+      "text_chars": 54929,
+      "articles": 51,
+      "files": [
+        "documentos_oficiais/01_registro/br-lei-13874-2019.html",
+        "okf_compilados/01_registro/br-lei-13874-2019.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm"
+    },
+    {
+      "id": "BR.LEI.14195.2021",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14195.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:20.232482+00:00",
+      "sha256": "d86a52a760980d06e5f772e7236a4c9908742a0051af16af9e985a9e22a4ec44",
+      "bytes": 285424,
+      "text_chars": 98123,
+      "articles": 109,
+      "files": [
+        "documentos_oficiais/01_registro/br-lei-14195-2021.html",
+        "okf_compilados/01_registro/br-lei-14195-2021.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14195.htm"
+    },
+    {
+      "id": "BR.LEI.11101.2005",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:21.515714+00:00",
+      "sha256": "df2c0f726a1b90f5243236730a4585b4bf8cb0ea8cf249ae34be18c737967544",
+      "bytes": 633110,
+      "text_chars": 261801,
+      "articles": 304,
+      "files": [
+        "documentos_oficiais/01_registro/br-lei-11101-2005.html",
+        "okf_compilados/01_registro/br-lei-11101-2005.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm"
+    },
+    {
+      "id": "BR.LEI.12529.2011",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:22.429077+00:00",
+      "sha256": "5ae313060516692a6393870ae2962be150c1d6a1dd0ab3a91b680abc0b1f20cb",
+      "bytes": 176616,
+      "text_chars": 100201,
+      "articles": 134,
+      "files": [
+        "documentos_oficiais/01_registro/br-lei-12529-2011.html",
+        "okf_compilados/01_registro/br-lei-12529-2011.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm"
+    },
+    {
+      "id": "BR.IN_DREI.81.2020",
+      "source": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:23.050274+00:00",
+      "sha256": "baa5f46b097e461d7500a804c5feef075527b1751f7d63feb4ece718825589f7",
+      "bytes": 853480,
+      "text_chars": 222330,
+      "articles": 212,
+      "files": [
+        "documentos_oficiais/01_registro/br-in-drei-81-2020.pdf",
+        "okf_compilados/01_registro/br-in-drei-81-2020.okf"
+      ],
+      "url_final": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file"
+    },
+    {
+      "id": "BR.IN_DREI.82.2021",
+      "source": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/arquivos/legislacoes-federais/indrei822023_compilada.pdf/@@display-file/file",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:24.241684+00:00",
+      "sha256": "69dd0e7d6195fb2d0e5d2e87b05fd8ad6c4e7f0d288bd3fc6f501147b41f226f",
+      "bytes": 253124,
+      "text_chars": 31764,
+      "articles": 32,
+      "files": [
+        "documentos_oficiais/01_registro/br-in-drei-82-2021.pdf",
+        "okf_compilados/01_registro/br-in-drei-82-2021.okf"
+      ],
+      "url_final": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/arquivos/legislacoes-federais/indrei822023_compilada.pdf/@@display-file/file"
+    },
+    {
+      "id": "BR.MANUAL_DREI.anexoII.2025",
+      "source": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-ii-empresario-individual_link.pdf/@@display-file/file",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:25.029739+00:00",
+      "sha256": "b73be19d91729599324242c0f9e00008acb7abf43430d25aee03179a411269fb",
+      "bytes": 629920,
+      "text_chars": 149403,
+      "articles": 12,
+      "files": [
+        "documentos_oficiais/01_registro/br-manual-drei-anexoii-2025.pdf",
+        "okf_compilados/01_registro/br-manual-drei-anexoii-2025.okf"
+      ],
+      "url_final": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-ii-empresario-individual_link.pdf/@@display-file/file"
+    },
+    {
+      "id": "BR.MANUAL_DREI.anexoIV.2025",
+      "source": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-iv-limitada_link.pdf/@@display-file/file",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:26.116904+00:00",
+      "sha256": "3c8515561b5389bcf884e4a5414b96ed5c954e5fdca84f9a05090cf149f84977",
+      "bytes": 1113556,
+      "text_chars": 318737,
+      "articles": 13,
+      "files": [
+        "documentos_oficiais/01_registro/br-manual-drei-anexoiv-2025.pdf",
+        "okf_compilados/01_registro/br-manual-drei-anexoiv-2025.okf"
+      ],
+      "url_final": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-iv-limitada_link.pdf/@@display-file/file"
+    },
+    {
+      "id": "BR.MANUAL_DREI.anexoV.2025",
+      "source": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-v-sa_link.pdf/@@display-file/file",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:27.656560+00:00",
+      "sha256": "53fca0e81e6d58c3c0478961ad32cada961f7dcb684b9502e5016ca0bdcc7848",
+      "bytes": 878682,
+      "text_chars": 225571,
+      "articles": 11,
+      "files": [
+        "documentos_oficiais/01_registro/br-manual-drei-anexov-2025.pdf",
+        "okf_compilados/01_registro/br-manual-drei-anexov-2025.okf"
+      ],
+      "url_final": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-v-sa_link.pdf/@@display-file/file"
+    },
+    {
+      "id": "BR.MANUAL_DREI.anexoVI.2025",
+      "source": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-vi-cooperativa_link.pdf/@@display-file/file",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:29.216295+00:00",
+      "sha256": "1506915cdb32f35c0977b06cf026051ae85a9d5d9d0a446df6c43649f7f77907",
+      "bytes": 1006497,
+      "text_chars": 272422,
+      "articles": 166,
+      "files": [
+        "documentos_oficiais/01_registro/br-manual-drei-anexovi-2025.pdf",
+        "okf_compilados/01_registro/br-manual-drei-anexovi-2025.okf"
+      ],
+      "url_final": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-vi-cooperativa_link.pdf/@@display-file/file"
+    },
+    {
+      "id": "BR.IN_DREI.1.2025",
+      "source": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:31.141218+00:00",
+      "sha256": "9ebb6dd6b89ad0938d98b143844b2d8d10b1f1cfa6f229c36e8167bbba66b983",
+      "bytes": 579350,
+      "text_chars": 8216,
+      "articles": 0,
+      "files": [
+        "documentos_oficiais/01_registro/br-in-drei-1-2025.html",
+        "okf_compilados/01_registro/br-in-drei-1-2025.okf"
+      ],
+      "url_final": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
+    },
+    {
+      "id": "BR.PORTAL_JUCEB.legislacao.2026",
+      "source": "https://www.ba.gov.br/juceb/legislacao/leis",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:31.918533+00:00",
+      "sha256": "bb7d5ed2d9c0db4ddd5c44487c225c36e1ed3ede724787b0a5ac54ad68ab8035",
+      "bytes": 130313,
+      "text_chars": 4362,
+      "articles": 0,
+      "files": [
+        "documentos_oficiais/01_registro/br-portal-juceb-legislacao-2026.html",
+        "okf_compilados/01_registro/br-portal-juceb-legislacao-2026.okf"
+      ],
+      "url_final": "https://www.ba.gov.br/juceb/legislacao/leis"
+    },
+    {
+      "id": "BR.PORTAL_JUCEB.resolucoes.2026",
+      "source": "https://www.ba.gov.br/juceb/editais/12622/resolucoes-do-plenario-2",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:32.390733+00:00",
+      "sha256": "ee2595f989f34da61523d6e7ec6e034ec8393f20225c17e612bc51619b0393d0",
+      "bytes": 462585,
+      "text_chars": 11969,
+      "articles": 0,
+      "files": [
+        "documentos_oficiais/01_registro/br-portal-juceb-resolucoes-2026.html",
+        "okf_compilados/01_registro/br-portal-juceb-resolucoes-2026.okf"
+      ],
+      "url_final": "https://www.ba.gov.br/juceb/editais/12622/resolucoes-do-plenario-2"
+    },
+    {
+      "id": "BR.LC.123.2006",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:33.007202+00:00",
+      "sha256": "8caf47714cc59dacb4b05ab1d214516175aaebac4a80bb968b3b9544d4dbdd06",
+      "bytes": 1622252,
+      "text_chars": 301395,
+      "articles": 221,
+      "files": [
+        "documentos_oficiais/02_simples/br-lc-123-2006.html",
+        "okf_compilados/02_simples/br-lc-123-2006.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm"
+    },
+    {
+      "id": "BR.LC.128.2008",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp128.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:42:15.356515+00:00",
+      "sha256": "48e319d535ef41acd8c99c5ba622aadefac50d90941c162380b24b78eb418b8f",
+      "bytes": 517699,
+      "text_chars": 80036,
+      "articles": 27,
+      "files": [
+        "documentos_oficiais/02_simples/br-lc-128-2008.html",
+        "okf_compilados/02_simples/br-lc-128-2008.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp128.htm"
+    },
+    {
+      "id": "BR.LC.147.2014",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp147.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:42:16.322836+00:00",
+      "sha256": "c50c8c17861aa90b32b4f2cb4aa3cefb14705af28367336f30fc3ee2af19cade",
+      "bytes": 199724,
+      "text_chars": 70038,
+      "articles": 50,
+      "files": [
+        "documentos_oficiais/02_simples/br-lc-147-2014.html",
+        "okf_compilados/02_simples/br-lc-147-2014.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp147.htm"
+    },
+    {
+      "id": "BR.LC.155.2016",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp155.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:39.896479+00:00",
+      "sha256": "65d56d1c703566c572662333b5e52b32b0ae9038c9dbb44c72f65656cc9ebe12",
+      "bytes": 621251,
+      "text_chars": 54055,
+      "articles": 44,
+      "files": [
+        "documentos_oficiais/02_simples/br-lc-155-2016.html",
+        "okf_compilados/02_simples/br-lc-155-2016.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp155.htm"
+    },
+    {
+      "id": "BR.LC.167.2019",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp167.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:40.822197+00:00",
+      "sha256": "8852f9fd151030004245af81fee9243c75f2b3c714f2064973e73d1a3921ea60",
+      "bytes": 37355,
+      "text_chars": 14867,
+      "articles": 22,
+      "files": [
+        "documentos_oficiais/02_simples/br-lc-167-2019.html",
+        "okf_compilados/02_simples/br-lc-167-2019.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp167.htm"
+    },
+    {
+      "id": "BR.RESOLUÇÃO_CGSN.140.2018",
+      "source": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta/normas.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=original",
+      "status": "failed",
+      "timestamp": "2026-10-20T07:30:41.290459+00:00",
+      "error": "Extração insuficiente; verifique bloqueio/dinamismo ou digitalização"
+    },
+    {
+      "id": "BR.RESOLUÇÃO_CGSN.187.2026",
+      "source": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta/normas.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=original",
+      "status": "failed",
+      "timestamp": "2026-10-20T07:30:41.734272+00:00",
+      "error": "Extração insuficiente; verifique bloqueio/dinamismo ou digitalização"
+    },
+    {
+      "id": "BR.RESOLUÇÃO_CGSN.190.2026",
+      "source": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta/normas.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=original",
+      "status": "failed",
+      "timestamp": "2026-10-20T07:30:42.152302+00:00",
+      "error": "Extração insuficiente; verifique bloqueio/dinamismo ou digitalização"
+    },
+    {
+      "id": "BR.RESOLUÇÃO_CGSN.191.2026",
+      "source": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta/normas.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=original",
+      "status": "failed",
+      "timestamp": "2026-10-20T07:30:42.581900+00:00",
+      "error": "Extração insuficiente; verifique bloqueio/dinamismo ou digitalização"
+    },
+    {
+      "id": "BR.PORTAL_RECEITA.simples.2026",
+      "source": "https://www8.receita.fazenda.gov.br/SimplesNacional/",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:42.998209+00:00",
+      "sha256": "9061b7602688709b9281fafcf0635403421d2c260361167d293059d57221bf6f",
+      "bytes": 45443,
+      "text_chars": 1344,
+      "articles": 0,
+      "files": [
+        "documentos_oficiais/02_simples/br-portal-receita-simples-2026.html",
+        "okf_compilados/02_simples/br-portal-receita-simples-2026.okf"
+      ],
+      "url_final": "https://www8.receita.fazenda.gov.br/SimplesNacional/"
+    },
+    {
+      "id": "BR.LC.87.1996",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:43.573265+00:00",
+      "sha256": "78d13b6ea907bdcb408f9b981584f77b3a484da97be5fcf46734100fde4b16e3",
+      "bytes": 270282,
+      "text_chars": 100522,
+      "articles": 45,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lc-87-1996.html",
+        "okf_compilados/03_tributos/br-lc-87-1996.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm"
+    },
+    {
+      "id": "BR.LC.190.2022",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp190.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:45.105951+00:00",
+      "sha256": "26f152592aff2b089de983bd11857810b1601028da1529b1478d34f03d607e36",
+      "bytes": 26839,
+      "text_chars": 9586,
+      "articles": 3,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lc-190-2022.html",
+        "okf_compilados/03_tributos/br-lc-190-2022.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp190.htm"
+    },
+    {
+      "id": "BR.LC.192.2022",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp192.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:45.803852+00:00",
+      "sha256": "5a5fdb6d786037a0b8d21f995097f98a10f2bd803e06080eccccdb2d7e97cf76",
+      "bytes": 62832,
+      "text_chars": 21155,
+      "articles": 38,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lc-192-2022.html",
+        "okf_compilados/03_tributos/br-lc-192-2022.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp192.htm"
+    },
+    {
+      "id": "BR.LC.116.2003",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:46.625644+00:00",
+      "sha256": "33edaa9ecc4c09db6db40b125b3b64749dc12767989edb9adb4a13ff5b0d2226",
+      "bytes": 104392,
+      "text_chars": 48660,
+      "articles": 15,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lc-116-2003.html",
+        "okf_compilados/03_tributos/br-lc-116-2003.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm"
+    },
+    {
+      "id": "BR.LC.157.2016",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp157.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:47.264028+00:00",
+      "sha256": "d1d4c34535609d56870d61149af11b9d2b39a23f0e225abe33c66053bde7f635",
+      "bytes": 53993,
+      "text_chars": 17269,
+      "articles": 13,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lc-157-2016.html",
+        "okf_compilados/03_tributos/br-lc-157-2016.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp157.htm"
+    },
+    {
+      "id": "BR.LC.175.2020",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp175.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:47.744732+00:00",
+      "sha256": "06598e7aea7256985e332d02d97fd219c4c46c1e2d991423b7261e459f070540",
+      "bytes": 41908,
+      "text_chars": 15899,
+      "articles": 20,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lc-175-2020.html",
+        "okf_compilados/03_tributos/br-lc-175-2020.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp175.htm"
+    },
+    {
+      "id": "BR.DECRETO.7212.2010",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7212.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:48.240739+00:00",
+      "sha256": "e039b349a345a7313c38f308e4655b992c878d531c8f1c6bf4a4dfc6dc11ee56",
+      "bytes": 3461037,
+      "text_chars": 742967,
+      "articles": 1000,
+      "files": [
+        "documentos_oficiais/03_tributos/br-decreto-7212-2010.html",
+        "okf_compilados/03_tributos/br-decreto-7212-2010.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7212.htm"
+    },
+    {
+      "id": "BR.DECRETO.11158.2022",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11158.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:51.006464+00:00",
+      "sha256": "aa8f560eafb73b0c25e6c194e79a3ef7bfaa8721ff79ee90609a706ce7fe09c8",
+      "bytes": 22509,
+      "text_chars": 3727,
+      "articles": 10,
+      "files": [
+        "documentos_oficiais/03_tributos/br-decreto-11158-2022.html",
+        "okf_compilados/03_tributos/br-decreto-11158-2022.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11158.htm"
+    },
+    {
+      "id": "BR.LEI.9718.1998",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l9718.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:51.490619+00:00",
+      "sha256": "7fd1d8573c3f3df51e9082f199e698dd5b01cf8e2b0f5f6c374078c16afaa15c",
+      "bytes": 196422,
+      "text_chars": 72187,
+      "articles": 49,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lei-9718-1998.html",
+        "okf_compilados/03_tributos/br-lei-9718-1998.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l9718.htm"
+    },
+    {
+      "id": "BR.LEI.10637.2002",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637compilado.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:52.181341+00:00",
+      "sha256": "47deacabad3eb96749d92a3517388fc7ef45d0e71026e099e04e083d8606800e",
+      "bytes": 133287,
+      "text_chars": 67578,
+      "articles": 77,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lei-10637-2002.html",
+        "okf_compilados/03_tributos/br-lei-10637-2002.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637compilado.htm"
+    },
+    {
+      "id": "BR.LEI.10833.2003",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.833compilado.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:52.741158+00:00",
+      "sha256": "424d0750253b93606bc35cf846ef0aa40d91dd89c13fc8288607e618a8b24554",
+      "bytes": 268000,
+      "text_chars": 139536,
+      "articles": 151,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lei-10833-2003.html",
+        "okf_compilados/03_tributos/br-lei-10833-2003.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.833compilado.htm"
+    },
+    {
+      "id": "BR.LEI.10865.2004",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:53.385305+00:00",
+      "sha256": "b44720b9970bc539561da15ca75e1a163bca01178d3ad4459601cc4af6102407",
+      "bytes": 389869,
+      "text_chars": 175118,
+      "articles": 105,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lei-10865-2004.html",
+        "okf_compilados/03_tributos/br-lei-10865-2004.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865.htm"
+    },
+    {
+      "id": "BR.DECRETO.9580.2018",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9580.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:54.112724+00:00",
+      "sha256": "c2f1c9761cd8313d3128d020f9e4f698f006a32315f5ee21c2ccd20c85ac8a75",
+      "bytes": 2944670,
+      "text_chars": 1171001,
+      "articles": 1380,
+      "files": [
+        "documentos_oficiais/03_tributos/br-decreto-9580-2018.html",
+        "okf_compilados/03_tributos/br-decreto-9580-2018.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9580.htm"
+    },
+    {
+      "id": "BR.LEI.7689.1988",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l7689.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:56.332519+00:00",
+      "sha256": "24f0d8eb9a1d1aa62d03c7a4d6fa423d4cd52464a021a1e7bc55dfc2b1f49cac",
+      "bytes": 56346,
+      "text_chars": 18156,
+      "articles": 22,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lei-7689-1988.html",
+        "okf_compilados/03_tributos/br-lei-7689-1988.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l7689.htm"
+    },
+    {
+      "id": "BR.LEI.9249.1995",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:56.820342+00:00",
+      "sha256": "97ff2ed87647cdca346c23718ee6ca8bd82bf4a24356518ef7fa17203adfa873",
+      "bytes": 117246,
+      "text_chars": 52088,
+      "articles": 71,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lei-9249-1995.html",
+        "okf_compilados/03_tributos/br-lei-9249-1995.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm"
+    },
+    {
+      "id": "BR.LEI.9430.1996",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l9430.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:57.382578+00:00",
+      "sha256": "f75aedde1f31d18bc1682a8f86a6a3539d49f2a8def4efb1ea5ddf01d6180f0d",
+      "bytes": 565058,
+      "text_chars": 219382,
+      "articles": 221,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lei-9430-1996.html",
+        "okf_compilados/03_tributos/br-lei-9430-1996.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l9430.htm"
+    },
+    {
+      "id": "BR.LEI.8981.1995",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l8981.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:58.265149+00:00",
+      "sha256": "fbc225b7582752be912c4974cb66e104dd03c06cedf8c187fd8801a881733d5d",
+      "bytes": 303019,
+      "text_chars": 133676,
+      "articles": 175,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lei-8981-1995.html",
+        "okf_compilados/03_tributos/br-lei-8981-1995.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l8981.htm"
+    },
+    {
+      "id": "BR.DECRETO.6306.2007",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6306.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:58.916026+00:00",
+      "sha256": "0f8e0140c0a671b2212adec1a5a2b4be8dadfd78f53a4dbba3203204c4c281cb",
+      "bytes": 550965,
+      "text_chars": 214747,
+      "articles": 128,
+      "files": [
+        "documentos_oficiais/03_tributos/br-decreto-6306-2007.html",
+        "okf_compilados/03_tributos/br-decreto-6306-2007.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6306.htm"
+    },
+    {
+      "id": "BR.DECRETO_LEI.37.1966",
+      "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0037.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:30:59.723328+00:00",
+      "sha256": "a0a1e740de5d23a492816bd398c26676b99f5f026f5974f8457400077836dc5f",
+      "bytes": 377457,
+      "text_chars": 167422,
+      "articles": 244,
+      "files": [
+        "documentos_oficiais/03_tributos/br-decreto-lei-37-1966.html",
+        "okf_compilados/03_tributos/br-decreto-lei-37-1966.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0037.htm"
+    },
+    {
+      "id": "BR.DECRETO.6759.2009",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6759.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:01.220844+00:00",
+      "sha256": "73b97f9804e1ae81d448e0f76af39ac109ac8f8c3fe06e72d41bde5d5d241e26",
+      "bytes": 1835395,
+      "text_chars": 755125,
+      "articles": 1081,
+      "files": [
+        "documentos_oficiais/03_tributos/br-decreto-6759-2009.html",
+        "okf_compilados/03_tributos/br-decreto-6759-2009.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6759.htm"
+    },
+    {
+      "id": "BR.LEI.8212.1991",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:02.926564+00:00",
+      "sha256": "50603fabbfa33eb8b6867f7ac33e1cdb90cab00eb8925756cc880a04922e0f85",
+      "bytes": 771751,
+      "text_chars": 305822,
+      "articles": 238,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lei-8212-1991.html",
+        "okf_compilados/03_tributos/br-lei-8212-1991.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm"
+    },
+    {
+      "id": "BR.LEI.8213.1991",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:05.806814+00:00",
+      "sha256": "8041131553e643bbec9d2c71efc9530e0d449016fe3e77885038e6e7a083b55c",
+      "bytes": 755476,
+      "text_chars": 318296,
+      "articles": 310,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lei-8213-1991.html",
+        "okf_compilados/03_tributos/br-lei-8213-1991.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm"
+    },
+    {
+      "id": "BR.DECRETO_LEI.5452.1943",
+      "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:07.267784+00:00",
+      "sha256": "d0db6957b5e5a817513ddb3621c984d55b0fce2606039e056f516f80e4e9a9d0",
+      "bytes": 3531637,
+      "text_chars": 1384906,
+      "articles": 1481,
+      "files": [
+        "documentos_oficiais/03_tributos/br-decreto-lei-5452-1943.html",
+        "okf_compilados/03_tributos/br-decreto-lei-5452-1943.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm"
+    },
+    {
+      "id": "BR.LEI.8036.1990",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:10.671091+00:00",
+      "sha256": "1d41c344a435705dd820544a7525f1d3304d391e918f0828ce0a5e3ff062f066",
+      "bytes": 424914,
+      "text_chars": 155077,
+      "articles": 118,
+      "files": [
+        "documentos_oficiais/03_tributos/br-lei-8036-1990.html",
+        "okf_compilados/03_tributos/br-lei-8036-1990.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm"
+    },
+    {
+      "id": "BR.DECRETO.6022.2007",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:11.409873+00:00",
+      "sha256": "9e23b0085d22a6eb4b2b3e49be15ed4622c9fdf189ca6f6f22e0670292271150",
+      "bytes": 22009,
+      "text_chars": 6525,
+      "articles": 12,
+      "files": [
+        "documentos_oficiais/04_obrigacoes/br-decreto-6022-2007.html",
+        "okf_compilados/04_obrigacoes/br-decreto-6022-2007.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm"
+    },
+    {
+      "id": "BR.DECRETO.8373.2014",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8373.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:11.900412+00:00",
+      "sha256": "5f43a173deccf154d7e5f307883fde88f3aec2fdefb700a92ae3dbba272bb53d",
+      "bytes": 36190,
+      "text_chars": 10572,
+      "articles": 9,
+      "files": [
+        "documentos_oficiais/04_obrigacoes/br-decreto-8373-2014.html",
+        "okf_compilados/04_obrigacoes/br-decreto-8373-2014.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8373.htm"
+    },
+    {
+      "id": "BR.IN_RFB.2005.2021",
+      "source": "https://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=102406",
+      "status": "failed",
+      "timestamp": "2026-10-20T07:42:17.055180+00:00",
+      "error": "Extração insuficiente; verifique bloqueio/dinamismo ou digitalização"
+    },
+    {
+      "id": "BR.IN_RFB.2110.2022",
+      "source": "https://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=126687",
+      "status": "failed",
+      "timestamp": "2026-10-20T07:42:17.206760+00:00",
+      "error": "Extração insuficiente; verifique bloqueio/dinamismo ou digitalização"
+    },
+    {
+      "id": "BR.PORTAL_ENCAT.nfe.2026",
+      "source": "https://www.nfe.fazenda.gov.br/portal/principal.aspx",
+      "status": "failed",
+      "timestamp": "2026-10-20T07:31:13.238399+00:00",
+      "error": "Falha de download: HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "id": "BR.PORTAL_NFS-E.nacional.2026",
+      "source": "https://www.gov.br/nfse/pt-br",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:17.614282+00:00",
+      "sha256": "40f50d17816aeb1dec7fa2959ec2d9b6bf4da2a54e7051281e9314a12f50b4ce",
+      "bytes": 117898,
+      "text_chars": 2204,
+      "articles": 0,
+      "files": [
+        "documentos_oficiais/04_obrigacoes/br-portal-nfs-e-nacional-2026.html",
+        "okf_compilados/04_obrigacoes/br-portal-nfs-e-nacional-2026.okf"
+      ],
+      "url_final": "https://www.gov.br/nfse/pt-br"
+    },
+    {
+      "id": "BR.EC.132.2023",
+      "source": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:18.105931+00:00",
+      "sha256": "9a5ff09b87fec627b02d3b8e15f8c9535a33197fdcd97c095b8c77e2c19ef4dd",
+      "bytes": 510399,
+      "text_chars": 105485,
+      "articles": 82,
+      "files": [
+        "documentos_oficiais/05_reforma/br-ec-132-2023.html",
+        "okf_compilados/05_reforma/br-ec-132-2023.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm"
+    },
+    {
+      "id": "BR.LC.214.2025",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:18.802149+00:00",
+      "sha256": "3a98109d480d18d5cc89f80fc12dec71ec306d16423eabab6a132a8f8ce2b137",
+      "bytes": 4604674,
+      "text_chars": 889152,
+      "articles": 777,
+      "files": [
+        "documentos_oficiais/05_reforma/br-lc-214-2025.html",
+        "okf_compilados/05_reforma/br-lc-214-2025.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm"
+    },
+    {
+      "id": "BR.LC.227.2026",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:27.271262+00:00",
+      "sha256": "5422d120f12ae45f72187e80e77dd7698353fa381e2b43392e1b52b633149ef5",
+      "bytes": 1334008,
+      "text_chars": 430495,
+      "articles": 336,
+      "files": [
+        "documentos_oficiais/05_reforma/br-lc-227-2026.html",
+        "okf_compilados/05_reforma/br-lc-227-2026.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm"
+    },
+    {
+      "id": "BR.DECRETO.12955.2026",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12955.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:28.479041+00:00",
+      "sha256": "73d436014fe8f4642a702bb466a1370c811ebaa371dd61f044b0f994b94874cf",
+      "bytes": 3184430,
+      "text_chars": 880387,
+      "articles": 858,
+      "files": [
+        "documentos_oficiais/05_reforma/br-decreto-12955-2026.html",
+        "okf_compilados/05_reforma/br-decreto-12955-2026.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12955.htm"
+    },
+    {
+      "id": "BR.LC.229.2026",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp229.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:30.554906+00:00",
+      "sha256": "c04a228dbbd68a5ad296e5b434386f15cb7c7c5c6f8c1b6f491aaf488ace6a20",
+      "bytes": 13786,
+      "text_chars": 4058,
+      "articles": 10,
+      "files": [
+        "documentos_oficiais/05_reforma/br-lc-229-2026.html",
+        "okf_compilados/05_reforma/br-lc-229-2026.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp229.htm"
+    },
+    {
+      "id": "BR.LC.228.2026",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp228.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:31.027056+00:00",
+      "sha256": "23f63ddebbc479bd1e6de0ed04859874c107357c8879ce624c9a3e6be3accf87",
+      "bytes": 21668,
+      "text_chars": 6923,
+      "articles": 7,
+      "files": [
+        "documentos_oficiais/05_reforma/br-lc-228-2026.html",
+        "okf_compilados/05_reforma/br-lc-228-2026.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp228.htm"
+    },
+    {
+      "id": "BR.BA.LEI_BA.7014.1996",
+      "source": "https://mbusca.sefaz.ba.gov.br/DITRI/leis/leis_estaduais/legest_1996_7014_icmscomnotas.pdf",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:31.534200+00:00",
+      "sha256": "dfcf041095a7834484823c616f251b4612abad67d4c41f37438ad455c724f7a9",
+      "bytes": 665051,
+      "text_chars": 324232,
+      "articles": 74,
+      "files": [
+        "documentos_oficiais/07_bahia/br-ba-lei-ba-7014-1996.pdf",
+        "okf_compilados/07_bahia/br-ba-lei-ba-7014-1996.okf"
+      ],
+      "url_final": "https://mbusca.sefaz.ba.gov.br/DITRI/leis/leis_estaduais/legest_1996_7014_icmscomnotas.pdf"
+    },
+    {
+      "id": "BR.BA.DECRETO_BA.13780.2012",
+      "source": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_texto_2021.pdf",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:32.177658+00:00",
+      "sha256": "10ff7e56a29c4843ba6d0e5844cfb8ad93e9fb5ca9431d6f3f0d09fb8197bd81",
+      "bytes": 1468962,
+      "text_chars": 939261,
+      "articles": 451,
+      "files": [
+        "documentos_oficiais/07_bahia/br-ba-decreto-ba-13780-2012.pdf",
+        "okf_compilados/07_bahia/br-ba-decreto-ba-13780-2012.okf"
+      ],
+      "url_final": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_texto_2021.pdf"
+    },
+    {
+      "id": "BR.BA.ANEXO_RICMS_BA.1.2026",
+      "source": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2026.pdf",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:33.105528+00:00",
+      "sha256": "46768ebfef042531bf7e25d5bed460e64c8001a901360edf7e6e6b9171ca65b3",
+      "bytes": 1159721,
+      "text_chars": 106300,
+      "articles": 0,
+      "files": [
+        "documentos_oficiais/07_bahia/br-ba-anexo-ricms-ba-1-2026.pdf",
+        "okf_compilados/07_bahia/br-ba-anexo-ricms-ba-1-2026.okf"
+      ],
+      "url_final": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2026.pdf"
+    },
+    {
+      "id": "BR.BA.PORTAL_SEFAZ_BA.normas.2026",
+      "source": "https://www.sefaz.ba.gov.br/",
+      "status": "failed",
+      "timestamp": "2026-10-20T07:31:33.800527+00:00",
+      "error": "Falha de download: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+    },
+    {
+      "id": "BR.BA.PORTAL_JUCEB.drei.2026",
+      "source": "https://www.ba.gov.br/juceb/legislacao/instrucoes-normativas-drei",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:36.287799+00:00",
+      "sha256": "8359e8a3fa8091e61036253e35809698357d58c03da9cb932b120f9b7cb6e20e",
+      "bytes": 137246,
+      "text_chars": 5018,
+      "articles": 0,
+      "files": [
+        "documentos_oficiais/07_bahia/br-ba-portal-juceb-drei-2026.html",
+        "okf_compilados/07_bahia/br-ba-portal-juceb-drei-2026.okf"
+      ],
+      "url_final": "https://www.ba.gov.br/juceb/legislacao/instrucoes-normativas-drei"
+    },
+    {
+      "id": "BR.BA.PORTAL_JUCEB.procedimentos.2026",
+      "source": "https://www.ba.gov.br/juceb/passo-passo",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:37.039705+00:00",
+      "sha256": "03e712a162cd3cc37615a17350c3bb60d9c08915d277e4d11637abeb3bfc4868",
+      "bytes": 142733,
+      "text_chars": 724,
+      "articles": 0,
+      "files": [
+        "documentos_oficiais/07_bahia/br-ba-portal-juceb-procedimentos-2026.html",
+        "okf_compilados/07_bahia/br-ba-portal-juceb-procedimentos-2026.okf"
+      ],
+      "url_final": "https://www.ba.gov.br/juceb/passo-passo"
+    },
+    {
+      "id": "BR.LEI.8078.1990",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:37.671125+00:00",
+      "sha256": "fe03639bd89c5fb5520f034e2c1869cb6fb78ee5c90536bcc9089508ae15361f",
+      "bytes": 170672,
+      "text_chars": 84089,
+      "articles": 124,
+      "files": [
+        "documentos_oficiais/08_transversal/br-lei-8078-1990.html",
+        "okf_compilados/08_transversal/br-lei-8078-1990.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    },
+    {
+      "id": "BR.LEI.13709.2018",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:38.373895+00:00",
+      "sha256": "1763fa94345627ac02df29940ec1b1779ebbf8eabefb72560f1ffc735c52165d",
+      "bytes": 310252,
+      "text_chars": 107973,
+      "articles": 109,
+      "files": [
+        "documentos_oficiais/08_transversal/br-lei-13709-2018.html",
+        "okf_compilados/08_transversal/br-lei-13709-2018.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
+    },
+    {
+      "id": "BR.LEI.12965.2014",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:39.053325+00:00",
+      "sha256": "67c665693501b5a710f190e310c6be8956f01ba3485a5d0e1855d2c850447daf",
+      "bytes": 119976,
+      "text_chars": 43820,
+      "articles": 40,
+      "files": [
+        "documentos_oficiais/08_transversal/br-lei-12965-2014.html",
+        "okf_compilados/08_transversal/br-lei-12965-2014.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm"
+    },
+    {
+      "id": "BR.LEI.9605.1998",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:39.603303+00:00",
+      "sha256": "b56cab998fc27414f91dca42a313fc2bcf9acbe633a347d2f48d8d2aac17c7b0",
+      "bytes": 120006,
+      "text_chars": 55788,
+      "articles": 90,
+      "files": [
+        "documentos_oficiais/08_transversal/br-lei-9605-1998.html",
+        "okf_compilados/08_transversal/br-lei-9605-1998.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm"
+    },
+    {
+      "id": "BR.LC.140.2011",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp140.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:40.163599+00:00",
+      "sha256": "89cf9773f24c09f1e218bb88189b1e501df2a8bbb8949ccab172e403218e83c5",
+      "bytes": 54123,
+      "text_chars": 24750,
+      "articles": 25,
+      "files": [
+        "documentos_oficiais/08_transversal/br-lc-140-2011.html",
+        "okf_compilados/08_transversal/br-lc-140-2011.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp140.htm"
+    },
+    {
+      "id": "BR.LEI.12305.2010",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:40.645963+00:00",
+      "sha256": "d56f1c6cc52fa685d1fb6e61fba5ef4c450192582ad8cfa3c9d0b70501dbfadf",
+      "bytes": 148676,
+      "text_chars": 65801,
+      "articles": 67,
+      "files": [
+        "documentos_oficiais/08_transversal/br-lei-12305-2010.html",
+        "okf_compilados/08_transversal/br-lei-12305-2010.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm"
+    },
+    {
+      "id": "BR.LEI.14133.2021",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:41.219275+00:00",
+      "sha256": "5629ee461c446aba18b17514045184bf1e7737f864e391859fca412c0b9b33fd",
+      "bytes": 649705,
+      "text_chars": 288751,
+      "articles": 248,
+      "files": [
+        "documentos_oficiais/08_transversal/br-lei-14133-2021.html",
+        "okf_compilados/08_transversal/br-lei-14133-2021.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+    },
+    {
+      "id": "BR.LEI.12187.2009",
+      "source": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12187.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:42.112626+00:00",
+      "sha256": "e59e8d2e095ea9783390617a13147e028215002a44515f448414822718fe272e",
+      "bytes": 33254,
+      "text_chars": 15207,
+      "articles": 12,
+      "files": [
+        "documentos_oficiais/08_transversal/br-lei-12187-2009.html",
+        "okf_compilados/08_transversal/br-lei-12187-2009.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12187.htm"
+    },
+    {
+      "id": "BR.LEI.10192.2001",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10192.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:42.583025+00:00",
+      "sha256": "06bba93231d9dc22811a1c26b8e374984ef5c7944eec8968c72af83fec2c0a7a",
+      "bytes": 22105,
+      "text_chars": 9899,
+      "articles": 21,
+      "files": [
+        "documentos_oficiais/08_transversal/br-lei-10192-2001.html",
+        "okf_compilados/08_transversal/br-lei-10192-2001.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10192.htm"
+    },
+    {
+      "id": "BR.LEI.10741.2003",
+      "source": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+      "status": "extracted_automatic",
+      "timestamp": "2026-10-20T07:31:43.083034+00:00",
+      "sha256": "ab907f131a2a1d226a45212578039576a5df43f2cf8ff31b5a9deee3c4e6b571",
+      "bytes": 213279,
+      "text_chars": 90758,
+      "articles": 183,
+      "files": [
+        "documentos_oficiais/08_transversal/br-lei-10741-2003.html",
+        "okf_compilados/08_transversal/br-lei-10741-2003.okf"
+      ],
+      "url_final": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm"
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.IN_DREI.82.2021",
+  "title": "Autenticação de livros empresariais",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.IN_DREI.82.2021#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1º Esta Instrução Normativa consolida as normas e diretrizes gerais acerca dos procedimentos\na serem observados para a autenticação de que tratam os arts. 32, inciso III, e 39, inciso I, da Lei nº 8.934,\nde 18 de novembro de 1994, sem prejuízo da legislação específica aplicável à matéria.\n Parágrafo único. As disposições desta Instrução Normativa aplicam-se às filiais, sucursais ou\nagências, no Brasil, do empresário ou sociedade com sede em país estrangeiro.\n\n\n CAPÍTULO I\n DAS DISPOSIÇÕES GERAIS\n\n[FIM_PAGINA {i+1}]\n\n\n[INICIO_PAGINA 2]",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1797,
+        "char_end": 2344
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#2",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2º Serão submetidos à autenticação da Junta Comercial os termos de abertura e de\nencerramento de qualquer instrumento de escrituração que o interessado julgue conveniente adotar,\nsegundo a natureza e o volume de seus negócios, inclusive, livros não obrigatórios.\n § 1º A autenticação da Escrituração Contábil Digital – ECD, por meio do Sistema Público de\nEscrituração Digital – SPED, desobriga qualquer outra autenticação, nos termos do § 2º do art. 78-A do\nDecreto nº 1.800, de 30 de janeiro de 1996.\n § 2º O balanço patrimonial contido em livro contábil poderá, a critério exclusivo do interessado, ser\narquivado no âmbito das Juntas Comerciais, devendo a análise se ater às formalidades legais e extrínsecas\ndo documento.\n § 3º Para os fins do § 2º deste artigo, não há obrigatoriedade de indicação dos dados do livro do\nqual foi extraído o respectivo balanço. (Revogado pela Instrução Normativa DREI nº 55, de 2 de junho de\n2021)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2344,
+        "char_end": 3284
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#3",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3º Os livros de que trata o art. 1º deverão ser exclusivamente digitais, podendo ser produzidos\nou lançados em plataformas eletrônicas, armazenadas ou não nos servidores das Juntas Comerciais.\n Parágrafo único. Os sistemas eletrônicos utilizados devem garantir, no mínimo, a segurança, a\nconfiabilidade e a inviolabilidade dos dados.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3284,
+        "char_end": 3624
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#4",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3º Os livros de que trata o art. 1º deverão ser exclusivamente digitais, podendo ser produzidos\nou lançados em plataformas eletrônicas. (Alterado pela Instrução Normativa DREI/ME nº 79, de 22 de\nnovembro de 2022.)\n § 1º Os sistemas eletrônicos utilizados devem garantir, no mínimo, a segurança, a confiabilidade e\na inviolabilidade dos dados. (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de\n2022.)\n § 2º Para os fins de autenticação de livros sociais, as sociedades devem observar as disposições\ndessa instrução normativa.\" (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de\n2022.)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3624,
+        "char_end": 4255
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#5",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4º As Juntas Comerciais adaptarão seus sistemas para recepcionar os livros ou seus dados,\ninclusive os livros societários e os livros dos agentes auxiliares, de modo que, após a entrada em vigor\ndesta Instrução Normativa, não deverão ser apresentados para autenticação novos livros em papel,\npreenchidos ou em branco.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4255,
+        "char_end": 4579
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#6",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4º As Juntas Comerciais adaptarão seus sistemas para recepcionar os livros ou seus dados,\ninclusive os livros societários e os livros dos agentes auxiliares, de modo que, após a entrada em vigor\ndesta Instrução Normativa, não deverão ser apresentados para autenticação quaisquer novos livros em\npapel. (Alterado pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n § 1º Os termos de abertura e de encerramento deverão ser assinados com qualquer certificado\ndigital emitido por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil ou\nqualquer outro meio de comprovação da autoria e integridade de documentos em forma eletrônica, nos\ntermos do § 2º do art. 10 da Medida Provisória nº 2.200-2, de 24 de agosto de 2001, e da Lei nº 14.063,\nde 23 de setembro de 2020.\n § 2º Os arquivos dos livros digitais não ultrapassarão o tamanho a ser estabelecido pela Junta\nComercial, de acordo com a sua capacidade tecnológica.\n § 3º O armazenamento dos livros nos servidores das Juntas Comerciais, nos termos do caput,\npoderá perdurar pelo prazo de 30 dias, nos termos do parágrafo único do art. 39 da Lei nº 8.934, de 1994.\n\n\n 2\n\n[FIM_PAGINA {i+1}]\n\n\n[INICIO_PAGINA 3]\n § 3º É vedado o armazenamento do conteúdo das averbações de todos os livros, cujo interesse é de\nexclusividade da sociedade e de sua administração, nos servidores das Juntas Comerciais, devendo ser\npor esta automaticamente eliminado após 30 (trinta) dias contados do deferimento da autenticação,\nsendo certo que o seu download pelo usuário poderá ser realizado quantas vezes se fizerem necessárias\ndurante este período, sem cobrança de novo preço. (Alterado pela Instrução Normativa DREI/ME nº 79,\nde 22 de novembro de 2022.)\n § 4º A guarda e a conservação da escrituração eletrônica não é de competência da Junta Comercial,\nficando a cargo exclusivamente do empresário e/ou da sociedade empresária, conforme previsão do art.\n1.194 do Código Civil. (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n § 5º A fim de preservar a segurança dos dados contidos nos livros societários, as Juntas Comerciais\ndevem assegurar que o download dos referidos livros, após autenticados, sejam realizados mediante a\nindicação do protocolo do pedido, cabendo ao solicitante assegurar a guarda do protocolo do pedido e\ndo armazenamento do livro, para que esses não sejam acessados por terceiros não autorizados. (Incluído\npela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n § 6º A Junta Comercial deve garantir a segurança necessária para a preservação da\nconfidencialidade do conteúdo dos livros, enquanto não procedida a sua eliminação. (Incluído pela\nInstrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n § 7º Em caso de perda, extravio, não realização do download ou de conteúdo corrompido de\nquaisquer dos instrumentos de escrituração, após a eliminação prevista no § 3º do art. 4º, deve ser\nobservado o procedimento previsto no § 3º do art. 5º. (Incluído pela Instrução Normativa DREI/ME nº 79,\nde 22 de novembro de 2022.)\n\n\n CAPÍTULO II\n DOS TERMOS DE ABERTURA E ENCERRAMENTO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4579,
+        "char_end": 7710
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#7",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5º Os livros contábeis ou não conterão termos de abertura e de encerramento, que indicarão:\n I - Termo de abertura:\n a) a finalidade a que se destina o livro (nome do livro);\n b) o número de ordem;\n c) o nome empresarial;\n d) o Cadastro Nacional da Pessoa Jurídica - CNPJ;\n e) o município da sede ou filial;\n f) o número e a data do arquivamento dos atos constitutivos na Junta Comercial; e\n g) a data e as assinaturas;\n\n\n II - Termo de encerramento:\n a) a finalidade a que destinou o livro (nome do livro);\n b) o número de ordem;\n c) o nome empresarial;\n d) o período a que se refere a escrituração; e\n e) a data e as assinaturas.\n\n 3\n\n[FIM_PAGINA {i+1}]\n\n\n[INICIO_PAGINA 4]\n d) o período a que se refere a escrituração, quando os livros estiverem devidamente escriturados;\n(Alterado pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n e) a data de início e fim do período a ser escriturado, no caso de livro social em branco; e (Alterado\npela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n f) a data e as assinaturas. (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de\n2022.)\n § 1º Em se tratando de agentes auxiliares do comércio, o livro deverá conter, além da finalidade a\nque destina e o número de ordem, o nome civil, o número de matrícula, o número do Cadastro de Pessoas\nFísicas - CPF, a data e a assinatura.\n § 2º As juntas comerciais, de forma automatizada, poderão fazer constar dados adicionais nos\ntermos de abertura e encerramento.\n § 3º Ocorrendo o corrompimento de quaisquer dos instrumentos de escrituração, após observadas\nas disposições do Decreto-Lei nº 486, de 3 de março de 1969, e recomposta a escrituração, o novo\ninstrumento receberá o mesmo número de ordem do substituído, devendo o Termo de Autenticação\nressalvar, expressamente, a ocorrência comunicada.\n § 3º Ocorrendo alguma das hipóteses previstas no § 7º do art. 4º de quaisquer dos instrumentos de\nescrituração, após observadas as disposições do Decreto-Lei nº 486, de 3 de março de 1969, e recomposta\na escrituração, o novo instrumento receberá o mesmo número de ordem do substituído, devendo o\nTermo de Autenticação ressalvar, expressamente, a ocorrência comunicada. (Alterado pela Instrução\nNormativa DREI/ME nº 79, de 22 de novembro de 2022.)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7710,
+        "char_end": 10001
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#8",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6º Os termos de abertura e de encerramento deverão estar devidamente assinados pelo\nrespectivo interessado ou procurador e por contabilista legalmente habilitado, quando for o caso, com\nindicação do número de sua inscrição no Conselho Regional de Contabilidade - CRC.\n § 1º No caso de interessado pessoa jurídica, pode ser utilizada a assinatura eletrônica dela.\n § 2º No caso de assinatura por procurador, o instrumento de mandato, com os poderes necessários,\npoderá:\n I - ser ou estar arquivado na Junta Comercial em processo separado, de modo que deverá ser\nanotado nos registros de autenticação de livros, o número do arquivamento da procuração; ou\n II - ser anexado ao pedido de autenticação do respectivo livro, a fim de instruir a análise, podendo\nser mantida a sua imagem no histórico da sociedade para eventuais confrontos.\n § 3º Se o procurador for o próprio contabilista, será necessária apenas a sua assinatura, nos termos\ndo caput.\n\n\n CAPÍTULO III\n DA AUTENTICAÇÃO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 10001,
+        "char_end": 10985
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#9",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7º A autenticação dos instrumentos de escrituração consiste na verificação das formalidades\nextrínsecas dos dados contidos nos termos de abertura e encerramento.\n § 1º A autenticação dos instrumentos pela Junta Comercial não a responsabiliza pelos fatos e atos\nneles escriturados, não sendo de competência dos órgãos de registro a análise das formalidades\nintrínsecas neles contidas.\n § 2º O contabilista legalmente habilitado e o interessado são responsáveis pelo conteúdo do\ndocumento digital entregue.\n\n 4\n\n[FIM_PAGINA {i+1}]\n\n\n[INICIO_PAGINA 5]\n § 2º O contabilista legalmente habilitado, quando for o caso, e o empresário ou a administração da\nsociedade empresária, conforme o caso, são responsáveis pelo conteúdo do documento digital entregue.\n(Alterado pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n § 3º Não é de competência das Juntas Comerciais a verificação da sequência do número de ordem\ndo instrumento e do período da escrituração, de modo que a autenticação independe da apresentação à\nJunta Comercial de outro(s) livro(s) anteriormente autenticado(s).",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 10985,
+        "char_end": 12081
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#10",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8º Lavrados os Termos de Abertura e de Encerramento, os livros devidamente escriturados e\nde caráter obrigatório, salvo disposição especial de lei, deverão ser submetidos à autenticação pela Junta\nComercial:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 12081,
+        "char_end": 12295
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#11",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8º Lavrados os Termos de Abertura e de Encerramento, os instrumentos de escrituração, de\ncaráter obrigatório, salvo disposição especial de lei, deverão ser submetidos à autenticação pela Junta\nComercial: (Alterado pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n I - após efetuada a escrituração, quando se tratar de livros contábeis e de agentes auxiliares do\ncomércio; e (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n II - quando se tratar de livros sociais: (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de\nnovembro de 2022.)\n a) antes de efetuada a escrituração; ou (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de\nnovembro de 2022.)\n b) depois de efetuada a escrituração. (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de\nnovembro de 2022.)\n § 1º A Junta Comercial procederá às autenticações previstas nesta Instrução Normativa por termo,\nque conterá:\n a) identificação: Termo de Autenticação;\n b) declaração: declaro a exatidão dos Termos de Abertura e Encerramento do livro digital de\ncaracterísticas abaixo, por mim examinado e conferido;\n c) identificação do arquivo, composta por hash da escrituração e hash do requerimento;\n d) identificação da escrituração, composta por sigla da unidade da federação, nome empresarial,\nCNPJ, forma da escrituração, data de início e data de término da escrituração, natureza e número de\nordem do livro;\n d) identificação da escrituração, composta por sigla da unidade da federação, nome empresarial,\nCNPJ, forma da escrituração, período ou data de início e de término da escrituração, conforme o caso,\nnatureza e número de ordem do livro; (Alterado pela Instrução Normativa DREI/ME nº 79, de 22 de\nnovembro de 2022.)\n e) informação dos requerentes, compreendendo: CPF, nome e cargo;\n f) identificação dos signatários da escrituração;\n g) número de autenticação;\n h) número da versão do Termo de Autenticação;\n i) localidade;\n j) número e a data de autenticação; e\n k) hash do Termo de Autenticação e assinatura eletrônica do autenticador.\n\n\n 5\n\n[FIM_PAGINA {i+1}]\n\n\n[INICIO_PAGINA 6]\n § 2º O termo de autenticação deverá ser assinado por servidor devidamente habilitado com\nqualquer certificado digital emitido por entidade credenciada pela Infraestrutura de Chaves Públicas\nBrasileira - ICP-Brasil ou utilizar qualquer outro meio de comprovação da autoria e integridade de\ndocumentos em forma eletrônica, nos termos do § 2º do art. 10 da Medida Provisória nº 2.200-2, de 24\nde agosto de 2001, e da Lei nº 14.063, de 23 de setembro de 2020.\n § 3º No caso dos livros sociais autenticados em branco, os Termos de Abertura e de Encerramento\ndeverão ser entregues ao usuário em arquivos separados, cada qual com o seu próprio hash e assinatura\neletrônica, de forma a assegurar que a escrituração de eventos posteriores não corromperá a\nautenticidade e integridade desses termos. (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de\nnovembro de 2022.)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 12295,
+        "char_end": 15280
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#12",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9º Cabe às Juntas Comerciais manter o controle dos instrumentos de escrituração autenticados,\npor meio de sistemas de registro próprios, que deverão conter, pelo menos, os seguintes dados:\n I - nome empresarial ou nome civil, conforme o caso;\n II - número de ordem;\n III - finalidade;\n IV - período a que se refere a escrituração;\n IV - período ou data de início e término, a que se refere a escrituração; (Alterado pela Instrução\nNormativa DREI/ME nº 79, de 22 de novembro de 2022.)\n V - data e número de autenticação do instrumento de escrituração;\n VI - número do arquivamento da procuração e data de seu término ou o número do arquivamento\ndo instrumento que autoriza a assinatura do livro; e\n VII - Termo de Autenticação, conforme § 1º do art. 8º desta Instrução.\n Parágrafo único. Em relação ao legado de livro papel e em microficha, adicionalmente ao disposto\nnos incisos I a VI:\n a) o número de folhas ou páginas ou número de fotogramas, conforme o caso; e\n b) as assinaturas dos autenticadores, para eventuais averiguações ou confrontos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15280,
+        "char_end": 16333
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#13",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9º-A. Para a solicitação de autenticação de que trata o art. 8º, inciso II, alínea \"a\" desta instrução\nnormativa, o usuário deverá encaminhar à Junta Comercial os dados relativos aos termos de abertura e\nencerramento, previstos no art. 5º, bem como apresentar declaração prevista no Anexo II, a qual será\nparte integrante dos respectivos termos. (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de\nnovembro de 2022.)\n Parágrafo único. Os livros previamente autenticados tão somente com os termos de abertura e de\nencerramento produzem seus regulares efeitos jurídicos, inclusive perante terceiros. (Incluído pela\nInstrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n\n\n Seção I\n Autenticação Automática",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 16333,
+        "char_end": 17058
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#14",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. A autenticação dos termos de abertura e encerramento, preenchidos nos moldes do art.\n5º, deverá ser deferida de forma automática quando o interessado declarar que cumpriu todas as\nformalidades legais, nos moldes do Anexo, bem como apresentar o comprovante de pagamento da guia\nde arrecadação.\n\n\n 6\n\n[FIM_PAGINA {i+1}]\n\n\n[INICIO_PAGINA 7]",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17058,
+        "char_end": 17406
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#15",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. A autenticação dos termos de abertura e encerramento, preenchidos nos moldes do art. 5º,\ndeverá ser deferida de forma automática quando o interessado declarar que cumpriu todas as\nformalidades legais, nos moldes do Anexo I, bem como apresentar o comprovante de pagamento da guia\nde arrecadação. (Alterado pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n § 1º A declaração de que trata o caput deverá constar do termo de abertura.\n § 2º A comprovação da autenticação será realizada, por meio eletrônico, mediante recibo emitido\npelo sistema público disponibilizado pela Junta Comercial.\n § 3º A autenticação dos instrumentos de escrituração pela Junta Comercial não a responsabiliza\npelos fatos e atos neles escriturados.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17406,
+        "char_end": 18157
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#16",
+      "type": "artigo_candidato",
+      "name": "Art. 10-A",
+      "content": "Art. 10-A. Deverá ser autenticado de forma automática o livro de que trata o art. 8º, inciso II, alínea\n\"a\" e art. 9º-A desta instrução normativa, após a validação eletrônica dos dados contidos nos termos de\nabertura e encerramento. (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de\n2022.)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18157,
+        "char_end": 18469
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#17",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11. O sistema informatizado utilizado pela Junta Comercial deve impedir que dados cadastrais\nsejam alterados quando do preenchimento dos dados complementares, a fim de evitar divergência entre\neles.\n\n\n CAPÍTULO IV\n DAS DISPOSIÇÕES ESPECÍFICAS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18469,
+        "char_end": 18718
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#18",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12. Os livros relativos a períodos anteriores poderão ser assinados pelos responsáveis pela\nescrituração no período a que ela se refere, ou pelos atuais responsáveis.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18718,
+        "char_end": 18891
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#19",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13. No caso de escrituração contábil descentralizada, o empresário individual, a Empresa\nIndividual de Responsabilidade Limitada - Eireli e as sociedades que possuírem filial em outra unidade\nfederativa deverão requerer a autenticação dos instrumentos de escrituração respectivos à Junta\nComercial onde a filial estiver situada.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18891,
+        "char_end": 19226
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#20",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13. No caso de escrituração contábil descentralizada, o empresário individual e as sociedades\nque possuírem filial em outra unidade federativa deverão requerer a autenticação dos instrumentos de\nescrituração respectivos à Junta Comercial onde a filial estiver situada. (Alterado pela Instrução Normativa\nDREI/ME nº 79, de 22 de novembro de 2022.)\n Parágrafo único. Os Termos de Abertura e de Encerramento deverão atender ao disposto nos arts.\n5º e 6º desta Instrução Normativa, conforme o caso, sendo que os dados deverão referir-se à filial e a\ndata de arquivamento deverá referir-se ao ato de abertura da filial na Junta Comercial da unidade\nfederativa onde esta se localizar.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 19226,
+        "char_end": 19911
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#21",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14. No caso de transferência de sede para outra unidade da federação ou de conversão, a\nautenticação dos instrumentos ainda não apresentados poderá ser realizada pela Junta Comercial ou\nCartório de origem, até o exercício em que ocorreu a transferência ou conversão, ou na Junta Comercial\nde destino, independentemente do período de escrituração constante do livro.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 19911,
+        "char_end": 20283
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#22",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15. No caso de cisão, fusão e incorporação deverão ser apresentados livros contendo os fatos\ncontábeis ocorridos até a data do evento para autenticação na Junta Comercial.\n § 1º Em se tratando de transformação deverá ser dada sequência aos respectivos livros, contudo,\ndevem constar dos termos de abertura e de encerramento os dados relativos ao novo tipo jurídico.\n § 2º Os instrumentos de escrituração de uma sociedade podem ser transferidos para outra que a\nsuceda, nos termos do art. 9º do Decreto-Lei nº 486, de 1969.\n\n 7\n\n[FIM_PAGINA {i+1}]\n\n\n[INICIO_PAGINA 8]\n § 3º Para os efeitos do § 2º deste artigo, deverá ser aposto, após o último lançamento, termo de\ntransferência, que deverá conter, além dos requisitos exigidos para o termo de abertura, a indicação do\nnome da empresa sucessora, o número e a data do arquivamento do instrumento de sucessão.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 20283,
+        "char_end": 21147
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#23",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16. No caso de empresas extintas, poderão ser autenticados livros contendo fatos contábeis\nocorridos até a data da extinção.\n\n\n CAPÍTULO V\n DO CANCELAMENTO E SUBSTITUIÇÃO DO TERMO DE AUTENTICAÇÃO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21147,
+        "char_end": 21349
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#24",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17. Os termos de autenticação poderão ser cancelados quando lavrados com erro material,\nmediante iniciativa da Junta Comercial ou do titular da escrituração.\n § 1º A retificação de lançamento feito com erro, em livro já autenticado pela Junta Comercial,\ndeverá ser efetuada nos livros de escrituração do exercício em que foi constatada a sua ocorrência,\nobservadas as Normas Brasileiras de Contabilidade.\n § 2º O livro já autenticado pela Junta Comercial não será substituído por outro, de mesmo número\nou não, contendo a escrituração retificada.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21349,
+        "char_end": 21902
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#25",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "Art. 18. O termo de cancelamento da autenticação será lavrado em arquivo próprio, devendo conter\no número do processo administrativo ou judicial que o determinou.\n § 1º Tratando-se de legado de livros em papel ou fichas, o termo de cancelamento será lavrado na\nmesma parte do livro onde foi lavrado o termo de autenticação.\n § 2º No novo termo de autenticação, além das informações corretas, deverá constar informação\ndo cancelamento anterior.\n\n\n CAPÍTULO V-A\n DOS LIVROS SOCIAIS\n (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21902,
+        "char_end": 22462
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#26",
+      "type": "artigo_candidato",
+      "name": "Art. 18-A",
+      "content": "Art. 18-A. É de responsabilidade da administração da sociedade a fiel gestão e escrituração dos livros\nsociais, bem como a coleta, conferência e conservação da prova das assinaturas digitais de todos os\nenvolvidos nos atos, eventos ou operações escriturados. (Incluído pela Instrução Normativa DREI/ME nº\n79, de 22 de novembro de 2022.)\n § 1º Os livros sociais enviados para autenticação pela Junta Comercial poderão ser criados e\nescriturados em formato de livre escolha da sociedade empresária, inclusive com orientação na horizontal\nou vertical de suas páginas, desde que atendam aos requisitos previstos na legislação aplicável ao tipo de\npessoa jurídica.\n § 2º É meramente facultativa a utilização do modelo de Livro de Registro de Ações Nominativas\ndisponibilizado no Anexo III.\n § 3º A Junta Comercial poderá exigir que eventuais livros sociais, cujos arquivos estejam na forma\nde planilha eletrônica, sejam previamente transformados em formato pdf-A para autenticação.\n § 4º Os livros sociais autenticados em branco poderão ser escriturados pela administração da\nsociedade sem necessidade de nova autenticação perante a Junta Comercial a cada novo ato, evento ou\noperação, com a manutenção do mesmo nº de ordem e até que sejam esgotadas as suas páginas.\n\n\n 8\n\n[FIM_PAGINA {i+1}]\n\n\n[INICIO_PAGINA 9]\n § 5º Tendo em vista que na hipótese do § 4º a alteração no conteúdo de um livro digital já assinado\nfaz com que as assinaturas anteriores percam sua validade e que pode ser inconveniente ou mesmo\nimpossível obter novamente as assinaturas dos envolvidos em escriturações anteriores sempre que\nhouver nova escrituração, fica facultada a criação de versões, para meros fins de gestão interna pela\nsociedade, de um mesmo nº de ordem de um determinado livro social autenticado quando houver nova\nescrituração, desde que cada versão seja devidamente assinada pelas pessoas envolvidas nos novos atos,\neventos ou operações.\n § 6º Para garantir segurança aos interessados, a administração da sociedade poderá prestar\ndeclaração sobre qual versão de um nº de ordem de um determinado livro social é a mais atual.\n § 7º O Livro de Registro de Ações Nominativas poderá ser assinado tão somente pela administração\nda sociedade. (NR)\n § 8º Os termos de abertura e de encerramento dos livros sociais não precisam ser assinados pelo\ncontabilista legalmente habilitado\n\n\n CAPÍTULO VI\n DAS DISPOSIÇÕES FINAIS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 22462,
+        "char_end": 24861
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#27",
+      "type": "artigo_candidato",
+      "name": "Art. 19",
+      "content": "Art. 19. Os livros autenticados por qualquer processo anterior a esta Instrução Normativa\npermanecerão em uso até que se esgotem.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 24861,
+        "char_end": 24992
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#28",
+      "type": "artigo_candidato",
+      "name": "Art. 19-A",
+      "content": "Art. 19-A. Os livros físicos autenticados ou em exigência há mais de 30 (trinta) dias e, ainda, não\nretirados na Junta Comercial pelo seu requerente, poderão ser destruídos pelas Juntas Comerciais,\nobservada a garantia de não acesso a terceiros ao seu conteúdo durante todo o procedimento de\neliminação. (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n Parágrafo único. Antes da eliminação dos livros físicos, de que trata o caput, a Junta Comercial\ndeverá dar ampla publicidade ao procedimento por meio de seu portal institucional. (Incluído pela\nInstrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 24992,
+        "char_end": 25634
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#29",
+      "type": "artigo_candidato",
+      "name": "Art. 19-B",
+      "content": "Art. 19-B. Os livros físicos em branco, já autenticados pelas Juntas Comerciais, poderão ser utilizados\naté que se conclua o seu preenchimento. (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de\nnovembro de 2022.)\n § 1º Deverá ser informada a data de início e do fim do período, nos moldes da alínea \"e\", do inciso\nII, do art. 5º da Instrução Normativa DREI nº 82, de 2021. (Incluído pela Instrução Normativa DREI/ME nº\n79, de 22 de novembro de 2022.)\n § 2º Os livros físicos já escriturados, autenticados ou não, poderão ser digitalizados e enviados para\nautenticação da Junta Comercial na forma de livro digital, observadas as disposições dessa instrução\nnormativa e da Lei nº 13.874, de 2019 quanto à conservação e destruição de documentos originais.\n(Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n § 3º Na hipótese do § 2º os termos de abertura e encerramento não deverão ser digitalizados, sendo\nsubstituídos por novos termos. (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de\n2022.)\n § 4º Na hipótese do § 2º, após o novo termo de abertura do livro digitalizado deverá constar\ndeclaração da administração de que se trata do mesmo livro físico já autenticado, conforme modelo\nsugerido no Anexo IV. (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 25634,
+        "char_end": 26976
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#30",
+      "type": "artigo_candidato",
+      "name": "Art. 19-C",
+      "content": "Art. 19-C. As disposições contidas nesta Instrução Normativa se aplicam, também, aos livros das\ncooperativas. (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n\n 9\n\n[FIM_PAGINA {i+1}]\n\n\n[INICIO_PAGINA 10]",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26976,
+        "char_end": 27210
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#31",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20. Ficam revogadas:\n I - a Instrução Normativa nº 11, de 5 de dezembro de 2013;\n II - a Instrução Normativa nº 69, de 18 de novembro de 2019; e\n III - a Instrução Normativa nº 75, de 18 de fevereiro de 2020.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 27210,
+        "char_end": 27425
+      }
+    },
+    {
+      "id": "BR.IN_DREI.82.2021#32",
+      "type": "artigo_candidato",
+      "name": "Art. 21",
+      "content": "Art. 21. Esta Instrução Normativa entra em vigor cento e vinte dias após a data de sua publicação.\n\n\n ANDRÉ LUIZ SANTA CRUZ RAMOS\n Diretor\n\n\nPublicada no D.O.U., de 22 de fevereiro de 2021.\n\n\n 10\n\n[FIM_PAGINA {i+1}]\n\n\n[INICIO_PAGINA 11]\n ANEXO\n DECLARAÇÃO DE RESPONSABILIDADE\n\n Declaro(amos), sob as penas da Lei, que o livro apresentado para autenticação preenche todas as\nformalidades legais exigíveis, bem como que estou(amos) devidamente habilitado(s) para assinatura dos\ntermos de abertura e de encerramento do livro.\n\n ANEXO I\n (Alterado pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n DECLARAÇÃO DE RESPONSABILIDADE\n\n Declaro(amos), sob as penas da Lei, que o livro apresentado para autenticação preenche todas as\nformalidades legais exigíveis, bem como que estou(amos) devidamente habilitado(s) para assinatura dos\ntermos de abertura e de encerramento do livro.\n\n\n ANEXO II\n (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n DECLARAÇÃO DE RESPONSABILIDADE - LIVROS SOCIAIS\n\n Declaro(amos), sob as penas da Lei, que:\n I - a escrituração do presente livro social, cujos Termos de Abertura e Encerramento foram aqui\ndevidamente apresentados, será à posteriori, sendo de exclusiva responsabilidade desta Sociedade e sua\nrespectiva administração, a regular averbação de toda e qualquer informação a ela aplicável;\n II - serão observadas todas as formalidades legais exigíveis para a escrituração e composição do\nlivro social digital; e\n III - estou(amos) devidamente habilitado(s) para assinatura dos termos de abertura e de\nencerramento do livro ora apresentado.\n\n\n ANEXO III\n (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n MODELO DE LIVRO DE REGISTRO DE AÇÕES NOMINATIVAS\n\n LIVRO DE REGISTRO DE AÇÕES NOMINATIVAS\nNome do Acionista 1:\nQualificação completa:\nDomicílio/sede:\n\n\n Operações Livro de Transferência Averbações e Ônus\n\n Nesta coluna são averbados todos os ônus\n Natureza da operação Total das Total das impostos às ações, por força legal, decisão\n Quantidade\n Data (subscrição, aquisição, Ações Ações judicial ou vontade de seu titular, incluindo, mas\n de ações Valor Valor Valor a Prazo para\n cessão, conversão, Espécie Classe Ordinárias Preferenciais Folha Nº do termo não se limitando à transmissão por ato judicial,\n referente à nominal integralizado integralizar integralização\n resgate, reembolso ou após a após a penhor, caução, alienação fiduciária em garantia,\n operação\n amortização) operação operação usufruto, fideicomisso, aluguel ou vinculação à\n Acordo de Acionistas.\n\n\n 11\n\n[FIM_PAGINA {i+1}]\n\n\n[INICIO_PAGINA 12]\n LIVRO DE REGISTRO DE AÇÕES NOMINATIVAS\nNome do Acionista 2:\nQualificação completa:\nDomicílio/sede:\n\n\n Operações Livro de Transferência Averbações e Ônus\n\n Nesta coluna são averbados todos os ônus\n Natureza da operação Total das Total das impostos às ações, por força legal, decisão\n Quantidade\n (subscrição, aquisição, Ações Ações judicial ou vontade de seu titular, incluindo, mas\n Data de ações Valor Valor Valor a Prazo para\n cessão, conversão, Espécie Classe Ordinárias Preferenciais Folha Nº do termo não se limitando à transmissão por ato judicial,\n referente à nominal integralizado integralizar integralização\n resgate, reembolso ou após a após a penhor, caução, alienação fiduciária em garantia,\n operação\n amortização) operação operação usufruto, fideicomisso, aluguel ou vinculação à\n Acordo de Acionistas.\n\n\n QUADRO DE AÇÕES CONSOLIDADO\n\n # % % %\n Acionista Classe\n Ações Ordinárias Preferenciais Total\n\nAcionista 1\nAcionista 2\nTotal de Ações Ordinárias\nTotal de Ações Preferenciais\nTotal\n\n\n ANEXO IV\n (Incluído pela Instrução Normativa DREI/ME nº 79, de 22 de novembro de 2022.)\n DECLARAÇÃO DE DIGITALIZAÇÃO DE LIVRO FÍSICO JÁ AUTENTICADO\n\nDeclaro(amos), sob as penas da Lei, que:\n\nI - o presente livro digitalizado é cópia fiel do mesmo livro físico [nº de ordem], referente ao [período] já\nautenticado de pela Junta Comercial, sob o Termo de Autenticação [nº xxx], na data de [xxxx].\n\nII - foram observadas todas as formalidades legais exigíveis para a digitalização do presente livro; e\n\nIII - estou(amos) devidamente habilitado(s) para assinatura dos termos de abertura e de encerramento\ndo livro digitalizado ora apresentado.\n\n\n 12\n\n[FIM_PAGINA {i+1}]\n\n\n[INICIO_PAGINA 13]\n\n[FIM_PAGINA {i+1}]",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 27425,
+        "char_end": 31764
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "69dd0e7d6195fb2d0e5d2e87b05fd8ad6c4e7f0d288bd3fc6f501147b41f226f"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "livros"
+    },
+    {
+      "type": "subject",
+      "target": "escrituracao"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/arquivos/legislacoes-federais/indrei822023_compilada.pdf/@@display-file/file",
+      "original_url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/arquivos/legislacoes-federais/indrei822023_compilada.pdf/@@display-file/file",
+      "authority": "DREI",
+      "retrieved_at": "2026-10-20T07:30:24.779134+00:00",
+      "sha256": "69dd0e7d6195fb2d0e5d2e87b05fd8ad6c4e7f0d288bd3fc6f501147b41f226f",
+      "file": "documentos_oficiais/01_registro/br-in-drei-82-2021.pdf",
+      "extracted_text": "textos_extraidos/01_registro/br-in-drei-82-2021.txt",
+      "page_count": 13
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 32,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

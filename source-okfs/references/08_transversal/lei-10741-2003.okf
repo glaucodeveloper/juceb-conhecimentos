@@ -1,0 +1,86 @@
+{
+  "schema": "okfforge.juceb.legal_source.v1",
+  "id": "BR.LEI.10741.2003",
+  "title": "Estatuto da Pessoa Idosa",
+  "summary": "Referência normativa no domínio 08_transversal; sem transcrição integral no arquivo de descoberta. Texto obtido posteriormente por sync_official.py.",
+  "elements": [
+    {
+      "id": "norma:BR.LEI.10741.2003",
+      "type": "ato_normativo",
+      "name": "Estatuto da Pessoa Idosa",
+      "attributes": {
+        "kind": "Lei",
+        "year": 2003,
+        "jurisdiction": "BR",
+        "subjects": [
+          "atendimento",
+          "consumidor"
+        ]
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "fonte_primaria_obrigatoria",
+      "value": true
+    },
+    {
+      "name": "proibido_inferir_vigencia_sem_conferencia",
+      "value": true
+    }
+  ],
+  "relations": [],
+  "functions": [],
+  "sources": [
+    {
+      "id": "BR.LEI.10741.2003",
+      "tipo": "Lei",
+      "numero": "10741",
+      "ano": 2003,
+      "jurisdicao": "BR",
+      "orgao": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+      "verificacao_url": "pendente",
+      "consultado_em": null,
+      "texto_integral_capturado": false,
+      "hash_sha256": null
+    }
+  ],
+  "open_questions": [
+    "Conferir versão consolidada, alterações, vigência por dispositivo e efeitos diferidos."
+  ],
+  "provenance": {
+    "status": "indice_documental",
+    "retrieved_at": null,
+    "notes": "",
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "completeness": {
+    "classification": "referencia_catalogada",
+    "full_text": false,
+    "article_count": 0,
+    "do_not_use_as_consolidated_law": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review",
+    "contract": {
+      "no_unverified_normative_conclusions": true
+    }
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_source_reference",
+  "topic_key": "references/br-lei-10741-2003",
+  "catalog_status": "url-unverified",
+  "official_source": {
+    "id": "BR.LEI.10741.2003",
+    "authority": "Planalto",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "evidence_url": "",
+    "source_verified": false,
+    "notes": ""
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schema": "okfforge.juceb.legal_source.v1",
+  "id": "BR.DECRETO.11158.2022",
+  "title": "TIPI — Tabela de Incidência do IPI",
+  "summary": "Referência normativa no domínio 03_tributos; sem transcrição integral no arquivo de descoberta. Texto obtido posteriormente por sync_official.py.",
+  "elements": [
+    {
+      "id": "norma:BR.DECRETO.11158.2022",
+      "type": "ato_normativo",
+      "name": "TIPI — Tabela de Incidência do IPI",
+      "attributes": {
+        "kind": "Decreto",
+        "year": 2022,
+        "jurisdiction": "BR",
+        "subjects": [
+          "ipi",
+          "tipi",
+          "ncm"
+        ]
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "fonte_primaria_obrigatoria",
+      "value": true
+    },
+    {
+      "name": "proibido_inferir_vigencia_sem_conferencia",
+      "value": true
+    }
+  ],
+  "relations": [],
+  "functions": [],
+  "sources": [
+    {
+      "id": "BR.DECRETO.11158.2022",
+      "tipo": "Decreto",
+      "numero": "11158",
+      "ano": 2022,
+      "jurisdicao": "BR",
+      "orgao": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11158.htm",
+      "verificacao_url": "pendente",
+      "consultado_em": null,
+      "texto_integral_capturado": false,
+      "hash_sha256": null
+    }
+  ],
+  "open_questions": [
+    "Conferir versão consolidada, alterações, vigência por dispositivo e efeitos diferidos."
+  ],
+  "provenance": {
+    "status": "indice_documental",
+    "retrieved_at": null,
+    "notes": "",
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "completeness": {
+    "classification": "referencia_catalogada",
+    "full_text": false,
+    "article_count": 0,
+    "do_not_use_as_consolidated_law": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review",
+    "contract": {
+      "no_unverified_normative_conclusions": true
+    }
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_source_reference",
+  "topic_key": "references/br-decreto-11158-2022",
+  "catalog_status": "url-unverified",
+  "official_source": {
+    "id": "BR.DECRETO.11158.2022",
+    "authority": "Planalto",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11158.htm",
+    "evidence_url": "",
+    "source_verified": false,
+    "notes": ""
+  }
+}

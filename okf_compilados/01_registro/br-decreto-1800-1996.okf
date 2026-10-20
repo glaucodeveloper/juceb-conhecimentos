@@ -1,0 +1,1678 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.DECRETO.1800.1996",
+  "title": "Regulamenta o Registro Público de Empresas",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.DECRETO.1800.1996#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1º O Registro Público de Empresas Mercantis e Atividades Afins será exercido em\r\n todo o território nacional, de forma sistêmica, por órgãos federais e estaduais, com\r\n as seguintes finalidades:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 661,
+        "char_end": 861
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#2",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1º  O Registro Público de Empresas Mercantis e Atividades Afins \r\n será exercido no território nacional, de forma sistêmica, por órgãos \r\n federais, estaduais e distritais, com as seguintes finalidades:\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nI - dar garantia, publicidade, autenticidade, segurança e eficácia aos atos\r\n jurídicos das empresas mercantis, submetidos a registro na forma da lei;\nI - dar garantia, publicidade, autenticidade, segurança e eficácia aos \r\n atos jurídicos das empresas, submetidos a registro na forma da lei;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nII - cadastrar as empresas mercantis nacionais e estrangeiras em funcionamento no País\r\n e manter atualizadas as informações pertinentes;\nII - cadastrar e manter atualizadas as informações relacionadas às \r\n empresas nacionais e estrangeiras em funcionamento no País; e\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nIII - proceder à matrícula dos agentes auxiliares do comércio, bem como ao seu\r\n cancelamento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 861,
+        "char_end": 1874
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#3",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2º Os atos das organizações destinadas à exploração de qualquer atividade\r\n econômica com fins lucrativos, compreendidas as firmas mercantis individuais e as\r\n sociedades mercantis, independentemente de seu objeto, serão arquivados no Registro\r\n Público de Empresas Mercantis e Atividades Afins, salvo as exceções previstas em lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1874,
+        "char_end": 2211
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#4",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2º  Os atos das organizações destinadas à \r\nexploração de qualquer atividade econômica com fins lucrativos, compreendidos os \r\nempresários individuais e as sociedades empresárias, independentemente de seu \r\nobjeto social, serão arquivados no Registro Público de Empresas Mercantis e \r\nAtividades Afins, respeitadas as exceções previstas em lei.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nCAPíTULO II\nDA ORGANIZAÇÃO\nSEÇÃO I\nDas Disposições Gerais",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2211,
+        "char_end": 2668
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#5",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3º Os serviços do Registro Público de Empresas Mercantis e Atividades Afins\r\n serão exercidos, em todo o território nacional, de maneira uniforme, harmônica e\r\n interdependente, pelo Sistema Nacional de Registro de Empresas Mercantis - SINREM,\r\n composto pelos seguintes órgãos:\nI - Departamento Nacional de Registro do Comércio - DNRC, órgão central do SINREM,\r\n com funções supervisora, orientadora, coordenadora e normativa, no plano técnico; e\r\n supletiva, no plano administrativo;\nI - Departamento Nacional de Registro Empresarial e Integração da \r\n Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia, \r\n órgão central do SINREM, com as seguintes funções:\n(Redação dada \r\n pelo Decreto nº 10.173, de 2019)\na) supervisão, orientação, coordenação e normativa, na área técnica; e\n(Incluído pelo \r\n Decreto nº 10.173, de 2019)\nb) supletiva, na área administrativa; e\n(Incluído pelo \r\n Decreto nº 10.173, de 2019)\nII - Juntas Comerciais, com funções executora e administradora dos serviços de\r\n Registro Público de Empresas Mercantis e Atividades Afins.\nSEÇÃO II\nDo Departamento Nacional de Registro do Comércio\nSeção II\n(Redação dada \r\n pelo Decreto nº 10.173, de 2019)\nDo Departamento Nacional de Registro Empresarial e Integração",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2668,
+        "char_end": 3984
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#6",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4º O Departamento Nacional de Registro do Comércio - DNRC, criado pela\nLei nº\r\n 4.048, de 29 de dezembro de 1961\n, órgão integrante do Ministério da Indústria, do\r\n Comércio e do Turismo, tem por finalidade:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3984,
+        "char_end": 4197
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#7",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4º  O Departamento Nacional de Registro Empresarial e Integração da \r\n Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia \r\n tem por finalidade:\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nI - supervisionar e coordenar, no plano técnico, os órgãos incumbidos da execução\r\n dos serviços do Registro Público de Empresas Mercantis e Atividades Afins;\nII - estabelecer e consolidar, com exclusividade, as normas e diretrizes gerais do\r\n Registro Público de Empresas Mercantis e Atividades Afins;\nIII - solucionar dúvidas ocorrentes na interpretação das leis, regulamentos e demais\r\n normas relacionadas com os serviços do Registro Público de Empresas Mercantis e\r\n Atividades Afins, baixando instruções para esse fim;\nIV - prestar orientações às Juntas Comerciais, com vistas à solução de consultas\r\n e à observância das normas legais e regulamentares do Registro Público de Empresas\r\n Mercantis e Atividades Afins;\nV - exercer ampla fiscalização jurídica sobre os órgãos incumbidos do Registro\r\n Público de Empresas Mercantis e Atividades Afins, representando para os devidos fins às\r\n autoridades administrativas contra abusos e infrações das respectivas normas e\r\n requerendo o que for necessário ao seu cumprimento;\nVI - estabelecer normas procedimentais de arquivamento de atos de firmas mercantis\r\n individuais e de sociedades mercantis de qualquer natureza;\nVI - estabelecer normas procedimentais de arquivamento de atos de \r\n empresários individuais e de sociedades empresárias de qualquer \r\n natureza;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nVII - promover ou providenciar, supletivamente, no plano administrativo, medidas\r\n tendentes a suprir ou corrigir ausências, falhas ou deficiências dos serviços de\r\n Registro Público de Empresas Mercantis e Atividades Afins;\nVIII - prestar apoio técnico e financeiro às Juntas Comerciais para a melhoria dos\r\n serviços de Registro Público de Empresas Mercantis e Atividades Afins;\nIX - organizar e manter atualizado o Cadastro Nacional de Empresas Mercantis - CNE,\r\n mediante colaboração mútua com as Juntas Comerciais;\nIX - organizar e manter atualizado o Cadastro Nacional de Empresas - CNE, mediante colaboração mútua com as Juntas Comerciais;\n(Redação dada \r\n pelo Decreto nº 10.173, de 2019)\nX - instruir, examinar e encaminhar os processos e recursos a serem decididos pelo\r\n Ministro de Estado da Indústria, do Comércio e do Turismo, inclusive os pedidos de\r\n autorização para nacionalização ou instalação de filial, agência, sucursal ou\r\n estabelecimento no País, por sociedade mercantil estrangeira, sem prejuízo da\r\n competência de outros órgãos federais;\nX - instruir, examinar e encaminhar os processos a serem decididos pelo \r\n Ministro de Estado da Economia, incluídos os pedidos de autorização para \r\n nacionalização ou instalação de filial, agência, sucursal ou \r\n estabelecimento no País, por sociedade empresária estrangeira, sem \r\n prejuízo da competência de outros órgãos públicos federais; e\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nX - instruir, examinar e encaminhar os pedidos de autorização para \r\n nacionalização ou instalação de filial, de agência, de sucursal ou de \r\n estabelecimento no País por sociedade estrangeira, ressalvada a \r\n competência de outros órgãos federais;\n(Redação dada \r\n pelo Decreto nº 11.250, de 2022)\nXI - promover e efetuar estudos, reuniões e publicações sobre assuntos pertinentes\r\n ao Registro Público de Empresas Mercantis e Atividades Afins.\nXI - promover e elaborar estudos e publicações e realizar reuniões sobre \r\n temas pertinentes ao Registro Público de Empresas Mercantis e Atividades \r\n Afins.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nXI - \r\npromover e elaborar estudos e publicações e realizar reuniões sobre temas \r\npertinentes ao Registro Público de Empresas Mercantis e Atividades Afins;\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)\nXII - \r\napoiar a articulação e a supervisão dos órgãos e das entidades envolvidos na \r\nintegração para o registro e a legalização de empresas;\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)\nXIII - \r\nquanto à integração para o registro e a legalização de empresas:\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)\na) \r\npropor planos de ação e diretrizes e implementar as medidas deles decorrentes, \r\nem articulação com outros órgãos e entidades públicas, inclusive estaduais, \r\ndistritais e municipais; e\n(Incluída pelo Decreto \r\nnº 11.250, de 2022)\nb) \r\npropor e implementar projetos, ações, convênios e programas de cooperação, em \r\narticulação com órgãos e com entidades públicas e privadas, nacionais e \r\nestrangeiras, no âmbito de sua área de competência;\n(Incluída pelo Decreto \r\nnº 11.250, de 2022)\nXIV - \r\nquanto ao Registro Público de Empresas Mercantis e Atividades Afins, propor os \r\nplanos de ação, as diretrizes e as normas e implementar as medidas necessárias;\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)\nXV - \r\ncoordenar as ações dos órgãos incumbidos da execução dos serviços do Registro \r\nPúblico de Empresas Mercantis e Atividades Afins;\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)\nXVI - \r\nespecificar, desenvolver, homologar, implementar, manter e operar os sistemas de \r\ninformação relativos à integração para o registro e para a legalização de \r\nempresas, em articulação com outros órgãos e observadas as competências destes; \r\ne\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)\nXVII - \r\npropor, implementar e monitorar medidas relacionadas com a desburocratização do \r\nregistro público de empresas e destinadas à melhoria do ambiente de negócios no \r\nPaís.\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)\nParágrafo único. Para o cumprimento do disposto neste artigo, o Departamento Nacional\r\n de Registro do Comércio - DNRC, considerando as suas finalidades, poderá constituir\r\n comissões integradas por servidores dos órgãos que compõem o SINREM.\n§ 1º  Para fins do disposto neste artigo, o Departamento Nacional de \r\n Registro Empresarial e Integração da Secretaria de Governo Digital da \r\n Secretaria Especial de Desburocratização, Gestão e Governo Digital do \r\n Ministério da Economia, observadas suas finalidades, poderá constituir \r\n comissões integradas por servidores dos órgãos que compõem o SINREM.\n(Incluído pelo \r\n Decreto nº 10.173, de 2019)\n§ 2º  O cadastro nacional a que se refere o inciso IX do\ncaput\nincluirá as informações originárias do cadastro estadual de empresas, \r\n vedados a exigência de preenchimento de formulário pelo empresário, o \r\n fornecimento de novos dados ou informações ou a cobrança de preço pela \r\n inclusão das informações no cadastro nacional.\n(Incluído pelo \r\n Decreto nº 10.173, de 2019)\nSEÇÃO III\nDas Juntas Comerciais",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4197,
+        "char_end": 10936
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#8",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5º A Junta Comercial de cada unidade federativa, com jurisdição na área da\r\n circunscrição territorial respectiva e sede na capital, subordina-se,\r\n administrativamente, ao governo de sua unidade federativa e, tecnicamente, ao Departamento\r\n Nacional de Registro do Comércio - DNRC.\nParágrafo único. A Junta Comercial do Distrito \r\nFederal é subordinada administrativa e tecnicamente ao Departamento Nacional de \r\nRegistro do Comércio - DNRC.\n(Revogado pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 10936,
+        "char_end": 11429
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#9",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5º  A Junta Comercial de cada unidade \r\nfederativa, com jurisdição na respectiva área da circunscrição territorial e \r\nsede na capital, subordina-se, administrativamente, ao Governo de sua unidade \r\nfederativa e, tecnicamente, ao Departamento Nacional de Registro Empresarial e \r\nIntegração da Secretaria de Governo Digital da Secretaria Especial de \r\nDesburocratização, Gestão e Governo Digital do Ministério da Economia.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11429,
+        "char_end": 11906
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#10",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6º As Juntas Comerciais poderão desconcentrar seus serviços mediante convênios\r\n com órgãos da Administração direta, autarquias e fundações públicas e entidades\r\n privadas sem fins lucrativos.\nParágrafo único. O Departamento Nacional de Registro do Comércio - DNRC expedirá\r\n instrução normativa necessária à execução do disposto neste artigo.\nParágrafo único.  Ato do Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia \r\n estabelecerá as orientações necessárias à execução do disposto no\ncaput\n.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11906,
+        "char_end": 12600
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#11",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7º Compete às Juntas Comerciais:\nI - executar os serviços de registro de empresas mercantis, neles compreendidos:\nI - executar os serviços de registro de empresas, neles compreendidos:\n(Redação dada \r\n pelo Decreto nº 10.173, de 2019)\na) o arquivamento dos atos relativos à constituição, alteração, dissolução e\r\n extinção de empresas mercantis, de cooperativas, das declarações de microempresas e\r\n empresas de pequeno porte, bem como dos atos relativos a consórcios e grupo de sociedades\r\n de que trata a lei de sociedade por ações;\na) o arquivamento dos atos relativos à constituição, alteração, \r\n dissolução e extinção de empresas, de cooperativas, das declarações de \r\n microempresas e empresas de pequeno porte e dos atos relativos a \r\n consórcios e grupo de sociedades de que trata a\nLei nº 6.404, de 15 de \r\n dezembro de 1976\n;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nb) o arquivamento dos atos concernentes a sociedades mercantis estrangeiras autorizadas\r\n a funcionar no País;\nb) o arquivamento dos atos relacionados às sociedades empresárias \r\n estrangeiras autorizadas a funcionar no País;b) o arquivamento dos atos relacionados às sociedades empresárias \r\n estrangeiras autorizadas a funcionar no País;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nc) o arquivamento de atos ou documentos que, por determinação legal, seja atribuído\r\n ao Registro Público de Empresas Mercantis e Atividades Afins e daqueles que possam\r\n interessar ao empresário ou às empresas mercantis;\nc) o arquivamento de atos ou documentos que, por determinação legal, \r\n seja atribuído ao Registro Público de Empresas Mercantis e Atividades \r\n Afins e daqueles que possam interessar ao empresário ou às sociedades \r\n empresárias;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nd) a autenticação dos instrumentos de escrituração das empresas mercantis\r\n registradas e dos agentes auxiliares do comércio, nos termos de lei própria;\nd) a autenticação dos instrumentos de escrituração das empresas \r\n registradas e dos agentes auxiliares do comércio, nos termos do disposto \r\n na legislação específica; e\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\ne) a emissão de certidões dos documentos arquivados;\nII - elaborar a tabela de preços de seus serviços, observados os atos especificados\r\n em instrução normativa do Departamento Nacional de Registro do Comércio - DNRC;\nII - elaborar a tabela de preços de seus serviços, observado o disposto \r\n em ato do Departamento Nacional de Registro Empresarial e Integração da \r\n Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nIII - processar, em relação aos agentes auxiliares do comércio:\na) a habilitação, nomeação, matrícula e seu cancelamento dos tradutores públicos\r\n e intérpretes comerciais;\nb) a matrícula e seu cancelamento de leiloeiros, trapicheiros e administradores de\r\n armazéns-gerais;\nIV - elaborar os respectivos Regimentos Internos e suas alterações, bem como as\r\n resoluções de caráter administrativo necessárias ao fiel cumprimento das normas\r\n legais, regulamentares e regimentais;\nV - expedir carteiras de exercício profissional para agentes auxiliares do comércio,\r\n titular de firma mercantil individual e para administradores de sociedades mercantis e\r\n cooperativas, registradas no Registro Público de Empresas Mercantis e Atividades Afins,\r\n conforme instrução normativa do Departamento Nacional de Registro do Comércio - DNRC;\nV - expedir carteiras de exercício profissional para os agentes \r\n auxiliares do comércio matriculados no Registro Público de Empresas \r\n Mercantis e Atividades Afins, observado o disposto em ato do \r\n Departamento Nacional de Registro Empresarial e Integração da Secretaria \r\n de Governo Digital da Secretaria Especial de Desburocratização, Gestão e \r\n Governo Digital do Ministério da Economia;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nVI - proceder ao assentamento dos usos e práticas mercantis;\nVI - proceder ao assentamento dos usos e práticas empresariais;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nVII - prestar ao Departamento Nacional de Registro do Comércio - DNRC as informações\r\n necessárias:\nVII - prestar ao Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia as \r\n informações necessárias:\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\na) à organização, formação e atualização do cadastro nacional das empresas\r\n mercantis em funcionamento no País;\na) à organização, formação e atualização do cadastro nacional das \r\n empresas em funcionamento no País;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nb) à realização de estudos para o aperfeiçoamento dos serviços de Registro\r\n Público de Empresas Mercantis e Atividades Afins;\nc) ao acompanhamento e à avaliação da execução dos serviços de Registro Público\r\n de Empresas Mercantis e Atividades Afins;\nd) à catalogação dos assentamentos de usos e práticas mercantis procedidos;\nd) à catalogação dos assentamentos de usos e práticas empresariais \r\n procedidos; e\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nVIII - organizar, formar, atualizar e auditar, observadas as instruções normativas do\r\n Departamento Nacional de Registro do Comércio - DNRC, o Cadastro Estadual de Empresas\r\n Mercantis - CEE, integrante do Cadastro Nacional de Empresas Mercantis - CNE.\nVIII - organizar, formar, atualizar e auditar, observado o disposto nos \r\n atos do Departamento Nacional de Registro Empresarial e Integração da \r\n Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia, o \r\n Cadastro Estadual de Empresas - CEE, integrante do Cadastro Nacional de \r\n Empresas - CNE.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nParágrafo único. As competências das Juntas Comerciais referentes aos agentes\r\n auxiliares do comércio, trapiches e armazéns-gerais serão exercidas com a observância\r\n deste Regulamento, da legislação própria e de instruções normativas do Departamento\r\n Nacional de Registro do Comércio - DNRC.\nParágrafo único.  As competências das Juntas \r\nComerciais referentes aos agentes auxiliares do comércio, trapiches e \r\narmazéns-gerais serão exercidas nos termos do disposto neste Regulamento, na \r\nlegislação específica e nos atos do Departamento Nacional de Registro \r\nEmpresarial e Integração da Secretaria de Governo Digital da Secretaria Especial \r\nde Desburocratização, Gestão e Governo Digital do Ministério da Economia.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 12600,
+        "char_end": 19317
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#12",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8º A estrutura básica das Juntas Comerciais será integrada pelos seguintes\r\n órgãos:\nI - Presidência, como órgão diretivo e representativo;\nII - Plenário, como órgão deliberativo superior;\nIII - Turmas, como órgãos deliberativos inferiores;\nIV - Secretaria-Geral, como órgão administrativo;\nV - Procuradoria, como órgão de fiscalização e de consulta jurídica.\n§ 1º As Juntas Comerciais poderão ter uma Assessoria Técnica, com a competência de\r\n examinar e relatar os processos de Registro Público de Empresas Mercantis e Atividades\r\n Afins a serem submetidos à sua deliberação, cujos membros deverão ser bacharéis em\r\n Direito, Economistas, Contadores ou Administradores.\n§ 2º As Juntas Comerciais, por seu Plenário, nos termos da legislação estadual\r\n respectiva, poderão resolver pela criação de Delegacias, órgãos subordinados, para\r\n exercerem, nas zonas de suas respectivas jurisdições, as atribuições de autenticar\r\n instrumentos de escrituração das empresas mercantis e dos agentes auxiliares do\r\n comércio e de decidir sobre os atos submetidos ao regime de decisão singular, proferida\r\n por servidor que possua comprovados conhecimentos de Direito Comercial e dos serviços de\r\n Registro Público de Empresas Mercantis e Atividades Afins.\n§ 2º  As Juntas Comerciais, por seu Plenário, nos termos da legislação \r\n estadual respectiva, poderão criar delegacias, como órgãos subordinados, \r\n para exercerem, em suas jurisdições, as atribuições de autenticar \r\n instrumentos de escrituração das empresas e dos agentes auxiliares do \r\n comércio e de decidir sobre os atos submetidos ao regime de decisão \r\n singular, proferida por servidor público com comprovado conhecimento em \r\n Direito Empresarial e nos serviços de Registro Público de Empresas \r\n Mercantis e Atividades Afins.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 3º Ficam preservadas as competências das atuais Delegacias.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 19317,
+        "char_end": 21216
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#13",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9º O Plenário poderá ser constituído por oito, onze, quatorze, dezessete ou\r\n vinte Vogais e igual número de suplentes, conforme determinar a legislação da unidade\r\n federativa a que pertencer a Junta Comercial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21216,
+        "char_end": 21433
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#14",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9\no\nO\r\n Plenário poderá ser constituído por onze, quatorze, dezessete, vinte ou vinte e três\r\n Vogais e igual número de suplentes, conforme determinar a legislação da unidade\r\n federativa a que pertencer a Junta Comercial.\n(Redação dada pelo Decreto nº 3.395, de 2000)\nParágrafo único. A proposta de alteração do número de Vogais e respectivos\r\n suplentes será devidamente fundamentada, ouvida a Junta Comercial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21433,
+        "char_end": 21851
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#15",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. Os Vogais e respectivos suplentes serão nomeados dentre brasileiros que\r\n satisfaçam as seguintes condições:\nI - estejam em pleno gozo dos direitos civis e políticos;\nII - não estejam condenados por crime cuja pena vede o acesso a cargo, emprego e\r\n funções públicas, ou por crime de prevaricação, falência fraudulenta, peita ou`\r\n suborno, concussão, peculato, contra a propriedade, a fé pública e a economia popular;\nIII - sejam, ou tenham sido, por mais de cinco anos, titulares de firma mercantil\r\n individual, sócios ou administradores de sociedade mercantil, valendo como prova, para\r\n esse fim, certidão expedida pela Junta Comercial, dispensados dessa condição os\r\n representantes da União e os das classes dos advogados, dos economistas e dos contadores;\nIII - sejam, ou tenham sido, por mais de cinco anos, empresários \r\n individuais, sócios ou administradores de sociedade empresária, situação \r\n essa comprovada por meio de certidão expedida pela Junta Comercial, \r\n dispensada essa exigência para os representantes da União e os das \r\n classes dos advogados, dos economistas e dos contadores;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nIV - tenham mais de cinco anos de efetivo exercício da profissão, quando se tratar de\r\n representantes das classes dos advogados, dos economistas ou dos contadores:\nIV - tenham mais de cinco anos de\r\n efetivo exercício da profissão, quando se tratar de representantes das classes dos\r\n advogados, dos economistas, dos contadores ou dos administradores;\n(Redação dada pelo Decreto nº 3.395, de 2000)\nV - estejam quites com o serviço militar e o serviço eleitoral.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21851,
+        "char_end": 23478
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#16",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11. Os Vogais e respectivos suplentes serão escolhidos da seguinte forma:\nI - a metade, quando par, ou o primeiro número inteiro superior à metade, quando\r\n ímpar, dos Vogais e respectivos suplentes, dentre os nomes indicados, em listas\r\n tríplices, pelas entidades patronais de grau superior e pelas Associações Comerciais\r\n com sede na jurisdição da Junta Comercial;\nII - um Vogal e respectivo suplente, representando a União;\nIII - três Vogais e respectivos suplentes, representando, respectivamente, a classe\r\n dos advogados, a dos economistas e a dos contadores, todos mediante indicação, em lista\r\n tríplice, do Conselho Seccional ou Regional do órgão corporativo destas categorias\r\n profissionais;\nIII - quatro Vogais e respectivos\r\n suplentes, representando, respectivamente, a classe dos advogados, a dos economistas, a\r\n dos contadores e a dos administradores, todos mediante indicação, em lista tríplice, do\r\n Conselho Seccional ou Regional do órgão corporativo destas categorias profissionais;\n(Redação dada pelo Decreto nº 3.395, de 2000)\nIV - os demais Vogais e seus suplentes, nos casos em que o Plenário for constituído\r\n por número superior a oito, por livre escolha, nos Estados, dos respectivos Governadores\r\n e, no Distrito Federal, do Ministro de Estado da Indústria, do Comércio e do Turismo.\nIV - os demais Vogais e suplentes,\r\n nos casos em que o Plenário for constituído por número superior a onze, por livre\r\n escolha, nos Estados, dos respectivos Governadores e, no Distrito Federal, do Ministro de\r\n Estado do Desenvolvimento, Indústria e Comércio Exterior.\n(Redação dada pelo Decreto nº 3.395, de 2000)\nIV - os demais Vogais e suplentes, nos casos em que o \r\nPlenário for constituído por número superior a onze, por livre escolha, nos \r\nEstados, dos respectivos Governadores e, no Distrito Federal, do Ministro de \r\nEstado Chefe da Secretaria da Micro e Pequena Empresa da Presidência da \r\nRepública.\n(Redação dada pelo Decreto nº \r\n8.060, de 2013)\nIV - os demais Vogais e suplentes, nos casos \r\n em que o Plenário for constituído por número superior a onze, por livre \r\n escolha, nos Estados, de seus Governadores e, no Distrito Federal, do \r\n Ministro de Estado Chefe da Casa Civil da Presidência da República.\n(Redação dada pelo Decreto nº \r\n8.815, de 2016)\nIV - os demais Vogais e suplentes, nas hipóteses em que o Plenário tenha \r\n sido constituído por número superior a onze, por livre escolha dos \r\n Governadores dos respectivos Estados e Distrito Federal.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nParágrafo único. As listas referidas neste artigo, contendo, cada uma, proposta de\r\n três nomes para Vogal e de três para suplente, deverão ser remetidas até sessenta dias\r\n antes do término do mandato, sendo considerada, com relação a cada entidade omissa, a\r\n última lista que inclua pessoa que não exerça ou tenha exercido mandato de Vogal.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 23478,
+        "char_end": 26369
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#17",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12. Serão nomeados:\nI - pelo Governador do Estado, salvo disposição em contrário, os Vogais e\r\n respectivos suplentes referidos nos incisos I e III do artigo anterior, e os de sua livre\r\n escolha referidos no inciso IV do mesmo artigo;\nI - pelo Governador do Estado ou do Distrito Federal, salvo disposição \r\n em contrário, os Vogais e respectivos suplentes de que tratam os incisos \r\n I, III e IV do\ncaput\ndo art. 11; e\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nII - pelo Ministro de Estado da Justiça, os Vogais e respectivos suplentes referidos\r\n no inciso II do artigo anterior, assim como, no Distrito Federal, os mencionados nos\r\n incisos I, III e IV do mesmo artigo.\nII - pelo Ministro de Estado do\r\n Desenvolvimento, Indústria e Comércio Exterior, os Vogais e respectivos suplentes\r\n referidos no inciso II do artigo anterior, assim como, no Distrito Federal, os mencionados\r\n nos incisos I, III e IV do mesmo artigo;\n(Redação dada pelo Decreto nº 3.395, de 2000)\nII - pelo Ministro de Estado Chefe da Secretaria da \r\nMicro e Pequena Empresa da Presidência da República, os Vogais e seus suplentes \r\nreferidos no inciso II do\ncaput\ndo art. 11, e, no Distrito Federal, os \r\nmencionados nos incisos I, III e IV do\ncaput\ndo art. 11.\n(Redação dada pelo Decreto nº \r\n8.060, de 2013)\nII -  pelo Ministro de Estado Chefe da Casa \r\n Civil da Presidência da República, os Vogais e seus suplentes referidos \r\n no inciso II do\ncaput\ndo art. 11, e, no Distrito Federal, os \r\n mencionados nos incisos I, III e IV do\ncaput\ndo art. 11.\n(Redação dada pelo Decreto nº \r\n8.815, de 2016)\nII - pelo Ministro de Estado da Economia, os Vogais e respectivos \r\n suplentes de que trata o inciso II do\ncaput\ndo art. 11.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 1º Qualquer pessoa poderá representar fundamentadamente à autoridade competente\r\n contra a nomeação de Vogal ou de suplente contrária aos preceitos deste Regulamento, no\r\n prazo de quinze dias, contados da data da posse.\n§ 2º Julgada procedente a representação:\na) fundamentada na falta de preenchimento de condições ou na incompatibilidade de\r\n Vogal ou suplente para a participação no Colégio de Vogais, ocorrerá a vaga da\r\n função respectiva;\nb) fundamentada em ato contrário à forma de escolha da representatividade do Colégio\r\n de Vogais, será efetuada nova nomeação de Vogal e suplente, observadas as disposições\r\n deste Regulamento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26369,
+        "char_end": 28774
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#18",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13. A posse dos Vogais e respectivos suplentes ocorrerá dentro de trinta dias,\r\n contados da publicação do ato de nomeação, prorrogável por mais trinta dias, a\r\n requerimento do interessado.\n§ 1º A posse poderá se dar mediante procuração específica.\n§ 2º Será tornado sem efeito o ato de nomeação se a posse não ocorrer nos prazos\r\n previstos no caput deste artigo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 28774,
+        "char_end": 29145
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#19",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14 Os Vogais serão remunerados por presença, nos termos da legislação da\r\n unidade federativa a que pertencer a Junta Comercial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 29145,
+        "char_end": 29279
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#20",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15. O Vogal será substituído por seu respectivo suplente durante os impedimentos\r\n e, no caso de vaga, até o final do mandato.\nParágrafo único. A vaga de suplente implica, necessariamente, nova nomeação,\r\n observadas as disposições deste Regulamento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 29279,
+        "char_end": 29535
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#21",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16. São incompatíveis para a participação no Colégio de Vogais da mesma Junta\r\n Comercial os parentes consangüíneos ou afins na linha ascendente ou descendente, e na\r\n colateral, até o segundo grau, bem como os sócios da mesma sociedade mercantil.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 29535,
+        "char_end": 29788
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#22",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16.  É incompatível a participação, no Colégio de Vogais da mesma \r\n Junta Comercial, de parentes consanguíneos ou afins nas linhas \r\n ascendente, descendente e colateral, até o segundo grau, e os sócios da \r\n mesma sociedade empresária.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nParágrafo único. Em caso de incompatibilidade, serão seguidos, para a escolha dos\r\n membros, sucessivamente, os critérios da precedência na nomeação, da precedência na\r\n posse, ou do mais idoso.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 29788,
+        "char_end": 30275
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#23",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17. O mandato dos Vogais e respectivos suplentes será de quatro anos, permitida\r\n apenas uma recondução.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30275,
+        "char_end": 30385
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#24",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "Art. 18. O Vogal ou seu suplente perderá o exercício do mandato na forma deste artigo\r\n e do Regimento Interno da Junta Comercial, nos seguintes casos:\nI - mais de três faltas consecutivas às sessões do Plenário ou das Turmas, ou doze\r\n alternadas no mesmo ano, sem justo motivo;\nII - por conduta incompatível com a dignidade do cargo.\n§ 1º A justificativa de falta deverá ser entregue à Junta Comercial até a primeira\r\n sessão plenária seguinte à sua ocorrência.\n§ 2º Na hipótese do inciso I, à vista de representação fundamentada, ou de\r\n ofício pelo Presidente, o Plenário, se julgar insatisfatórias, por decisão tomada pelo\r\n primeiro número inteiro superior à metade dos membros presentes, as justificativas ou se\r\n estas não tiverem sido apresentadas, assegurados o contraditório e a ampla defesa,\r\n comunicará às autoridades ou entidades competentes a perda do mandato.\n§ 3º Na hipótese do inciso II, à vista de representação fundamentada, ou de\r\n ofício pelo Presidente, o Plenário, assegurados o contraditório e a ampla defesa, se\r\n julgá-la procedente, por decisão tomada pelo primeiro número inteiro superior à metade\r\n dos membros do Colégio de Vogais, comunicará às autoridades ou entidades competentes a\r\n perda do mandato.\n§ 4º A deliberação pela perda do mandato afasta o Vogal ou suplente do exercício\r\n de suas funções, de imediato, com perda da remuneração correspondente, tornando-se\r\n definitiva a perda do mandato, após a publicação da declaração de vacância no\r\n Diário Oficial do Estado ou da União, conforme o caso.\n§ 4º  A deliberação pela perda do mandato \r\nafasta imediatamente o Vogal ou o suplente do exercício de suas funções, com \r\nperda da remuneração correspondente, e a perda do mandato será definitiva após a \r\npublicação da declaração de vacância no Diário Oficial da União, do Estado ou do \r\nDistrito Federal, conforme o caso.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30385,
+        "char_end": 32299
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#25",
+      "type": "artigo_candidato",
+      "name": "Art. 19",
+      "content": "Art. 19. O Vogal ou suplente no exercício do mandato poderá, a qualquer tempo, ser\r\n substituído mediante nomeação de novo titular para a respectiva função.\n(Revogado pelo Decreto \r\nnº 11.250, de 2022)\nParágrafo único. No caso de entidade ou órgão corporativo, a decisão de nova\r\n indicação de nomes em lista tríplice deverá ser fundamentada por seu dirigente ou\r\n colegiado, conforme dispuser o respectivo estatuto.\n(Revogado pelo Decreto \r\nnº 11.250, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 32299,
+        "char_end": 32761
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#26",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20. Na sessão inaugural do Plenário das Juntas Comerciais, que iniciará cada\r\n período de mandato, serão distribuídos os Vogais por Turmas de três membros cada uma,\r\n com exclusão do Presidente e do Vice-Presidente.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 32761,
+        "char_end": 32982
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#27",
+      "type": "artigo_candidato",
+      "name": "Art. 21",
+      "content": "Art. 21. Compete ao Plenário:\nI - julgar os recursos interpostos das decisões definitivas, singulares ou colegiadas;\nII - deliberar sobre a tabela de preços dos serviços da Junta Comercial,\r\n submetendo-a, quando for o caso, à autoridade superior;\nIII - deliberar sobre o assentamento dos usos e práticas mercantis;\nIII - deliberar sobre o assentamento dos usos e práticas empresariais;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nIV - aprovar o Regimento Interno e suas alterações, submetendo-o, quando for o caso,\r\n à autoridade superior;\nV - decidir sobre matérias de relevância, conforme previsto no Regimento Interno;\nVI - deliberar, por proposta do Presidente, sobre a criação de Delegacias;\nVII - deliberar sobre as proposições de perda de mandato de Vogal ou suplente;\nVIII - manifestar-se sobre proposta de alteração do número de Vogais e respectivos\r\n suplentes;\nIX - exercer as demais atribuições e praticar os atos que estiverem implícitos em\r\n sua competência, ou que vierem a ser atribuídos em leis ou em outras normas federais ou\r\n estaduais.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 32982,
+        "char_end": 34045
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#28",
+      "type": "artigo_candidato",
+      "name": "Art. 22",
+      "content": "Art. 22. As sessões ordinárias do Plenário e das Turmas efetuar-se-ão com a\r\n periodicidade e do modo determinado no Regimento Interno, e as extraordinárias, sempre\r\n justificadas, por convocação do Presidente ou de dois terços dos seus membros.\nParágrafo único. A presidência de sessão plenária, ausentes o Presidente e o\r\n Vice-Presidente, será exercida pelo Vogal mais idoso.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 34045,
+        "char_end": 34424
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#29",
+      "type": "artigo_candidato",
+      "name": "Art. 23",
+      "content": "Art. 23. Compete às Turmas:\nI - julgar, originariamente, os pedidos de arquivamento dos atos sujeitos ao regime de\r\n decisão colegiada;\nII - julgar os pedidos de reconsideração de seus despachos;\nIII - exercer as demais atribuições que forem fixadas pelo Regimento Interno da Junta\r\n Comercial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 34424,
+        "char_end": 34719
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#30",
+      "type": "artigo_candidato",
+      "name": "Art. 24",
+      "content": "Art. 24. O Presidente e o Vice-Presidente serão nomeados, em comissão, no Distrito\r\n Federal, pelo Ministro de Estado da Indústria, do Comércio e do Turismo e, nos Estados,\r\n pelos Governadores dessas circunscrições, dentre os membros do Colégio de Vogais.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 34719,
+        "char_end": 34976
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#31",
+      "type": "artigo_candidato",
+      "name": "Art. 24",
+      "content": "Art. 24.  O Presidente e o Vice-Presidente \r\nserão nomeados, em comissão, pelos Governadores dos Estados e do Distrito \r\nFederal, dentre os membros do Colégio de Vogais.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 34976,
+        "char_end": 35195
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#32",
+      "type": "artigo_candidato",
+      "name": "Art. 25",
+      "content": "Art. 25. Ao Presidente incumbe:\nI - dirigir e representar extrajudicialmente a Junta Comercial e, judicialmente, quando\r\n for o caso;\nII - dar posse aos Vogais e suplentes, convocando-os nas hipóteses previstas neste\r\n Regulamento e no Regimento Interno;\nIII - convocar e presidir as sessões plenárias;\nIV - encaminhar à deliberação do Plenário, os casos de que trata o art. 18;\nV - superintender os serviços da Junta Comercial;\nVI - julgar, originariamente, os atos de Registro Público de Empresas Mercantis e\r\n Atividades Afins, sujeitos ao regime de decisão singular;\nVII - determinar o arquivamento de atos, mediante provocação dos interessados, nos\r\n pedidos não decididos nos prazos previstos neste Regulamento;\nVIII - assinar deliberações e resoluções aprovadas pelo Plenário;\nIX - designar Vogal ou servidor habilitado para proferir decisões singulares;\nX - velar pelo fiel cumprimento das normas legais e executivas;\nXI - cumprir e fazer cumprir as deliberações do Plenário;\nXII - orientar e coordenar os serviços da Junta Comercial através da\r\n Secretaria-Geral;\nXIII - abrir vista à parte interessada e à Procuradoria e designar Vogal Relator nos\r\n processos de recurso ao Plenário;\nXIV - propor ao Plenário a criação de Delegacias;\nXV - submeter a tabela de preços dos serviços da Junta Comercial à deliberação do\r\n Plenário;\nXVI - encaminhar à Procuradoria os processos e matérias que tiverem de ser submetidos\r\n ao seu exame e parecer;\nXVII - baixar Portarias e exarar despachos, observada a legislação aplicável;\nXVIII - apresentar, anualmente, à autoridade superior, relatório do exercício\r\n anterior, enviando cópia ao Departamento Nacional de Registro do Comércio - DNRC;\nXVIII - apresentar, anualmente, relatório do exercício anterior à \r\n autoridade superior e enviar cópia ao Departamento Nacional de Registro \r\n Empresarial e Integração da Secretaria de Governo Digital da Secretaria \r\n Especial de Desburocratização, Gestão e Governo Digital do Ministério da \r\n Economia;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nXIX - despachar os recursos, indeferindo-os liminarmente nos casos previstos neste\r\n Regulamento;\nXX - submeter o Regimento Interno e suas alterações à deliberação do Plenário;\nXXI - submeter o assentamento de usos e práticas mercantis à deliberação do\r\n Plenário;\nXXI - submeter o assentamento de usos e práticas empresariais à \r\n deliberação do Plenário;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nXXII - assinar carteiras de exercício profissional;\nXXIII - exercer as demais atribuições e praticar os atos que estiverem implícitos em\r\n sua competência, ou que vierem a ser atribuídos em leis ou em outras normas federais ou\r\n estaduais.\nXXIII - praticar os atos que estiverem no âmbito de suas competências e \r\nde outras que vierem a ser atribuídas por leis ou normas federais, estaduais ou \r\ndistritais.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 35195,
+        "char_end": 38102
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#33",
+      "type": "artigo_candidato",
+      "name": "Art. 26",
+      "content": "Art. 26. Ao Vice-Presidente da Junta Comercial incumbe:\nI - auxiliar e substituir o Presidente em suas faltas ou impedimentos;\nII - efetuar correição permanente dos serviços da Junta Comercial;\nIII - exercer as demais atribuições que forem fixadas pelo Regimento Interno.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 38102,
+        "char_end": 38374
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#34",
+      "type": "artigo_candidato",
+      "name": "Art. 27",
+      "content": "Art. 27. O Secretário-Geral será nomeado, em comissão, no Distrito Federal, pelo\r\n Ministro de Estado da Indústria, do Comércio e do Turismo e, nos Estados, pelos\r\n respectivos Governadores, dentre brasileiros de notória idoneidade moral e especializados\r\n em Direito Comercial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 38374,
+        "char_end": 38653
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#35",
+      "type": "artigo_candidato",
+      "name": "Art. 27",
+      "content": "Art. 27.  Compete aos respectivos \r\nGovernadores a nomeação para o cargo em comissão de Secretário-Geral das juntas \r\ncomerciais dos Estados e do Distrito Federal, escolhido dentre brasileiros de \r\nnotória idoneidade moral e conhecimentos em Direito Empresarial.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 38653,
+        "char_end": 38965
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#36",
+      "type": "artigo_candidato",
+      "name": "Art. 28",
+      "content": "Art. 28. Ao Secretário-Geral incumbe:\nI - supervisionar, coordenar e fiscalizar a execução dos serviços de registro e de\r\n administração da Junta Comercial;\nII - exercer o controle sobre os prazos recursais e fazer incluir na pauta das sessões\r\n os processos de recursos a serem apreciados pelo Plenário, solicitando ao Presidente a\r\n convocação de sessão extraordinária, quando necessário;\nIII - despachar com o Presidente e participar das sessões do Plenário;\nIV - baixar ordens de serviço, instruções e recomendações, bem como exarar\r\n despachos para execução e funcionamento dos serviços a cargo da Secretaria-Geral;\nV - assinar as certidões expedidas ou designar servidor para esse fim;\nVI - elaborar estudos de viabilidade de criação de Delegacias;\nVII - elaborar estudos sobre a tabela de preços dos serviços da Junta Comercial;\nVIII - visar e controlar os atos e documentos enviados para publicação no órgão de\r\n divulgação determinado em portaria do Presidente;\nIX - colaborar na elaboração de trabalhos técnicos promovidos pelo Departamento\r\n Nacional de Registro do Comércio - DNRC;\nIX - colaborar na elaboração de trabalhos técnicos promovidos pelo \r\n Departamento Nacional de Registro Empresarial e Integração da Secretaria \r\n de Governo Digital da Secretaria Especial de Desburocratização, Gestão e \r\n Governo Digital do Ministério da Economia; e\n(Redação dada \r\n pelo Decreto nº 10.173, de 2019)\nX - exercer as demais atribuições e praticar os atos que estiverem implícitos em sua\r\n competência, ou que vierem a ser atribuídos em leis ou em outras normas federais ou\r\n estaduais.\nX - praticar os atos que estiverem no âmbito de \r\n suas competências e de outras que vierem a ser atribuídas por lei ou \r\n normas federais, estaduais ou distritais.\n(Redação dada \r\n pelo Decreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 38965,
+        "char_end": 40775
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#37",
+      "type": "artigo_candidato",
+      "name": "Art. 29",
+      "content": "Art. 29. A Procuradoria será composta de um ou mais Procuradores e chefiada pelo\r\n Procurador que for designado pelo Governador do Estado ou autoridade competente.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 40775,
+        "char_end": 40939
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#38",
+      "type": "artigo_candidato",
+      "name": "Art. 29",
+      "content": "Art. 29.  A Procuradoria será composta por um ou \r\nmais Procuradores e chefiada pelo Procurador que for designado pelo Governador, \r\nou autoridade competente, do Estado ou do Distrito Federal.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 40939,
+        "char_end": 41181
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#39",
+      "type": "artigo_candidato",
+      "name": "Art. 30",
+      "content": "Art. 30. Ao Procurador incumbe:\nI - internamente:\na) fiscalizar o fiel cumprimento das normas legais e executivas em matéria de Registro\r\n Público de Empresas Mercantis e Atividades Afins;\nb) emitir parecer nos recursos dirigidos ao Plenário e nas demais matérias de sua\r\n competência;\nc) promover estudos para assentamento de usos e práticas mercantis;\nc) promover estudos para assentamento de usos e práticas empresariais;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nd) participar das sessões do Plenário e das Turmas, conforme disposto no Regimento\r\n Interno;\ne) requerer diligências e promover responsabilidades perante os órgãos e poderes\r\n competentes;\nf) recorrer ao Plenário de decisão singular ou de Turma, em matéria de Registro\r\n Público de Empresas Mercantis e Atividades Afins;\ng) exercer as demais atribuições e praticar os atos que estiverem implícitos em sua\r\n competência ou que vierem a ser atribuídos em leis ou em outras normas federais ou\r\n estaduais;\ng) praticar os atos que estiverem no âmbito de suas competências e de \r\n outras que vierem a ser atribuídas por leis ou normas federais, \r\n estaduais ou distritais; e\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nII - externamente:\na) oficiar junto aos órgãos do Poder Judiciário, nas matérias e questões\r\n relacionadas com a prática dos atos de Registro Público de Empresas Mercantis e\r\n Atividades Afins;\nb) recorrer ao Ministro de Estado da Indústria, do Comércio e do Turismo das\r\n decisões do Plenário, em matéria de Registro Público de Empresas Mercantis e\r\n Atividades Afins;\nb) recorrer ao Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia \r\n das decisões do Plenário, em matéria de Registro Público de Empresas \r\n Mercantis e Atividades Afins; e\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nc) colaborar na elaboração de trabalhos técnicos promovidos pelo Departamento\r\n Nacional de Registro do Comércio - DNRC.\nc) colaborar na elaboração de trabalhos técnicos promovidos pelo \r\nDepartamento Nacional de Registro Empresarial e Integração da Secretaria de \r\nGoverno Digital da Secretaria Especial de Desburocratização, Gestão e Governo \r\nDigital do Ministério da Economia.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 41181,
+        "char_end": 43540
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#40",
+      "type": "artigo_candidato",
+      "name": "Art. 31",
+      "content": "Art. 31. As atribuições conferidas à Procuradoria, no caso da Junta Comercial do\r\n Distrito Federal, serão exercidas pelos Assistentes Jurídicos em exercício no\r\n Departamento Nacional de Registro do Comércio - DNRC.\n(Revogado pelo \r\nDecreto nº 10.173, de 2019)\nTÍTULO II\nDOS ATOS E DA ORDEM DOS SERVIÇOS DE REGISTRO\nPÚBLICO DE EMPRESAS MERCANTIS E ATIVIDADES AFINS\nCapítulo I\nDA COMPREENSÃO DOS ATOS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 43540,
+        "char_end": 43941
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#41",
+      "type": "artigo_candidato",
+      "name": "Art. 32",
+      "content": "Art. 32. O Registro Público de Empresas Mercantis e Atividades Afins compreende:\nI - a matrícula e seu cancelamento, de:\na) leiloeiros oficiais;\nb) tradutores públicos e intérpretes comerciais;\nc) administradores de armazéns-gerais;\nd) trapicheiros;\nII - o arquivamento:\na) dos atos constitutivos, alterações e extinções de firmas mercantis individuais;\na) dos atos constitutivos, alterações e extinções de empresário \r\n individual;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nb) das declarações de microempresas e de empresas de pequeno porte;\nc) dos atos constitutivos e das atas das sociedades anônimas, bem como os de sua\r\n dissolução e extinção;\nd) dos atos constitutivos e respectivas alterações das demais pessoas jurídicas\r\n organizadas sob a forma empresarial mercantil, bem como de sua dissolução e extinção;\nd) dos atos constitutivos e respectivas alterações das demais pessoas \r\n jurídicas organizadas sob a forma empresarial, e de sua dissolução e \r\n extinção;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\ne) dos documentos relativos à constituição, alteração, dissolução e extinção\r\n de cooperativas;\nf) dos atos relativos a consórcios e grupos de sociedades;\ng) \r\ndos atos relativos à incorporação, cisão, fusão e transformação de sociedades \r\nmercantis;\ng) dos atos relativos à incorporação, cisão, fusão e transformação de \r\n sociedades empresárias;\nh) de comunicação, segundo modelos aprovados pelo Departamento Nacional de Registro\r\n do Comércio - DNRC, de paralisação temporária das atividades e de empresa mercantil\r\n que deseja manter-se em funcionamento, no caso de, nessa última hipótese, não ter\r\n procedido a qualquer arquivamento na Junta Comercial no período de dez anos consecutivos;\nh) de comunicação, conforme modelos aprovados pelo Departamento Nacional \r\n de Registro Empresarial e Integração da Secretaria de Governo Digital da \r\n Secretaria Especial de Desburocratização, Gestão e Governo Digital do \r\n Ministério da Economia, de paralisação temporária das atividades e de \r\n empresa que pretenda manter-se em funcionamento, no caso de, nessa \r\n última hipótese, não ter procedido a qualquer arquivamento na Junta \r\n Comercial no período de dez anos consecutivos;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n(Revogado pelo Decreto \r\nnº 11.250, de 2022)\ni) dos atos relativos a sociedades mercantis estrangeiras autorizadas a funcionar no\r\n País;\ni) dos atos relativos a sociedades empresárias estrangeiras autorizadas \r\n a funcionar no País;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nj) das decisões judiciais referentes a empresas mercantis registradas;\nj) das decisões judiciais referentes a empresas registradas;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nl) dos atos de nomeação de trapicheiros, administradores e fiéis de\r\n armazéns-gerais;\nm) dos demais documentos que, por determinação legal, sejam atribuídos ao Registro\r\n Público de Empresas Mercantis e Atividades Afins ou daqueles que possam interessar ao\r\n empresário ou à empresa mercantil;\nm) dos demais documentos que, por determinação legal, sejam atribuídos \r\n ao Registro Público de Empresas Mercantis e Atividades Afins ou daqueles \r\n que possam interessar ao empresário ou à sociedade empresária; e\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nIII - a autenticação dos instrumentos de escrituração das empresas mercantis\r\n registradas e dos agentes auxiliares do comércio, na forma da lei própria.\nIII - a autenticação dos instrumentos de escrituração das empresas \r\n registradas e dos agentes auxiliares do comércio, na forma da lei \r\n específica.\n(Redação dada \r\n pelo Decreto nº 10.173, de 2019)\n§ 1º  Os atos, os documentos e as declarações que contenham informações \r\n meramente cadastrais serão levados automaticamente a registro se puderem \r\n ser obtidos por meio de bases de dados disponíveis em órgãos públicos.\n(Incluído pelo \r\n Decreto nº 10.173, de 2019)\n§ 2º  Ato do Departamento Nacional de Registro \r\n Empresarial e Integração da Secretaria de Governo Digital da Secretaria \r\n Especial de Desburocratização, Gestão e Governo Digital do Ministério da \r\n Economia estabelecerá os atos, os documentos e as declarações que \r\n contenham informações meramente cadastrais.\n(Incluído pelo \r\n Decreto nº 10.173, de 2019)\nCAPíTULO II\nDA ORDEM DOS SERVIÇOS\nSEÇÃO I\nDa Apresentação dos Atos a Arquivamento",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 43941,
+        "char_end": 48286
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#42",
+      "type": "artigo_candidato",
+      "name": "Art. 33",
+      "content": "Art. 33. Os documentos referidos no inciso II do art. 32 deverão ser apresentados a\r\n arquivamento na Junta Comercial, mediante requerimento dirigido ao seu Presidente, dentro\r\n de trinta dias contados de sua assinatura, a cuja data retroagirão os efeitos do\r\n arquivamento.\nParágrafo único. Protocolados fora desse prazo, os efeitos a que se refere este\r\n artigo só se produzirão a partir da data do despacho que deferir o arquivamento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 48286,
+        "char_end": 48724
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#43",
+      "type": "artigo_candidato",
+      "name": "Art. 34",
+      "content": "Art. 34. Instruirão obrigatoriamente os pedidos de arquivamento:\nI - instrumento original, particular, certidão ou publicação de autorização legal,\r\n de constituição, alteração, dissolução ou extinção de firma mercantil individual,\r\n e sociedade mercantil, de cooperativa, de ato de consórcio e de grupo de sociedades, bem\r\n como de declaração de microempresa e de empresa de pequeno porte, datado e assinado,\r\n quando for o caso, pelo titular, sócios, administradores, consorciados ou seus\r\n procuradores e testemunhas;\nI - instrumento original, particular, certidão ou publicação de \r\n autorização legal, de constituição, alteração, dissolução ou extinção de \r\n empresário individual, e de sociedade empresária, de cooperativa, de ato \r\n de consórcio e de grupo de sociedades, e de declaração de microempresa e \r\n de empresa de pequeno porte, datado e assinado, quando for o caso, pelo \r\n titular, sócios, administradores, consorciados ou seus procuradores e \r\n testemunhas;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nII - certidão negativa de condenação por crime cuja pena vede o acesso à atividade\r\n mercantil, para administradores, expedida pelo Distribuidor Judiciário da Comarca da\r\n jurisdição de sua residência, nos atos de constituição ou de alterações, que\r\n impliquem ingresso de administrador de sociedades mercantis, excluídas as anônimas;\nII - declaração do titular ou\r\n administrador, firmada sob as penas da lei, de não estar impedido de exercer o comércio\r\n ou a administração de sociedade mercantil, em virtude de condenação criminal;\n(Redação dada pelo Decreto nº 3.395, de 2000)\nII - declaração do titular ou administrador, firmada sob as penas da \r\n lei, de não estar impedido de exercer a atividade empresarial ou a \r\n administração de empresa, em virtude de condenação criminal;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nIII - ficha do Cadastro Nacional de Empresas Mercantis - CNE, segundo modelo aprovado\r\n pelo Departamento Nacional de Registro do Comércio - DNRC;\nIII - ficha do Cadastro Nacional de Empresas - CNE, conforme modelo \r\n aprovado pelo Departamento Nacional de Registro Empresarial e Integração \r\n da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nIII - \r\nficha de cadastro nacional, conforme modelo aprovado pelo Departamento Nacional \r\nde Registro Empresarial e Integração, a qual conterá, no mínimo, as seguintes \r\ninformações sobre a empresa mercantil:\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)\na) os \r\ntitulares e administradores; e\n(Incluída pelo Decreto \r\nnº 11.250, de 2022)\nb) a \r\nforma de representação;\n(Incluída pelo Decreto \r\nnº 11.250, de 2022)\nIV - comprovantes de pagamento dos preços dos serviços correspondentes;\nV - prova de identidade do titular da firma mercantil individual e do administrador de\r\n sociedade mercantil e de cooperativa:\nV - prova de identidade do empresário individual e do administrador de \r\n sociedade empresária e de cooperativa:\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\na) poderão servir como prova de identidade, mesmo por cópia regularmente autenticada,\r\n a cédula de identidade, o certificado de reservista, a carteira de identidade\r\n profissional e a carteira de identidade de estrangeiro;\na) poderão servir como prova de\r\n identidade, mesmo por cópia regularmente autenticada, a cédula de identidade, o\r\n certificado de reservista, a carteira de identidade profissional, a carteira de identidade\r\n de estrangeiro e a carteira nacional de habilitação;\n(Redação dada pelo Decreto nº 3.395, de 2000)\nb) para o estrangeiro residente no País, titular de firma mercantil individual ou\r\n administrador de sociedade mercantil ou cooperativa, a identidade deverá conter a prova\r\n de visto permanente;\nb) para o imigrante, empresário individual ou administrador de sociedade \r\n empresária ou cooperativa, a identidade conterá a comprovação da \r\n condição de residente no País;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nc) o documento comprobatório de identidade, ou sua cópia autenticada, será devolvido\r\n ao interessado logo após exame, vedada a sua retenção;\nd) fica dispensada nova apresentação de prova de identidade no caso de já constar\r\n anotada, em processo anteriormente arquivado, e desde que indicado o número do registro\r\n daquele processo.\nParágrafo único. Nenhum outro documento, além dos referidos neste Regulamento, será\r\n exigido das firmas mercantis individuais e sociedades mercantis, salvo expressa\r\n determinação legal, reputando-se como verdadeiras, até prova em contrário, as\r\n declarações feitas perante os órgãos do Registro Público de Empresas Mercantis e\r\n Atividades Afins.\nParágrafo único.  Nenhum outro documento, além dos referidos neste \r\n Regulamento, será exigido dos empresários individuais e das sociedades \r\n empresárias, salvo expressa determinação legal, reputadas como \r\n verdadeiras, até prova em contrário, as declarações feitas perante os \r\n órgãos do Registro Público de Empresas Mercantis e Atividades Afins.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 48724,
+        "char_end": 53873
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#44",
+      "type": "artigo_candidato",
+      "name": "Art. 35",
+      "content": "Art. 35. O instrumento particular ou a certidão apresentada à Junta Comercial não\r\n poderá conter emendas, rasuras e entrelinhas, admitida a ressalva expressa no próprio\r\n instrumento ou certidão, com a assinatura das partes ou do tabelião, conforme o caso.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 53873,
+        "char_end": 54131
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#45",
+      "type": "artigo_candidato",
+      "name": "Art. 36",
+      "content": "Art. 36. O ato constitutivo de sociedade mercantil e de cooperativa somente poderá ser\r\n arquivado se visado por advogado, com a indicação do nome e número de inscrição na\r\n respectiva Seccional da Ordem dos Advogados do Brasil.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 54131,
+        "char_end": 54360
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#46",
+      "type": "artigo_candidato",
+      "name": "Art. 36",
+      "content": "Art. 36.  O ato constitutivo de sociedade empresária e de cooperativa \r\n somente poderá ser arquivado se visado por advogado, com a indicação do \r\n nome e número de inscrição na respectiva Seccional da Ordem dos \r\n Advogados do Brasil.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 54360,
+        "char_end": 54645
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#47",
+      "type": "artigo_candidato",
+      "name": "Art. 37",
+      "content": "Art. 37. O arquivamento de ato de empresa mercantil sujeita a controle de órgão de\r\n fiscalização de exercício profissional não dependerá de aprovação prévia desse\r\n órgão.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 54645,
+        "char_end": 54818
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#48",
+      "type": "artigo_candidato",
+      "name": "Art. 37",
+      "content": "Art. 37.  O arquivamento de ato de empresa sujeita a controle de órgão \r\n de fiscalização de exercício profissional não dependerá de aprovação \r\n prévia desse órgão.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 54818,
+        "char_end": 55033
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#49",
+      "type": "artigo_candidato",
+      "name": "Art. 38",
+      "content": "Art. 38. A cópia do documento apresentado a arquivamento, autenticada na forma da lei,\r\n dispensa nova conferência com o original, podendo, também, a autenticação ser feita\r\n pelo cotejo com o original por servidor a quem o documento seja apresentado.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 55033,
+        "char_end": 55285
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#50",
+      "type": "artigo_candidato",
+      "name": "Art. 38",
+      "content": "Art. 38.  A cópia de documento, autenticada na forma prevista em lei, \r\n dispensará nova conferência com o documento original.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 1º  A autenticação do documento poderá ser realizada por meio de \r\n comparação entre o documento original e a sua cópia pelo servidor a quem \r\n o documento seja apresentado.\n(Incluído  pelo \r\nDecreto nº 10.173, de 2019)\n§ 2º  Fica dispensada a autenticação a que se refere o\ncaput\nquando o advogado ou o contador da parte interessada declarar, sob sua \r\n responsabilidade pessoal, a autenticidade da cópia do documento.\n(Incluído  pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 55285,
+        "char_end": 55929
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#51",
+      "type": "artigo_candidato",
+      "name": "Art. 39",
+      "content": "Art. 39. Os atos levados a arquivamento são dispensados de reconhecimento de firma,\r\n exceto quando se tratar de procuração por instrumento particular ou de documentos\r\n oriundos do exterior, se, neste caso, tal formalidade não tiver sido cumprida no\r\n consulado brasileiro.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 55929,
+        "char_end": 56204
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#52",
+      "type": "artigo_candidato",
+      "name": "Art. 39",
+      "content": "Art. 39.  Os atos \r\nlevados a arquivamento nas Juntas Comerciais são dispensados de reconhecimento \r\nde firma, exceto quando se tratar de documentos oriundos do exterior, se, neste \r\ncaso, tal formalidade não tiver sido cumprida no consulado brasileiro.\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 56204,
+        "char_end": 56507
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#53",
+      "type": "artigo_candidato",
+      "name": "Art. 40",
+      "content": "Art. 40. As assinaturas nos requerimentos, instrumentos ou documentos particulares\r\n serão lançadas com a indicação do nome do signatário, por extenso, datilografado ou\r\n em letra de forma e do número de identidade e órgão expedidor, quando se tratar de\r\n testemunha.\n§ 1º Verificada, a qualquer tempo, a falsificação em instrumento ou documento\r\n público ou particular, o órgão do Registro Público de Empresas Mercantis e Atividades\r\n Afins dará conhecimento do fato à autoridade competente, para as providências legais\r\n cabíveis, sustando-se os efeitos do ato na esfera administrativa, até que seja resolvido\r\n o incidente de falsidade documental.\n§ 2º Comprovada, a qualquer tempo, falsificação em instrumento ou documento\r\n arquivado na Junta Comercial, por iniciativa de parte ou de terceiro interessado, em\r\n petição instruída com a decisão judicial pertinente, o arquivamento do ato será\r\n cancelado administrativamente.\n§ 1º  Sempre que for devidamente comprovada a falsificação da assinatura \r\n constante de ato arquivado, o Presidente da Junta Comercial deverá, após \r\n intimação dos interessados, garantidos a ampla defesa e o contraditório \r\n aos envolvidos, desarquivar o ato viciado e comunicar o fato à Polícia \r\n Civil, ao Ministério Público e às autoridades fazendárias, para que \r\n sejam tomadas as medidas cabíveis.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 2º  Quando houver indícios substanciais da falsificação, o Presidente \r\n da Junta Comercial deverá suspender os efeitos do ato até a comprovação \r\n da veracidade da assinatura.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 56507,
+        "char_end": 58120
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#54",
+      "type": "artigo_candidato",
+      "name": "Art. 41",
+      "content": "Art. 41. Os atos das firmas mercantis individuais, para fins de arquivamento,\r\n obedecerão a formulário próprio, aprovado pelo Departamento Nacional de Registro do\r\n Comércio - DNRC.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 58120,
+        "char_end": 58303
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#55",
+      "type": "artigo_candidato",
+      "name": "Art. 41",
+      "content": "Art. 41.  Ato do Departamento Nacional de Registro Empresarial e de \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia \r\n estabelecerá os modelos dos instrumentos para arquivamento dos atos dos \r\n empresários individuais.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 58303,
+        "char_end": 58669
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#56",
+      "type": "artigo_candidato",
+      "name": "Art. 42",
+      "content": "Art. 42. Os atos constitutivos de sociedades mercantis poderão ser efetivados por\r\n instrumento particular ou por escritura pública, podendo as respectivas alterações\r\n serem realizadas independentemente da forma adotada na constituição.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 58669,
+        "char_end": 58907
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#57",
+      "type": "artigo_candidato",
+      "name": "Art. 42",
+      "content": "Art. 42.  Os atos constitutivos de sociedades empresárias poderão ser \r\n efetivados por instrumento particular ou por escritura pública e suas \r\n alterações poderão ser realizadas independentemente da forma adotada na \r\n constituição.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 58907,
+        "char_end": 59191
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#58",
+      "type": "artigo_candidato",
+      "name": "Art. 43",
+      "content": "Art. 43. Qualquer modificação dos atos constitutivos arquivados na Junta omercial\r\n dependerá de instrumento específico de:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 59191,
+        "char_end": 59315
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#59",
+      "type": "artigo_candidato",
+      "name": "Art. 43",
+      "content": "Art. 43.  Qualquer modificação dos atos constitutivos arquivados na \r\n Junta Comercial dependerá de instrumento específico de:\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nI - alteração de firma mercantil individual;\nI - alteração de instrumento de empresário individual;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nII - ata de assembléia, para as sociedades por ações e cooperativas;\nI\nII - alteração contratual, para as demais sociedades mercantis.\nIII - alteração contratual, para as demais sociedades empresárias.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 59315,
+        "char_end": 59891
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#60",
+      "type": "artigo_candidato",
+      "name": "Art. 44",
+      "content": "Art. 44. As alterações contratuais deverão, obrigatoriamente, conter a\r\n qualificação completa dos sócios e da sociedade mercantil no preâmbulo do instrumento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 59891,
+        "char_end": 60051
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#61",
+      "type": "artigo_candidato",
+      "name": "Art. 44",
+      "content": "Art. 44.  As alterações contratuais deverão, obrigatoriamente, conter a \r\n qualificação completa dos sócios e da sociedade empresária no preâmbulo \r\n do instrumento.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 60051,
+        "char_end": 60266
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#62",
+      "type": "artigo_candidato",
+      "name": "Art. 45",
+      "content": "Art. 45. Havendo alteração do objeto social, este deverá ser transcrito na sua\r\n totalidade.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 60266,
+        "char_end": 60359
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#63",
+      "type": "artigo_candidato",
+      "name": "Art. 46",
+      "content": "Art. 46. Os documentos de interesse do empresário ou da empresa mercantil serão\r\n levados a arquivamento mediante requerimento do titular, sócio, administrador ou\r\n representante legal.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 60359,
+        "char_end": 60545
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#64",
+      "type": "artigo_candidato",
+      "name": "Art. 46",
+      "content": "Art. 46.  Os documentos de interesse do empresário ou da sociedade \r\n empresária serão arquivados mediante requerimento do titular, sócio, \r\n administrador ou representante legal.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 60545,
+        "char_end": 60774
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#65",
+      "type": "artigo_candidato",
+      "name": "Art. 47",
+      "content": "Art. 47. Nos casos de decisão judicial, a comunicação do juízo alusiva ao ato\r\n será, para conhecimento de terceiros, arquivada pela Junta Comercial, mas os\r\n interessados, quando a decisão alterar dados da empresa mercantil, deverão providenciar\r\n também o arquivamento de instrumento próprio, acompanhado de ertidão de inteiro teor da\r\n sentença que o motivou, transitada em julgado.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 60774,
+        "char_end": 61160
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#66",
+      "type": "artigo_candidato",
+      "name": "Art. 47",
+      "content": "Art. 47.  Na hipótese de decisão judicial, a comunicação do juízo \r\n alusiva ao ato será arquivada pela Junta Comercial para conhecimento de \r\n terceiros e caberá aos interessados, quando a decisão judicial alterar \r\n dados da empresa, providenciar o arquivamento do instrumento próprio, \r\n acompanhado de certidão de inteiro teor da sentença transitada em \r\n julgado que o motivou.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 1º Tratando-se de sentença dissolutória extintiva de empresa mercantil, é\r\n suficiente o arquivamento do inteiro teor da sentença transitada em julgado.\n§ 1º  Na hipótese de sentença dissolutória extintiva de empresa, é \r\n suficiente o arquivamento do inteiro teor da sentença transitada em \r\n julgado.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 2º Tratando-se de penhora, seqüestro ou arresto de quotas ou de ações à Junta\r\n Comercial competirá, tão-somente, para conhecimento de terceiros, proceder à anotação\r\n correspondente, não lhe cabendo a condição de depositária fiel.\n§ 3º  Na hipótese de o juízo determinar o cumprimento da sentença de \r\n ofício pela Junta Comercial, a alteração dos dados cadastrais da \r\n sociedade empresária será realizada mediante anotação de que a alteração \r\n ocorreu por força de decisão judicial.\n(Incluído pelo Decreto \r\nnº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 61160,
+        "char_end": 62480
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#67",
+      "type": "artigo_candidato",
+      "name": "Art. 48",
+      "content": "Art. 48. A empresa mercantil que não proceder a qualquer arquivamento no período de\r\n dez anos, contados da data do último arquivamento, deverá comunicar à Junta Comercial\r\n que deseja manter-se em funcionamento, sob pena de ser considerada inativa, ter seu\r\n registro cancelado e perder, automaticamente, a proteção de seu nome empresarial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 62480,
+        "char_end": 62822
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#68",
+      "type": "artigo_candidato",
+      "name": "Art. 48",
+      "content": "Art. 48.  A empresa que não proceder a qualquer arquivamento no período \r\n de dez anos consecutivos, contado da data do último arquivamento, \r\n comunicará à Junta Comercial que deseja manter-se em funcionamento, sob \r\n pena de ser considerada inativa, ter seu registro cancelado e perder, \r\n automaticamente, a proteção de seu nome empresarial.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n(Revogado pelo Decreto \r\nnº 11.250, de 2022)\n§ 1º A empresa mercantil deverá ser notificada previamente pela Junta Comercial,\r\n mediante comunicação direta ou por edital, para os fins deste artigo.\n§ 1º  Para fins do disposto no\ncaput\n, a empresa será notificada \r\n previamente pela Junta Comercial, por meio de comunicação direta ou por \r\n edital.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n(Revogado pelo Decreto \r\nnº 11.250, de 2022)\n§ 2º A comunicação de que trata o caput deste artigo, quando não tiver ocorrido\r\n modificação de dados no período, será efetuada em formulário próprio, assinada,\r\n conforme o caso, pelo titular, sócios ou representante legal, e, na hipótese de ter\r\n ocorrido modificação nos dados, a empresa deverá arquivar a competente alteração.\n(Revogado pelo Decreto \r\nnº 11.250, de 2022)\n§ 3º A Junta Comercial fará comunicação do cancelamento às autoridades\r\n arrecadadoras no prazo de até dez dias.\n(Revogado pelo Decreto \r\nnº 11.250, de 2022)\n§ 4º A reativação da empresa mercantil obedecerá aos mesmos procedimentos\r\n requeridos para sua constituição.\n§ 4º  A reativação da empresa observará o procedimento requerido para \r\n sua constituição.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n(Revogado pelo Decreto \r\nnº 11.250, de 2022)\n§ 5º O Departamento Nacional de Registro do Comércio - DNRC disciplinará, em\r\n instrução normativa, o disposto neste artigo.\n§ 5º  Ato do Departamento Nacional de Registro Empresarial e Integração \r\n da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia \r\n regulamentará o disposto neste artigo.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n(Revogado pelo Decreto \r\nnº 11.250, de 2022)\nSEÇÃO II\nDo Processo Decisório",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 62822,
+        "char_end": 64988
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#69",
+      "type": "artigo_candidato",
+      "name": "Art. 49",
+      "content": "Art. 49. Os atos submetidos ao Registro Público de Empresas Mercantis e Atividades\r\n Afins estão sujeitos a dois regimes de julgamento:\nI - decisão colegiada;\nII - decisão singular.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 64988,
+        "char_end": 65170
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#70",
+      "type": "artigo_candidato",
+      "name": "Art. 50",
+      "content": "Art. 50. Subordinam-se ao regime de decisão colegiada:\nI - do Plenário, o julgamento dos recursos interpostos das decisões definitivas,\r\n singulares ou de Turmas;\nII - das Turmas, o arquivamento dos atos de:\na) constituição de sociedades anônimas, bem como das atas de assembléias gerais e\r\n demais atos relativos a essas sociedades, sujeitos ao Registro Público de Empresas\r\n Mercantis e Atividades Afins;\nb) transformação, incorporação, fusão e cisão de sociedades mercantis;\na) constituição de sociedades anônimas;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nb) transformação, incorporação, fusão e cisão de sociedades empresárias; \r\n e\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nc) constituição e alterações de consórcio e de grupo de sociedades, conforme\r\n previsto na lei de sociedades por ações.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 65170,
+        "char_end": 65984
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#71",
+      "type": "artigo_candidato",
+      "name": "Art. 51",
+      "content": "Art. 51. Os atos próprios do Registro Público de Empresas Mercantis e Atividades\r\n Afins não previstos no artigo anterior serão objeto de decisão singular proferida pelo\r\n Presidente, Vogal ou servidor que possua comprovados conhecimentos de Direito Comercial e\r\n do Registro Público de Empresas Mercantis e Atividades Afins.\nParágrafo único. Os Vogais e servidores habilitados a proferir decisões singulares\r\n serão designados pelo Presidente da Junta Comercial.\n(Revogado pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 65984,
+        "char_end": 66493
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#72",
+      "type": "artigo_candidato",
+      "name": "Art. 51",
+      "content": "Art. 51.  Os atos próprios do Registro Público de Empresas Mercantis e \r\n Atividades Afins não previstos no art. 50 serão objeto de decisão \r\n singular proferida pelo Presidente, Vogal ou servidor público com \r\n comprovado conhecimento em Direito Empresarial e nos serviços do \r\n Registro Público de Empresas Mercantis e Atividades Afins.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 1º  Os vogais e os servidores públicos habilitados a proferir decisões \r\n singulares serão designados pelo Presidente da Junta Comercial.\n(Incluído pelo Decreto \r\nnº 10.173, de 2019)\n§ 2º  O arquivamento dos atos constitutivos e de alterações não \r\n previstos no inciso II do\ncaput\ndo art. 50 terá o registro \r\n deferido automaticamente caso cumpridos os requisitos de:\n(Incluído pelo Decreto \r\nnº 10.173, de 2019)\nI - aprovação da consulta prévia da viabilidade do nome empresarial e da \r\n viabilidade de localização, quando o ato exigir; e\n(Incluído pelo Decreto \r\nnº 10.173, de 2019)\nII - utilização pelo requerente do instrumento padrão estabelecido pelo \r\n Departamento Nacional de Registro Empresarial e Integração da Secretaria \r\n de Governo Digital da Secretaria Especial de Desburocratização, Gestão e \r\n Governo Digital do Ministério da Economia.\n(Incluído pelo Decreto \r\nnº 10.173, de 2019)\n§ 3º  O arquivamento dos atos de extinção não previstos no inciso II do\ncaput\ndo art. 50 terá o registro deferido automaticamente no caso \r\n de utilização pelo requerente do instrumento padrão estabelecido pelo \r\n Departamento Nacional de Registro Empresarial e Integração da Secretaria \r\n de Governo Digital da Secretaria Especial de Desburocratização, Gestão e \r\n Governo Digital do Ministério da Economia.\n(Incluído pelo Decreto \r\nnº 10.173, de 2019)\n§ 4º  Na hipótese de que trata o § 2º e o § 3º, a análise do cumprimento \r\n das formalidades legais será feita posteriormente, no prazo de dois dias \r\n úteis, contado da data do deferimento automático do registro.\n(Incluído pelo Decreto \r\nnº 10.173, de 2019)\n§ 5º  Após a análise de que trata o § 4º, na hipótese de identificação \r\n da existência de vício:\n(Incluído pelo Decreto \r\nnº 10.173, de 2019)\nI - insanável, o arquivamento será cancelado; ou\n(Incluído pelo Decreto \r\nnº 10.173, de 2019)\nII - sanável, será observado o procedimento estabelecido em ato do \r\n Departamento Nacional de Registro Empresarial e Integração da Secretaria \r\n de Governo Digital da Secretaria Especial de Desburocratização, Gestão e \r\n Governo Digital do Ministério da Economia.\n(Incluído pelo Decreto \r\nnº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 66493,
+        "char_end": 69045
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#73",
+      "type": "artigo_candidato",
+      "name": "Art. 52",
+      "content": "Art. 52. Os pedidos de arquivamento sujeitos ao regime de decisão colegiada serão\r\n decididos no prazo máximo de dez dias úteis contados do seu recebimento e, os submetidos\r\n à decisão singular, no prazo máximo de três dias úteis, sob pena de ter-se como\r\n arquivados os atos respectivos, mediante provocação dos interessados, sem prejuízo do\r\n exame das formalidades legais pela Procuradoria.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 69045,
+        "char_end": 69439
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#74",
+      "type": "artigo_candidato",
+      "name": "Art. 52",
+      "content": "Art. 52.  Os pedidos de arquivamento sujeitos ao regime de decisão \r\n colegiada serão decididos no prazo de cinco dias úteis, contado da data \r\n do seu recebimento e, os submetidos à decisão singular, no prazo de dois \r\n dias úteis, contado da data do seu recebimento, sob pena de os atos \r\n serem automaticamente arquivados por meio de provocação dos \r\n interessados, sem prejuízo do exame das formalidades legais pela \r\n Procuradoria.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 1º Quando os pedidos forem apresentados em protocolo descentralizado, contar-se-á\r\n o prazo a partir do recebimento da documentação no local onde haja Vogal ou servidor\r\n habilitado para decisão do ato respectivo.\n§ 2º Os pedidos não decididos nos prazos previstos no caput deste artigo e para os\r\n quais haja provocação pela parte interessada serão arquivados por determinação do\r\n Presidente da Junta Comercial, que dará ciência à Procuradoria para exame das\r\n formalidades legais, a qual, se for o caso, interporá o recurso ao Plenário.\nSEÇÃO III\nDas Proibições de Arquivamento",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 69439,
+        "char_end": 70508
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#75",
+      "type": "artigo_candidato",
+      "name": "Art. 53",
+      "content": "Art. 53. Não podem ser arquivados:\nI - os documentos que não obedecerem às prescrições legais ou regulamentares ou que\r\n contiverem matéria contrária à lei, à ordem pública ou aos bons costumes, bem como os\r\n que colidirem com o respectivo estatuto ou contrato não modificado anteriormente;\nII - os documentos de constituição ou alteração de empresas mercantis em que figure\r\n como titular ou administrador pessoa que esteja condenada pela prática de crime cuja pena\r\n vede o acesso à atividade mercantil;\nII - os documentos de constituição ou de alteração de empresas em que \r\n figure como titular ou administrador pessoa que esteja condenada pela \r\n prática de crime cuja pena vede o acesso à atividade empresária;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nIII - os atos constitutivos e os de transformação de sociedades mercantis, se deles\r\n não constarem os seguintes requisitos, além de outros exigidos em lei:\nIII - os atos constitutivos e os de transformação de sociedades \r\n empresárias, se deles não constarem os seguintes requisitos, além de \r\n outros exigidos em lei:\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\na) o tipo de sociedade mercantil adotado;\na) o tipo de sociedade empresária adotado;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nb) a declaração precisa e detalhada do objeto social;\nb) a \r\ndeclaração do objeto social;\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)\nc) o capital da sociedade mercantil, a forma e o prazo de sua integralização, o\r\n quinhão de cada sócio, bem como a responsabilidade dos sócios;\nc) o capital da sociedade empresária, a forma e o prazo de sua \r\n integralização, a quota de cada sócio, e a responsabilidade dos sócios;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nd) o nome por extenso e qualificação dos sócios, procuradores, representantes e\r\n administradores, compreendendo para a pessoa física, a nacionalidade, estado civil,\r\n profissão, domicílio e residência, documento de identidade, seu número e órgão\r\n expedidor e número de inscrição no Cadastro de Pessoas Físicas - CPF, dispensada a\r\n indicação desse último no caso de brasileiro ou estrangeiro domiciliado no exterior, e\r\n para a pessoa jurídica o nome empresarial, endereço completo e, se sediada no País, o\r\n Número de Identificação do Registro de Empresas - NIRE ou do Cartório competente e o\r\n número de inscrição no Cadastro Geral de Contribuintes - CGC;\nd) o nome por extenso e a qualificação dos sócios, procuradores, \r\n representantes e administradores, que incluirá para a pessoa física, a \r\n nacionalidade, o estado civil, a profissão, o domicílio e a residência, \r\n o documento de identidade, seu número e órgão expedidor e o número de \r\n inscrição no Cadastro de Pessoas Físicas, dispensada a indicação desse \r\n último no caso de brasileiro ou estrangeiro domiciliado no exterior, e \r\n para a pessoa jurídica, o nome empresarial, o endereço completo e, se \r\n sediada no País, o número do cartório competente e o número de inscrição \r\n no Cadastro Nacional de Pessoas Jurídicas;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nd) o \r\nnome por extenso e a qualificação dos sócios, dos procuradores, dos \r\nrepresentantes e dos administradores, incluídos:\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)\n1. para \r\na pessoa física, a nacionalidade, o estado civil, a profissão, o domicílio e a \r\nresidência e o número de inscrição no Cadastro de Pessoas Físicas - CPF; e\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)\n2. para \r\na pessoa jurídica, o nome empresarial, o endereço completo e, se sediada no \r\nPaís, o número de inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ;\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)\ne) o nome empresarial, o município da sede, com endereço completo, e foro, bem como\r\n os endereços completos das filiais declaradas;\nf) o prazo de duração da sociedade mercantil e a data de encerramento de seu\r\n exercício social, quando não coincidente com o ano civil;\nf) o prazo de duração da sociedade empresária e a data de encerramento \r\n de seu exercício social, quando não coincidente com o ano civil;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nIV - os documentos de constituição de firmas mercantis individuais e os de\r\n constituição ou alteração de sociedades mercantis, para ingresso de administrador, se\r\n deles não constar, ou não for juntada a declaração, sob as penas da lei, datada e\r\n assinada pelo titular, administrador, exceto de sociedade anônima, ou por procurador de\r\n qualquer desses, com poderes específicos, de que não está condenado por nenhum crime\r\n cuja pena vede o acesso à atividade mercantil;\nIV - os documentos de constituição de empresários individuais e os de \r\n constituição ou alteração de sociedades empresárias, para ingresso de \r\n administrador, se deles não constar, ou não for juntada a declaração, \r\n sob as penas da lei, datada e assinada pelo titular, pelo administrador, \r\n exceto de sociedade anônima, ou por procurador de qualquer desses, com \r\n poderes específicos, de que não está condenado pela prática de crime \r\n cuja pena vede o acesso à atividade empresária;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nV - a prorrogação do contrato social, depois de findo o prazo nele fixado;\n(Revogado pelo Decreto \r\nnº 11.250, de 2022)\nVI - os atos de empresas mercantis com nome idêntico ou semelhante a outro já\r\n existente ou que inclua ou reproduza em sua composição siglas ou denominações de\r\n órgãos públicos, da administração direta ou indireta, bem como de organismos\r\n internacionais;\nVI - os atos de empresas mercantis com nome idêntico ou \r\nsemelhante a outro já existente ou que inclua ou reproduza em sua composição \r\nsiglas ou denominações de órgãos públicos, da Administração direta ou indireta, \r\nbem como de organismos internacionais e aquelas consagradas em lei e atos \r\nregulamentares emanados do Poder Público;\n(Redação dada \r\npelo Decreto nº 3344, de 2000)\nVI - os atos de empresas com nome idêntico ou semelhante a outro já \r\n existente ou que inclua ou reproduza em sua composição siglas ou \r\n denominações de órgãos públicos, da administração pública direta ou \r\n indireta, e de organismos internacionais e aquelas consagradas em lei e \r\n atos regulamentares emanados do Poder Público;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nVI - os \r\natos de empresas com nome idêntico a outro já existente ou que inclua ou \r\nreproduza em sua composição siglas ou denominações:\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)\na) de \r\nórgãos ou entidades da administração pública direta ou indireta;\n(Incluída pelo Decreto \r\nnº 11.250, de 2022)\nb) de \r\norganismos internacionais; e\n(Incluída pelo Decreto \r\nnº 11.250, de 2022)\nc) \r\nconsagradas em lei e em atos regulamentares emanados do Poder Público;\n(Incluída \r\npelo Decreto nº 11.250, de 2022)\nVII - a alteração contratual produzida e assinada por sócios titulares de maioria do\r\n capital social, quando houver, em ato anterior, cláusula restritiva;\nVIII - o contrato social, ou sua alteração, em que haja, por instrumento particular,\r\n incorporação de imóveis à sociedade, quando dele não constar:\na) a descrição e identificação do imóvel, sua área, dados relativos à sua\r\n titulação e seu número de matrícula no Registro Imobiliário;\nb) a outorga uxória ou marital, quando necessária;\nIX - os instrumentos, ainda não aprovados pelo Governo, nos casos em que for\r\n necessária essa prévia aprovação;\n(Revogado pelo \r\nDecreto nº 10.173, de 2019)\nX - o distrato social sem a declaração da importância repartida entre os sócios, a\r\n referência à pessoa ou às pessoas que assumirem o ativo e passivo da sociedade\r\n mercantil, supervenientes ou não à liquidação, a guarda dos livros e os motivos da\r\n dissolução, se não for por mútuo consenso.\nX - o distrato social sem a declaração da importância repartida entre os \r\n sócios, a referência à pessoa ou às pessoas que assumirem o ativo e o \r\n passivo da sociedade empresária, supervenientes ou não à liquidação, a \r\n guarda dos livros e os motivos da dissolução, se não for por mútuo \r\n consenso.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 1º A Junta Comercial não dará andamento a qualquer documento de alteração ou de\r\n extinção de firma individual ou sociedade mercantil sem que dos respectivos\r\n requerimentos e instrumentos conste o Número de Identificação do Registro de Empresas -\r\n NIRE.\n(Revogado pelo \r\nDecreto nº 10.173, de 2019)\n§ 2º Entende-se como preciso e detalhadamente declarado o objeto da empresa mercantil\r\n quando indicado o seu gênero e espécie.\n§ 2º  Entende-se como preciso e detalhadamente declarado o objeto da \r\n empresa quando indicado o seu gênero e espécie.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 2º \r\n Entende-se como declarado o objeto da empresa quando indicado o seu gênero e \r\nespécie.\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)\n§ 3º  O registro dos atos constitutivos e de suas alterações e extinções \r\n ocorrerá independentemente de autorização governamental prévia, e os \r\n órgãos públicos deverão ser informados pela Rede Nacional para a \r\n Simplificação do Registro e da Legalização de Empresas e Negócios - \r\n Redesim a respeito dos registros sobre os quais manifestarem interesse.\n(Incluído dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 70508,
+        "char_end": 79752
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#76",
+      "type": "artigo_candidato",
+      "name": "Art. 54",
+      "content": "Art. 54. A deliberação majoritária, não havendo cláusula restritiva, abrange\r\n também as hipóteses de destituição da gerência, exclusão de sócio, dissolução e\r\n extinção de sociedade.\nParágrafo único. Os instrumentos de exclusão de sócio deverão indicar,\r\n obrigatoriamente, o motivo da exclusão e a destinação da respectiva participação no\r\n capital social.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 79752,
+        "char_end": 80111
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#77",
+      "type": "artigo_candidato",
+      "name": "Art. 55",
+      "content": "Art. 55. O Departamento Nacional de Registro do Comércio - DNRC, através de\r\n instruções normativas, consolidará:\nI - as hipóteses de restrição legal da participação de estrangeiros em empresas\r\n mercantis brasileiras;\nII - os casos em que é necessária a aprovação prévia de órgão governamental para\r\n o arquivamento de atos de empresas mercantis, bem como as formas dessa aprovação;\nIII - os procedimentos para a autorização de funcionamento ou nacionalização de\r\n sociedade mercantil estrangeira no País.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 80111,
+        "char_end": 80618
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#78",
+      "type": "artigo_candidato",
+      "name": "Art. 55",
+      "content": "Art. 55.  Ato do Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia \r\n consolidará:\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nI - as hipóteses de restrição legal da participação de estrangeiros em \r\n sociedades empresárias brasileiras;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nII - as hipóteses em que é necessária a aprovação prévia de órgão \r\n governamental para o arquivamento de atos de empresas e as formas dessa \r\n aprovação; e\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nIII - os procedimentos para a autorização de funcionamento ou \r\n nacionalização de sociedade empresária estrangeira no País.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 80618,
+        "char_end": 81433
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#79",
+      "type": "artigo_candidato",
+      "name": "Art. 56",
+      "content": "Art. 56. Os órgãos e autoridades federais deverão coordenar-se com o Departamento\r\n Nacional de Registro do Comércio - DNRC, com a finalidade de harmonizar entendimentos e\r\n fixar normas destinadas a regular o arquivamento, no Registro Público de Empresas\r\n Mercantis e Atividades Afins, de atos, contratos e estatutos de empresas mercantis, que\r\n dependam, por força de lei, de previa aprovação governamental.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 81433,
+        "char_end": 81844
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#80",
+      "type": "artigo_candidato",
+      "name": "Art. 56",
+      "content": "Art. 56.  Os órgãos e autoridades públicas federais deverão \r\n coordenar-se com o Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia, \r\n com a finalidade de harmonizar entendimentos e fixar normas destinadas a \r\n regular o arquivamento, no Registro Público de Empresas Mercantis e \r\n Atividades Afins, de atos, contratos e estatutos de empresas que \r\n dependam, por força de lei, de prévia aprovação do Poder Público.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nSEÇÃO IV\nDo Exame das Formalidades",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 81844,
+        "char_end": 82489
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#81",
+      "type": "artigo_candidato",
+      "name": "Art. 57",
+      "content": "Art. 57. Todo ato, documento ou instrumento apresentado a arquivamento será objeto de\r\n exame, pela Junta Comercial, do cumprimento das formalidades legais.\n§ 1º Verificada a existência de vício insanável, o requerimento será indeferido;\r\n quando for sanável, o processo será colocado em exigência.\n§ 2º O indeferimento ou a formulação de exigência pela Junta Comercial deverá ser\r\n fundamentada com o respectivo dispositivo legal ou regulamentar.\n§ 3º As exigências formuladas pela Junta Comercial deverão ser cumpridas em até\r\n trinta dias, contados do dia subseqüente à data da ciência pelo interessado ou da\r\n publicação do despacho.\n§ 4º O processo em exigência será entregue completo ao interessado; devolvido após\r\n o prazo previsto no parágrafo anterior, será considerado como novo pedido de\r\n arquivamento, sujeito ao pagamento dos preços dos serviços correspondentes, salvo\r\n devolução do prazo, no curso do mesmo, em razão de ato dependente de órgão da\r\n administração pública.\n§ 5º O processo em exigência não retirado no prazo para seu cumprimento e posto à\r\n disposição dos interessados por edital e não retirado em sessenta dias da data da\r\n publicação deste poderá ser eliminado pela Junta Comercial, exceto os contratos,\r\n alterações, atos constitutivos de sociedades por ações e de cooperativas, que serão\r\n devolvidos aos interessados mediante recibo, conforme dispuser instrução normativa do\r\n Departamento Nacional de Registro do Comércio - DNRC.\n§ 5º  O processo em exigência não retirado no prazo para seu \r\n cumprimento, que tenha sido posto à disposição dos interessados por \r\n edital e não tenha sido retirado no prazo de sessenta dias, contado da \r\n data da publicação do edital, poderá ser eliminado pela Junta Comercial, \r\n exceto os contratos, alterações, atos constitutivos de sociedades por \r\n ações e de cooperativas, que serão devolvidos aos interessados mediante \r\n recibo, conforme o disposto em ato do Departamento Nacional de Registro \r\n Empresarial e Integração da Secretaria de Governo Digital da Secretaria \r\n Especial de Desburocratização, Gestão e Governo Digital do Ministério da \r\n Economia.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n(Revogado pelo Decreto \r\nnº 11.250, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 82489,
+        "char_end": 84720
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#82",
+      "type": "artigo_candidato",
+      "name": "Art. 58",
+      "content": "Art. 58. As assinaturas em despachos, decisões e outros atos relativos aos serviços\r\n de Registro Público de Empresas Mercantis e Atividades Afins deverão ser expressamente\r\n identificadas, com indicação dos nomes completos dos signatários, em letra de forma\r\n legível, ou com a aposição de carimbo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 84720,
+        "char_end": 85020
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#83",
+      "type": "artigo_candidato",
+      "name": "Art. 58",
+      "content": "Art. 58.  As assinaturas em despachos, decisões e outros \r\natos relativos aos serviços de Registro Público de Empresas Mercantis e \r\nAtividades Afins serão expressamente identificadas, com indicação dos nomes \r\ncompletos dos signatários, em letra de forma legível, ou com a aposição de \r\ncarimbo ou por meio de assinatura eletrônica avançada ou qualificada, na forma \r\nprevista na\nLei nº 14.063, de 23 \r\nde setembro de 2020\n.\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)\nSEÇÃO V\nDo Arquivamento\nSUBSEÇÃO I\nDas Disposições Gerais",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 85020,
+        "char_end": 85553
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#84",
+      "type": "artigo_candidato",
+      "name": "Art. 59",
+      "content": "Art. 59. A todo ato constitutivo de empresa mercantil e de cooperativa será atribuído\r\n o Número de Identificação do Registro de Empresas - NIRE, o qual será regulamentado\r\n pelo Poder Executivo, compatibilizando-o com os números adotados pelos demais cadastros\r\n federais.\n(Revogado pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 85553,
+        "char_end": 85872
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#85",
+      "type": "artigo_candidato",
+      "name": "Art. 60",
+      "content": "Art. 60. A Junta Comercial organizará um prontuário para cada empresa mercantil.\nParágrafo único. A organização do prontuário e os procedimentos em relação a\r\n esse, inclusive no caso de transferência de sede de empresa mercantil para outra unidade\r\n federativa, serão disciplinados em instrução normativa do Departamento Nacional de\r\n Registro do Comércio - DNRC.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 85872,
+        "char_end": 86237
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#86",
+      "type": "artigo_candidato",
+      "name": "Art. 60",
+      "content": "Art. 60.  A Junta Comercial organizará um prontuário para cada empresa.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nParágrafo único.  Ato do Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia \r\n estabelecerá as normas para a organização do prontuário e de seus \r\n procedimentos, inclusive na hipótese de transferência de sede de empresa \r\n para outra unidade federativa.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nSUBSEÇÃO II\nDa Proteção ao Nome Empresarial",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 86237,
+        "char_end": 86849
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#87",
+      "type": "artigo_candidato",
+      "name": "Art. 61",
+      "content": "Art. 61. A proteção ao nome empresarial, a cargo das Juntas Comerciais, decorre,\r\n automaticamente, do arquivamento da declaração de firma mercantil individual, do ato\r\n constitutivo de sociedade mercantil ou de alterações desses atos que impliquem mudança\r\n de nome.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 86849,
+        "char_end": 87117
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#88",
+      "type": "artigo_candidato",
+      "name": "Art. 61",
+      "content": "Art. 61.  O arquivamento do instrumento de empresário individual, do \r\n ato constitutivo de sociedade empresária ou de alterações desses atos \r\n que impliquem mudança de nome automaticamente conferem proteção ao nome \r\n empresarial a cargo das Juntas Comerciais.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 1º A proteção ao nome empresarial circunscreve-se à unidade federativa de\r\n jurisdição da Junta Comercial que procedeu ao arquivamento de que trata o caput deste\r\n artigo.\n§ 2º A proteção ao nome empresarial poderá ser estendida a outras unidades da\r\n federação, a requerimento da empresa interessada, observada instrução normativa do\r\n Departamento Nacional de Registro do Comércio - DNRC.\n§ 2º  A proteção ao nome empresarial poderá ser estendida a outras \r\n unidades federativas, a requerimento da empresa interessada, observado o \r\n disposto em ato do Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 3º Expirado o prazo da sociedade celebrada por tempo determinado, esta perderá a\r\n proteção do seu nome empresarial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 87117,
+        "char_end": 88350
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#89",
+      "type": "artigo_candidato",
+      "name": "Art. 62",
+      "content": "Art. 62. O nome empresarial atenderá aos princípios da veracidade e da novidade e\r\n identificará, quando assim o exigir a lei, o tipo jurídico da sociedade.\n§ 1º Havendo indicação de atividades econômicas no nome empresarial, essas\r\n deverão estar contidas no objeto da firma mercantil individual ou sociedade mercantil.\n§ 1º  Na hipótese de o nome empresarial incluir a indicação de \r\n atividades econômicas, essas deverão estar previstas no objeto social do \r\n empresário individual ou da sociedade empresária.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 2º Não poderá haver colidência por identidade ou semelhança do nome empresarial\r\n com outro já protegido.\n§ 2º \r\n Não poderá haver colidência por identidade do nome empresarial com outro já \r\nprotegido.\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)\n§ 3º O Departamento Nacional de Registro do Comércio - DNRC, através de\r\n instruções normativas, disciplinará a composição do nome empresarial e estabelecera\r\n critérios para verificação da existência de identidade ou semelhança entre nomes\r\n empresariais.\n§ 3º  Ato do Departamento Nacional de Registro Empresarial e Integração \r\n da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia \r\n estabelecerá a composição do nome empresarial e os critérios para \r\n verificação da existência de identidade ou semelhança entre nomes \r\n empresariais.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 4º \r\n Eventuais casos de confronto entre nomes empresariais por semelhança poderão \r\nser questionados pelos interessados, a qualquer tempo, por meio de recurso, nos \r\ntermos de ato do Departamento Nacional de Registro Empresarial e Integração.\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)\n§ 5º \r\n Reconhecida a semelhança de que trata o § 4º, o Departamento Nacional de \r\nRegistro Empresarial e Integração determinará ao interessado que o nome \r\nempresarial seja alterado no prazo de trinta dias, contado da data de sua \r\nintimação da decisão do recurso.\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)\n§ 6º \r\n Encerrado o prazo de que trata o § 5º sem providências pelo interessado, a \r\nJunta Comercial deverá, de ofício, alterar o nome empresarial para o número de \r\ninscrição no CNPJ, seguido da partícula identificadora do tipo societário ou \r\njurídico, quando exigida por lei, sem prejuízo de posterior solicitação de \r\nalteração do nome empresarial pelo interessado.\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 88350,
+        "char_end": 90851
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#90",
+      "type": "artigo_candidato",
+      "name": "Art. 62-A",
+      "content": "Art. 62-A.  O empresário ou a pessoa jurídica poderá optar \r\npela utilização do número de inscrição no CNPJ como nome empresarial, seguido da \r\npartícula identificadora do tipo societário ou jurídico, quando exigida por lei, \r\nnos termos de ato do Departamento Nacional de Registro Empresarial e Integração.\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)\nSEÇÃO VI\nDa Matrícula e seu Cancelamento",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 90851,
+        "char_end": 91245
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#91",
+      "type": "artigo_candidato",
+      "name": "Art. 63",
+      "content": "Art. 63. A matrícula e seu cancelamento, de leiloeiros, tradutores e intérpretes\r\n comerciais, trapicheiros e administradores de amazéns-gerais, serão disciplinados\r\n através de instruções normativas do Departamento Nacional de Registro do Comércio -\r\n DNRC.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 91245,
+        "char_end": 91504
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#92",
+      "type": "artigo_candidato",
+      "name": "Art. 63",
+      "content": "Art. 63.  Ato do Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia \r\n disporá sobre a matrícula de leiloeiros, de tradutores e intérpretes \r\n comerciais, de trapicheiros e de administradores de armazéns-gerais e o \r\n seu cancelamento.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nSEÇÃO VII\nDo Processo Revisional\nSUBSEÇÃO I\nDas Disposições Gerais",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 91504,
+        "char_end": 91999
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#93",
+      "type": "artigo_candidato",
+      "name": "Art. 64",
+      "content": "Art. 64. O processo revisional pertinente ao Registro Público de Empresas Mercantis e\r\n Atividades Afins dar-se-á mediante:\nI - pedido de reconsideração;\nII - recurso ao Plenário;\nII - recurso ao Plenário; e\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nIII - recurso ao Ministro de Estado da Indústria, do Comércio e do Turismo.\nIII - recurso ao Ministro de Estado\r\n do Desenvolvimento, Indústria e Comércio Exterior.\n(Redação dada pelo Decreto nº 3.395, de 2000)\nIII - recurso ao Ministro de Estado Chefe da \r\nSecretaria da Micro e Pequena Empresa da Presidência da República.\n(Redação dada pelo Decreto nº \r\n8.060, de 2013)\nIII \r\n- recurso ao Ministro de Estado Chefe da Casa Civil da Presidência da República.\n(Redação dada pelo Decreto nº \r\n8.815, de 2016)\nIII - recurso ao Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nSUBSEÇÃO II\nDo Procedimento",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 91999,
+        "char_end": 93053
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#94",
+      "type": "artigo_candidato",
+      "name": "Art. 65",
+      "content": "Art. 65. O pedido de reconsideração terá por objeto obter a revisão de despachos\r\n singulares ou de Turmas que formulem exigências para o deferimento do arquivamento e o\r\n seu procedimento iniciar-se-á com a protocolização de petição dirigida ao Presidente\r\n da Junta Comercial dentro do prazo de trinta dias concedidos para cumprimento da\r\n exigência.\n§ 1º O pedido de reconsideração será apreciado pela mesma autoridade que prolatou\r\n o despacho, no prazo de cinco dias úteis contados da data da sua protocolização, sendo\r\n indeferido de plano quando assinado por terceiro ou procurador sem instrumento de mandato\r\n ou interposto fora do prazo, devendo ser, em qualquer caso, anexado ao processo a que se\r\n referir.\n§ 2º A protocolização do pedido de reconsideração suspende o prazo para\r\n cumprimento de exigências formuladas, recomeçando a contagem a partir do dia\r\n subseqüente à data da ciência, pelo interessado ou da publicação, do despacho que\r\n mantiver a exigência no todo ou em parte.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 93053,
+        "char_end": 94050
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#95",
+      "type": "artigo_candidato",
+      "name": "Art. 66",
+      "content": "Art. 66. Das decisões definitivas, singulares ou de Turmas, cabe recurso ao Plenário\r\n da Junta Comercial, cujo procedimento compreenderá as fases de instrução e julgamento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 94050,
+        "char_end": 94224
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#96",
+      "type": "artigo_candidato",
+      "name": "Art. 67",
+      "content": "Art. 67. A fase de instrução iniciar-se-á com a protocolização da petição do\r\n recurso dirigida ao Presidente da Junta Comercial, a qual será enviada à\r\n Secretaria-Geral que, no prazo de três dias úteis, expedirá notificação às partes\r\n interessadas, na forma que dispuser o Regimento Interno, para se manifestarem, no prazo de\r\n dez dias úteis, contados a partir do dia subseqüente à data da ciência.\n§ 1º Decorrido o prazo para contra-razões, a Secretaria-Geral dará vista do\r\n processo à Procuradoria, quando a mesma não for a recorrente, para manifestar-se e\r\n restituí-lo, no prazo de dez dias úteis, àquela unidade, que o fará concluso ao\r\n Presidente.\n§ 2º No prazo de três dias úteis, o Presidente deverá manifestar-se quanto ao\r\n recebimento do recurso e designar, quando for o caso, Vogal Relator, notificando-o.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 94224,
+        "char_end": 95048
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#97",
+      "type": "artigo_candidato",
+      "name": "Art. 68",
+      "content": "Art. 68. Admitido o recurso, pelo Presidente, iniciar-se-á a fase de julgamento, que\r\n deverá ser concluída no prazo de trinta dias úteis.\n§ 1º O decurso do prazo de que trata o caput deste artigo fica suspenso da data da\r\n sua admissão até a data da ciência pelo Vogal Relator, reiniciando-se no dia\r\n subseqüente a esta ciência.\n§ 2º O Vogal Relator, no prazo de dez dias úteis, elaborará o relatório e o\r\n depositará na Secretaria-Geral, para distribuição e conhecimento dos demais Vogais, nos\r\n cinco dias úteis subseqüentes, os quais poderão requerer cópia de peças do processo a\r\n que se referir.\n§ 3º Nos dez dias úteis que se seguirem ao encerramento do prazo a que alude o\r\n parágrafo anterior, a Secretaria-Geral fará incluí-lo em pauta de sessão do Plenário\r\n para julgamento, solicitando ao Presidente a convocação de sessão extraordinária,\r\n quando necessário, observado, em qualquer caso, o prazo fixado no caput deste artigo.\n§ 4º Na sessão plenária é admitida vista do processo aos Vogais, que será\r\n concedida por período fixado pelo Presidente e compatível com a conclusão do\r\n julgamento, no prazo previsto no caput deste artigo.\n§ 5º No caso de inobservância do prazo previsto no caput deste artigo, a parte\r\n interessada poderá requerer ao Departamento Nacional de Registro do Comércio - DNRC tudo\r\n o que se afigurar necessário para a conclusão do julgamento do recurso.\n§ 5º  Na hipótese de inobservância do prazo de que trata o\ncaput\n, \r\n a parte interessada poderá requerer ao Departamento Nacional de Registro \r\n Empresarial e Integração da Secretaria de Governo Digital da Secretaria \r\n Especial de Desburocratização, Gestão e Governo Digital do Ministério da \r\n Economia o que for necessário para a conclusão do julgamento do \r\n recurso.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 95048,
+        "char_end": 96863
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#98",
+      "type": "artigo_candidato",
+      "name": "Art. 69",
+      "content": "Art. 69. Das decisões do Plenário cabe recurso ao Ministro de Estado da Indústria,\r\n do Comércio e do Turismo, como última instância administrativa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 96863,
+        "char_end": 97012
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#99",
+      "type": "artigo_candidato",
+      "name": "Art. 69",
+      "content": "Art. 69.  Das decisões\r\n do Plenário cabe recurso ao Ministro de Estado do Desenvolvimento, Indústria e Comércio\r\n Exterior, como última instância administrativa.\n(Redação dada pelo Decreto nº 3.395, de 2000)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 97012,
+        "char_end": 97221
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#100",
+      "type": "artigo_candidato",
+      "name": "Art. 69",
+      "content": "Art. 69.  Das decisões do Plenário cabe recurso ao \r\nMinistro de Estado Chefe da Secretaria da Micro e Pequena Empresa da Presidência \r\nda República, como última instância administrativa.\n(Redação dada pelo Decreto nº \r\n8.060, de 2013)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 97221,
+        "char_end": 97457
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#101",
+      "type": "artigo_candidato",
+      "name": "Art. 69",
+      "content": "Art. 69.  Das decisões \r\ndo Plenário cabe recurso ao Ministro de Estado Chefe da Casa Civil da \r\nPresidência da República, como última instância administrativa.\n(Redação dada pelo \r\nDecreto nº 8.815, de 2016)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 97457,
+        "char_end": 97666
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#102",
+      "type": "artigo_candidato",
+      "name": "Art. 69",
+      "content": "Art. 69.  Das decisões do Plenário cabe recurso ao Departamento \r\n Nacional de Registro Empresarial e Integração da Secretaria de Governo \r\n Digital da Secretaria Especial de Desburocratização, Gestão e Governo \r\n Digital do Ministério da Economia, como última instância administrativa.\n(Redação dada \r\n pelo Decreto nº 10.173, de 2019)\n§ 1º A petição do recurso, dirigida ao Presidente da Junta Comercial, após\r\n protocolizada, será enviada à Secretaria-Geral que, no prazo de três dias úteis,\r\n expedirá notificação às partes interessadas, na forma que dispuser o Regimento\r\n Interno, para se manifestarem no prazo de dez dias úteis, contados a partir do dia\r\n subseqüente à data da ciência.\n§ 2º Decorrido o prazo para contra-razões, a Secretaria-Geral fará o processo\r\n concluso ao Presidente.\n§ 3º No prazo de três dias úteis, o Presidente deverá manifestar-se quanto ao\r\n recebimento do recurso, encaminhando-o, quando for o caso, ao Departamento Nacional de\r\n Registro do Comércio - DNRC que, em dez dias úteis, deverá manifestar-se e submetê-lo\r\n à decisão final do Ministro de Estado da Indústria, do Comércio e do Turismo, a ser\r\n proferida em igual prazo.\n§ 3\no\nNo\r\n prazo de três dias úteis, o Presidente deverá manifestar-se quanto ao recebimento do\r\n recurso, encaminhando-o, quando for o caso, ao Departamento Nacional de Registro do\r\n Comércio - DNRC que, em dez dias úteis, deverá manifestar-se e submetê-lo à decisão\r\n final do Ministro de Estado do Desenvolvimento, Indústria e Comércio Exterior.\n(Redação dada pelo Decreto nº 3.395, de 2000)\n§ 3\no\nNo prazo de três dias úteis, o \r\nPresidente deverá manifestar-se quanto ao recebimento do recurso, e o \r\nencaminhará, quando necessário, ao Departamento de Registro Empresarial e \r\nIntegração - DREI que, no prazo de dez dias úteis, deverá manifestar-se e \r\nsubmetê-lo à decisão final do Ministro de Estado Chefe da Secretaria da Micro e \r\nPequena Empresa da Presidência da República.\n(Redação dada pelo Decreto nº \r\n8.060, de 2013)\n§ 3\nº\nNo prazo de três dias úteis, o \r\n Presidente deverá manifestar-se quanto ao recebimento do recurso e o \r\n encaminhará, quando necessário, ao Departamento de Registro Empresarial \r\n e Integração - DREI que, no prazo de dez dias úteis, deverá \r\n manifestar-se e o submeterá à decisão final do Ministro de Estado Chefe \r\n da Casa Civil da Presidência da República.\n(Redação dada pelo \r\nDecreto nº 8.815, de 2016)\n§ 3º  No prazo de três dias úteis, o Presidente da Junta Comercial se \r\n manifestará quanto ao recebimento do recurso e o encaminhará, quando \r\n necessário, ao Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia, \r\n que, no prazo de dez dias úteis, proferirá a decisão final.\n(Redação dada \r\n pelo Decreto nº 10.173, de 2019)\n§ 4º Os pedidos de diligência, após encaminhado o processo ao Departamento Nacional\r\n de Registro do Comércio - DNRC, suspenderão os prazos previstos no parágrafo anterior.\n§ 4\nº\nOs \r\npedidos de diligência, após encaminhado o processo ao Departamento de Registro \r\nEmpresarial e Integração - DREI, suspenderão os prazos previstos no parágrafo \r\nanterior.\n(Redação dada pelo Decreto nº \r\n8.060, de 2013)\n§ 4\nº\nOs pedidos de diligência, após o \r\n encaminhamento do processo ao DREI, suspenderão os prazos previstos no § \r\n 3\nº\n.\n(Redação dada pelo \r\nDecreto nº 8.815, de 2016)\n§ 5º A capacidade decisória poderá ser delegada, no todo ou em parte.\n(Revogado pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 97666,
+        "char_end": 101240
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#103",
+      "type": "artigo_candidato",
+      "name": "Art. 70",
+      "content": "Art. 70. Os recursos previstos neste Regulamento serão indeferidos de plano pelo\r\n Presidente da Junta Comercial, se assinados por terceiros ou procurador sem instrumento de\r\n mandato, ou interpostos fora do prazo ou antes da decisão definitiva, devendo ser, em\r\n qualquer caso, anexados aos processos a que se referirem.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 101240,
+        "char_end": 101562
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#104",
+      "type": "artigo_candidato",
+      "name": "Art. 71",
+      "content": "Art. 71. No pedido de reconsideração ou nos recursos previstos neste Regulamento,\r\n subscritos por advogado sem o devido instrumento de mandato, deverá o mesmo exibi-lo no\r\n prazo de cinco dias úteis.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 101562,
+        "char_end": 101763
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#105",
+      "type": "artigo_candidato",
+      "name": "Art. 72",
+      "content": "Art. 72. A firma mercantil individual ou sociedade mercantil cujo ato tenha sido objeto\r\n de decisão de cancelamento do registro providenciará, no prazo de trinta dias, a sua\r\n retificação, se o vício for sanável, sob pena de desarquivamento do ato pela Junta\r\n Comercial no dia seguinte ao do vencimento do prazo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 101763,
+        "char_end": 102078
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#106",
+      "type": "artigo_candidato",
+      "name": "Art. 72",
+      "content": "Art. 72.  O empresário individual ou a sociedade empresária cujo ato \r\n tenha sido objeto de decisão de cancelamento do registro providenciará, \r\n no prazo de trinta dias, a sua retificação, se o vício for sanável, sob \r\n pena de desarquivamento do ato pela Junta Comercial no dia seguinte ao \r\n do vencimento do prazo.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 102078,
+        "char_end": 102447
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#107",
+      "type": "artigo_candidato",
+      "name": "Art. 73",
+      "content": "Art. 73. Os recursos previstos neste Regulamento não suspendem os efeitos da decisão\r\n a que se referem.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 102447,
+        "char_end": 102552
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#108",
+      "type": "artigo_candidato",
+      "name": "Art. 74",
+      "content": "Art. 74. O prazo para a interposição dos recursos é de dez dias úteis, cuja\r\n fluência se inicia no primeiro dia útil subseqüente ao da data da ciência pelo\r\n interessado ou da publicação do despacho.\nParágrafo único. A ciência poderá ser feita por via postal, com aviso de\r\n recebimento.\nSEÇÃO VIII\nDa Publicação dos Atos",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 102552,
+        "char_end": 102875
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#109",
+      "type": "artigo_candidato",
+      "name": "Art. 75",
+      "content": "Art. 75. Os atos decisórios da Junta Comercial serão publicados na forma e no órgão\r\n de divulgação determinados em Portaria de seu Presidente, publicada no Diário Oficial\r\n do Estado e, no caso da Junta Comercial do Distrito Federal, no Diário Oficial da União.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 102875,
+        "char_end": 103138
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#110",
+      "type": "artigo_candidato",
+      "name": "Art. 75",
+      "content": "Art. 75.  Os atos decisórios da Junta Comercial serão publicados no seu \r\n sítio eletrônico.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 103138,
+        "char_end": 103280
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#111",
+      "type": "artigo_candidato",
+      "name": "Art. 76",
+      "content": "Art. 76. As publicações ordenadas na lei de sociedades por ações serão feitas no\r\n órgão oficial da União, do Estado ou do Distrito Federal, conforme o lugar em que\r\n esteja situada a sede da companhia, e em outro jornal de grande circulação editado\r\n regularmente na mesma localidade.\nParágrafo único. Se no lugar em que estiver situada a sede da companhia não for\r\n editado jornal, a publicação se fará em órgão de grande circulação local.\n(Revogado pelo Decreto \r\nnº 11.250, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 103280,
+        "char_end": 103767
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#112",
+      "type": "artigo_candidato",
+      "name": "Art. 76",
+      "content": "Art. 76.  As publicações ordenadas para as sociedades por \r\nações serão realizadas nos termos previstos na\nLei nº 6.404, de 1976\n.\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 103767,
+        "char_end": 103947
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#113",
+      "type": "artigo_candidato",
+      "name": "Art. 77",
+      "content": "Art. 77. A prova da publicidade de atos societários, quando exigida em lei, será\r\n feita mediante anotação nos registros da Junta Comercial, à vista de apresentação da\r\n folha do órgão oficial e, quando for o caso, do jornal particular onde foi feita a\r\n publicação, dispensada a juntada da mencionada folha.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 103947,
+        "char_end": 104256
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#114",
+      "type": "artigo_candidato",
+      "name": "Art. 77",
+      "content": "Art. 77.  A prova da publicidade de atos societários, quando exigida em \r\n lei, será feita por meio da anotação nos registros da Junta Comercial, à \r\n vista de apresentação da folha do Diário Oficial, em sua versão \r\n eletrônica, dispensada a juntada da mencionada folha.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nParágrafo único. É facultado, ainda, às sociedades por ações mencionar, na ata\r\n apresentada a arquivamento, a data, o número da folha ou da página do órgão oficial e\r\n do jornal particular onde foram feitas as publicações preliminares à realização da\r\n assembléia a que se referem, dispensada a sua apresentação.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 104256,
+        "char_end": 104891
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#115",
+      "type": "artigo_candidato",
+      "name": "Art. 77",
+      "content": "Art. 77.  A prova da publicidade de atos societários, \r\nquando exigida em lei, será feita por meio da anotação nos registros da Junta \r\nComercial, mediante apresentação da publicação, em sua versão eletrônica, \r\ndispensada a sua juntada.\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)\nParágrafo único.  Às sociedades é facultado mencionar, no documento apresentado \r\na arquivamento, as informações relativas às publicações, hipótese em que fica \r\ndispensada a sua apresentação para a anotação de que trata o\ncaput\n.\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)\nSEÇÃO IX\nDas Autenticações",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 104891,
+        "char_end": 105485
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#116",
+      "type": "artigo_candidato",
+      "name": "Art. 78",
+      "content": "Art. 78. As Juntas Comerciais autenticarão, segundo instruções normativas do\r\n Departamento Nacional de Registro do Comércio - DNRC:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 105485,
+        "char_end": 105618
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#117",
+      "type": "artigo_candidato",
+      "name": "Art. 78",
+      "content": "Art. 78.  As Juntas Comerciais autenticarão, conforme o disposto em ato \r\n do Departamento Nacional de Registro Empresarial e Integração da \r\n Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia:\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nI - os instrumentos de escrituração das empresas mercantis e dos agentes auxiliares\r\n do comércio;\nI - os instrumentos de escrituração das empresas e dos agentes \r\n auxiliares do comércio;\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nII - os documentos arquivados e suas cópias;\nIII - as certidões dos documentos arquivados.\nParágrafo único. Os instrumentos autenticados na forma deste artigo, referidos nos\r\n incisos I e III e as cópias dos documentos referidas no inciso II não retirados no prazo\r\n de trinta dias, contados do seu deferimento, poderão ser eliminados.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 105618,
+        "char_end": 106514
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#118",
+      "type": "artigo_candidato",
+      "name": "Art. 78-A",
+      "content": "Art. 78-A.  A autenticação de livros contábeis \r\n das empresas poderá ser feita por meio do Sistema Público de Escrituração \r\n Digital - Sped de que trata o\nDecreto n\nº\n6.022, de 22 de janeiro de \r\n 2007\n, mediante a apresentação de escrituração contábil digital.\n(Incluído pelo Decreto nº \r\n8.683, de 2016)\n(Vide Decreto nº 6.022, de \r\n2007)\n§ 1\nº\nA autenticação dos livros contábeis \r\n digitais será comprovada pelo recibo de entrega emitido pelo Sped..\n(Incluído pelo Decreto nº \r\n8.683, de 2016)\n§ 2\nº\nA autenticação prevista neste artigo \r\n dispensa a autenticação de que trata o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 106514,
+        "char_end": 107099
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#119",
+      "type": "artigo_candidato",
+      "name": "Art. 39",
+      "content": "art. 39 da Lei n\nº\n8.934, de 18 \r\n de novembro de 1994\n, nos termos do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 107099,
+        "char_end": 107170
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#120",
+      "type": "artigo_candidato",
+      "name": "Art. 39-A",
+      "content": "art. 39-A da referida Lei\n..\n(Incluído pelo Decreto nº \r\n8.683, de 2016)\nSEÇÃO X\nDas Certidões",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 107170,
+        "char_end": 107265
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#121",
+      "type": "artigo_candidato",
+      "name": "Art. 79",
+      "content": "Art. 79. É público o registro de empresas mercantis e atividades afins a cargo das\r\n Juntas Comerciais.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 107265,
+        "char_end": 107369
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#122",
+      "type": "artigo_candidato",
+      "name": "Art. 79",
+      "content": "Art. 79.  É público o registro de empresas e atividades afins a cargo \r\n das Juntas Comerciais.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 107369,
+        "char_end": 107514
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#123",
+      "type": "artigo_candidato",
+      "name": "Art. 80",
+      "content": "Art. 80. Qualquer pessoa, sem necessidade de provar interesse, poderá consultar os\r\n documentos arquivados nas Juntas Comerciais e obter certidões, mediante pagamento do\r\n preço devido.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 107514,
+        "char_end": 107700
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#124",
+      "type": "artigo_candidato",
+      "name": "Art. 81",
+      "content": "Art. 81. O pedido de certidão, assinado pelo interessado e acompanhado do comprovante\r\n de pagamento do preço devido, indicará uma das seguintes modalidades:\nI - simplificada;\nII - específica, consoante quesitos formulados no pedido;\nIII - inteiro teor, mediante reprografia.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 107700,
+        "char_end": 107976
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#125",
+      "type": "artigo_candidato",
+      "name": "Art. 82",
+      "content": "Art. 82. Sempre que houver qualquer alteração posterior ao ato cuja certidão for\r\n requerida, deverá ela, obrigatoriamente, ser mencionada, não obstante as\r\n especificações do pedido.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 107976,
+        "char_end": 108160
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#126",
+      "type": "artigo_candidato",
+      "name": "Art. 83",
+      "content": "Art. 83. A certidão deverá ser entregue no prazo de até quatro dias úteis da\r\n protocolização do pedido na sede da Junta Comercial e, no prazo de até oito dias\r\n úteis, se em protocolo descentralizado.\nParágrafo único. Em caso de recusa ou demora na expedição da certidão, o\r\n requerente poderá reclamar à autoridade competente, que deverá providenciar, com\r\n presteza, sua expedição.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 108160,
+        "char_end": 108545
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#127",
+      "type": "artigo_candidato",
+      "name": "Art. 84",
+      "content": "Art. 84. Os modelos e a expedição de certidões serão disciplinados por instrução\r\n normativa do Departamento Nacional de Registro do Comércio - DNRC.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 108545,
+        "char_end": 108695
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#128",
+      "type": "artigo_candidato",
+      "name": "Art. 84",
+      "content": "Art. 84.  Ato do Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia \r\n disporá sobre os modelos e a expedição de certidões pelas Juntas \r\n Comerciais.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 108695,
+        "char_end": 109038
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#129",
+      "type": "artigo_candidato",
+      "name": "Art. 85",
+      "content": "Art. 85. A certidão dos atos de constituição e de alteração de sociedades\r\n mercantis, passada pelas Juntas Comerciais em que foram arquivados, será o documento\r\n hábil para a transferência, no registro público competente, dos bens com que o\r\n subscritor tiver contribuído para a formação ou aumento do capital social.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 109038,
+        "char_end": 109357
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#130",
+      "type": "artigo_candidato",
+      "name": "Art. 85",
+      "content": "Art. 85.  A certidão dos atos de constituição e de alteração de \r\n sociedades empresárias lavrada pela Junta Comercial em que os atos foram \r\n arquivados será o documento hábil para a transferência, no registro \r\n público competente, dos bens com que o subscritor tiver contribuído para \r\n a formação ou aumento do capital social.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 109357,
+        "char_end": 109737
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#131",
+      "type": "artigo_candidato",
+      "name": "Art. 85",
+      "content": "Art. 85. \r\n A certidão dos atos de constituição e de alteração de empresários individuais e \r\nde sociedades empresárias, fornecida pelas Juntas Comerciais em que foram \r\narquivados, será o documento hábil para a transferência, por transcrição no \r\nregistro público competente, dos bens com que o subscritor tiver contribuído \r\npara a formação ou para o aumento do capital.\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 109737,
+        "char_end": 110159
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#132",
+      "type": "artigo_candidato",
+      "name": "Art. 86",
+      "content": "Art. 86. Os documentos arquivados pelas Juntas Comerciais não serão, em qualquer\r\n hipótese, retirados de suas dependências, ressalvado o disposto no art. 90.\nSEÇÃO XI\nDo Assentamento dos Usos ou Práticas Mercantis",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 110159,
+        "char_end": 110374
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#133",
+      "type": "artigo_candidato",
+      "name": "Art. 87",
+      "content": "Art. 87. O assentamento de usos ou \r\npráticas mercantis é efetuado pela Junta Comercial.\n§ 1º Os usos ou práticas mercantis \r\ndevem ser devidamente coligidos e assentados em livro próprio, pela Junta \r\nComercial, ex officio, por provocação da Procuradoria ou de entidade de classe \r\ninteressada.\n§ 2º Verificada, pela Procuradoria, \r\na inexistência de disposição legal contrária ao uso ou prática mercantil a ser \r\nassentada, o Presidente da Junta Comercial solicitará o pronunciamento escrito \r\ndas entidades diretamente interessadas, que deverão manifestar-se dentro do \r\nprazo de noventa dias, e fará publicar convite a todos os interessados para que \r\nse manifestem no mesmo prazo.\n§ 3º Executadas as diligências \r\nprevistas no parágrafo anterior, a Junta Comercial decidirá se é verdadeiro e \r\nregistrável o uso ou prática mercantil, em sessão a que compareçam, no mínimo, \r\ndois terços dos respectivos vogais, dependendo a respectiva aprovação do voto \r\nde, pelo menos, metade mais um dos Vogais presentes.\n§ 4º Proferida a decisão, \r\nanotar-se-á o uso ou prática mercantil em livro especial, com a devida \r\njustificação, efetuando-se a respectiva publicação no órgão oficial da União, do \r\nEstado ou do Distrito Federal, conforme a sede da Junta Comercial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 110374,
+        "char_end": 111638
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#134",
+      "type": "artigo_candidato",
+      "name": "Art. 88",
+      "content": "Art. 88. Quinqüenalmente, as Juntas Comerciais processarão a revisão e publicação\r\n da coleção dos usos ou práticas mercantis assentados na forma do artigo anterior.\nSeção XI\nDo assentamento dos usos ou práticas empresariais\n(Redação dada \r\n pelo Decreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 111638,
+        "char_end": 111913
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#135",
+      "type": "artigo_candidato",
+      "name": "Art. 87",
+      "content": "Art. 87.  O assentamento de usos ou práticas empresariais é efetuado \r\n pela Junta Comercial.\n(Redação dada \r\n pelo Decreto nº 10.173, de 2019)\n§ 1º  Os usos ou as práticas empresariais serão reunidos e assentados em \r\n livro próprio, pela Junta Comercial,\nex officio\nou por \r\n solicitação da Procuradoria ou de entidade de classe interessada.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 2º  Verificada, pela Procuradoria, a inexistência de disposição legal \r\n contrária ao uso ou prática empresarial a ser assentada, o Presidente da \r\n Junta Comercial solicitará o pronunciamento escrito das entidades \r\n diretamente interessadas, que se manifestarão no prazo de noventa dias, \r\n e publicará convite para que os interessados se manifestem no mesmo \r\n prazo.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 3º  Executadas as diligências previstas no § 2º, a Junta Comercial \r\n decidirá se é verdadeiro e registrável o uso ou prática empresarial, em \r\n sessão a que compareçam, no mínimo, dois terços dos Vogais e a  \r\n aprovação ocorrerá pelo voto de, no mínimo, metade mais um dos Vogais \r\n presentes.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 4º  Proferida a decisão, o uso ou a prática empresarial será assentada \r\n em livro especial, com a sua justificação, efetuada a respectiva \r\n publicação no Diário Oficial da União ou da unidade federativa em que a \r\n Junta Comercial estiver localizada.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 111913,
+        "char_end": 113379
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#136",
+      "type": "artigo_candidato",
+      "name": "Art. 88",
+      "content": "Art. 88.  Quinquenalmente, as Juntas Comerciais revisarão a coleção dos \r\n usos ou práticas empresariais assentados e a publicarão, nos termos do \r\n disposto no art. 87.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nSEÇÃO XII\nDa Retribuição dos Serviços",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 113379,
+        "char_end": 113636
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#137",
+      "type": "artigo_candidato",
+      "name": "Art. 89",
+      "content": "Art. 89. Compete ao Departamento Nacional de Registro do Comércio - DNRC propor a\r\n elaboração da Tabela de Preços dos Serviços pertinentes ao Registro Público de\r\n Empresas Mercantis, na parte relativa aos atos de natureza federal, bem como especificar\r\n os atos a serem observados pelas Juntas Comerciais na elaboração de suas tabelas locais.\nParágrafo único. As isenções de preços de serviços restringem-se aos casos\r\n previstos em lei.\n(Revogado pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 113636,
+        "char_end": 114121
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#138",
+      "type": "artigo_candidato",
+      "name": "Art. 89",
+      "content": "Art. 89.  Compete ao Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia \r\n propor a elaboração da tabela de preços dos serviços pertinentes ao \r\n Registro Público de Empresas Mercantis e Atividades Afins, na parte \r\n relativa aos atos de natureza federal, e especificar os atos a serem \r\n observados pelas Juntas Comerciais na elaboração de suas tabelas locais.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\n§ 1º  As isenções de preços de serviços restringem-se às hipóteses \r\n previstas em lei.\n(Incluído pelo Decreto \r\nnº 10.173, de 2019)\n§ 2º  É vedada a cobrança de preço pelo serviço de arquivamento dos \r\n documentos relativos à extinção do registro do empresário individual, da \r\n empresa individual de responsabilidade limitada - Eireli e da sociedade \r\n limitada.\n(Incluído pelo Decreto \r\nnº 10.173, de 2019)\n§ 2º  É \r\nvedada a cobrança de preço pelo serviço de arquivamento dos documentos relativos \r\nà extinção do registro do empresário individual e da sociedade limitada.\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)\nTÍTULO III\nDAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS\nCapítulo I\nDAS DISPOSIÇÕES FINAIS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 114121,
+        "char_end": 115383
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#139",
+      "type": "artigo_candidato",
+      "name": "Art. 90",
+      "content": "Art. 90. Os atos de empresas mercantis, após preservada a sua imagem através de\r\n microfilmagem ou por meios tecnológicos mais avançados, poderão ser devolvidos pelas\r\n Juntas Comerciais, conforme dispuser instrução normativa do Departamento Nacional de\r\n Registro do Comércio - DNRC.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 115383,
+        "char_end": 115668
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#140",
+      "type": "artigo_candidato",
+      "name": "Art. 90",
+      "content": "Art. 90.  Os atos de empresas, após ter sido preservada a sua imagem \r\n por meio de sua microfilmagem ou por outros meios tecnológicos, poderão \r\n ser devolvidos pelas Juntas Comerciais, observado o disposto em ato do \r\n Departamento Nacional de Registro Empresarial e Integração da Secretaria \r\n de Governo Digital da Secretaria Especial de Desburocratização, Gestão e \r\n Governo Digital do Ministério da Economia.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 115668,
+        "char_end": 116133
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#141",
+      "type": "artigo_candidato",
+      "name": "Art. 90",
+      "content": "Art. 90. \r\n Os atos de empresas, após ter sido preservada a sua imagem por meio de sua \r\ndigitalização e armazenamento no sistema de registro, poderão ser eliminados \r\npelas Juntas Comerciais.\n(Redação dada pelo \r\nDecreto nº 11.250, de 2022)\n§ 1º \r\n Antes da eliminação prevista no\ncaput\n, a Junta Comercial concederá o \r\nprazo de trinta dias, contado da respectiva intimação, para que o empresário, os \r\nsócios, os acionistas, os administradores, os diretores ou os procuradores das \r\nsociedades retirem, facultativamente, a documentação original, sem qualquer \r\ncusto.\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)\n§ 2º \r\n Para os fins do disposto no\ncaput\n, serão observadas as disposições do\nDecreto nº 10.278, de 18 de \r\nmarço de 2020\n.\n(Incluído pelo Decreto \r\nnº 11.250, de 2022)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 116133,
+        "char_end": 116919
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#142",
+      "type": "artigo_candidato",
+      "name": "Art. 91",
+      "content": "Art. 91. O fornecimento de informações cadastrais ao Departamento Nacional de\r\n Registro do Comércio - DNRC, ou às Juntas Comerciais, conforme for o caso, desobriga as\r\n firmas mercantis individuais e sociedades mercantis de prestarem idênticas informações\r\n a outros órgãos ou entidades da Administração Federal, Estadual ou Municipal.\nParágrafo único. O Departamento Nacional de Registro do Comércio - DNRC\r\n estabelecerá as normas necessárias para a utilização dos cadastros sob jurisdição do\r\n Sistema Nacional de Registro de Empresas Mercantis - SINREM pelos órgãos ou entidades\r\n públicas a que se refere este artigo, mediante a celebração de acordos ou convênios de\r\n cooperação.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 116919,
+        "char_end": 117606
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#143",
+      "type": "artigo_candidato",
+      "name": "Art. 91",
+      "content": "Art. 91.  O fornecimento de informações cadastrais ao Departamento \r\n Nacional de Registro Empresarial e Integração da Secretaria de Governo \r\n Digital da Secretaria Especial de Desburocratização, Gestão e Governo \r\n Digital do Ministério da Economia, ou às Juntas Comerciais, conforme for \r\n o caso, desobriga os empresários individuais e as sociedades empresárias \r\n de prestarem idênticas informações a outros órgãos ou entidades da \r\n administração pública federal, estadual, distrital ou municipal.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nParágrafo único.  Ato do Departamento Nacional de Registro Empresarial e \r\n Integração da Secretaria de Governo Digital da Secretaria Especial de \r\n Desburocratização, Gestão e Governo Digital do Ministério da Economia \r\n estabelecerá as normas para a utilização dos cadastros integrantes do \r\n Sistema Nacional de Registro de Empresas Mercantis - SINREM pelos órgãos \r\n ou entidades a que se refere o\ncaput\n, por meio da celebração de \r\n acordos ou convênios de cooperação.\n(Redação dada pelo \r\nDecreto nº 10.173, de 2019)\nCapítulo II\nDAS DISPOSIÇÕES TRANSITÓRIAS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 117606,
+        "char_end": 118724
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#144",
+      "type": "artigo_candidato",
+      "name": "Art. 92",
+      "content": "Art. 92. As Juntas Comerciais adaptarão seus regimentos internos ou regulamentos às\r\n disposições deste Regulamento no prazo de cento e oitenta dias, a contar da data da sua\r\n publicação.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 118724,
+        "char_end": 118912
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#145",
+      "type": "artigo_candidato",
+      "name": "Art. 92-A",
+      "content": "Art. 92-A.  Os atos de constituição, alteração, transformação, \r\n incorporação, fusão, cisão, dissolução e extinção de registro de \r\n empresário e de pessoas jurídicas poderão ser realizados também por meio \r\n de sistema eletrônico criado e mantido pelo Ministério da Economia.\n(Incluído dada pelo \r\nDecreto nº 10.173, de 2019)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 118912,
+        "char_end": 119240
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#146",
+      "type": "artigo_candidato",
+      "name": "Art. 93",
+      "content": "Art. 93. Este Decreto entra em vigor na data de sua publicação.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 119240,
+        "char_end": 119304
+      }
+    },
+    {
+      "id": "BR.DECRETO.1800.1996#147",
+      "type": "artigo_candidato",
+      "name": "Art. 94",
+      "content": "Art. 94. Revogam-se os\nDecretos nº 57.651, de 19 de janeiro de 1966\n,\n86.764, de 22 de\r\n dezembro de 1981\n,\n93.410, de 14 de outubro de 1986\ne o\nDecreto s/nº de 10 de maio de\r\n 1991\n, que dispõe sobre a autorização para microfilmagem de documentos levados a\r\n registro nas Juntas Comerciais.\nBrasília, 30 de janeiro de 1996; 175º da Independência e 108º da República.\nFERNANDO HENRIQUE CARDOSO\nDorothea Werneck\nEste texto não substitui o\r\npublicado no DOU de 31.1.1996 e\nretificado em 20.5.1996\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 119304,
+        "char_end": 119801
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "5a2f7e8a47dff4bf5e720d22ad82329916ab85ce76c311cc0832bf43f963f67c"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "junta comercial"
+    },
+    {
+      "type": "subject",
+      "target": "sinrem"
+    },
+    {
+      "type": "subject",
+      "target": "registro"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d1800.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/decreto/d1800.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:30:15.927832+00:00",
+      "sha256": "5a2f7e8a47dff4bf5e720d22ad82329916ab85ce76c311cc0832bf43f963f67c",
+      "file": "documentos_oficiais/01_registro/br-decreto-1800-1996.html",
+      "extracted_text": "textos_extraidos/01_registro/br-decreto-1800-1996.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 147,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

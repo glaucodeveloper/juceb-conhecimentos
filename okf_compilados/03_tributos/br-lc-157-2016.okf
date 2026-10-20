@@ -1,0 +1,200 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.LC.157.2016",
+  "title": "Alterações da legislação do ISS",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.LC.157.2016#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1\no\nA Lei Complementar n\no\n116, \r\nde 31 de julho de 2003, passa a vigorar com as seguintes alteraçőes:\n(Vide ADPF \r\nnş 499)\n(Vide ADI \r\nnş 5862)\n(Vide ADI \r\nnş 5835)\n“Art. 3\no\nO serviço considera-se prestado, e o imposto, devido, no local do \r\n estabelecimento prestador ou, na falta do estabelecimento, no local do \r\n domicílio do prestador, exceto nas hipóteses previstas nos incisos I a \r\n XXV, quando o imposto será devido no local:\n.............................................................................................\nXII -\ndo florestamento, reflorestamento, semeadura, adubaçăo, reparaçăo de solo, \r\n plantio, silagem, colheita, corte, descascamento de árvores, \r\n silvicultura, exploraçăo florestal e serviços congęneres indissociáveis \r\n da formaçăo, manutençăo e colheita de florestas para quaisquer fins e \r\n por quaisquer meios;\n.............................................................................................\nXVI -\ndos bens, \r\n dos semoventes ou do domicílio das pessoas vigiados, segurados ou \r\n monitorados, no caso dos serviços descritos no subitem 11.02 da lista \r\n anexa;\n.............................................................................................\nXIX -\ndo \r\n Município onde está sendo executado o transporte, no caso dos serviços \r\n descritos pelo item 16 da lista anexa;\n.............................................................................................\nXXIII -\ndo domicílio do tomador dos \r\n serviços dos subitens 4.22, 4.23 e 5.09;\n(Partes mantidas)\nXXIV - do domicílio do tomador do \r\n serviço no caso dos serviços prestados pelas administradoras de cartăo de \r\n crédito ou débito e demais descritos no subitem 15.01;\nXXV - do domicílio do tomador dos \r\n serviços dos subitens 10.04 e 15.09.\n(VETADO);\nXXIV - (VETADO);\nXXV - (VETADO).\n.............................................................................................\n§ 4\no\n§ 4\no\nNa hipótese de descumprimento do disposto no\ncaput\nou no § \r\n 1\no\n, ambos do art. 8\no\n-A desta Lei \r\n Complementar, o imposto será devido no local do estabelecimento do \r\n tomador ou intermediário do serviço ou, na falta de estabelecimento, \r\n onde ele estiver domiciliado.\n(Partes mantidas)\n“Art. 6\no\n..........................................................................\n.............................................................................................\n§ 2\no\n..............................................................................\n.............................................................................................\nIII -\na pessoa jurídica \r\n tomadora ou intermediária de serviços, ainda que imune ou isenta, na \r\n hipótese prevista no § 4\no\ndo art. 3\no\ndesta Lei Complementar.\n(Partes mantidas)\n§ 3\no\nNo caso \r\n dos serviços descritos nos subitens 10.04 e 15.09, o valor do imposto é \r\n devido ao Município declarado como domicílio tributário da pessoa jurídica \r\n ou física tomadora do serviço, conforme informaçăo prestada por este.\n§ 4\no\nNo caso \r\n dos serviços prestados pelas administradoras de cartăo de crédito e débito, \r\n descritos no subitem 15.01, os terminais eletrônicos ou as máquinas das \r\n operaçőes efetivadas deverăo ser registrados no local do domicílio do \r\n tomador do serviço.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 751,
+        "char_end": 4003
+      }
+    },
+    {
+      "id": "BR.LC.157.2016#2",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2\no\nA\nLei \r\nComplementar nş 116, de 31 de julho de 2003\n, passa a vigorar acrescida do \r\nseguinte art. 8\no\n-A:\n(Produçăo de efeito)\n“Art. 8\no\n-A.\nA alíquota mínima do Imposto sobre Serviços de Qualquer Natureza é de \r\n 2% (dois por cento).\n§ 1\no\nO imposto năo será objeto de concessăo de isençőes, incentivos ou \r\n benefícios tributários ou financeiros, inclusive de reduçăo de base de \r\n cálculo ou de crédito presumido ou outorgado, ou sob qualquer outra \r\n forma que resulte, direta ou indiretamente, em carga tributária menor \r\n que a decorrente da aplicaçăo da alíquota mínima estabelecida no\ncaput\n, exceto para os serviços a que se referem os subitens 7.02, \r\n 7.05 e 16.01 da lista anexa a esta Lei Complementar.\n§ 2\no\nÉ nula a lei ou o ato do Município ou do Distrito Federal que năo \r\n respeite as disposiçőes relativas ŕ alíquota mínima previstas neste \r\n artigo no caso de serviço prestado a tomador ou intermediário localizado \r\n em Município diverso daquele onde está localizado o prestador do \r\n serviço.\n§ 3\no\nA nulidade a que se refere o § 2\no\ndeste artigo gera, \r\n para o prestador do serviço, perante o Município ou o Distrito Federal \r\n que năo respeitar as disposiçőes deste artigo, o direito ŕ restituiçăo \r\n do valor efetivamente pago do Imposto sobre Serviços de Qualquer \r\n Natureza calculado sob a égide da lei nula.”",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4003,
+        "char_end": 5352
+      }
+    },
+    {
+      "id": "BR.LC.157.2016#3",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3\no\nA lista de serviços\nanexa ŕ Lei Complementar nş 116, de 31 de julho de \r\n2003\n, passa a vigorar com as alteraçőes constantes do\nAnexo \r\ndesta Lei Complementar\n.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5352,
+        "char_end": 5522
+      }
+    },
+    {
+      "id": "BR.LC.157.2016#4",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4\no\nA\nLei nş 8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa)\n, \r\npassa a vigorar com as seguintes alteraçőes:\n(Produçăo de efeito)\n“Seçăo II-A\nDos Atos de \r\n Improbidade Administrativa Decorrentes de Concessăo ou Aplicaçăo \r\n Indevida de Benefício Financeiro ou Tributário",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5522,
+        "char_end": 5817
+      }
+    },
+    {
+      "id": "BR.LC.157.2016#5",
+      "type": "artigo_candidato",
+      "name": "Art. 10-A",
+      "content": "Art. 10-A.\nConstitui ato de improbidade administrativa qualquer açăo ou omissăo \r\n para conceder, aplicar ou manter benefício financeiro ou tributário \r\n contrário ao que dispőem o\ncaput\ne o\n§ 1ş do art. 8ş-A da Lei \r\n Complementar nş 116, de 31 de julho de 2003\n.”\n“Art. 12. \r\n  .......................................................................\n.............................................................................................\nIV -\nna hipótese \r\n prevista no art. 10-A, perda da funçăo pública, suspensăo dos direitos \r\n políticos de 5 (cinco) a 8 (oito) anos e multa civil de até 3 (tręs) \r\n vezes o valor do benefício financeiro ou tributário concedido.\n...................................................................................” \r\n (NR)\n“Art. 17. \r\n  ........................................................................\n.............................................................................................\n§ 13.\nPara os \r\n efeitos deste artigo, também se considera pessoa jurídica interessada o \r\n ente tributante que figurar no polo ativo da obrigaçăo tributária de que \r\n tratam o\n§ 4ş do art. 3ş\ne o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5817,
+        "char_end": 6963
+      }
+    },
+    {
+      "id": "BR.LC.157.2016#6",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "art. 8ş-A da Lei Complementar nş 116, de 31 \r\n de julho de 2003\n.” (NR)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6963,
+        "char_end": 7035
+      }
+    },
+    {
+      "id": "BR.LC.157.2016#7",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5\no\nO art. 3\no\nda\nLei Complementar nş 63, de 11 de janeiro de 1990\n, \r\npassa a vigorar acrescido dos seguintes §§ 1\no\n-A e 1\no\n-B:\n(Produçăo de efeito)\n“Art. 3\no\n..........................................................................\n.............................................................................................\n§ 1\no\n-A.\nNa hipótese de pessoa jurídica promover saídas de mercadorias por \r\n estabelecimento diverso daquele no qual as transaçőes comerciais săo \r\n realizadas, excluídas as transaçőes comerciais năo presenciais, o valor \r\n adicionado deverá ser computado em favor do Município onde ocorreu a \r\n transaçăo comercial, desde que ambos os estabelecimentos estejam \r\n localizados no mesmo Estado ou no Distrito Federal.\n§ 1\no\n-B. \r\n  No caso do disposto no § 1\no\n-A deste artigo, deverá \r\n constar no documento fiscal correspondente a identificaçăo do \r\n estabelecimento no qual a transaçăo comercial foi realizada.\n...................................................................................” \r\n (NR)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7035,
+        "char_end": 8078
+      }
+    },
+    {
+      "id": "BR.LC.157.2016#8",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6\no\nOs entes federados \r\ndeverăo, no prazo de 1 (um) ano contado da publicaçăo desta Lei Complementar, \r\nrevogar os dispositivos que contrariem o disposto no\ncaput\ne no\n§ 1ş do art. 8ş-A da Lei Complementar nş 116, de 31 \r\nde julho de 2003\n.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8078,
+        "char_end": 8325
+      }
+    },
+    {
+      "id": "BR.LC.157.2016#9",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7\no\nEsta Lei Complementar \r\nentra em vigor na data de sua publicaçăo.\n§ 1\no\nO \r\ndisposto no\ncaput\ne nos\n§§ 1ş e 2ş\ndo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8325,
+        "char_end": 8448
+      }
+    },
+    {
+      "id": "BR.LC.157.2016#10",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "art. 8\no\n-A da Lei Complementar n\no\n116, de 31 de julho de 2003\n, e no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8448,
+        "char_end": 8519
+      }
+    },
+    {
+      "id": "BR.LC.157.2016#11",
+      "type": "artigo_candidato",
+      "name": "Art. 10-A",
+      "content": "art. 10-A\n, \r\nno\ninciso IV do art. 12\ne no\n§ 13 do art. 17, todos da Lei n\no\n8.429, de 2 de junho de 1992\n, somente produzirăo efeitos após o decurso do \r\nprazo referido no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8519,
+        "char_end": 8692
+      }
+    },
+    {
+      "id": "BR.LC.157.2016#12",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "art. 6\no\ndesta Lei \r\nComplementar\n.\n§ 2\no\nO disposto nos\n§§ 1ş-A\ne\n1\no\n-B \r\ndo art. 3\no\nda Lei Complementar n\no\n63, de 11 \r\nde janeiro de 1990\n, produzirá efeitos a partir do primeiro dia do exercício \r\nsubsequente ao da entrada em vigor desta Lei Complementar, ou do primeiro dia do \r\nsétimo męs subsequente a esta data, caso este último prazo seja posterior.\nBrasília, 29 de dezembro \r\nde 2016; 195\no\nda Independęncia e 128\no\nda \r\nRepública.\nMICHEL TEMER\nHenrique Meirelles\nMarcos Pereira\nEste texto năo substitui o publicado no DOU \r\nde 30.12.2016\nANEXO\n(Lista de serviços anexa \r\nŕ\nLei Complementar no 116, de 31 de julho de 2003\n)\n“1 - \r\n.................................................................................\n.............................................................................................\n1.03 -\nProcessamento, \r\narmazenamento ou hospedagem de dados, textos, imagens, vídeos, páginas \r\neletrônicas, aplicativos e sistemas de informaçăo, entre outros formatos, e \r\ncongęneres.\n1.04 - Elaboraçăo de \r\nprogramas de computadores, inclusive de jogos eletrônicos, independentemente da \r\narquitetura construtiva da máquina em que o programa será executado, incluindo\ntablets\n,\nsmartphones\ne congęneres.\n.............................................................................................\n1.09 -\nDisponibilizaçăo, \r\nsem cessăo definitiva, de conteúdos de áudio, vídeo, imagem e texto por meio da \r\ninternet, respeitada a imunidade de livros, jornais e periódicos (exceto a \r\ndistribuiçăo de conteúdos pelas prestadoras de Serviço de Acesso Condicionado, \r\nde que trata a\nLei n\no\n12.485, de 12 de setembro de 2011\n, sujeita ao ICMS).\n.............................................................................................\n6 - \r\n..................................................................................\n.............................................................................................\n6.06 -\nAplicaçăo de \r\ntatuagens,\npiercings\ne congęneres.\n7 - \r\n.................................................................................\n.............................................................................................\n7.16 -\nFlorestamento, \r\nreflorestamento, semeadura, adubaçăo, reparaçăo de solo, plantio, silagem, \r\ncolheita, corte e descascamento de árvores, silvicultura, exploraçăo florestal e \r\ndos serviços congęneres indissociáveis da formaçăo, manutençăo e colheita de \r\nflorestas, para quaisquer fins e por quaisquer meios.\n.............................................................................................\n11 - \r\n..............................................................................\n.............................................................................................\n11.02 -\nVigilância, \r\nsegurança ou monitoramento de bens, pessoas e semoventes.\n.............................................................................................\n13 - \r\n...............................................................................\n.............................................................................................\n13.05 -\nComposiçăo \r\ngráfica, inclusive confecçăo de impressos gráficos, fotocomposiçăo, clicheria, \r\nzincografia, litografia e fotolitografia, exceto se destinados a posterior \r\noperaçăo de comercializaçăo ou industrializaçăo, ainda que incorporados, de \r\nqualquer forma, a outra mercadoria que deva ser objeto de posterior circulaçăo, \r\ntais como bulas, rótulos, etiquetas, caixas, cartuchos, embalagens e manuais \r\ntécnicos e de instruçăo, quando ficarăo sujeitos ao ICMS.\n14 - \r\n................................................................................\n.............................................................................................\n14.05 -\nRestauraçăo, \r\nrecondicionamento, acondicionamento, pintura, beneficiamento, lavagem, secagem, tingimento, galvanoplastia, anodizaçăo, corte, recorte, plastificaçăo, costura, \r\nacabamento, polimento e congęneres de objetos quaisquer.\n.............................................................................................\n14.14 -\nGuincho intramunicipal, guindaste e içamento.\n.............................................................................................\n16 - \r\n...............................................................................\n16.01 -\nServiços de \r\ntransporte coletivo municipal rodoviário, metroviário, ferroviário e aquaviário \r\nde passageiros.\n16.02 - Outros serviços \r\nde transporte de natureza municipal.\n17 - \r\n................................................................................\n.............................................................................................\n17.25 -\nInserçăo de \r\ntextos, desenhos e outros materiais de propaganda e publicidade, em qualquer \r\nmeio (exceto em livros, jornais, periódicos e nas modalidades de serviços de \r\nradiodifusăo sonora e de sons e imagens de recepçăo livre e gratuita).\n.............................................................................................\n25 - \r\n................................................................................\n.............................................................................................\n25.02 -\nTranslado intramunicipal e cremaçăo de corpos e partes de corpos cadavéricos.\n.............................................................................................\n25.05 -\nCessăo de uso de \r\nespaços em cemitérios para sepultamento.\n............................................................................................\nLEI COMPLEMENTAR Nş 157, DE 29 DE DEZEMBRO DE\r\n2016\nMensagem de veto\nAltera a Lei Complementar n\no\n116, de 31 de julho de 2003, que \r\ndispőe sobre o Imposto Sobre Serviços de Qualquer Natureza, a Lei n\no\n8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa), e a Lei \r\nComplementar n\no\n63, de 11 de janeiro de 1990, que “dispőe \r\nsobre critérios e prazos de crédito das parcelas do produto da arrecadaçăo de \r\nimpostos de competęncia dos Estados e de transferęncias por estes recebidos, \r\npertencentes aos Municípios, e dá outras providęncias”.\nO PRESIDENTE \r\nDA REPÚBLICA\nFaço saber que o Congresso \r\nNacional decreta e eu promulgo, nos termos do parágrafo 5\no\ndo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8692,
+        "char_end": 14958
+      }
+    },
+    {
+      "id": "BR.LC.157.2016#13",
+      "type": "artigo_candidato",
+      "name": "Art. 66",
+      "content": "art. 66 da Constituiçăo Federal, as seguintes partes vetadas da Lei Complementar\nn\no\n157, de 29 de dezembro de \r\n2016\n:\n“Art. 1\no\nA Lei \r\nComplementar n\no\n116, de 31 de julho de 2003, passa a vigorar \r\ncom as seguintes alteraçőes:\n‘Art. 3\no\n.................................................................\n.....................................................................................\nXXIII - do domicílio do tomador dos \r\nserviços dos subitens 4.22, 4.23 e 5.09;\nXXIV - do domicílio do tomador do \r\nserviço no caso dos serviços prestados pelas administradoras de cartăo de \r\ncrédito ou débito e demais descritos no subitem 15.01;\nXXV - do domicílio do tomador dos \r\nserviços dos subitens 10.04 e 15.09.\n......................................................................................\n§ 4\no\nNa hipótese de \r\ndescumprimento do disposto no\ncaput\nou no § 1\no\n, \r\nambos do art. 8\no\n-A desta Lei Complementar, o imposto será \r\ndevido no local do estabelecimento do tomador ou intermediário do serviço ou, na \r\nfalta de estabelecimento, onde ele estiver domiciliado. (NR)’\n‘Art. 6\no\n..................................................................\n......................................................................................\n§ 2\no\n.......................................................................\n......................................................................................\nIII - a pessoa jurídica tomadora ou \r\nintermediária de serviços, ainda que imune ou isenta, na hipótese prevista no § \r\n4\no\ndo art. 3\no\ndesta Lei Complementar.\n§ 3\no\nNo caso dos \r\nserviços descritos nos subitens 10.04 e 15.09, o valor do imposto é devido ao \r\nMunicípio declarado como domicílio tributário da pessoa jurídica ou física \r\ntomadora do serviço, conforme informaçăo prestada por este.\n§ 4\no\nNo caso dos \r\nserviços prestados pelas administradoras de cartăo de crédito e débito, \r\ndescritos no subitem 15.01, os terminais eletrônicos ou as máquinas das \r\noperaçőes efetivadas deverăo ser registrados no local do domicílio do tomador do \r\nserviço. (NR)’\n........................................................................................\nBrasília, 31 de maio de 2017; 196\no\nda Independęncia e 129\no\nda República.\nMICHEL TEMER\nEste texto năo substitui o publicado no DOU \r\nde 1ş.6.2017\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 14958,
+        "char_end": 17269
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "d1d4c34535609d56870d61149af11b9d2b39a23f0e225abe33c66053bde7f635"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "iss"
+    },
+    {
+      "type": "subject",
+      "target": "aliquota minima"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp157.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp157.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:30:47.494228+00:00",
+      "sha256": "d1d4c34535609d56870d61149af11b9d2b39a23f0e225abe33c66053bde7f635",
+      "file": "documentos_oficiais/03_tributos/br-lc-157-2016.html",
+      "extracted_text": "textos_extraidos/03_tributos/br-lc-157-2016.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 13,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema": "okfforge.juceb.legal_source.v1",
+  "id": "BR.RESOLUÇÃO_CGSN.140.2018",
+  "title": "Regulamento geral do Simples Nacional",
+  "summary": "Referência normativa no domínio 02_simples; sem transcrição integral no arquivo de descoberta. Texto obtido posteriormente por sync_official.py.",
+  "elements": [
+    {
+      "id": "norma:BR.RESOLUÇÃO_CGSN.140.2018",
+      "type": "ato_normativo",
+      "name": "Regulamento geral do Simples Nacional",
+      "attributes": {
+        "kind": "Resolução CGSN",
+        "year": 2018,
+        "jurisdiction": "BR",
+        "subjects": [
+          "simples nacional",
+          "pgdas",
+          "defis",
+          "opcao",
+          "anexos",
+          "fator r",
+          "escrituracao"
+        ]
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "fonte_primaria_obrigatoria",
+      "value": true
+    },
+    {
+      "name": "proibido_inferir_vigencia_sem_conferencia",
+      "value": true
+    }
+  ],
+  "relations": [],
+  "functions": [],
+  "sources": [
+    {
+      "id": "BR.RESOLUÇÃO_CGSN.140.2018",
+      "tipo": "Resolução CGSN",
+      "numero": "140",
+      "ano": 2018,
+      "jurisdicao": "BR",
+      "orgao": "Receita Federal (SIJUT)",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta/normas.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=original",
+      "verificacao_url": "consulta_dirigida",
+      "consultado_em": "2026-10-19",
+      "texto_integral_capturado": false,
+      "hash_sha256": null
+    }
+  ],
+  "open_questions": [
+    "Conferir vigência material e efeitos diferidos; captura de texto integral ainda pendente."
+  ],
+  "provenance": {
+    "status": "indice_documental",
+    "retrieved_at": null,
+    "notes": "Ato multivigente: coletar versao compilada por instrumento do SIJUT; nao assumir original como vigente.",
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "completeness": {
+    "classification": "referencia_catalogada",
+    "full_text": false,
+    "article_count": 0,
+    "do_not_use_as_consolidated_law": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review",
+    "contract": {
+      "no_unverified_normative_conclusions": true
+    }
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_source_reference",
+  "topic_key": "references/br-resolu-o-cgsn-140-2018",
+  "catalog_status": "url-consulted",
+  "official_source": {
+    "id": "BR.RESOLUÇÃO_CGSN.140.2018",
+    "authority": "Receita Federal (SIJUT)",
+    "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=92278&visao=compilado",
+    "evidence_url": "",
+    "source_verified": true,
+    "notes": "Página oficial multivigente em aplicação dinâmica; captura HTML automatizada insuficiente."
+  }
+}

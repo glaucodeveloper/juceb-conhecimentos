@@ -1,0 +1,69 @@
+{
+  "schema": "okfforge.juceb.compiled_source.v1",
+  "id": "BR.PORTAL_RECEITA.simples.2026",
+  "title": "Orientações tributárias do Simples Nacional",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "9061b7602688709b9281fafcf0635403421d2c260361167d293059d57221bf6f"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "simples nacional"
+    },
+    {
+      "type": "subject",
+      "target": "pgdas"
+    },
+    {
+      "type": "subject",
+      "target": "manuais"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/",
+      "original_url": "https://www8.receita.fazenda.gov.br/SimplesNacional/",
+      "authority": "Receita Federal",
+      "retrieved_at": "2026-10-20T07:30:43.322955+00:00",
+      "sha256": "9061b7602688709b9281fafcf0635403421d2c260361167d293059d57221bf6f",
+      "file": "documentos_oficiais/02_simples/br-portal-receita-simples-2026.html",
+      "extracted_text": "textos_extraidos/02_simples/br-portal-receita-simples-2026.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 0,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "automatically_extracted_legal_source",
+  "topic_key": "compiled/br-portal-receita-simples-2026",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "review_status": "automatic_extraction_not_legally_consolidated"
+}

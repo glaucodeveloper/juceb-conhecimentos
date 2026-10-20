@@ -1,0 +1,842 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.LEI.9249.1995",
+  "title": "IRPJ e CSLL - disposições gerais",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.LEI.9249.1995#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1ş As bases de cálculo e o valor dos tributos e contribuiçőes federais serăo\r\nexpressos em Reais.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 529,
+        "char_end": 632
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#2",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2ş O imposto de renda das pessoas jurídicas e a contribuiçăo social sobre o lucro\r\nlíquido serăo determinados segundo as normas da legislaçăo vigente, com as\r\nalteraçőes desta Lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 632,
+        "char_end": 818
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#3",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3ş A alíquota do imposto de renda das pessoas jurídicas é de quinze por cento.\n§ 1ş A parcela do lucro real, presumido ou arbitrado, apurado anualmente, que exceder a\r\nR$ 240.000,00 (duzentos e quarenta mil reais), sujeita-se ŕ incidęncia de adicional de\r\nimposto de renda ŕ alíquota de dez por cento.\n§ 1ş A parcela do lucro real, presumido ou arbitrado, que\r\nexceder o valor resultante da multiplicaçăo de R$ 20.000,00 (vinte mil reais) pelo\r\nnúmero de meses do respectivo período de apuraçăo, sujeita-se ŕ incidęncia de\r\nadicional de imposto de renda ŕ alíquota de dez por cento.\n(Redaçăo\r\ndada pela Lei 9.430, de 1996)\n§ 2ş O limite previsto no parágrafo anterior\r\nserá proporcional ao número de meses transcorridos, quando o período de apuraçăo for\r\ninferior a doze meses.\n§ 2ş O disposto no parágrafo anterior aplica-se, inclusive, nos\r\ncasos de incorporaçăo, fusăo ou cisăo e de extinçăo da pessoa jurídica pelo\r\nencerramento da liquidaçăo.\n(Redaçăo dada pela Lei 9.430, de\r\n1996)\n§ 3ş O disposto neste artigo aplica-se, inclusive, ŕ pessoa jurídica que explore\r\natividade rural de que trata a\nLei nş 8.023, de 12 de abril de 1990\n.\n§ 4ş O valor do adicional será recolhido integralmente, năo sendo\r\npermitidas quaisquer deduçőes.\n(Vide Lei nş 12.761, de \r\n2012)\n§ 5ş O disposto no § \r\n 1ş năo se aplica ŕs sociedades resseguradoras locais de que trata o\ninciso I do caput do art. 4ş da Lei Complementar nş 126, de \r\n 15 de janeiro de 2007\n.\n(Incluído \r\npela Lei nş 15.525, de 2026)\n(Produçăo de efeitos)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 818,
+        "char_end": 2335
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#4",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4ş Fica revogada a correçăo monetária das demonstraçőes\r\nfinanceiras de que tratam a\nLei nş 7.799, de 10 de julho de 1989\n,\r\ne o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2335,
+        "char_end": 2469
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#5",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "art. 1ş da Lei nş 8.200, de 28 de junho de 1991\n.\nParágrafo único. Fica vedada a utilizaçăo de qualquer sistema de correçăo monetária\r\nde demonstraçőes financeiras, inclusive para fins societários.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2469,
+        "char_end": 2667
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#6",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5ş O inciso IV do art. 187 da\nLei nş 6.404, de 15 de dezembro de 1976\n, passa a vigorar com a seguinte redaçăo:\n\"Art.187.................................................................\nIV -\no lucro ou prejuízo operacional, as\r\n receitas e despesas năo operacionais;\n............................................................................\"",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2667,
+        "char_end": 3017
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#7",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6ş Os valores controlados na parte \"B\" do Livro de Apuraçăo do Lucro\r\nReal, existentes em 31 de dezembro de 1995, somente serăo corrigidos monetariamente até\r\nessa data, observada a legislaçăo entăo vigente, ainda que venham a ser adicionados,\r\nexcluídos ou compensados em períodos-base posteriores.\nParágrafo único. A correçăo dos valores referidos neste artigo será efetuada\r\ntomando-se por base o valor da UFIR vigente em 1ş de janeiro de 1996.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3017,
+        "char_end": 3470
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#8",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7ş O saldo do lucro inflacionário acumulado, remanescente em 31 de dezembro de\r\n1995, corrigido monetariamente até essa data, será realizado de acordo com as regras da\r\nlegislaçăo entăo vigente.\n§ 1ş Para fins do cálculo do lucro inflacionário realizado nos períodos-base\r\nposteriores, os valores dos ativos que estavam sujeitos a correçăo monetária,\r\nexistentes em 31 de dezembro de 1995, deverăo ser registrados destacadamente na\r\ncontabilidade da pessoa jurídica.\n§ 2ş O disposto no parágrafo único do art. 6ş aplica-se ŕ correçăo dos valores de\r\nque trata este artigo.\n§ 3ş Ŕ opçăo da pessoa jurídica, o lucro inflacionário acumulado existente em 31 de\r\ndezembro de 1995, corrigido monetariamente até essa data, com base no parágrafo único\r\ndo art. 6ş, poderá ser considerado realizado integralmente e tributado ŕ alíquota de\r\ndez por cento.\n§ 4ş A opçăo de que trata o parágrafo anterior, que deverá ser feita até 31 de\r\ndezembro de 1996, será irretratável e manifestada através do pagamento do imposto em\r\ncota única, podendo alcançar também o saldo do lucro inflacionário a realizar relativo\r\nŕ opçăo prevista no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3470,
+        "char_end": 4595
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#9",
+      "type": "artigo_candidato",
+      "name": "Art. 31",
+      "content": "art. 31 da Lei nş 8.541, de 23 de\r\ndezembro de 1992.\n§ 5ş O imposto de que trata o § 3ş será considerado como de tributaçăo exclusiva.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4595,
+        "char_end": 4730
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#10",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8ş Permanecem em vigor as normas aplicáveis ŕs contrapartidas de variaçőes\r\nmonetárias dos direitos de crédito e das obrigaçőes do contribuinte em funçăo da\r\ntaxa de câmbio ou de índices ou coeficientes aplicáveis por disposiçăo legal ou\r\ncontratual.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4730,
+        "char_end": 4986
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#11",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9ş A pessoa jurídica poderá deduzir, para efeitos da apuraçăo do\r\nlucro real, os juros pagos ou creditados individualizadamente a titular, sócios ou\r\nacionistas, a título de remuneraçăo do capital próprio, calculados sobre as contas do\r\npatrimônio líquido e limitados ŕ variaçăo, pro rata dia, da Taxa de Juros de Longo\r\nPrazo - TJLP.\n'",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4986,
+        "char_end": 5328
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#12",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9ş  A pessoa jurídica \r\n poderá deduzir, para efeitos da apuraçăo do lucro real, os juros pagos ou \r\n creditados individualizadamente a titular, sócios ou acionistas, a título de \r\n remuneraçăo do capital próprio, calculados sobre as contas do patrimônio \r\n líquido e limitados,\npro rata die\n, ŕ Taxa de Juros de Longo Prazo - \r\n TJLP ou a cinco por cento ao ano, o que for menor.\n(Redaçăo dada pela Medida \r\nProvisória nş 694, de\r\n2015)\n(Produçăo de efeitos)\n(Vigęncia \r\nencerrada)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5328,
+        "char_end": 5816
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#13",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9ş A pessoa jurídica poderá deduzir, para efeitos da apuraçăo do\r\nlucro real, os juros pagos ou creditados individualizadamente a titular, sócios ou\r\nacionistas, a título de remuneraçăo do capital próprio, calculados sobre as contas do\r\npatrimônio líquido e limitados ŕ variaçăo, pro rata dia, da Taxa de Juros de Longo\r\nPrazo - TJLP.\n§ 1ş O efetivo pagamento ou crédito dos juros fica condicionado ŕ existęncia de\r\nlucros, computados antes da deduçăo dos juros, ou de lucros acumulados, em montante\r\nigual ou superior ao valor de duas vezes os juros a serem pagos ou creditados.\n§ 1ş O efetivo pagamento ou crédito dos juros fica condicionado\r\nŕ existęncia de lucros, computados antes da deduçăo dos juros, ou de lucros acumulados\r\ne reservas de lucros, em montante igual ou superior ao valor de duas vezes os juros a\r\nserem pagos ou creditados.\n(Redaçăo dada pela Lei nş 9.430, de\r\n1996)\n(Produçăo de efeito)\n§ 2ş Os juros ficarăo sujeitos ŕ incidęncia do imposto de renda na fonte ŕ alíquota\r\nde quinze por cento, na data do pagamento ou crédito ao beneficiário.\n§ 2\nş\nOs juros ficarăo sujeitos \r\n ŕ incidęncia do imposto de renda na fonte ŕ alíquota de dezoito por cento, \r\n na data do pagamento ou crédito ao beneficiário.\n(Redaçăo dada pela Medida \r\nProvisória nş 694, de\r\n2015)\n(Produçăo de efeitos)\n(Vigęncia \r\nencerrada)\n§ 2ş Os juros ficarăo sujeitos ŕ incidęncia do imposto de renda na fonte ŕ alíquota\r\nde quinze por cento, na data do pagamento ou crédito ao beneficiário.\n§ 2ş Os \r\n juros ficarăo sujeitos ŕ incidęncia do imposto sobre a renda na \r\n fonte ŕ alíquota de 17,5% (dezessete inteiros e cinco décimos por \r\n cento) na data do pagamento ou do crédito ao beneficiário.\n(Redaçăo \r\ndada \r\npela Lei Complementar nş 224, de 2025)\nProduçăo de efeitos\n§ 3ş O imposto retido na fonte será considerado:\nI - antecipaçăo do devido na declaraçăo de rendimentos, no caso de beneficiário\r\npessoa jurídica tributada com base no lucro real;\nII - tributaçăo definitiva, no caso de beneficiário pessoa física ou pessoa jurídica\r\nnăo tributada com base no lucro real, inclusive isenta, ressalvado o disposto no § 4ş;\n§ 4ş No caso de beneficiário pessoa jurídica tributada com\r\nbase no lucro presumido ou arbitrado, os juros de que trata este artigo serăo adicionados\r\nŕ base de cálculo de incidęncia do adicional previsto no § 1ş do art. 3ş\n.\n(Revogado pela Lei nş 9.430, de 1996)\n§ 5ş No caso de beneficiário sociedade civil de prestaçăo de serviços, submetida ao\r\nregime de tributaçăo de que trata o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5816,
+        "char_end": 8327
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#14",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "art. 1ş\r\ndo Decreto-Lei nş 2.397, de 21 de dezembro de 1987\n, o imposto poderá ser compensado\r\ncom o retido por ocasiăo do pagamento dos rendimentos aos sócios beneficiários.\n§ 6ş No caso de beneficiário pessoa jurídica tributada com base no lucro real, o\r\nimposto de que trata o § 2ş poderá ainda ser compensado com o retido por ocasiăo do\r\npagamento ou crédito de juros, a título de remuneraçăo de capital próprio, a seu\r\ntitular, sócios ou acionistas.\n§ 7ş O valor dos juros pagos ou creditados pela pessoa jurídica, a\r\ntítulo de remuneraçăo do capital próprio, poderá ser imputado ao valor dos dividendos\r\nde que trata o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8327,
+        "char_end": 8952
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#15",
+      "type": "artigo_candidato",
+      "name": "Art. 202",
+      "content": "art. 202 da Lei nş 6.404, de 15 de\r\ndezembro de 1976\n, sem prejuízo do disposto no § 2ş.\n§ 8ş Para os fins de cálculo da remuneraçăo prevista neste artigo, năo será\r\nconsiderado o valor de reserva de reavaliaçăo de bens ou direitos da pessoa jurídica,\r\nexceto se esta for adicionada na determinaçăo da base de cálculo do imposto de renda e\r\nda contribuiçăo social sobre o lucro líquido.\n§ 8\no\nPara fins de cálculo \r\n da remuneraçăo prevista neste artigo, serăo consideradas exclusivamente \r\n as seguintes contas do patrimônio líquido:\n(Redaçăo dada pela \r\n Lei nş 12.973, de 2014)\n(Vigęncia)\nI - capital social;\n(Incluído pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\nI - \r\n capital social integralizado;\n(Redaçăo dada \r\n pela Lei nş 14.789, de \r\n2023\n)\nProduçăo de efeitos\nII - reservas de capital;\n(Incluído pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\nII - \r\n reservas de capital de que tratam o\n§ 2ş do art. 13\ne o\nparágrafo único do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8952,
+        "char_end": 9887
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#16",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "art. 14 da Lei nş 6.404, de 15 de dezembro de 1976;\n(Redaçăo \r\n dada pela Lei nş 14.789, de \r\n2023\n)\nProduçăo de efeitos\nIII - reservas de lucros;\n(Incluído pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\nIII - \r\n reservas de lucros, exceto a reserva de incentivo fiscal de que \r\n trata o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9887,
+        "char_end": 10172
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#17",
+      "type": "artigo_candidato",
+      "name": "Art. 195-A",
+      "content": "art. 195-A da Lei nş \r\n 6.404, de 15 de dezembro de 1976;\n(Redaçăo dada \r\n pela Lei nş 14.789, de \r\n2023\n)\nProduçăo de efeitos\nIV - açőes em tesouraria; e\n(Incluído pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\nV - prejuízos acumulados.\n(Incluído pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\nV - \r\n lucros ou prejuízos acumulados.\n(Redaçăo \r\n dada pela Lei nş 14.789, de \r\n2023\n)\nProduçăo de efeitos\n§ 8ş-A. \r\n Para fins de apuraçăo da base de cálculo dos juros sobre capital \r\n próprio:\n(Incluído pela Lei nş 14.789, de \r\n2023\n)\nProduçăo de efeitos\nI - năo \r\n serăo consideradas as variaçőes positivas no patrimônio líquido \r\n decorrentes de atos societários entre partes dependentes que năo \r\n envolvam efetivo ingresso de ativos ŕ pessoa jurídica, com aumento \r\n patrimonial em caráter definitivo, independentemente do disposto nas \r\n normas contábeis; e\n(Incluído pela Lei nş 14.789, de \r\n2023\n)\nProduçăo de efeitos\nII - \r\n deverăo ser considerados, salvo os casos em que for aplicado o \r\n disposto no inciso I deste parágrafo:\n(Incluído pela Lei nş 14.789, de \r\n2023\n)\nProduçăo de efeitos\na) \r\n eventuais lançamentos contábeis redutores efetuados em rubricas de \r\n patrimônio líquido que năo estiverem previstas no § 8ş deste artigo, \r\n quando decorrerem dos mesmos fatos que deram origem a lançamentos \r\n contábeis positivos efetuados em rubricas previstas no referido \r\n parágrafo; e\n(Incluída pela Lei nş 14.789, de \r\n2023\n)\nProduçăo de efeitos\nb) \r\n valores negativos registrados em conta de ajuste de avaliaçăo \r\n patrimonial decorrentes de atos societários entre partes \r\n dependentes.\n(Incluída pela Lei nş 14.789, de \r\n2023\n)\nProduçăo de efeitos\n§ 8ş-B. \r\n Para fins do disposto no § 8ş-A deste artigo, aplicar-se-á a \r\n definiçăo de parte dependente prevista nos\nincisos \r\n I\ne\nII do\ncaput\ndo art. 25 da Lei nş 12.973, de 13 de maio de \r\n 2014.\n(Incluído pela Lei nş 14.789, de \r\n2023\n)\nProduçăo de efeitos\n§ 8ş-C. O \r\n disposto nos §§ 8ş, 8ş-A e 8ş-B deste artigo aplicar-se-á ao cômputo \r\n da base de cálculo dos juros sobre capital próprio a partir de 1ş de \r\n janeiro de 2024.\n(Incluído pela Lei nş 14.789, de \r\n2023\n)\nProduçăo de efeitos\n§ 9ş Ŕ opçăo da pessoa jurídica, o valor dos juros a que\r\nse refere este artigo poderá ser incorporado ao capital social ou mantido em conta de\r\nreserva destinada a aumento de capital, garantida sua dedutibilidade, desde que o imposto\r\nde que trata o § 2ş, assumido pela pessoa jurídica, seja recolhido no prazo de 15 dias\r\ncontados a partir da data do encerramento do período-base em que tenha ocorrido a\r\ndeduçăo dos referidos juros, năo sendo reajustável a base de cálculo nem dedutível o\r\nimposto pago para fins de apuraçăo do lucro real e da base de cálculo da contribuiçăo\r\nsocial sobre o lucro líquido.\n(Revogado pela Lei\r\nnş 9.430, de 1996)\n(Produçăo de efeito)\n§ 10. O valor\r\nda remuneraçăo deduzida, inclusive na forma do parágrafo anterior, deverá ser\r\nadicionado ao lucro líquido para determinaçăo da base de cálculo da contribuiçăo\r\nsocial sobre o lucro líquido.\n(Revogado pela Lei\r\nnş 9.430, de 1996)\n§ 11.  O disposto neste artigo aplica-se ŕ \r\n Contribuiçăo Social sobre o Lucro Líquido.\n(Incluído pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\n§ 12.  Para fins de cálculo da remuneraçăo \r\n prevista neste artigo, a conta capital social, prevista no inciso I do § \r\n 8\no\ndeste artigo, inclui todas as espécies de açőes \r\n previstas no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 10172,
+        "char_end": 13571
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#18",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "art. 15 da Lei n\no\n6.404, de 15 de \r\n dezembro de 1976\n, ainda que classificadas em contas de passivo na \r\n escrituraçăo comercial.\n(Incluído pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 13571,
+        "char_end": 13756
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#19",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. Os lucros ou dividendos calculados com base nos resultados\r\napurados a partir do męs de janeiro de 1996, pagos ou creditados pelas pessoas jurídicas\r\ntributadas com base no lucro real, presumido ou arbitrado, năo ficarăo sujeitos ŕ\r\nincidęncia do imposto de renda na fonte, nem integrarăo a base de cálculo do imposto de\r\nrenda do beneficiário, pessoa física ou jurídica, domiciliado no País ou no exterior.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 13756,
+        "char_end": 14173
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#20",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. Os \r\nlucros ou dividendos calculados com base nos resultados apurados a partir do męs \r\nde janeiro de 1996, pagos ou creditados pelas pessoas jurídicas tributadas com \r\nbase no lucro real, presumido ou arbitrado, năo ficarăo sujeitos ŕ incidęncia do \r\nimposto de renda na fonte, nem integrarăo a base de cálculo do imposto de renda \r\ndo beneficiário, pessoa física ou jurídica, domiciliado no País, observado o \r\ndisposto nos\narts. 6ş-A\ne\n16-A da Lei nş 9.250, de 26 de dezembro de 1995\n.\n(Redaçăo dada pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\nParágrafo único. No caso de quotas ou açőes distribuídas em decorręncia de aumento\r\nde capital por incorporaçăo de lucros apurados a partir do męs de janeiro de 1996, ou\r\nde reservas constituídas com esses lucros, o custo de aquisiçăo será igual ŕ parcela\r\ndo lucro ou reserva capitalizado, que corresponder ao sócio ou acionista.\n§ 1\no\nNo caso de quotas ou \r\n açőes distribuídas em decorręncia de aumento de capital por incorporaçăo \r\n de lucros apurados, a partir do męs de janeiro de 1996, ou de reservas \r\n constituídas com esses lucros, o custo de aquisiçăo será igual ŕ parcela \r\n do lucro ou reserva capitalizado, que corresponder ao sócio ou \r\n acionista.\n(Incluído pela Lei nş \r\n12.973, de 2014)\n(Vigęncia)\n§ 2\no\nA năo incidęncia \r\n prevista no\ncaput\ninclui os lucros ou dividendos pagos ou \r\n creditados a beneficiários de todas as espécies de açőes previstas no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 14173,
+        "char_end": 15607
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#21",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "art. 15 da Lei nş 6.404, de 15 de dezembro de 1976\n, \r\n ainda que a açăo seja classificada em conta de passivo ou que a \r\n remuneraçăo seja classificada como despesa financeira na escrituraçăo \r\n comercial.\n(Incluído pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\n§ 3\no\nNăo săo dedutíveis na \r\n apuraçăo do lucro real e da base de cálculo da CSLL os lucros ou \r\n dividendos pagos ou creditados a beneficiários de qualquer espécie de \r\n açăo prevista no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15607,
+        "char_end": 16056
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#22",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "art. 15 da Lei nş 6.404, de 15 de \r\n dezembro de 1976\n, ainda que classificados como despesa financeira na \r\n escrituraçăo comercial.\n(Incluído pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\n§ 4ş Os lucros ou dividendos pagos, \r\n creditados, entregues, empregados ou remetidos ao exterior ficarăo \r\n sujeitos ŕ incidęncia do imposto de renda na fonte ŕ alíquota de 10% \r\n (dez por cento).\n(Incluído pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\n§ 5ş Năo ficarăo sujeitos ŕ incidęncia \r\n do imposto de renda na fonte, nos termos do\ncaput\ndeste \r\n artigo, os lucros e dividendos:\n(Incluído pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\nI - relativos a resultados apurados \r\n até o ano-calendário de 2025:\n(Incluído pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\na) cuja distribuiçăo tenha sido \r\n aprovada até 31 de dezembro de 2025; e\n(Incluída pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\nb) sejam exigíveis nos termos da \r\n legislaçăo civil ou empresarial, desde que seu pagamento, crédito, \r\n emprego ou entrega ocorra nos termos originalmente previstos no ato \r\n de aprovaçăo;\n(Incluída pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\nII - pagos, creditados, empregados, \r\n entregues ou remetidos a:\n(Incluído pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\na) governos estrangeiros, desde que \r\n haja reciprocidade de tratamento em relaçăo aos rendimentos \r\n auferidos em seus países pelo governo brasileiro;\n(Incluída pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\nb) fundos soberanos, conforme \r\n definidos no\n§ 5ş do art. 3ş da Lei nş 11.312, de 27 de junho de \r\n 2006\n; e\n(Incluída pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\nc) entidades no exterior que tenham \r\n como principal atividade a administraçăo de benefícios \r\n previdenciários, tais como aposentadorias e pensőes, conforme \r\n definidas em regulamento.\n(Incluída pela Lei nş 15.270, de 2025)\nProduçăo de efeitos",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 16056,
+        "char_end": 17954
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#23",
+      "type": "artigo_candidato",
+      "name": "Art. 10-A",
+      "content": "Art. 10-A. Caso se verifique que a \r\n soma da alíquota efetiva de tributaçăo dos lucros da pessoa jurídica \r\n domiciliada no Brasil distribuidora dos lucros e dividendos com a \r\n alíquota prevista no § 4ş do art. 10 desta Lei ultrapassa a soma das \r\n alíquotas nominais do imposto sobre a renda das pessoas jurídicas e \r\n da Contribuiçăo Social sobre o Lucro Líquido (CSLL), será concedido, \r\n por opçăo do beneficiário residente ou domiciliado no exterior, \r\n crédito calculado sobre o montante de lucros e dividendos pagos, \r\n creditados, entregues, empregados ou remetidos que tenham sido \r\n tributados com fundamento no § 4ş do art. 10 desta Lei.\n(Incluído pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\n§ 1ş O valor do crédito de que trata \r\n este artigo corresponderá ao resultado obtido por meio da \r\n multiplicaçăo do montante dos lucros e dividendos pagos, creditados, \r\n entregues, empregados ou remetidos pela pessoa jurídica pela \r\n diferença entre:\n(Incluído pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\nI - a alíquota efetiva de tributaçăo \r\n dos lucros da pessoa jurídica, apurada nos termos do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17954,
+        "char_end": 19070
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#24",
+      "type": "artigo_candidato",
+      "name": "Art. 16-B",
+      "content": "art. 16-B da \r\n Lei nş 9.250, de 26 de dezembro de 1995\n, acrescida de 10 (dez) \r\n pontos percentuais; e\n(Incluído pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\nII - o percentual previsto nos\nincisos \r\n I\n,\nII\ne\nIII do § 1ş do art. 16-B da Lei nş 9.250, de 26 de dezembro \r\n de 1995.\n(Incluído pela Lei nş 15.270, de 2025)\nProduçăo de efeitos\n§ 2ş O Poder Executivo regulamentará o \r\n modo pelo qual será formalizada a opçăo referida no\ncaput\ndeste artigo, bem como a maneira pela qual o residente ou o \r\n domiciliado no exterior pleiteará, em até 360 (trezentos e sessenta) \r\n dias, contados de cada exercício, o crédito de que trata este \r\n artigo.\n(Incluído pela Lei nş 15.270, de 2025)\nProduçăo de efeitos",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 19070,
+        "char_end": 19783
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#25",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11. Os rendimentos produzidos por aplicaçăo financeira de renda\r\nfixa, auferidos por qualquer beneficiário, inclusive pessoa jurídica isenta, sujeitam-se\r\nŕ incidęncia do imposto de renda ŕ alíquota de quinze por cento.\n(Vide Medida \r\n Provisória nş 1.303, de 2025)\nProduçăo de efeitos\nVigęncia encerrada\n§ 1ş Os rendimentos de que trata este artigo serăo apropriados pro rata tempore até 31\r\nde dezembro de 1995 e tributados, no que se refere ŕ parcela relativa a 1995, nos termos\r\nda legislaçăo entăo vigente.\n§ 2ş No caso de beneficiário pessoa jurídica tributada com\r\nbase no lucro presumido ou arbitrado, os rendimentos de que trata este artigo, bem como os\r\nrendimentos de renda variável e os ganhos líquidos obtidos em bolsas, serăo adicionados\r\nŕ base de cálculo de incidęncia do adicional previsto no § 1ş do art. 3ş\n.\n(Revogado pela Lei nş 9.430, de 1996)\n§ 3ş O disposto neste artigo năo elide as regras previstas nos\narts. 76\ne\n77 da Lei nş 8.981, de\r\n20 de janeiro de 1995\n.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 19783,
+        "char_end": 20776
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#26",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12. O inciso III do art. 77 da\nLei nş\r\n8.981, de 20 de janeiro de 1995\n, passa a vigorar com a seguinte redaçăo:\n(Vide Medida \r\n Provisória nş 1.303, de 2025)\nProduçăo de efeitos\nVigęncia encerrada\n\"Art.77.................................................................\nIII -\nnas operaçőes de renda variável\r\n realizadas em bolsa, no mercado de balcăo organizado, autorizado pelo órgăo competente,\r\n ou através de fundos de investimento, para a carteira própria das entidades citadas no\r\n inciso I;\"F",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 20776,
+        "char_end": 21283
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#27",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13. Para efeito de apuraçăo do lucro real e da base de cálculo da contribuiçăo\r\nsocial sobre o lucro líquido, săo vedadas as seguintes deduçőes, independentemente do\r\ndisposto no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21283,
+        "char_end": 21467
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#28",
+      "type": "artigo_candidato",
+      "name": "Art. 47",
+      "content": "art. 47 da Lei nş 4.506, de 30 de novembro de 1964\n:\nI - de qualquer provisăo, exceto as constituídas para o pagamento de\r\nférias de empregados e de décimo-terceiro salário, a de que trata o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21467,
+        "char_end": 21658
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#29",
+      "type": "artigo_candidato",
+      "name": "Art. 43",
+      "content": "art. 43 da Lei nş 8.981, de 20 de janeiro de 1995\n, com as\r\nalteraçőes da\nLei nş 9.065, de 20 de junho de 1995\n, e as\r\nprovisőes técnicas das companhias de seguro e de capitalizaçăo, bem como das entidades\r\nde previdęncia privada, cuja constituiçăo é exigida pela legislaçăo especial a elas\r\naplicável;\n(Vide Lei 9.430, de 1996)\nII - das contraprestaçőes de arrendamento mercantil e do aluguel de bens móveis ou\r\nimóveis, exceto quando relacionados intrinsecamente com a produçăo ou comercializaçăo\r\ndos bens e serviços;\nIII - de despesas de depreciaçăo, amortizaçăo, manutençăo, reparo, conservaçăo,\r\nimpostos, taxas, seguros e quaisquer outros gastos com bens móveis ou imóveis, exceto se\r\nintrinsecamente relacionados com a produçăo ou comercializaçăo dos bens e serviços;\nIV - das despesas com alimentaçăo de sócios, acionistas e administradores;\nV - das contribuiçőes năo compulsórias, exceto as destinadas a\r\ncustear seguros e planos de saúde, e benefícios complementares assemelhados aos da\r\nprevidęncia social, instituídos em favor dos empregados e dirigentes da pessoa\r\njurídica;\nVI - das doaçőes, exceto as referidas no § 2ş;\nVII - das despesas com brindes.\nVIII - de despesas de depreciaçăo, \r\n amortizaçăo e exaustăo geradas por bem objeto de arrendamento mercantil \r\n pela arrendatária, na hipótese em que esta reconheça contabilmente o \r\n encargo.\n(Incluído pela Lei nş \r\n12.973, de 2014)\n(Vigęncia)\n§ 1ş Admitir-se-ăo como dedutíveis as despesas com alimentaçăo fornecida pela pessoa\r\njurídica, indistintamente, a todos os seus empregados.\n§ 2ş Poderăo ser deduzidas as seguintes doaçőes:\nI - as de que trata a\nLei nş 8.313, de 23 de dezembro de 1991\n;\nII - as efetuadas ŕs instituiçőes de ensino e pesquisa cuja criaçăo tenha sido\r\nautorizada por lei federal e que preencham os requisitos dos\nincisos I e II do art. 213 da\r\nConstituiçăo Federal\n, até o limite de um e meio por cento do lucro operacional,\r\nantes de computada a sua deduçăo e a de que trata o inciso seguinte;\nIII - as doaçőes, até o limite de dois por cento do lucro\r\noperacional da pessoa jurídica, antes de computada a sua deduçăo, efetuadas a entidades\r\ncivis, legalmente constituídas no Brasil, sem fins lucrativos, que prestem serviços\r\ngratuitos em benefício de empregados da pessoa jurídica doadora, e respectivos\r\ndependentes, ou em benefício da comunidade onde atuem, observadas as seguintes regras:\na) as doaçőes, quando em dinheiro, serăo feitas mediante crédito em conta corrente\r\nbancária diretamente em nome da entidade beneficiária;\nb) a pessoa jurídica doadora manterá em arquivo, ŕ disposiçăo\r\nda fiscalizaçăo, declaraçăo, segundo modelo aprovado pela Secretaria da Receita\r\nFederal, fornecida pela entidade beneficiária, em que esta se compromete a aplicar\r\nintegralmente os recursos recebidos na realizaçăo de seus objetivos sociais, com\r\nidentificaçăo da pessoa física responsável pelo seu cumprimento, e a năo distribuir\r\nlucros, bonificaçőes ou vantagens a dirigentes, mantenedores ou associados, sob nenhuma\r\nforma ou pretexto;\nc) a entidade civil beneficiária deverá ser reconhecida de\r\nutilidade pública por ato formal de órgăo competente da Uniăo.\nc) a entidade beneficiária deverá ser organizaçăo \r\n da sociedade civil, conforme a\nLei n\no\n13.019, de 31 de \r\n julho de 2014\n, desde que cumpridos os requisitos previstos nos\narts. 3\no\ne 16 da Lei n\no\n9.790, de 23 de março de 1999\n, \r\n independentemente de certificaçăo.\n(Redaçăo dada pela Lei \r\nnş 13.204, de 2015)\n§ 3ş \r\nPara fins de interpretaçăo, na forma do\ninciso I do\ncaput\ndo art. 106 da Lei nş 5.172, de 25 de outubro de 1966\n(Código \r\nTributário Nacional), e de apuraçăo do lucro tributável da pessoa jurídica que \r\natua na multiplicaçăo de sementes, os limites de dedutibilidade previstos no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21658,
+        "char_end": 25418
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#30",
+      "type": "artigo_candidato",
+      "name": "Art. 74",
+      "content": "art. 74 da Lei nş 3.470, de 28 de novembro de 1958\n, \r\ne no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 25418,
+        "char_end": 25478
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#31",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "art. 12 da Lei nş 4.131, de 3 de setembro de 1962\n, \r\nnăo se aplicam aos casos de pagamentos ou de repasses efetuados a pessoa \r\njurídica năo ligada, nos termos do\n§ 3ş do art. 60 do Decreto-Lei nş 1.598, de 26 de dezembro de 1977\n, \r\ndomiciliada no País, pela exploraçăo ou pelo uso de tecnologia de transgenia ou \r\nde licença de cultivares por terceiros, dispensada a exigęncia de registro dos \r\ncontratos referentes a essas operaçőes nos órgăos de fiscalizaçăo ou nas \r\nagęncias reguladoras para esse fim específico.\n(Incluído pela Lei nş \r\n14.689, de 2023)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 25478,
+        "char_end": 26039
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#32",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14. Para efeito de apuraçăo do lucro real, fica vedada a\r\nexclusăo, do lucro líquido do exercício, do valor do lucro da exploraçăo de\r\natividades monopolizadas de que tratam o\n§ 2ş do art. 2ş da Lei nş 6.264, de 18 de\r\nnovembro de 1975\n, e o\n§ 2ş do art. 19 do\r\nDecreto-Lei nş 1.598, de 26 de dezembro de 1977\n, com a redaçăo dada pelo Decreto-Lei nş 1.730, de 17 de outubro de 1979.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26039,
+        "char_end": 26428
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#33",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15. A base de cálculo do imposto, em cada męs, será determinada\r\nmediante a aplicaçăo do percentual de oito por cento sobre a receita bruta auferida\r\nmensalmente, observado o disposto nos\narts. 30 a 35 da Lei nş\r\n8.981, de 20 de janeiro de 1995\n.\n(Vide Lei nş 11.119, de 205)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26428,
+        "char_end": 26709
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#34",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15.  A base de cálculo do imposto, em \r\n cada męs, será determinada mediante a aplicaçăo do percentual de 8% \r\n (oito por cento) sobre a receita bruta auferida mensalmente, observado o \r\n disposto no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26709,
+        "char_end": 26914
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#35",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "art. 12 do Decreto-Lei n\no\n1.598, de 26 de \r\n dezembro de 1977\n, deduzida das devoluçőes, vendas canceladas e dos \r\n descontos incondicionais concedidos, sem prejuízo do disposto nos\narts. \r\n 30, 32, 34 e 35 da Lei no 8.981, de 20 de janeiro de \r\n 1995\n.\n(Redaçăo dada pela Lei nş \r\n12.973, de 2014)\n(Vigęncia)\n§ 1ş Nas seguintes atividades, o percentual de que trata este artigo será de:\nI - um inteiro e seis décimos por cento, para a atividade de revenda, para consumo, de\r\ncombustível derivado de petróleo, álcool etílico carburante e gás natural;\nII - dezesseis por cento:\na) para a atividade de prestaçăo de serviços de transporte, exceto o de carga, para o\r\nqual se aplicará o percentual previsto no caput deste artigo;\nb) para as pessoas jurídicas a que se refere o\ninciso III do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26914,
+        "char_end": 27703
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#36",
+      "type": "artigo_candidato",
+      "name": "Art. 36",
+      "content": "art. 36 da Lei nş 8.981, de 20 de janeiro de 1995\n, observado o disposto nos\n§§ 1ş\ne\n2ş do art. 29 da\r\nreferida Lei;\nIII - trinta e dois por cento, para as atividades de:\n(Vide Medida Provisória nş 232, de 2004)\na) prestaçăo de serviços em geral, exceto a de serviços hospitalares;\na) prestaçăo de \r\n serviços em geral, exceto a de  serviços  hospitalares e de auxílio \r\n diagnóstico e terapia, patologia clínica, imagenologia, anatomia \r\n patológica e citopatologia, medicina nuclear e análises e patologias \r\n clínicas, desde que a prestadora destes serviços seja organizada sob a \r\n forma de sociedade empresária e atenda ŕs normas da Agęncia Nacional de \r\n Vigilância Sanitária – Anvisa;\n(Redaçăo dada pela Lei nş 11.727, de 2008)\nb) intermediaçăo de negócios;\nc) administraçăo, locaçăo ou cessăo de bens imóveis, móveis e direitos de qualquer\r\nnatureza;\nd) prestaçăo cumulativa e contínua de serviços de assessoria\r\ncreditícia, mercadológica, gestăo de crédito, seleçăo de riscos, administraçăo de\r\ncontas a pagar e a receber, compra de direitos creditórios resultantes de vendas\r\nmercantis a prazo ou de prestaçăo de serviços (factoring).\ne)\nprestaçăo de serviços de construçăo, \r\n recuperaçăo, reforma, ampliaçăo ou melhoramento de infraestrutura \r\n vinculados a contrato de concessăo de serviço público.\n(Incluído pela Lei nş \r\n12.973, de 2014)\n(Vigęncia)\nIV - 38,4% (trinta e oito inteiros e quatro décimos por cento), para as \r\n atividades de operaçăo de empréstimo, de financiamento e de desconto de \r\n títulos de crédito realizadas por Empresa Simples de Crédito (ESC).\n(Incluído pela Lei Complementar nş 167, de 2019)\n§ 2ş No caso de atividades diversificadas será aplicado o percentual correspondente a\r\ncada atividade.\n§ 3ş As receitas provenientes de atividade incentivada năo comporăo a base de cálculo\r\ndo imposto, na proporçăo do benefício a que a pessoa jurídica, submetida ao regime de\r\ntributaçăo com base no lucro real, fizer jus.\n§ 4ş O percentual de que trata este artigo também será aplicado\r\nsobre a receita financeira da pessoa jurídica que explore atividades imobiliárias\r\nrelativas a loteamento de terrenos, incorporaçăo imobiliária, construçăo de prédios\r\ndestinados ŕ venda, bem como a venda de imóveis construídos ou adquiridos para a\r\nrevenda, quando decorrente da comercializaçăo de imóveis e for apurada por meio de\r\níndices ou coeficientes previstos em contrato.\n(Incluído pela Lei nş 11.196, de 2005)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 27703,
+        "char_end": 30142
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#37",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16. O lucro arbitrado das pessoas jurídicas será determinado\r\nmediante a aplicaçăo, sobre a receita bruta, quando conhecida, dos percentuais fixados\r\nno art. 15, acrescidos de vinte por cento.\nParágrafo único. No caso das instituiçőes a que se refere o\ninciso III do art. 36 da Lei nş 8.981, de 20 de janeiro de 1995\n,\r\no percentual para determinaçăo do lucro arbitrado será de quarenta e cinco por cento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30142,
+        "char_end": 30553
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#38",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17. Para os fins de apuraçăo do ganho de capital, as pessoas\r\nfísicas e as pessoas jurídicas năo tributadas com base no lucro real observarăo os\r\nseguintes procedimentos:\nI - tratando-se de bens e direitos cuja aquisiçăo tenha ocorrido até\r\no final de 1995, o custo de aquisiçăo poderá ser corrigido monetariamente até 31 de\r\ndezembro desse ano, tomando-se por base o valor da UFIR vigente em 1ş de janeiro de 1996,\r\nnăo se lhe aplicando qualquer correçăo monetária a partir dessa data;\nII - tratando-se de bens e direitos adquiridos após 31 de dezembro de 1995, ao custo de\r\naquisiçăo dos bens e direitos năo será atribuída qualquer correçăo monetária.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30553,
+        "char_end": 31212
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#39",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "Art. 18. O ganho de capital auferido por residente ou domiciliado no\r\nexterior será apurado e tributado de acordo com as regras aplicáveis aos residentes no\r\nPaís.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31212,
+        "char_end": 31376
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#40",
+      "type": "artigo_candidato",
+      "name": "Art. 19",
+      "content": "Art. 19. A partir de 1ş de janeiro de 1996, a alíquota da\r\ncontribuiçăo social sobre o lucro líquido, de que trata a\nLei nş\r\n7.689, de 15 de dezembro de 1988\n, passa a ser de oito por cento.\nParágrafo único. O disposto neste artigo năo se aplica ŕs instituiçőes a que se\r\nrefere o\n§ 1ş do art. 22 da Lei nş 8.212, de 24 de\r\njulho de 1991\n, para as quais a alíquota da contribuiçăo social será de dezoito por\r\ncento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31376,
+        "char_end": 31792
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#41",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20. A partir de 1ş de janeiro de 1996, a base de cálculo\r\nda contribuiçăo social sobre o lucro líquido, devida pelas pessoas jurídicas que\r\nefetuarem o pagamento mensal a que se referem os\narts. \r\n27\ne\n29 a 34 da Lei nş 8.981, de \r\n20 de janeiro de 1995\n, e pelas pessoas jurídicas desobrigadas de \r\nescrituraçăo contábil, corresponderá a doze por cento da receita bruta, na forma \r\ndefinida na legislaçăo vigente, auferida em cada męs do ano-calendário.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31792,
+        "char_end": 32252
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#42",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20. A base de cálculo da contribuiçăo social sobre o lucro\r\nlíquido, devida pelas pessoas jurídicas que efetuarem o pagamento mensal a que se\r\nreferem os\narts. 27\ne\n29 a 34 da\r\nLei n\no\n8.981, de 20 de janeiro de 1995\n, e pelas pessoas jurídicas\r\ndesobrigadas de escrituraçăo contábil, corresponderá a doze por cento da receita\r\nbruta, na forma definida na legislaçăo vigente, auferida em cada męs do\r\nano-calendário, exceto para as pessoas jurídicas que exerçam as atividades a que se\r\nrefere o inciso III do § 1\no\ndo art. 15, cujo percentual corresponderá\r\na trinta e dois por cento.\n(Redaçăo dada Lei nş\r\n10.684, de 2003)\n(Vide\r\nMedida Provisória nş 232, de 2004)\n(Vide Lei nş 11.119, de 205)\nBase de cálculo da CSLL - \r\n Estimativa e Presumido",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 32252,
+        "char_end": 33004
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#43",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20.  A base de cálculo da Contribuiçăo \r\n Social sobre o Lucro Líquido devida pelas pessoas jurídicas que \r\n efetuarem o pagamento mensal ou trimestral a que se referem os\narts. 2ş, \r\n 25\ne\n27 da Lei n\no\n9.430, de 27 de dezembro de 1996\n, \r\n corresponderá a 12% (doze por cento) sobre a receita bruta definida pelo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 33004,
+        "char_end": 33324
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#44",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "art. 12 do Decreto-Lei n\no\n1.598, de 26 de dezembro de \r\n 1977\n, auferida no período, deduzida das devoluçőes, vendas canceladas e \r\n dos descontos incondicionais concedidos, exceto para as pessoas \r\n jurídicas que exerçam as atividades a que se refere o inciso III do § 1\no\ndo art. 15, cujo percentual corresponderá a 32% (trinta e dois por \r\n cento).\n(Redaçăo dada pela \r\n Lei nş 12.973, de 2014)\n(Vigęncia)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 33324,
+        "char_end": 33734
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#45",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20. A base de cálculo da Contribuiçăo Social sobre o Lucro Líquido (CSLL) \r\n devida pelas pessoas jurídicas que efetuarem o pagamento mensal ou \r\n trimestral a que se referem os\narts. 2ş\n,\n25\ne\n27 da Lei nş 9.430, de 27 de \r\n dezembro de 1996\n, corresponderá aos seguintes percentuais aplicados sobre a \r\n receita bruta definida pelo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 33734,
+        "char_end": 34073
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#46",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "art. 12 do Decreto-Lei nş 1.598, de 26 de \r\n dezembro de 1977\n, auferida no período, deduzida das devoluçőes, das vendas \r\n canceladas e dos descontos incondicionais concedidos:\n(Redaçăo dada pela Lei Complementar nş 167, \r\n de 2019)\nI - 32% (trinta e dois por cento) para a receita bruta decorrente das \r\n atividades previstas no inciso III do § 1ş do art. 15 desta Lei;\n(Incluído pela Lei Complementar nş 167, de \r\n 2019)\nII - 38,4% (trinta e oito inteiros e quatro décimos por cento) para a \r\n receita bruta decorrente das atividades previstas no inciso IV do § 1ş do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 34073,
+        "char_end": 34646
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#47",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "art. 15 desta Lei; e\n(Incluído pela Lei Complementar nş 167, de \r\n 2019)\nIII - 12% (doze por cento) para as demais receitas brutas.\n(Incluído pela Lei Complementar nş 167, de \r\n 2019)\nParágrafo único. A pessoa jurídica submetida ao lucro\r\npresumido poderá, excepcionalmente, em relaçăo ao quarto trimestre-calendário de 2003,\r\noptar pelo lucro real, sendo definitiva a tributaçăo pelo lucro presumido relativa aos\r\ntręs primeiros trimestres.\n(Incluído pela Lei nş\r\n10.684, de 2003)\n§ 1\no\nA pessoa jurídica submetida ao lucro presumido poderá, excepcionalmente, em relaçăo ao\r\n4\no\n(quarto) trimestre-calendário de 2003, optar pelo lucro real, sendo\r\ndefinitiva a tributaçăo pelo lucro presumido relativa aos 3 (tręs) primeiros\r\ntrimestres.\n(Renumerado com\r\nalteraçăo pela Lei nş 11.196, de 2005)\n§ 2\no\nO\r\npercentual de que trata o caput deste artigo também será aplicado sobre a receita\r\nfinanceira de que trata o § 4\no\ndo art. 15 desta Lei.\n(Incluído pela Lei nş 11.196, de 2005)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 34646,
+        "char_end": 35627
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#48",
+      "type": "artigo_candidato",
+      "name": "Art. 21",
+      "content": "Art. 21. A pessoa jurídica que tiver parte ou todo o seu patrimônio\r\nabsorvido em virtude de incorporaçăo, fusăo ou cisăo deverá levantar balanço\r\nespecífico para esse fim, no qual os bens e direitos serăo avaliados pelo valor\r\ncontábil ou de mercado.\nIncorporaçăo, Fusăo e Cisăo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 35627,
+        "char_end": 35907
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#49",
+      "type": "artigo_candidato",
+      "name": "Art. 21",
+      "content": "Art. 21.  A pessoa jurídica que tiver parte \r\n ou todo o seu patrimônio absorvido em virtude de incorporaçăo, fusăo ou \r\n cisăo deverá levantar balanço específico para esse fim, observada a \r\n legislaçăo comercial.\n(Redaçăo dada pela \r\n Lei nş 12.973, de 2014)\n(Vigęncia)\n§ 1ş O balanço a que se refere este artigo deverá ser levantado até trinta dias antes\r\ndo evento.\n§ 2ş No caso de pessoa jurídica tributada com base no lucro presumido ou arbitrado, que\r\noptar pela avaliaçăo a valor de mercado, a diferença entre este e o custo de\r\naquisiçăo, diminuído dos encargos de depreciaçăo, amortizaçăo ou exaustăo, será\r\nconsiderada ganho de capital, que deverá ser adicionado ŕ base de cálculo do imposto de\r\nrenda devido e da contribuiçăo social sobre o lucro líquido.\n(Revogado pela Lei nş 12.973, de \r\n 2014\n(Vigęncia)\n§ 3ş Para efeito do disposto no parágrafo anterior, os encargos serăo considerados\r\nincorridos, ainda que năo tenham sido registrados contabilmente.\n(Revogado pela Lei nş 12.973, de \r\n 2014)\n(Vigęncia)\n§ 4ş A pessoa jurídica incorporada, fusionada ou cindida deverá apresentar\r\ndeclaraçăo de rendimentos correspondente ao período transcorrido durante o\r\nano-calendário, em seu próprio nome, até o último dia útil do męs subseqüente ao do\r\nevento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 35907,
+        "char_end": 37174
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#50",
+      "type": "artigo_candidato",
+      "name": "Art. 22",
+      "content": "Art. 22. Os bens e direitos do ativo da pessoa jurídica, que forem entregues ao titular\r\nou a sócio ou acionista. a título de devoluçăo de sua participaçăo no capital\r\nsocial, poderăo ser avaliados pelo valor contábil ou de mercado.\n§ 1ş No caso de a devoluçăo realizar-se pelo valor de mercado, a diferença entre este\r\ne o valor contábil dos bens ou direitos entregues será considerada ganho de capital, que\r\nserá computado nos resultados da pessoa jurídica tributada com base no lucro real ou na\r\nbase de cálculo do imposto de renda e da contribuiçăo social sobre o lucro líquido\r\ndevidos pela pessoa jurídica tributada com base no lucro presumido ou arbitrado.\n§ 2ş Para o titular, sócio ou acionista, pessoa jurídica, os bens ou direitos\r\nrecebidos em devoluçăo de sua participaçăo no capital serăo registrados pelo valor\r\ncontábil da participaçăo ou pelo valor de mercado, conforme avaliado pela pessoa\r\njurídica que esteja devolvendo capital.\n§ 3ş Para o titular, sócio ou acionista, pessoa física, os bens ou direitos recebidos\r\nem devoluçăo de sua participaçăo no capital serăo informados, na declaraçăo de bens\r\ncorrespondente ŕ declaraçăo de rendimentos do respectivo ano-base, pelo valor contábil\r\nou de mercado, conforme avaliado pela pessoa jurídica.\n§ 4ş A diferença entre o valor de mercado e o valor constante da declaraçăo de bens,\r\nno caso de pessoa física, ou o valor contábil, no caso de pessoa jurídica, năo será\r\ncomputada, pelo titular, sócio ou acionista, na base de cálculo do imposto de renda ou\r\nda contribuiçăo social sobre o lucro líquido.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 37174,
+        "char_end": 38743
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#51",
+      "type": "artigo_candidato",
+      "name": "Art. 23",
+      "content": "Art. 23. As pessoas físicas poderăo transferir a pessoas jurídicas, a título de\r\nintegralizaçăo de capital, bens e direitos pelo valor constante da respectiva\r\ndeclaraçăo de bens ou pelo valor de mercado.\n§ 1ş Se a entrega for feita pelo valor constante da declaraçăo de bens, as pessoas\r\nfísicas deverăo lançar nesta declaraçăo as açőes ou quotas subscritas pelo mesmo\r\nvalor dos bens ou direitos transferidos, năo se aplicando o disposto no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 38743,
+        "char_end": 39186
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#52",
+      "type": "artigo_candidato",
+      "name": "Art. 60",
+      "content": "art. 60 do Decreto-Lei nş 1.598, de 26 de\r\ndezembro de 1977\n, e no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 39186,
+        "char_end": 39253
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#53",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "art. 20, II, do\r\nDecreto-Lei nş 2.065, de 26 de outubro de 1983\n.\n§ 2ş Se a transferęncia năo se fizer pelo valor constante da declaraçăo de bens, a\r\ndiferença a maior será tributável como ganho de capital.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 39253,
+        "char_end": 39460
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#54",
+      "type": "artigo_candidato",
+      "name": "Art. 24",
+      "content": "Art. 24. Verificada a omissăo de receita, a autoridade tributária determinará o valor\r\ndo imposto e do adicional a serem lançados de acordo com o regime de tributaçăo a que\r\nestiver submetida a pessoa jurídica no período-base a que corresponder a omissăo.\n§ 1ş No caso de pessoa jurídica com atividades diversificadas tributadas com base no\r\nlucro presumido ou arbitrado, năo sendo possível a identificaçăo da atividade a que se\r\nrefere a receita omitida, esta será adicionada ŕquela a que corresponder o percentual\r\nmais elevado.\n§ 2ş O valor da receita omitida será considerado na determinaçăo da base de cálculo\r\npara o lançamento da contribuiçăo social sobre o lucro líquido, da contribuiçăo para\r\na seguridade social - COFINS e da contribuiçăo para os Programas de Integraçăo Social\r\ne de Formaçăo do Patrimônio do Servidor Público - PIS/PASEP.\n§ 2\no\nO valor da \r\n receita omitida será considerado na determinaçăo da base de cálculo para \r\n o lançamento da Contribuiçăo Social sobre o Lucro Líquido - CSLL, da \r\n Contribuiçăo para o Financiamento da Seguridade Social - COFINS, da \r\n Contribuiçăo para o PIS/PASEP e das contribuiçőes previdenciárias \r\n incidentes sobre a receita.\n(Redaçăo dada pela Medida \r\nProvisória nş 449, de 2008)\n§ 2\no\nO valor \r\nda receita omitida será considerado na determinaçăo da base de cálculo para o \r\nlançamento da Contribuiçăo Social sobre o Lucro Líquido – CSLL, da Contribuiçăo \r\npara o Financiamento da Seguridade Social – COFINS, da Contribuiçăo para o \r\nPIS/Pasep e das contribuiçőes previdenciárias incidentes sobre a receita.\n(Redaçăo dada pela Lei nş \r\n11.941, de 2009)\n§ 3ş Na hipótese deste artigo, a multa de lançamento de\r\nofício será de trezentos por cento sobre a totalidade ou diferença dos tributos e\r\ncontribuiçőes devidos, observado o disposto no\n§ 1ş do art. 4ş da Lei nş 8.218, de\r\n29 de agosto de 1991\n.\n(Revogado pela Lei nş 9.430,\r\nde 1996)\n§ 4\no\nPara a \r\n determinaçăo do valor da Contribuiçăo para o Financiamento da Seguridade \r\n Social - COFINS e da Contribuiçăo para o PIS/PASEP, na hipótese de a \r\n pessoa jurídica auferir receitas sujeitas a alíquotas diversas, năo \r\n sendo possível identificar a alíquota aplicável ŕ receita omitida, \r\n aplicar-se-á a esta a alíquota mais elevada entre aquelas previstas para \r\n as receitas auferidas pela pessoa jurídica.\n(Incluído \r\n pela Medida Provisória nş 449, de 2008)\n§ 5\no\nNa hipótese \r\n de a pessoa jurídica sujeitar-se ao recolhimento da COFINS e da \r\n Contribuiçăo para o PIS/PASEP, calculadas por unidade de medida de \r\n produto, năo sendo possível identificar qual o produto vendido ou a \r\n quantidade que se refere ŕ receita omitida, a contribuiçăo será \r\n determinada com base na alíquota\nad valorem\nmais elevada entre \r\n aquelas previstas para as receitas auferidas pela pessoa jurídica.\n(Incluído \r\n pela Medida Provisória nş 449, de 2008)\n§ 6\no\nNa \r\n determinaçăo da alíquota mais elevada, considerar-se-ăo:\n(Incluído pela Medida \r\n Provisória nş 449, de 2008)\nI - para efeito do disposto nos \r\n §§ 4\no\ne 5\no\n, as alíquotas aplicáveis \r\n ŕs receitas auferidas pela pessoa jurídica no ano-calendário em que \r\n ocorreu a omissăo;\n(Incluído pela Medida Provisória nş 449, de 2008)\nII - para efeito do disposto no § 5\no\n, \r\n as alíquotas\nad valorem\ncorrespondentes ŕquelas fixadas por \r\n unidade de medida do produto, bem como as alíquotas aplicáveis ŕs demais \r\n receitas auferidas pela pessoa jurídica.\n(Incluído pela Medida \r\n Provisória nş 449, de 2008)\n§ 4\no\nPara a \r\ndeterminaçăo do valor da Contribuiçăo para o Financiamento da Seguridade Social \r\n– COFINS e da Contribuiçăo para o PIS/Pasep, na hipótese de a pessoa jurídica \r\nauferir receitas sujeitas a alíquotas diversas, năo sendo possível identificar a \r\nalíquota aplicável ŕ receita omitida, aplicar-se-á a esta a alíquota mais \r\nelevada entre aquelas previstas para as receitas auferidas pela pessoa jurídica.\n(Incluído \r\n pela Lei nş 11.941, de 2009)\n§ 5\no\nNa \r\nhipótese de a pessoa jurídica sujeitar-se ao recolhimento da Cofins e da \r\nContribuiçăo para o PIS/Pasep, calculadas por unidade de medida de produto, năo \r\nsendo possível identificar qual o produto vendido ou a quantidade que se refere \r\nŕ receita omitida, a contribuiçăo será determinada com base na alíquota\nad valorem\nmais elevada entre aquelas previstas para as receitas auferidas pela pessoa \r\njurídica.\n(Incluído \r\n pela Lei nş 11.941, de 2009)\n§ 6\no\nNa \r\ndeterminaçăo da alíquota mais elevada, considerar-se-ăo:\n(Incluído \r\n pela Lei nş 11.941, de 2009)\nI – para efeito do disposto nos \r\n§§ 4\no\ne 5\no\ndeste artigo, as alíquotas \r\naplicáveis ŕs receitas auferidas pela pessoa jurídica no ano-calendário em que \r\nocorreu a omissăo;\n(Incluído \r\n pela Lei nş 11.941, de 2009)\nII – para efeito do disposto no \r\n§ 5\no\ndeste artigo, as alíquotas\nad valorem\ncorrespondentes ŕquelas fixadas por unidade de medida do produto, bem como as \r\nalíquotas aplicáveis ŕs demais receitas auferidas pela pessoa jurídica.\n(Incluído pela Lei \r\n nş 11.941, de 2009)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 39460,
+        "char_end": 44459
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#55",
+      "type": "artigo_candidato",
+      "name": "Art. 25",
+      "content": "Art. 25. Os lucros, rendimentos e ganhos de capital auferidos no exterior\r\nserăo computados na determinaçăo do lucro real das pessoas jurídicas correspondente ao\r\nbalanço levantado em 31 de dezembro de cada ano.\n(Vide\r\nMedida Provisória nş 2158-35, de 2001)\n§ 1ş Os rendimentos e ganhos de capital auferidos no exterior serăo computados na\r\napuraçăo do lucro líquido das pessoas jurídicas com observância do seguinte:\nI - os rendimentos e ganhos de capital serăo convertidos em Reais de acordo com a taxa de\r\ncâmbio, para venda, na data em que forem contabilizados no Brasil;\nII - caso a moeda em que for auferido o rendimento ou ganho de capital năo tiver\r\ncotaçăo no Brasil, será ela convertida em dólares norte-americanos e, em seguida, em\r\nReais;\n§ 2ş Os lucros auferidos por filiais, sucursais ou controladas, no exterior, de pessoas\r\njurídicas domiciliadas no Brasil serăo computados na apuraçăo do lucro real com\r\nobservância do seguinte:\nI - as filiais, sucursais e controladas deverăo demonstrar a apuraçăo dos lucros que\r\nauferirem em cada um de seus exercícios fiscais, segundo as normas da legislaçăo\r\nbrasileira;\nII - os lucros a que se refere o inciso I serăo adicionados ao lucro líquido da matriz\r\nou controladora, na proporçăo de sua participaçăo acionária, para apuraçăo do lucro\r\nreal;\nIII - se a pessoa jurídica se extinguir no curso do exercício, deverá adicionar ao seu\r\nlucro líquido os lucros auferidos por filiais, sucursais ou controladas, até a data do\r\nbalanço de encerramento;\nIV - as demonstraçőes financeiras das filiais, sucursais e controladas que embasarem as\r\ndemonstraçőes em Reais deverăo ser mantidas no Brasil pelo prazo previsto no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 44459,
+        "char_end": 46131
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#56",
+      "type": "artigo_candidato",
+      "name": "Art. 173",
+      "content": "art. 173 da Lei nş 5.172, de 25 de outubro de 1966\n.\n§ 3ş Os lucros auferidos no exterior por coligadas de pessoas jurídicas domiciliadas no\r\nBrasil serăo computados na apuraçăo do lucro real com observância do seguinte:\nI - os lucros realizados pela coligada serăo adicionados ao lucro líquido, na\r\nproporçăo da participaçăo da pessoa jurídica no capital da coligada;\nII - os lucros a serem computados na apuraçăo do lucro real săo os apurados no balanço\r\nou balanços levantados pela coligada no curso do período-base da pessoa jurídica;\nIII - se a pessoa jurídica se extinguir no curso do exercício, deverá adicionar ao seu\r\nlucro líquido, para apuraçăo do lucro real, sua participaçăo nos lucros da coligada\r\napurados por esta em balanços levantados até a data do balanço de encerramento da\r\npessoa jurídica;\nIV - a pessoa jurídica deverá conservar em seu poder cópia das demonstraçőes\r\nfinanceiras da coligada.\n§ 4ş Os lucros a que se referem os §§ 2ş e 3ş serăo convertidos em Reais pela taxa\r\nde câmbio, para venda, do dia das demonstraçőes financeiras em que tenham sido apurados\r\nos lucros da filial, sucursal, controlada ou coligada.\n§ 5ş Os prejuízos e perdas decorrentes das operaçőes referidas neste artigo năo\r\nserăo compensados com lucros auferidos no Brasil.\n§ 6ş Os resultados da avaliaçăo dos investimentos no exterior, pelo método da\r\nequivalęncia patrimonial, continuarăo a ter o tratamento previsto na legislaçăo\r\nvigente, sem prejuízo do disposto nos §§ 1ş, 2ş e 3ş.\n§ 7ş  Os lucros serăo apurados segundo \r\n as normas da legislaçăo comercial do país de domicílio.\n(Incluído pela \r\nMedida Provisória nş 627, de 2013)\n§ 7\no\nOs \r\nlucros serăo apurados segundo as normas da legislaçăo comercial do país de \r\ndomicílio.\n(Redaçăo dada pela Lei nş \r\n12.973, de 2014)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 46131,
+        "char_end": 47913
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#57",
+      "type": "artigo_candidato",
+      "name": "Art. 26",
+      "content": "Art. 26. A pessoa jurídica poderá compensar o imposto de renda\r\nincidente, no exterior, sobre os lucros, rendimentos e ganhos de capital computados no\r\nlucro real, até o limite do imposto de renda incidente, no Brasil, sobre os referidos\r\nlucros, rendimentos ou ganhos de capital.\n§ 1ş Para efeito de determinaçăo do limite fixado no caput, o imposto incidente, no\r\nBrasil, correspondente aos lucros, rendimentos ou ganhos de capital auferidos no exterior,\r\nserá proporcional ao total do imposto e adicional devidos pela pessoa jurídica no\r\nBrasil.\n§ 2ş Para fins de compensaçăo, o documento relativo ao imposto de\r\nrenda incidente no exterior deverá ser reconhecido pelo respectivo órgăo arrecadador e\r\npelo Consulado da Embaixada Brasileira no país em que for devido o imposto.\n§ 3ş O imposto de renda a ser compensado será convertido em quantidade de Reais, de\r\nacordo com a taxa de câmbio, para venda, na data em que o imposto foi pago; caso a moeda\r\nem que o imposto foi pago năo tiver cotaçăo no Brasil, será ela convertida em dólares\r\nnorte-americanos e, em seguida, em Reais.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 47913,
+        "char_end": 48997
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#58",
+      "type": "artigo_candidato",
+      "name": "Art. 27",
+      "content": "Art. 27.As pessoas jurídicas que tiverem lucros, rendimentos ou ganhos\r\nde capital oriundos do exterior estăo obrigadas ao regime de tributaçăo com base no\r\nlucro real.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 48997,
+        "char_end": 49166
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#59",
+      "type": "artigo_candidato",
+      "name": "Art. 28",
+      "content": "Art. 28. A alíquota do imposto de renda de que tratam o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 49166,
+        "char_end": 49222
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#60",
+      "type": "artigo_candidato",
+      "name": "Art. 77",
+      "content": "art. 77 da Lei nş 3.470, de 28 de novembro de 1958\ne o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 49222,
+        "char_end": 49277
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#61",
+      "type": "artigo_candidato",
+      "name": "Art. 100",
+      "content": "art. 100 do Decreto-Lei nş 5.844, de 23 de\r\nsetembro de 1943\n, com as modificaçőes posteriormente introduzidas, passa, a partir\r\nde 1ş de janeiro de 1996, a ser de quinze por cento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 49277,
+        "char_end": 49459
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#62",
+      "type": "artigo_candidato",
+      "name": "Art. 29",
+      "content": "Art. 29. Os limites a que se referem os\narts.\r\n36, I,\ne\n44, da Lei nş 8.981, de 20 de janeiro de 1995\n,\r\ncom a redaçăo dada pela\nLei nş 9.065, de 20 de junho de 1995\n, passam a ser de R$\r\n12.000.000,00 (doze milhőes de reais).",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 49459,
+        "char_end": 49686
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#63",
+      "type": "artigo_candidato",
+      "name": "Art. 30",
+      "content": "Art. 30. Os valores constantes da legislaçăo tributária, expressos em\r\nquantidade de UFIR, serăo convertidos em Reais pelo valor da UFIR vigente em 1ş de\r\njaneiro de 1996.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 49686,
+        "char_end": 49858
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#64",
+      "type": "artigo_candidato",
+      "name": "Art. 31",
+      "content": "Art. 31. Os prejuízos năo operacionais, apurados pelas pessoas jurídicas, a partir de\r\n1ş de janeiro de 1996, somente poderăo ser compensados com lucros de mesma natureza,\r\nobservado o limite previsto no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 49858,
+        "char_end": 50062
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#65",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "art. 15 da Lei nş 9.065, de 20\r\nde junho de 1995.\n(Revogado pela Lei nş 12.973, de \r\n 2014)\n(Vigęncia)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 50062,
+        "char_end": 50165
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#66",
+      "type": "artigo_candidato",
+      "name": "Art. 34",
+      "content": "Art. 34. Extingue-se a punibilidade dos crimes definidos na\nLei nş 8.137, de 27 de dezembro de 1990\n, e na\nLei nş 4.729, de 14 de julho de 1965\n, quando o agente\r\npromover o pagamento do tributo ou contribuiçăo social, inclusive acessórios, antes do\r\nrecebimento da denúncia.\n§ 1ş\n(VETADO)\n§ 2ş\n(VETADO)\n§ 3ş A \r\n extinçăo de punibilidade de que trata o\ncaput\ndeste artigo \r\n năo se aplica ao agente declarado devedor contumaz em decisăo \r\n administrativa definitiva e inscrito no Cadastro Informativo dos \r\n créditos năo quitados do setor público federal (Cadin), previsto na\nLei nş 10.522, de 19 de julho de 2002.\n(Incluído pela Lei Complementar nş \r\n 225, de 2026)\n§ 4ş O \r\n fato de o agente deixar de ser considerado devedor contumaz năo \r\n afasta o disposto no § 3ş deste artigo em relaçăo aos atos \r\n praticados no período em que era assim considerado.\n(Incluído pela Lei Complementar nş \r\n 225, de 2026)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 50201,
+        "char_end": 51112
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#67",
+      "type": "artigo_candidato",
+      "name": "Art. 35",
+      "content": "Art. 35. Esta Lei entra em vigor na data de sua publicaçăo, produzindo efeitos a partir\r\nde 1ş de janeiro de 1996.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 51112,
+        "char_end": 51227
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#68",
+      "type": "artigo_candidato",
+      "name": "Art. 36",
+      "content": "Art. 36. Ficam revogadas as disposiçőes em contrário, especialmente:\nI - o\nDecreto-Lei nş 1.215, de 4 de maio de 1972\n, observado o disposto no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 51227,
+        "char_end": 51371
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#69",
+      "type": "artigo_candidato",
+      "name": "Art. 178",
+      "content": "art. 178 da Lei nş 5.172, de 25 de outubro de 1966\n;\nII - os\narts. 2ş a 19 da Lei nş 7.799, de 10 de julho de 1989\n;\nIII - os\narts. 9ş\ne\n12 da Lei nş\r\n8.023, de 12 de abril de 1990\n;\nIV - os\narts. 43 e 44 da Lei nş 8.541, de 23 de dezembro de\r\n1992;\nV - o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 51371,
+        "char_end": 51627
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#70",
+      "type": "artigo_candidato",
+      "name": "Art. 28",
+      "content": "art. 28\ne os\nincisos VI\n,\nXI e XII\ne o\nparágrafo único do art. 36\n, os arts.\n46\n,\n48\ne\n54\n, e o\ninciso II do art. 60,\r\ntodos da Lei nş 8.981, de 20 de janeiro de 1995\n, alterada pela Lei nş 9.065, de 20 de\r\njunho de 1995, e o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 51627,
+        "char_end": 51853
+      }
+    },
+    {
+      "id": "BR.LEI.9249.1995#71",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "art. 10 da Lei nş 9.065, de 20 de junho de\r\n1995.\nBrasília, 26 de dezembro de 1995; 174ş da Independęncia e 107ş da República.\nFERNANDO HENRIQUE CARDOSO\nPedro Pullen Parente\nEste texto năo substitui o publicado no\r\nDOU de 27.12.1995\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 51853,
+        "char_end": 52088
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "97ff2ed87647cdca346c23718ee6ca8bd82bf4a24356518ef7fa17203adfa873"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "irpj"
+    },
+    {
+      "type": "subject",
+      "target": "csll"
+    },
+    {
+      "type": "subject",
+      "target": "lucro presumido"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:30:57.131687+00:00",
+      "sha256": "97ff2ed87647cdca346c23718ee6ca8bd82bf4a24356518ef7fa17203adfa873",
+      "file": "documentos_oficiais/03_tributos/br-lei-9249-1995.html",
+      "extracted_text": "textos_extraidos/03_tributos/br-lei-9249-1995.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 71,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

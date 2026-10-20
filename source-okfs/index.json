@@ -1,0 +1,11 @@
+{
+  "schema": "cognoscere.juceb.source-index.v1",
+  "generated_at": "2026-10-20T07:47:25Z",
+  "archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip",
+  "archive_sha256": "6e1afbd5ee467980c94311d351aa3c97a36e3e98ec644cbde7e4f69a4ddca903",
+  "references": 86,
+  "concept_maps": 42,
+  "compiled_source_candidates": 78,
+  "official_source_status": "incomplete",
+  "legal_review": "pending"
+}

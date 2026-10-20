@@ -1,0 +1,135 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.MUNICIPAL_ISS",
+  "title": "ISS municipal baiano",
+  "summary": "Estrutura de coleta de códigos tributários e alíquotas de cada município baiano.",
+  "elements": [
+    {
+      "id": "municipal-iss.1",
+      "type": "fator_de_decisao",
+      "name": "municipio"
+    },
+    {
+      "id": "municipal-iss.2",
+      "type": "fator_de_decisao",
+      "name": "atividade"
+    },
+    {
+      "id": "municipal-iss.3",
+      "type": "fator_de_decisao",
+      "name": "servico"
+    },
+    {
+      "id": "municipal-iss.4",
+      "type": "fator_de_decisao",
+      "name": "estabelecimento"
+    },
+    {
+      "id": "municipal-iss.5",
+      "type": "fator_de_decisao",
+      "name": "competencia"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "bahia"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": true
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.116.2003"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.123.2006"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "municipio",
+        "atividade",
+        "servico",
+        "estabelecimento",
+        "competencia"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.LC.116.2003",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LC.123.2006",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Norma municipal NÃO incluída sem escolha de município",
+    " consultar diário oficial municipal"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "bahia/municipal-iss",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.LC.116.2003",
+      "title": "ISS e lista de serviços",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lc-116-2003.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LC.123.2006",
+      "title": "Estatuto ME/EPP e Simples Nacional",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+      "evidence_url": "",
+      "reference_okf": "references/02_simples/lc-123-2006.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

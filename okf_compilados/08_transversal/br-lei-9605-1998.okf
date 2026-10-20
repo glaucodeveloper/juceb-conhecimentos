@@ -1,0 +1,1047 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.LEI.9605.1998",
+  "title": "Crimes Ambientais",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.LEI.9605.1998#1",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2ş Quem, de qualquer forma, concorre para a prática dos crimes previstos nesta Lei,\r\n incide nas penas a estes cominadas, na medida da sua culpabilidade, bem como o diretor, o\r\n administrador, o membro de conselho e de órgăo técnico, o auditor, o gerente, o\r\n preposto ou mandatário de pessoa jurídica, que, sabendo da conduta criminosa de outrem,\r\n deixar de impedir a sua prática, quando podia agir para evitá-la.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 430,
+        "char_end": 851
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#2",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3ş As pessoas jurídicas serăo responsabilizadas administrativa, civil e penalmente\r\n conforme o disposto nesta Lei, nos casos em que a infraçăo seja cometida por decisăo de\r\n seu representante legal ou contratual, ou de seu órgăo colegiado, no interesse ou\r\n benefício da sua entidade.\nParágrafo único. A responsabilidade das pessoas jurídicas năo exclui a das pessoas\r\n físicas, autoras, co-autoras ou partícipes do mesmo fato.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 851,
+        "char_end": 1285
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#3",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4ş Poderá ser desconsiderada a pessoa jurídica sempre que sua personalidade for\r\n obstáculo ao ressarcimento de prejuízos causados ŕ qualidade do meio ambiente.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1285,
+        "char_end": 1451
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#4",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5ş\n(VETADO)\nCAPÍTULO II\nDA APLICAÇĂO DA PENA",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1451,
+        "char_end": 1501
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#5",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6ş Para imposiçăo e gradaçăo da penalidade, a autoridade competente observará:\nI\r\n - a gravidade do fato, tendo em vista os motivos da infraçăo e suas conseqüęncias para\r\n a saúde pública e para o meio ambiente;\nII\r\n - os antecedentes do infrator quanto ao cumprimento da legislaçăo de interesse\r\n ambiental;\nIII - a situaçăo econômica do infrator, no caso de multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1501,
+        "char_end": 1873
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#6",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7ş As penas restritivas de direitos săo autônomas e substituem as privativas de\r\n liberdade quando:\nI\r\n - tratar-se de crime culposo ou for aplicada a pena privativa de liberdade inferior a\r\n quatro anos;\nII\r\n - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem\r\n como os motivos e as circunstâncias do crime indicarem que a substituiçăo seja\r\n suficiente para efeitos de reprovaçăo e prevençăo do crime.\nParágrafo único. As penas restritivas de direitos a que se refere este artigo terăo a\r\n mesma duraçăo da pena privativa de liberdade substituída.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1873,
+        "char_end": 2466
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#7",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8ş As penas restritivas de direito săo:\nI\r\n - prestaçăo de serviços ŕ comunidade;\nII\r\n - interdiçăo temporária de direitos;\nIII - suspensăo parcial ou total de atividades;\nIV\r\n - prestaçăo pecuniária;\nV\r\n - recolhimento domiciliar.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2466,
+        "char_end": 2703
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#8",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9ş A prestaçăo de serviços ŕ comunidade consiste na atribuiçăo ao condenado de\r\n tarefas gratuitas junto a parques e jardins públicos e unidades de conservaçăo, e, no\r\n caso de dano da coisa particular, pública ou tombada, na restauraçăo desta, se\r\n possível.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2703,
+        "char_end": 2968
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#9",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. As penas de interdiçăo temporária de direito săo a proibiçăo de o condenado\r\n contratar com o Poder Público, de receber incentivos fiscais ou quaisquer outros\r\n benefícios, bem como de participar de licitaçőes, pelo prazo de cinco anos, no caso de\r\n crimes dolosos, e de tręs anos, no de crimes culposos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2968,
+        "char_end": 3282
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#10",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11. A suspensăo de\r\n atividades será aplicada quando estas năo estiverem obedecendo ŕs prescriçőes legais.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3282,
+        "char_end": 3394
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#11",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12. A prestaçăo pecuniária consiste no pagamento em dinheiro ŕ vítima ou ŕ\r\n entidade pública ou privada com fim social, de importância, fixada pelo juiz, năo\r\n inferior a um salário mínimo nem superior a trezentos e sessenta salários mínimos. O\r\n valor pago será deduzido do montante de eventual reparaçăo civil a que for condenado o\r\n infrator.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3394,
+        "char_end": 3746
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#12",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13. O recolhimento domiciliar baseia-se na autodisciplina e senso de responsabilidade\r\n do condenado, que deverá, sem vigilância, trabalhar, freqüentar curso ou exercer\r\n atividade autorizada, permanecendo recolhido nos dias e horários de folga em residęncia\r\n ou em qualquer local destinado a sua moradia habitual, conforme estabelecido na sentença\r\n condenatória.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3746,
+        "char_end": 4117
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#13",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14. Săo circunstâncias que atenuam a pena:\nI\r\n - baixo grau de instruçăo ou escolaridade do agente;\nII\r\n - arrependimento do infrator, manifestado pela espontânea reparaçăo do dano, ou\r\n limitaçăo significativa da degradaçăo ambiental causada;\nIII - comunicaçăo prévia pelo agente do perigo iminente de degradaçăo ambiental;\nIV\r\n - colaboraçăo com os agentes encarregados da vigilância e do controle ambiental.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4117,
+        "char_end": 4533
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#14",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15. Săo circunstâncias que agravam a pena, quando năo constituem ou\r\n qualificam o crime:\nI\r\n - reincidęncia nos crimes de natureza ambiental;\nII\r\n - ter o agente cometido a infraçăo:\na)\r\n para obter vantagem pecuniária;\nb)\r\n coagindo outrem para a execuçăo material da infraçăo;\nc)\r\n afetando ou expondo a perigo, de maneira grave, a saúde pública ou o meio ambiente;\nd)\r\n concorrendo para danos ŕ propriedade alheia;\ne)\r\n atingindo áreas de unidades de conservaçăo ou áreas sujeitas, por ato do Poder\r\n Público, a regime especial de uso;\nf)\r\n atingindo áreas urbanas ou quaisquer assentamentos humanos;\ng)\r\n em período de defeso ŕ fauna;\nh)\r\n em domingos ou feriados;\ni)\r\n ŕ noite;\nj)\r\n em épocas de seca ou inundaçőes;\nl)\r\n no interior do espaço territorial especialmente protegido;\nm)\r\n com o emprego de métodos cruéis para abate ou captura de animais;\nn)\r\n mediante fraude ou abuso de confiança;\no)\r\n mediante abuso do direito de licença, permissăo ou autorizaçăo ambiental;\np)\r\n no interesse de pessoa jurídica mantida, total ou parcialmente, por verbas públicas ou\r\n beneficiada por incentivos fiscais;\nq)\r\n atingindo espécies ameaçadas, listadas em relatórios oficiais das autoridades\r\n competentes;\nr)\r\n facilitada por funcionário público no exercício de suas funçőes.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4533,
+        "char_end": 5816
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#15",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16. Nos crimes previstos nesta Lei, a suspensăo condicional da pena pode ser\r\n aplicada nos casos de condenaçăo a pena privativa de liberdade năo superior a tręs\r\n anos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5816,
+        "char_end": 5991
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#16",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17. A verificaçăo da reparaçăo a que se refere o\n§ 2ş do art. 78 do Código\r\n Penal\nserá feita mediante laudo de reparaçăo do dano ambiental, e as condiçőes a\r\n serem impostas pelo juiz deverăo relacionar-se com a proteçăo ao meio ambiente.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5991,
+        "char_end": 6236
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#17",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "Art. 18. A multa será calculada segundo os critérios do Código Penal; se revelar-se\r\n ineficaz, ainda que aplicada no valor máximo, poderá ser aumentada até tręs vezes,\r\n tendo em vista o valor da vantagem econômica auferida.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6236,
+        "char_end": 6462
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#18",
+      "type": "artigo_candidato",
+      "name": "Art. 19",
+      "content": "Art. 19. A perícia de constataçăo do dano ambiental, sempre que possível, fixará o\r\n montante do prejuízo causado para efeitos de prestaçăo de fiança e cálculo de multa.\nParágrafo único. A perícia produzida no inquérito civil ou no juízo cível poderá\r\n ser aproveitada no processo penal, instaurando-se o contraditório.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6462,
+        "char_end": 6782
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#19",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20. A sentença penal condenatória, sempre que possível, fixará o valor mínimo\r\n para reparaçăo dos danos causados pela infraçăo, considerando os prejuízos sofridos\r\n pelo ofendido ou pelo meio ambiente.\nParágrafo único. Transitada em julgado a sentença condenatória, a execuçăo poderá\r\n efetuar-se pelo valor fixado nos termos do\ncaput\n, sem prejuízo da liquidaçăo\r\n para apuraçăo do dano efetivamente sofrido.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6782,
+        "char_end": 7198
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#20",
+      "type": "artigo_candidato",
+      "name": "Art. 21",
+      "content": "Art. 21. As penas aplicáveis isolada, cumulativa ou alternativamente ŕs pessoas\r\n jurídicas, de acordo com o disposto no art. 3ş, săo:\nI\r\n - multa;\nII\r\n - restritivas de direitos;\nIII - prestaçăo de serviços ŕ comunidade.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7198,
+        "char_end": 7420
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#21",
+      "type": "artigo_candidato",
+      "name": "Art. 22",
+      "content": "Art. 22. As penas restritivas de direitos da pessoa jurídica săo:\nI\r\n - suspensăo parcial ou total de atividades;\nII\r\n - interdiçăo temporária de estabelecimento, obra ou atividade;\nIII - proibiçăo de contratar com o Poder Público, bem como dele obter subsídios,\r\n subvençőes ou doaçőes.\n§\r\n 1ş A suspensăo de atividades será aplicada quando estas năo estiverem obedecendo ŕs\r\n disposiçőes legais ou regulamentares, relativas ŕ proteçăo do meio ambiente.\n§\r\n 2ş A interdiçăo será aplicada quando o estabelecimento, obra ou atividade estiver\r\n funcionando sem a devida autorizaçăo, ou em desacordo com a concedida, ou com violaçăo\r\n de disposiçăo legal ou regulamentar.\n§\r\n 3ş A proibiçăo de contratar com o Poder Público e dele obter subsídios, subvençőes\r\n ou doaçőes năo poderá exceder o prazo de dez anos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7420,
+        "char_end": 8229
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#22",
+      "type": "artigo_candidato",
+      "name": "Art. 23",
+      "content": "Art. 23. A prestaçăo de serviços ŕ comunidade pela pessoa jurídica consistirá em:\nI\r\n - custeio de programas e de projetos ambientais;\nII\r\n - execuçăo de obras de recuperaçăo de áreas degradadas;\nIII - manutençăo de espaços públicos;\nIV\r\n - contribuiçőes a entidades ambientais ou culturais públicas.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8229,
+        "char_end": 8530
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#23",
+      "type": "artigo_candidato",
+      "name": "Art. 24",
+      "content": "Art. 24. A pessoa jurídica constituída ou utilizada, preponderantemente, com o fim de\r\n permitir, facilitar ou ocultar a prática de crime definido nesta Lei terá decretada sua\r\n liquidaçăo forçada, seu patrimônio será considerado instrumento do crime e como tal\r\n perdido em favor do Fundo Penitenciário Nacional.\nCAPÍTULO III\nDA APREENSĂO DO PRODUTO E DO INSTRUMENTO DE\r\n INFRAÇĂO\nADMINISTRATIVA OU DE CRIME",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8530,
+        "char_end": 8939
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#24",
+      "type": "artigo_candidato",
+      "name": "Art. 25",
+      "content": "Art. 25. Verificada a infraçăo, serăo apreendidos seus produtos e instrumentos,\r\n lavrando-se os respectivos autos.\n(Vide ADPF 640)\n§\r\n 1ş Os animais serăo libertados em seu\nhabitat\nou entregues a jardins zoológicos,\r\n fundaçőes ou entidades assemelhadas, desde que fiquem sob a responsabilidade de\r\n técnicos habilitados.\n§ 1\no\nOs \r\nanimais serăo prioritariamente libertados em seu\nhabitat\nou, sendo tal medida \r\ninviável ou năo recomendável por questőes sanitárias, entregues a jardins \r\nzoológicos, fundaçőes ou entidades assemelhadas, para guarda e cuidados sob a \r\nresponsabilidade de técnicos habilitados.\n(Redaçăo \r\n dada pela Lei nş 13.052, de 2014)\n§ 2ş Tratando-se de produtos perecíveis ou madeiras, serăo estes\r\n avaliados e doados a instituiçőes científicas, hospitalares, penais e outras com fins\r\n beneficentes.\n§ 2\no\nTratando-se de produtos perecíveis, serăo estes avaliados e doados a\r\n instituiçőes científicas, hospitalares, penais e outras com fins beneficentes.\n(Redaçăo dada pela \r\nMedida \r\nprovisória nş 62, de 2002)\nPrejudicada\n§ 2\no\nAté que \r\nos animais sejam entregues ŕs instituiçőes mencionadas no § 1\no\ndeste artigo, o órgăo autuante zelará para que eles sejam mantidos em condiçőes \r\nadequadas de acondicionamento e transporte que garantam o seu bem-estar físico.\n(Redaçăo dada pela Lei nş 13.052, de 2014)\n(Vide ADPF 640)\n§ 3ş Tratando-se de produtos perecíveis ou madeiras, serăo estes\r\n avaliados e doados a instituiçőes científicas, hospitalares, penais e outras com fins\r\n beneficentes.\n(Renumerando \r\ndo §2ş para §3ş pela Lei nş 13.052, de 2014)\n§\r\n 4° Os produtos e subprodutos da fauna năo perecíveis serăo destruídos ou doados a\r\n instituiçőes científicas, culturais ou educacionais.\n(Renumerando do §3ş para §4ş pela Lei nş 13.052, de 2014)\n§\r\n 5ş Os instrumentos utilizados na prática da infraçăo serăo vendidos, garantida a sua\r\n descaracterizaçăo por meio da reciclagem.\n(Renumerando do §4ş para §5ş pela Lei nş 13.052, de 2014)\n§ 5\no\nTratando-se de madeiras, serăo levadas a leilăo, e o valor arrecadado, \r\nrevertido ao órgăo ambiental responsável por sua apreensăo.\n(Incluído pela Medida \r\nprovisória nş 62, de 2002)\nPrejudicada\nCAPÍTULO IV\nDA AÇĂO E DO PROCESSO PENAL",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8939,
+        "char_end": 11153
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#25",
+      "type": "artigo_candidato",
+      "name": "Art. 26",
+      "content": "Art. 26. Nas infraçőes penais previstas nesta Lei, a açăo penal é pública\r\n incondicionada.\nParágrafo único.\n(VETADO)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11153,
+        "char_end": 11271
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#26",
+      "type": "artigo_candidato",
+      "name": "Art. 27",
+      "content": "Art. 27. Nos crimes ambientais de menor potencial ofensivo, a proposta de aplicaçăo\r\n imediata de pena restritiva de direitos ou multa, prevista no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11271,
+        "char_end": 11419
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#27",
+      "type": "artigo_candidato",
+      "name": "Art. 76",
+      "content": "art. 76 da Lei nş 9.099, de 26 de setembro de 1995\n, somente poderá ser\r\n formulada desde que tenha havido a prévia composiçăo do dano ambiental, de que trata o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11419,
+        "char_end": 11581
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#28",
+      "type": "artigo_candidato",
+      "name": "Art. 74",
+      "content": "art. 74 da mesma lei, salvo em caso de comprovada impossibilidade.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11581,
+        "char_end": 11649
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#29",
+      "type": "artigo_candidato",
+      "name": "Art. 89",
+      "content": "art. 89 da Lei nş 9.099, de 26 de setembro de 1995\n,\r\n aplicam-se aos crimes de menor potencial ofensivo definidos nesta Lei, com as seguintes\r\n modificaçőes:\nI\r\n - a declaraçăo de extinçăo de punibilidade, de que trata o § 5° do artigo referido\r\n no\ncaput\n, dependerá de laudo de constataçăo de reparaçăo do dano ambiental,\r\n ressalvada a impossibilidade prevista no inciso I do § 1° do mesmo artigo;\nII\r\n - na hipótese de o laudo de constataçăo comprovar năo ter sido completa a reparaçăo,\r\n o prazo de suspensăo do processo será prorrogado, até o período máximo previsto no\r\n artigo referido no\ncaput\n, acrescido de mais um ano, com suspensăo do prazo da\r\n prescriçăo;\nIII - no período de prorrogaçăo, năo se aplicarăo as condiçőes dos incisos II, III\r\n e IV do § 1° do artigo mencionado no\ncaput\n;\nIV\r\n - findo o prazo de prorrogaçăo, proceder-se-á ŕ lavratura de novo laudo de\r\n constataçăo de reparaçăo do dano ambiental, podendo, conforme seu resultado, ser\r\n novamente prorrogado o período de suspensăo, até o máximo previsto no inciso II deste\r\n artigo, observado o disposto no inciso III;\nV\r\n - esgotado o prazo máximo de prorrogaçăo, a declaraçăo de extinçăo de punibilidade\r\n dependerá de laudo de constataçăo que comprove ter o acusado tomado as providęncias\r\n necessárias ŕ reparaçăo integral do dano.\nCAPÍTULO V\nDOS CRIMES CONTRA O MEIO AMBIENTE\nSeçăo I\nDos Crimes contra a Fauna",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11676,
+        "char_end": 13071
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#30",
+      "type": "artigo_candidato",
+      "name": "Art. 29",
+      "content": "Art. 29. Matar, perseguir, caçar, apanhar, utilizar espécimes da fauna silvestre,\r\n nativos ou em rota migratória, sem a devida permissăo, licença ou autorizaçăo da\r\n autoridade competente, ou em desacordo com a obtida:\nPena - detençăo de seis meses a um ano, e multa.\n§\r\n 1ş Incorre nas mesmas penas:\nI\r\n - quem impede a procriaçăo da fauna, sem licença, autorizaçăo ou em desacordo com a\r\n obtida;\nII\r\n - quem modifica, danifica ou destrói ninho, abrigo ou criadouro natural;\nIII - quem vende, expőe ŕ venda, exporta ou adquire, guarda, tem em cativeiro ou\r\n depósito, utiliza ou transporta ovos, larvas ou espécimes da fauna silvestre, nativa ou\r\n em rota migratória, bem como produtos e objetos dela oriundos, provenientes de criadouros\r\n năo autorizados ou sem a devida permissăo, licença ou autorizaçăo da autoridade\r\n competente.\n§ 2ş No caso de guarda doméstica de espécie silvestre năo\r\n considerada ameaçada de extinçăo, pode o juiz, considerando as circunstâncias, deixar\r\n de aplicar a pena.\n§\r\n 3° Săo espécimes da fauna silvestre todos aqueles pertencentes ŕs espécies nativas,\r\n migratórias e quaisquer outras, aquáticas ou terrestres, que tenham todo ou parte de seu\r\n ciclo de vida ocorrendo dentro dos limites do território brasileiro, ou águas\r\n jurisdicionais brasileiras.\n§\r\n 4ş A pena é aumentada de metade, se o crime é praticado:\nI\r\n - contra espécie rara ou considerada ameaçada de extinçăo, ainda que somente no local\r\n da infraçăo;\nII\r\n - em período proibido ŕ caça;\nIII - durante a noite;\nIV\r\n - com abuso de licença;\nV\r\n - em unidade de conservaçăo;\nVI\r\n - com emprego de métodos ou instrumentos capazes de provocar destruiçăo em massa.\n§\r\n 5ş A pena é aumentada até o triplo, se o crime decorre do exercício de caça\r\n profissional.\n§\r\n 6ş As disposiçőes deste artigo năo se aplicam aos atos de pesca.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 13071,
+        "char_end": 14902
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#31",
+      "type": "artigo_candidato",
+      "name": "Art. 30",
+      "content": "Art. 30. Exportar para o exterior peles e couros de anfíbios e répteis em bruto, sem a\r\n autorizaçăo da autoridade ambiental competente:\nPena - reclusăo, de um a tręs anos, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 14902,
+        "char_end": 15084
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#32",
+      "type": "artigo_candidato",
+      "name": "Art. 31",
+      "content": "Art. 31. Introduzir espécime animal no País, sem parecer técnico oficial favorável e\r\n licença expedida por autoridade competente:\nPena - detençăo, de tręs meses a um ano, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15084,
+        "char_end": 15265
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#33",
+      "type": "artigo_candidato",
+      "name": "Art. 32",
+      "content": "Art. 32. Praticar ato de abuso, maus-tratos, ferir ou mutilar animais silvestres,\r\n domésticos ou domesticados, nativos ou exóticos:\n(Vide ADPF 640)\nPena - detençăo, de tręs meses a um ano, e multa.\n§\r\n 1ş Incorre nas mesmas penas quem realiza experięncia dolorosa ou cruel em animal vivo,\r\n ainda que para fins didáticos ou científicos, quando existirem recursos alternativos.\n(Vide ADPF 640)\n§ 1ş-A Quando se tratar de căo ou gato, a \r\npena para as condutas descritas no\ncaput\ndeste artigo será de reclusăo, \r\nde 2 (dois) a 5 (cinco) anos, multa e proibiçăo da guarda.\n(Incluído pela Lei nş 14.064, de 2020)\n§ 1ş-B. \r\nIncorre nas mesmas penas quem realiza ou permite a realizaçăo de tatuagens e a \r\ncolocaçăo de\npiercings\nem căes e gatos, com fins estéticos.\n(Incluído pela Lei nş \r\n15.150, de 2025)\n§ 1ş-C. Incorre nas mesmas penas quem provoca desastre \r\nambiental que prejudique a vida, a integridade física ou o bem-estar de animais \r\nsilvestres ou domésticos.\n(Incluído pela Lei nş \r\n15.355, de 2026)\n§\r\n 2ş A pena é aumentada de um sexto a um terço, se ocorre morte do animal.\n(Vide ADPF 640)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15265,
+        "char_end": 16366
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#34",
+      "type": "artigo_candidato",
+      "name": "Art. 33",
+      "content": "Art. 33. Provocar, pela emissăo de efluentes ou carreamento de materiais, o perecimento\r\n de espécimes da fauna aquática existentes em rios, lagos, açudes, lagoas, baías ou\r\n águas jurisdicionais brasileiras:\nPena - detençăo, de um a tręs anos, ou multa, ou ambas cumulativamente.\nParágrafo único. Incorre nas mesmas penas:\nI\r\n - quem causa degradaçăo em viveiros, açudes ou estaçőes de aqüicultura de domínio\r\n público;\nII\r\n - quem explora campos naturais de invertebrados aquáticos e algas, sem licença,\r\n permissăo ou autorizaçăo da autoridade competente;\nIII - quem fundeia embarcaçőes ou lança detritos de qualquer natureza sobre bancos de\r\n moluscos ou corais, devidamente demarcados em carta náutica.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 16366,
+        "char_end": 17074
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#35",
+      "type": "artigo_candidato",
+      "name": "Art. 34",
+      "content": "Art. 34. Pescar em período no qual a pesca seja proibida ou em lugares interditados por\r\n órgăo competente:\nPena - detençăo de um ano a tręs anos ou multa, ou ambas as penas cumulativamente.\nParágrafo único. Incorre nas mesmas penas quem:\nI\r\n - pesca espécies que devam ser preservadas ou espécimes com tamanhos inferiores aos\r\n permitidos;\nII\r\n - pesca quantidades superiores ŕs permitidas, ou mediante a utilizaçăo de aparelhos,\r\n petrechos, técnicas e métodos năo permitidos;\nIII - transporta, comercializa, beneficia ou industrializa espécimes provenientes da\r\n coleta, apanha e pesca proibidas.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17074,
+        "char_end": 17674
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#36",
+      "type": "artigo_candidato",
+      "name": "Art. 35",
+      "content": "Art. 35. Pescar mediante a utilizaçăo de:\nI\r\n - explosivos ou substâncias que, em contato com a água, produzam efeito semelhante;\nII\r\n - substâncias tóxicas, ou outro meio proibido pela autoridade competente:\nPena - reclusăo de um ano a cinco anos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17674,
+        "char_end": 17923
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#37",
+      "type": "artigo_candidato",
+      "name": "Art. 36",
+      "content": "Art. 36. Para os efeitos desta Lei, considera-se pesca todo ato tendente a retirar,\r\n extrair, coletar, apanhar, apreender ou capturar espécimes dos grupos dos peixes,\r\n crustáceos, moluscos e vegetais hidróbios, suscetíveis ou năo de aproveitamento\r\n econômico, ressalvadas as espécies ameaçadas de extinçăo, constantes nas listas\r\n oficiais da fauna e da flora.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17923,
+        "char_end": 18287
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#38",
+      "type": "artigo_candidato",
+      "name": "Art. 37",
+      "content": "Art. 37. Năo é crime o abate de animal, quando realizado:\nI\r\n - em estado de necessidade, para saciar a fome do agente ou de sua família;\nII\r\n - para proteger lavouras, pomares e rebanhos da açăo predatória ou destruidora de\r\n animais, desde que legal e expressamente autorizado pela autoridade competente;\nIII –\n(VETADO)\nIV\r\n - por ser nocivo o animal, desde que assim caracterizado pelo órgăo competente.\nSeçăo II\nDos Crimes contra a Flora",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18287,
+        "char_end": 18729
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#39",
+      "type": "artigo_candidato",
+      "name": "Art. 38",
+      "content": "Art. 38. Destruir ou danificar floresta considerada de preservaçăo permanente, mesmo que\r\n em formaçăo, ou utilizá-la com infringęncia das normas de proteçăo:\nPena - detençăo, de um a tręs anos, ou multa, ou ambas as penas cumulativamente.\nParágrafo único. Se o crime for culposo, a pena será reduzida ŕ metade.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18729,
+        "char_end": 19041
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#40",
+      "type": "artigo_candidato",
+      "name": "Art. 38-A",
+      "content": "Art. 38-A.  Destruir ou danificar vegetaçăo primária ou secundária, em \r\n estágio avançado ou médio de regeneraçăo, do Bioma Mata Atlântica, ou \r\n utilizá-la com infringęncia das normas de proteçăo:\n(Incluído \r\npela Lei nş 11.428, de 2006).\nPena - detençăo, de 1 (um) a 3 (tręs) anos, ou multa, ou ambas as penas \r\n cumulativamente.\n(Incluído \r\npela Lei nş 11.428, de 2006).\nParágrafo único.  \r\nSe o crime for culposo, a pena será reduzida ŕ metade.\n(Incluído pela Lei nş \r\n11.428, de 2006).",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 19041,
+        "char_end": 19533
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#41",
+      "type": "artigo_candidato",
+      "name": "Art. 39",
+      "content": "Art. 39. Cortar árvores em floresta considerada de preservaçăo permanente, sem\r\n permissăo da autoridade competente:\nPena - detençăo, de um a tręs anos, ou multa, ou ambas as penas cumulativamente.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 19533,
+        "char_end": 19731
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#42",
+      "type": "artigo_candidato",
+      "name": "Art. 40",
+      "content": "Art. 40. Causar dano direto ou indireto ŕs Unidades de \r\nConservaçăo e ŕs áreas de que trata o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 19731,
+        "char_end": 19826
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#43",
+      "type": "artigo_candidato",
+      "name": "Art. 27",
+      "content": "art. 27 do Decreto nş 99.274, de 6 \r\nde junho de 1990\n, independentemente de sua\r\n localizaçăo:\nPena - reclusăo, de um a cinco anos.\n§\r\n 1ş Entende-se por Unidades de Conservaçăo as Reservas Biológicas, Reservas\r\n Ecológicas, Estaçőes Ecológicas, Parques Nacionais, Estaduais e Municipais, Florestas\r\n Nacionais, Estaduais e Municipais, Áreas de Proteçăo Ambiental, Áreas de Relevante\r\n Interesse Ecológico e Reservas Extrativistas ou outras a serem criadas pelo Poder\r\n Público.\n§\r\n 1\no\nEntende-se por Unidades de Conservaçăo de Proteçăo Integral as\r\n Estaçőes Ecológicas, as Reservas Biológicas, os Parques Nacionais, os Monumentos\r\n Naturais e os Refúgios de Vida Silvestre.\n(Redaçăo dada pela\r\n Lei nş 9.985, de 2000)\n§\r\n 2ş A ocorręncia de dano afetando espécies ameaçadas de extinçăo no interior das\r\n Unidades de Conservaçăo será considerada circunstância agravante para a fixaçăo da\r\n pena.\n§\r\n 2\no\nA ocorręncia de dano afetando espécies ameaçadas de extinçăo no\r\n interior das Unidades de Conservaçăo de Proteçăo Integral será considerada\r\n circunstância agravante para a fixaçăo da pena.\n(Redaçăo\r\n dada pela Lei nş 9.985, de 2000)\n§\r\n 3ş Se o crime for culposo, a pena será reduzida ŕ metade.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 19826,
+        "char_end": 21030
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#44",
+      "type": "artigo_candidato",
+      "name": "Art. 40-A",
+      "content": "Art. 40-A.\n(VETADO)\n(Incluído pela Lei nş 9.985, de 2000)\n§\r\n 1\no\nEntende-se por Unidades de Conservaçăo de Uso Sustentável as\r\n Áreas de Proteçăo Ambiental, as Áreas de Relevante Interesse Ecológico, as Florestas\r\n Nacionais, as Reservas Extrativistas, as Reservas de Fauna, as Reservas de Desenvolvimento\r\n Sustentável e as Reservas Particulares do Patrimônio Natural.\n(Incluído pela Lei nş 9.985, de 2000)\n§\r\n 2\no\nA ocorręncia de dano afetando espécies ameaçadas de extinçăo no\r\n interior das Unidades de Conservaçăo de Uso Sustentável será considerada\r\n circunstância agravante para a fixaçăo da pena.\n(Incluído pela Lei nş 9.985, de 2000)\n§\r\n 3\no\nSe o crime for culposo, a pena será reduzida ŕ metade.\n(Incluído pela Lei nş 9.985, de 2000)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21030,
+        "char_end": 21775
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#45",
+      "type": "artigo_candidato",
+      "name": "Art. 41",
+      "content": "Art. 41. Provocar incęndio em mata ou floresta:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21775,
+        "char_end": 21823
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#46",
+      "type": "artigo_candidato",
+      "name": "Art. 41",
+      "content": "Art. 41. Provocar \r\n incęndio em floresta ou em demais formas de vegetaçăo:\n(Redaçăo dada pela Lei nş \r\n14.944, de 2024)\nPena - reclusăo, de dois a quatro anos, e multa.\nParágrafo único. Se o crime é culposo, a pena é de detençăo de seis meses a um ano,\r\n e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21823,
+        "char_end": 22088
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#47",
+      "type": "artigo_candidato",
+      "name": "Art. 42",
+      "content": "Art. 42. Fabricar, vender, transportar ou soltar balőes que possam provocar incęndios\r\n nas florestas e demais formas de vegetaçăo, em áreas urbanas ou qualquer tipo de\r\n assentamento humano:\nPena - detençăo de um a tręs anos ou multa, ou ambas as penas cumulativamente.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 22088,
+        "char_end": 22359
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#48",
+      "type": "artigo_candidato",
+      "name": "Art. 44",
+      "content": "Art. 44. Extrair de florestas de domínio público ou consideradas de preservaçăo\r\n permanente, sem prévia autorizaçăo, pedra, areia, cal ou qualquer espécie de minerais:\nPena - detençăo, de seis meses a um ano, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 22377,
+        "char_end": 22596
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#49",
+      "type": "artigo_candidato",
+      "name": "Art. 45",
+      "content": "Art. 45. Cortar ou transformar em carvăo madeira de lei, assim classificada por ato do\r\n Poder Público, para fins industriais, energéticos ou para qualquer outra exploraçăo,\r\n econômica ou năo, em desacordo com as determinaçőes legais:\nPena - reclusăo, de um a dois anos, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 22596,
+        "char_end": 22877
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#50",
+      "type": "artigo_candidato",
+      "name": "Art. 46",
+      "content": "Art. 46. Receber ou adquirir, para fins comerciais ou industriais, madeira, lenha, carvăo\r\n e outros produtos de origem vegetal, sem exigir a exibiçăo de licença do vendedor,\r\n outorgada pela autoridade competente, e sem munir-se da via que deverá acompanhar o\r\n produto até final beneficiamento:\nPena - detençăo, de seis meses a um ano, e multa.\nParágrafo único. Incorre nas mesmas penas quem vende, expőe ŕ venda, tem em depósito,\r\n transporta ou guarda madeira, lenha, carvăo e outros produtos de origem vegetal, sem\r\n licença válida para todo o tempo da viagem ou do armazenamento, outorgada pela\r\n autoridade competente.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 22877,
+        "char_end": 23503
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#51",
+      "type": "artigo_candidato",
+      "name": "Art. 48",
+      "content": "Art. 48. Impedir ou dificultar a regeneraçăo natural de florestas e demais formas de\r\n vegetaçăo:\nPena - detençăo, de seis meses a um ano, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 23521,
+        "char_end": 23669
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#52",
+      "type": "artigo_candidato",
+      "name": "Art. 49",
+      "content": "Art. 49. Destruir, danificar, lesar ou maltratar, por qualquer modo ou meio, plantas de\r\n ornamentaçăo de logradouros públicos ou em propriedade privada alheia:\nPena - detençăo, de tręs meses a um ano, ou multa, ou ambas as penas cumulativamente.\nParágrafo único. No crime culposo, a pena é de um a seis meses, ou multa.\n§ 1ş\nNo crime culposo, a pena é de um a seis meses, ou multa.\n(Redaçăo dada pela Lei nş \r\n15.299, de 2025)\n§ 2ş Năo \r\nincorre em crime quem procede ŕ poda ou ao corte de árvore quando o órgăo \r\nambiental responsável năo responder de maneira fundamentada, no prazo máximo de \r\n45 (quarenta e cinco) dias, a requerimento que solicita o corte ou a poda em \r\nrazăo da possibilidade de ocorręncia de acidente devidamente atestada por \r\nempresa ou profissional habilitado, considerada tacitamente autorizada sua \r\nrealizaçăo quando esgotado o referido prazo.\n(Incluído pela Lei nş \r\n15.299, de 2025)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 23669,
+        "char_end": 24584
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#53",
+      "type": "artigo_candidato",
+      "name": "Art. 50",
+      "content": "Art. 50. Destruir ou danificar florestas nativas ou plantadas ou vegetaçăo fixadora de\r\n dunas, protetora de mangues, objeto de especial preservaçăo:\nPena - detençăo, de tręs meses a um ano, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 24584,
+        "char_end": 24784
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#54",
+      "type": "artigo_candidato",
+      "name": "Art. 50-A",
+      "content": "Art. 50-A. Desmatar, explorar economicamente ou degradar floresta,\r\n plantada ou nativa, em terras de domínio público ou devolutas, sem autorizaçăo do\r\n órgăo competente:\n(Incluído pela\r\n Lei nş 11.284, de 2006)\nPena - reclusăo de 2 (dois)\r\n a 4 (quatro) anos e multa.\n(Incluído\r\n pela Lei nş 11.284, de 2006)\n§ 1\no\nNăo\r\n é crime a conduta praticada quando necessária ŕ subsistęncia imediata pessoal do\r\n agente ou de sua família.\n(Incluído\r\n pela Lei nş 11.284, de 2006)\n§ 2\no\nSe a\r\n área explorada for superior a 1.000 ha (mil hectares), a pena será aumentada de 1 (um)\r\n ano por milhar de hectare.\n(Incluído\r\n pela Lei nş 11.284, de 2006)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 24784,
+        "char_end": 25426
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#55",
+      "type": "artigo_candidato",
+      "name": "Art. 51",
+      "content": "Art. 51. Comercializar motosserra ou utilizá-la em florestas e nas demais formas de\r\n vegetaçăo, sem licença ou registro da autoridade competente:\nPena - detençăo, de tręs meses a um ano, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 25426,
+        "char_end": 25623
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#56",
+      "type": "artigo_candidato",
+      "name": "Art. 52",
+      "content": "Art. 52. Penetrar em Unidades de Conservaçăo conduzindo substâncias ou instrumentos\r\n próprios para caça ou para exploraçăo de produtos ou subprodutos florestais, sem\r\n licença da autoridade competente:\nPena - detençăo, de seis meses a um ano, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 25623,
+        "char_end": 25876
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#57",
+      "type": "artigo_candidato",
+      "name": "Art. 53",
+      "content": "Art. 53. Nos crimes previstos nesta Seçăo, a pena é aumentada de um sexto a um terço\r\n se:\nI\r\n - do fato resulta a diminuiçăo de águas naturais, a erosăo do solo ou a modificaçăo\r\n do regime climático;\nII\r\n - o crime é cometido:\na)\r\n no período de queda das sementes;\nb)\r\n no período de formaçăo de vegetaçőes;\nc)\r\n contra espécies raras ou ameaçadas de extinçăo, ainda que a ameaça ocorra somente no\r\n local da infraçăo;\nd)\r\n em época de seca ou inundaçăo;\ne)\r\n durante a noite, em domingo ou feriado.\nSeçăo III\nDa Poluiçăo e outros Crimes Ambientais",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 25876,
+        "char_end": 26428
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#58",
+      "type": "artigo_candidato",
+      "name": "Art. 54",
+      "content": "Art. 54. Causar poluiçăo de qualquer natureza em níveis tais que resultem ou possam\r\n resultar em danos ŕ saúde humana, ou que provoquem a mortandade de animais ou a\r\n destruiçăo significativa da flora:\nPena - reclusăo, de um a quatro anos, e multa.\n§\r\n 1ş Se o crime é culposo:\nPena - detençăo, de seis meses a um ano, e multa.\n§\r\n 2ş Se o crime:\nI\r\n - tornar uma área, urbana ou rural, imprópria para a ocupaçăo humana;\nII\r\n - causar poluiçăo atmosférica que provoque a retirada, ainda que momentânea, dos\r\n habitantes das áreas afetadas, ou que cause danos diretos ŕ saúde da populaçăo;\nIII - causar poluiçăo hídrica que torne necessária a interrupçăo do abastecimento\r\n público de água de uma comunidade;\nIV\r\n - dificultar ou impedir o uso público das praias;\nV\r\n - ocorrer por lançamento de resíduos sólidos, líquidos ou gasosos, ou detritos, óleos\r\n ou substâncias oleosas, em desacordo com as exigęncias estabelecidas em leis ou\r\n regulamentos:\nPena - reclusăo, de um a cinco anos.\n§\r\n 3ş Incorre nas mesmas penas previstas no parágrafo anterior quem deixar de adotar,\r\n quando assim o exigir a autoridade competente, medidas de precauçăo em caso de risco de\r\n dano ambiental grave ou irreversível.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26428,
+        "char_end": 27634
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#59",
+      "type": "artigo_candidato",
+      "name": "Art. 55",
+      "content": "Art. 55. Executar pesquisa, lavra ou extraçăo de recursos minerais sem a competente\r\n autorizaçăo, permissăo, concessăo ou licença, ou em desacordo com a obtida:\nPena - detençăo, de seis meses a um ano, e multa.\nParágrafo único. Nas mesmas penas incorre quem deixa de recuperar a área pesquisada ou\r\n explorada, nos termos da autorizaçăo, permissăo, licença, concessăo ou determinaçăo\r\n do órgăo competente.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 27634,
+        "char_end": 28042
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#60",
+      "type": "artigo_candidato",
+      "name": "Art. 56",
+      "content": "Art. 56. Produzir, processar, embalar, importar, exportar, comercializar, fornecer,\r\n transportar, armazenar, guardar, ter em depósito ou usar produto ou substância tóxica,\r\n perigosa ou nociva ŕ saúde humana ou ao meio ambiente, em desacordo com as exigęncias\r\n estabelecidas em leis ou nos seus regulamentos:\nPena - reclusăo, de um a quatro anos, e multa.\n§\r\n 1ş Nas mesmas penas incorre quem abandona os produtos ou substâncias referidos no\ncaput\n,\r\n ou os utiliza em desacordo com as normas de segurança.\n§ 1\no\nNas mesmas penas \r\n incorre quem:\n(Redaçăo \r\n dada pela Lei nş 12.305, de 2010)\nI - abandona os produtos ou substâncias \r\n referidos no\ncaput\nou os utiliza em desacordo com as normas \r\n ambientais ou de segurança;\n(Incluído \r\n pela Lei nş 12.305, de 2010)\nII - manipula, acondiciona, armazena, coleta, \r\n transporta, reutiliza, recicla ou dá destinaçăo final a resíduos \r\n perigosos de forma diversa da estabelecida em lei ou regulamento.\n(Incluído pela Lei \r\n nş 12.305, de 2010)\n§\r\n 2ş Se o produto ou a substância for nuclear ou radioativa, a pena é aumentada de um\r\n sexto a um terço.\n§\r\n 3ş Se o crime é culposo:\nPena - detençăo, de seis meses a um ano, e\r\n multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 28042,
+        "char_end": 29227
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#61",
+      "type": "artigo_candidato",
+      "name": "Art. 58",
+      "content": "Art. 58. Nos crimes dolosos previstos nesta Seçăo, as penas serăo aumentadas:\nI\r\n - de um sexto a um terço, se resulta dano irreversível ŕ flora ou ao meio ambiente em\r\n geral;\nII\r\n - de um terço até a metade, se resulta lesăo corporal de natureza grave em outrem;\nIII - até o dobro, se resultar a morte de outrem.\nParágrafo único. As penalidades previstas neste artigo somente serăo aplicadas se do\r\n fato năo resultar crime mais grave.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 29245,
+        "char_end": 29683
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#62",
+      "type": "artigo_candidato",
+      "name": "Art. 60",
+      "content": "Art. 60. Construir, reformar, ampliar, instalar ou fazer funcionar, em qualquer parte do\r\n território nacional, estabelecimentos, obras ou serviços potencialmente poluidores, sem\r\n licença ou autorizaçăo dos órgăos ambientais competentes, ou contrariando as normas\r\n legais e regulamentares pertinentes:\nPena - detençăo, de um a seis meses, ou multa, ou ambas as penas cumulativamente.\nPena - detençăo, de 6 (seis) meses a 2 (dois) anos, ou multa, ou \r\n ambas as penas, cumulativamente.\n(Redaçăo \r\n dada pela Lei nş 15.190, de 2025)\nVigęncia\nParágrafo único. A pena é aumentada até o dobro se o licenciamento \r\n da atividade ou do empreendimento for sujeito ao Estudo Prévio de \r\n Impacto Ambiental.\n(Incluído pela Lei nş 15.190, de 2025)\nVigęncia",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 29701,
+        "char_end": 30449
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#63",
+      "type": "artigo_candidato",
+      "name": "Art. 61",
+      "content": "Art. 61. Disseminar doença ou praga ou espécies que possam causar dano ŕ agricultura,\r\n ŕ pecuária, ŕ fauna, ŕ flora ou aos ecossistemas:\nPena - reclusăo, de um a quatro anos, e multa.\nSeçăo IV\nDos Crimes contra o Ordenamento Urbano e o\r\n Patrimônio Cultural",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30449,
+        "char_end": 30708
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#64",
+      "type": "artigo_candidato",
+      "name": "Art. 62",
+      "content": "Art. 62. Destruir, inutilizar ou deteriorar:\nI\r\n - bem especialmente protegido por lei, ato administrativo ou decisăo judicial;\nII\r\n - arquivo, registro, museu, biblioteca, pinacoteca, instalaçăo científica ou similar\r\n protegido por lei, ato administrativo ou decisăo judicial:\nPena - reclusăo, de um a tręs anos, e multa.\nParágrafo único. Se o crime for culposo, a pena é de seis meses a um ano de detençăo,\r\n sem prejuízo da multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30708,
+        "char_end": 31143
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#65",
+      "type": "artigo_candidato",
+      "name": "Art. 63",
+      "content": "Art. 63. Alterar o aspecto ou estrutura de edificaçăo ou local especialmente protegido\r\n por lei, ato administrativo ou decisăo judicial, em razăo de seu valor paisagístico,\r\n ecológico, turístico, artístico, histórico, cultural, religioso, arqueológico,\r\n etnográfico ou monumental, sem autorizaçăo da autoridade competente ou em desacordo com\r\n a concedida:\nPena - reclusăo, de um a tręs anos, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31143,
+        "char_end": 31548
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#66",
+      "type": "artigo_candidato",
+      "name": "Art. 64",
+      "content": "Art. 64. Promover construçăo em solo năo edificável, ou no seu entorno, assim\r\n considerado em razăo de seu valor paisagístico, ecológico, artístico, turístico,\r\n histórico, cultural, religioso, arqueológico, etnográfico ou monumental, sem\r\n autorizaçăo da autoridade competente ou em desacordo com a concedida:\nPena - detençăo, de seis meses a um ano, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31548,
+        "char_end": 31910
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#67",
+      "type": "artigo_candidato",
+      "name": "Art. 65",
+      "content": "Art. 65. Pichar, grafitar ou por outro meio conspurcar edificaçăo ou monumento urbano:\nPena - detençăo, de tręs meses a um ano, e multa.\nParágrafo único. Se o ato for realizado em monumento ou coisa tombada em virtude do seu\r\n valor artístico, arqueológico ou histórico, a pena é de seis meses a um ano de\r\n detençăo, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31910,
+        "char_end": 32237
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#68",
+      "type": "artigo_candidato",
+      "name": "Art. 65",
+      "content": "Art. 65.  Pichar ou por \r\n outro meio conspurcar edificaçăo ou monumento urbano:\n(Redaçăo \r\ndada pela Lei nş 12.408, de 2011)\nPena - detençăo, de 3 \r\n (tręs) meses a 1 (um) ano, e multa.\n(Redaçăo \r\ndada pela Lei nş 12.408, de 2011)\n§ 1\no\nSe o ato for realizado em monumento ou coisa tombada em virtude do seu \r\n valor artístico, arqueológico ou histórico, a pena é de 6 (seis) meses a \r\n 1 (um) ano de detençăo e multa.\n(Renumerado \r\ndo parágrafo único pela Lei nş 12.408, de 2011)\n§ 2\no\nNăo constitui \r\n crime a prática de grafite realizada com o objetivo de valorizar o \r\n patrimônio público ou privado mediante manifestaçăo artística, desde que \r\n consentida pelo proprietário e, quando couber, pelo locatário ou \r\n arrendatário do bem privado e, no caso de bem público, com a autorizaçăo \r\n do órgăo competente e a observância das posturas municipais e das normas \r\n editadas pelos órgăos governamentais responsáveis pela preservaçăo e \r\n conservaçăo do patrimônio histórico e artístico nacional.\n(Incluído pela Lei nş \r\n12.408, de 2011)\nSeçăo V\nDos Crimes contra a Administraçăo Ambiental",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 32237,
+        "char_end": 33331
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#69",
+      "type": "artigo_candidato",
+      "name": "Art. 66",
+      "content": "Art. 66. Fazer o funcionário público afirmaçăo falsa ou enganosa, omitir a verdade,\r\n sonegar informaçőes ou dados técnico-científicos em procedimentos de autorizaçăo ou\r\n de licenciamento ambiental:\nPena - reclusăo, de um a tręs anos, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 33331,
+        "char_end": 33576
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#70",
+      "type": "artigo_candidato",
+      "name": "Art. 67",
+      "content": "Art. 67. Conceder o funcionário público licença, autorizaçăo ou permissăo em\r\n desacordo com as normas ambientais, para as atividades, obras ou serviços cuja\r\n realizaçăo depende de ato autorizativo do Poder Público:",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 33576,
+        "char_end": 33793
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#71",
+      "type": "artigo_candidato",
+      "name": "Art. 67",
+      "content": "Art. 67.\nConceder dolosamente o funcionário público licença, \r\n autorizaçăo ou permissăo que sabe estar em desacordo com as normas \r\n ambientais a atividades, obras ou serviços cuja realizaçăo depende \r\n de ato autorizativo do poder público:\n(Redaçăo dada pela Lei nş 15.190, de 2025)\nVigęncia\nPena - detençăo, de um a tręs anos, e multa.\nParágrafo único. Se o crime é culposo, a pena é de tręs meses a um ano de detençăo,\r\n sem prejuízo da multa.\n(Revogado pela Lei nş 15.190, de 2025)\nVigęncia\nPena - detençăo, de 1 (um) a 3 (tręs) anos, e multa.\n(Redaçăo dada pela Lei nş 15.190, de 2025)\nVigęncia\nParágrafo único. (Revogado).\n(Redaçăo dada pela Lei nş 15.190, de 2025)\nVigęncia",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 33793,
+        "char_end": 34475
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#72",
+      "type": "artigo_candidato",
+      "name": "Art. 68",
+      "content": "Art. 68. Deixar, aquele que tiver o dever legal ou contratual de\r\n fazę-lo, de cumprir obrigaçăo de relevante interesse ambiental:\nPena - detençăo, de um a tręs anos, e multa.\nParágrafo único. Se o crime é culposo, a pena é de tręs meses a um ano, sem prejuízo\r\n da multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 34475,
+        "char_end": 34748
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#73",
+      "type": "artigo_candidato",
+      "name": "Art. 69",
+      "content": "Art. 69. Obstar ou dificultar a açăo fiscalizadora do Poder Público no trato de\r\n questőes ambientais:\nPena - detençăo, de um a tręs anos, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 34748,
+        "char_end": 34896
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#74",
+      "type": "artigo_candidato",
+      "name": "Art. 69-A",
+      "content": "Art. 69-A. Elaborar ou apresentar, no licenciamento, concessăo\r\n florestal ou qualquer outro procedimento administrativo, estudo, laudo ou relatório\r\n ambiental total ou parcialmente falso ou enganoso, inclusive por omissăo:\n(Incluído pela Lei nş 11.284, de 2006)\nPena - reclusăo, de 3\r\n (tręs) a 6 (seis) anos, e multa.\n(Incluído\r\n pela Lei nş 11.284, de 2006)\n§ 1\no\nSe o\r\n crime é culposo:\n(Incluído pela Lei\r\n nş 11.284, de 2006)\nPena - detençăo, de 1 (um)\r\n a 3 (tręs) anos.\n(Incluído pela Lei\r\n nş 11.284, de 2006)\n§ 2\no\nA\r\n pena é aumentada de 1/3 (um terço) a 2/3 (dois terços), se há dano significativo ao\r\n meio ambiente, em decorręncia do uso da informaçăo falsa, incompleta ou enganosa.\n(Incluído pela Lei nş 11.284, de 2006)\nCAPÍTULO VI\nDA INFRAÇĂO ADMINISTRATIVA",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 34896,
+        "char_end": 35672
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#75",
+      "type": "artigo_candidato",
+      "name": "Art. 70",
+      "content": "Art. 70. Considera-se infraçăo administrativa ambiental toda açăo ou omissăo que\r\n viole as regras jurídicas de uso, gozo, promoçăo, proteçăo e recuperaçăo do meio\r\n ambiente.\n§\r\n 1ş Săo autoridades competentes para lavrar auto de infraçăo ambiental e instaurar\r\n processo administrativo os funcionários de órgăos ambientais integrantes do Sistema\r\n Nacional de Meio Ambiente - SISNAMA, designados para as atividades de fiscalizaçăo, bem\r\n como os agentes das Capitanias dos Portos, do Ministério da Marinha.\n§\r\n 2ş Qualquer pessoa, constatando infraçăo ambiental, poderá dirigir representaçăo ŕs\r\n autoridades relacionadas no parágrafo anterior, para efeito do exercício do seu poder de\r\n polícia.\n§\r\n 3ş A autoridade ambiental que tiver conhecimento de infraçăo ambiental é obrigada a\r\n promover a sua apuraçăo imediata, mediante processo administrativo próprio, sob pena de\r\n co-responsabilidade.\n§\r\n 4ş As infraçőes ambientais săo apuradas em processo administrativo próprio,\r\n assegurado o direito de ampla defesa e o contraditório, observadas as disposiçőes desta\r\n Lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 35672,
+        "char_end": 36749
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#76",
+      "type": "artigo_candidato",
+      "name": "Art. 71",
+      "content": "Art. 71. O processo administrativo para apuraçăo de infraçăo ambiental deve observar\r\n os seguintes prazos máximos:\nI\r\n - vinte dias para o infrator oferecer defesa ou impugnaçăo contra o auto de infraçăo,\r\n contados da data da cięncia da autuaçăo;\nII\r\n - trinta dias para a autoridade competente julgar o auto de infraçăo, contados da data\r\n da sua lavratura, apresentada ou năo a defesa ou impugnaçăo;\nIII - vinte dias para o infrator recorrer da decisăo condenatória ŕ instância superior\r\n do Sistema Nacional do Meio Ambiente - SISNAMA, ou ŕ Diretoria de Portos e Costas, do\r\n Ministério da Marinha, de acordo com o tipo de autuaçăo;\nIV\r\n – cinco dias para o pagamento de multa, contados da data do recebimento da\r\n notificaçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 36749,
+        "char_end": 37482
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#77",
+      "type": "artigo_candidato",
+      "name": "Art. 72",
+      "content": "Art. 72. As infraçőes administrativas săo punidas com as seguintes sançőes, observado\r\n o disposto no art. 6ş:\nI\r\n - advertęncia;\nII\r\n - multa simples;\nIII - multa diária;\nIV\r\n - apreensăo dos animais, produtos e subprodutos da fauna e flora, instrumentos,\r\n petrechos, equipamentos ou veículos de qualquer natureza utilizados na infraçăo;\nV\r\n - destruiçăo ou inutilizaçăo do produto;\nVI\r\n - suspensăo de venda e fabricaçăo do produto;\nVII - embargo de obra ou atividade;\nVIII - demoliçăo de obra;\nIX\r\n - suspensăo parcial ou total de atividades;\nX\r\n –\n(VETADO)\nXI\r\n - restritiva de direitos.\n§\r\n 1ş Se o infrator cometer, simultaneamente, duas ou mais infraçőes, ser-lhe-ăo\r\n aplicadas, cumulativamente, as sançőes a elas cominadas.\n§\r\n 2ş A advertęncia será aplicada pela inobservância das disposiçőes desta Lei e da\r\n legislaçăo em vigor, ou de preceitos regulamentares, sem prejuízo das demais sançőes\r\n previstas neste artigo.\n§\r\n 3ş A multa simples será aplicada sempre que o agente, por negligęncia ou dolo:\nI\r\n - advertido por irregularidades que tenham sido praticadas, deixar de saná-las, no prazo\r\n assinalado por órgăo competente do SISNAMA ou pela Capitania dos Portos, do Ministério\r\n da Marinha;\nII\r\n - opuser embaraço ŕ fiscalizaçăo dos órgăos do SISNAMA ou da Capitania dos Portos,\r\n do Ministério da Marinha.\n§\r\n 4° A multa simples pode ser convertida em serviços de preservaçăo, melhoria e\r\n recuperaçăo da qualidade do meio ambiente.\n§\r\n 5ş A multa diária será aplicada sempre que o cometimento da infraçăo se prolongar no\r\n tempo.\n§\r\n 6ş A apreensăo e destruiçăo referidas nos incisos IV e V do\ncaput\nobedecerăo\r\n ao disposto no art. 25 desta Lei.\n§\r\n 7ş As sançőes indicadas nos incisos VI a IX do\ncaput\nserăo aplicadas quando o\r\n produto, a obra, a atividade ou o estabelecimento năo estiverem obedecendo ŕs\r\n prescriçőes legais ou regulamentares.\n§\r\n 8ş As sançőes restritivas de direito săo:\nI\r\n - suspensăo de registro, licença ou autorizaçăo;\nII\r\n - cancelamento de registro, licença ou autorizaçăo;\nIII - perda ou restriçăo de incentivos e benefícios fiscais;\nIV\r\n - perda ou suspensăo da participaçăo em linhas de financiamento em estabelecimentos\r\n oficiais de crédito;\nV\r\n - proibiçăo de contratar com a Administraçăo Pública, pelo período de até tręs\r\n anos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 37482,
+        "char_end": 39773
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#78",
+      "type": "artigo_candidato",
+      "name": "Art. 73",
+      "content": "Art. 73. Os valores arrecadados em pagamento de multas por infraçăo ambiental serăo\r\n revertidos ao Fundo Nacional do Meio Ambiente, criado pela\nLei nş\r\n 7.797, de 10 de julho de 1989\n, Fundo Naval, criado pelo\nDecreto nş 20.923, de 8 de\r\n janeiro de 1932\n, fundos estaduais ou municipais de meio ambiente, ou correlatos, conforme\r\n dispuser o órgăo arrecadador.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 39773,
+        "char_end": 40136
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#79",
+      "type": "artigo_candidato",
+      "name": "Art. 73",
+      "content": "Art. 73. Os valores arrecadados em pagamento \r\n de multas por infraçăo ambiental serăo revertidos ao Fundo Nacional \r\n do Meio Ambiente, criado pela\nLei nş 7.797, de 10 de julho de 1989\n, ao Fundo Naval, \r\n criado pelo\nDecreto nş 20.923, de 8 de janeiro de 1932\n, ao Fundo \r\n Nacional para Calamidades Públicas, Proteçăo e Defesa Civil (Funcap), \r\n criado pela\nLei nş 12.340, de 1ş de dezembro de 2010\n, e aos fundos \r\n estaduais ou municipais de meio ambiente, ou correlatos, conforme \r\n dispuser o órgăo arrecadador.\n(Redaçăo dada pela Lei \r\nnş 14.691, de 2023)\n§ 1ş Reverterăo ao Fundo Nacional do Meio Ambiente 50% (cinquenta \r\n por cento) dos valores arrecadados em pagamento de multas aplicadas \r\n pela Uniăo, percentual que poderá ser alterado a critério dos órgăos \r\n arrecadadores.\n(Incluído pela Lei nş 14.691, de 2023)\n§ 2ş (VETADO).\n(Incluído pela Lei nş 14.691, de 2023)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 40136,
+        "char_end": 41020
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#80",
+      "type": "artigo_candidato",
+      "name": "Art. 74",
+      "content": "Art. 74. A multa terá por base a unidade, hectare, metro cúbico, quilograma ou outra\r\n medida pertinente, de acordo com o objeto jurídico lesado.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 41020,
+        "char_end": 41166
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#81",
+      "type": "artigo_candidato",
+      "name": "Art. 75",
+      "content": "Art. 75. O valor da multa de que trata este Capítulo será fixado no regulamento desta\r\n Lei e corrigido periodicamente, com base nos índices estabelecidos na legislaçăo\r\n pertinente, sendo o mínimo de R$ 50,00 (cinqüenta reais) e o máximo de R$ 50.000.000,00\r\n (cinqüenta milhőes de reais).",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 41166,
+        "char_end": 41457
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#82",
+      "type": "artigo_candidato",
+      "name": "Art. 76",
+      "content": "Art. 76. O pagamento de multa imposta pelos Estados, Municípios, Distrito Federal ou\r\n Territórios substitui a multa federal na mesma hipótese de incidęncia.\nCAPÍTULO VII\nDA COOPERAÇĂO INTERNACIONAL PARA A\r\n PRESERVAÇĂO DO MEIO AMBIENTE",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 41457,
+        "char_end": 41694
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#83",
+      "type": "artigo_candidato",
+      "name": "Art. 77",
+      "content": "Art. 77. Resguardados a soberania nacional, a ordem pública e os bons costumes, o Governo\r\n brasileiro prestará, no que concerne ao meio ambiente, a necessária cooperaçăo a outro\r\n país, sem qualquer ônus, quando solicitado para:\nI\r\n - produçăo de prova;\nII\r\n - exame de objetos e lugares;\nIII - informaçőes sobre pessoas e coisas;\nIV\r\n - presença temporária da pessoa presa, cujas declaraçőes tenham relevância para a\r\n decisăo de uma causa;\nV\r\n - outras formas de assistęncia permitidas pela legislaçăo em vigor ou pelos tratados de\r\n que o Brasil seja parte.\n§\r\n 1° A solicitaçăo de que trata este artigo será dirigida ao Ministério da Justiça,\r\n que a remeterá, quando necessário, ao órgăo judiciário competente para decidir a seu\r\n respeito, ou a encaminhará ŕ autoridade capaz de atendę-la.\n§\r\n 2ş A solicitaçăo deverá conter:\nI\r\n - o nome e a qualificaçăo da autoridade solicitante;\nII\r\n - o objeto e o motivo de sua formulaçăo;\nIII - a descriçăo sumária do procedimento em curso no país solicitante;\nIV\r\n - a especificaçăo da assistęncia solicitada;\nV\r\n - a documentaçăo indispensável ao seu esclarecimento, quando for o caso.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 41694,
+        "char_end": 42829
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#84",
+      "type": "artigo_candidato",
+      "name": "Art. 78",
+      "content": "Art. 78. Para a consecuçăo dos fins visados nesta Lei e especialmente para a\r\n reciprocidade da cooperaçăo internacional, deve ser mantido sistema de comunicaçőes\r\n apto a facilitar o intercâmbio rápido e seguro de informaçőes com órgăos de outros\r\n países.\nCAPÍTULO VIII\nDISPOSIÇŐES FINAIS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 42829,
+        "char_end": 43120
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#85",
+      "type": "artigo_candidato",
+      "name": "Art. 79",
+      "content": "Art. 79. Aplicam-se subsidiariamente a esta Lei as disposiçőes do Código Penal e do\r\n Código de Processo Penal.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 43120,
+        "char_end": 43232
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#86",
+      "type": "artigo_candidato",
+      "name": "Art. 79-A",
+      "content": "Art. 79-A.  Para\r\n o cumprimento do disposto nesta Lei, os órgăos ambientais integrantes do SISNAMA,\r\n responsáveis pela execuçăo de programas e projetos e pelo controle e fiscalizaçăo das\r\n atividades suscetíveis de degradarem a qualidade ambiental, ficam autorizados a celebrar,\r\n com força de título executivo extrajudicial, termo de compromisso com pessoas físicas\r\n ou jurídicas responsáveis pela construçăo, instalaçăo, ampliaçăo e funcionamento\r\n de estabelecimentos e atividades utilizadoras de recursos ambientais, considerados efetiva\r\n ou potencialmente poluidores, bem como os capazes, sob qualquer forma, de causar\r\n degradaçăo ambiental.\n(Incluído pela Medida Provisória\r\n nş 1.710, de 1998)\n§ 1\no\nO\r\n termo de compromisso a que se refere este artigo destinar-se-á, exclusivamente, a\r\n permitir que as pessoas físicas e jurídicas mencionadas no\ncaput\npossam promover\r\n as necessárias correçőes de suas atividades, para o atendimento das exigęncias\r\n impostas pelas autoridades ambientais competentes, sendo obrigatório que o respectivo\r\n instrumento disponha sobre:\n(Incluído pela Medida Provisória\r\n nş 1.710, de 1998)\nI - o nome, a\r\n qualificaçăo e o endereço das partes compromissadas e dos respectivos representantes\r\n legais;\n(Incluído pela Medida Provisória\r\n nş 1.710, de 1998)\nII - o prazo de vigęncia do compromisso, que, em funçăo da complexidade das \r\n obrigaçőes nele fixadas, poderá variar entre o mínimo de noventa dias e o \r\n máximo de cinco anos, com possibilidade de prorrogaçăo por igual período;\n(Incluído pela Medida Provisória\r\n nş 1.710, de 1998)\nIII - a descriçăo\r\n detalhada de seu objeto e o cronograma físico de execuçăo e de implantaçăo das obras\r\n e serviços exigidos;\n(Incluído pela Medida Provisória\r\n nş 1.710, de 1998)\nIV - as multas que podem\r\n ser aplicadas ŕ pessoa física ou jurídica compromissada e os casos de rescisăo, em\r\n decorręncia do năo-cumprimento das obrigaçőes nele pactuadas;\n(Incluído pela Medida Provisória\r\n nş 1.710, de 1998)\nV - o foro competente para dirimir\r\n litígios entre as partes.\n(Incluído pela Medida Provisória\r\n nş 1.710, de 1998)\n§\n2\no\nNo\r\n tocante aos empreendimentos em curso no dia 30 de março de 1998, envolvendo construçăo,\r\n instalaçăo, ampliaçăo e funcionamento de estabelecimentos e atividades utilizadoras de\r\n recursos ambientais, considerados efetiva ou potencialmente poluidores, bem como os\r\n capazes, sob qualquer forma, de causar degradaçăo ambiental, a assinatura do termo de\r\n compromisso deverá ser requerida pelas pessoas físicas e jurídicas interessadas, até o\r\n dia 31 de dezembro de 1998, mediante requerimento escrito protocolizado junto aos órgăos\r\n competentes do SISNAMA.\n(Incluído pela Medida Provisória\r\n nş 1.710, de 1998)\n§ 3\no\nDa\r\n data da protocolizaçăo do requerimento previsto no parágrafo anterior e enquanto\r\n perdurar a vigęncia do correspondente termo de compromisso, ficarăo suspensas, em\r\n relaçăo aos fatos que deram causa ŕ celebraçăo do instrumento, a aplicaçăo e a\r\n execuçăo de sançőes administrativas contra a pessoa física ou jurídica que o houver\r\n firmado.\n(Incluído pela Medida Provisória\r\n nş 1.710, de 1998)\n§ 4\no\nSob pena de ineficácia, os termos de \r\n compromisso deverăo ser publicados no órgăo oficial competente, mediante \r\n extrato.\n(Incluído pela Medida Provisória\r\n nş 1.710, de 1998)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 43232,
+        "char_end": 46557
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#87",
+      "type": "artigo_candidato",
+      "name": "Art. 79-A",
+      "content": "Art. 79-A.  Para o cumprimento do disposto nesta Lei, os órgăos ambientais \r\n integrantes do SISNAMA, responsáveis pela execuçăo de programas e projetos e \r\n pelo controle e fiscalizaçăo dos estabelecimentos e das atividades \r\n suscetíveis de degradarem a qualidade ambiental, ficam autorizados a \r\n celebrar, com força de título executivo extrajudicial, termo de compromisso \r\n com pessoas físicas ou jurídicas responsáveis pela construçăo, instalaçăo, \r\n ampliaçăo e funcionamento de estabelecimentos e atividades utilizadores de \r\n recursos ambientais, considerados efetiva ou potencialmente poluidores.\n(Redaçăo dada pela Medida Provisória nş \r\n 1.710-1, de 1998)\n§ 1\no\nO termo de \r\n compromisso a que se refere este artigo destinar-se-á, exclusivamente, a \r\n permitir que as pessoas físicas e jurídicas mencionadas no\ncaput\npossam promover as necessárias correçőes de suas atividades, para o \r\n atendimento das exigęncias impostas pelas autoridades ambientais \r\n competentes, sendo obrigatório que o respectivo instrumento disponha sobre:\n(Redaçăo dada pela Medida Provisória nş \r\n 1.710-1, de 1998)\nI - o nome, a qualificaçăo e o endereço das partes compromissadas e dos \r\n respectivos representantes legais;\n(Redaçăo dada pela Medida Provisória nş \r\n 1.710-1, de 1998)\nII - o prazo de vigęncia do \r\n compromisso, que, em funçăo da complexidade das obrigaçőes nele fixadas, \r\n poderá variar entre o mínimo de noventa dias e o máximo de tręs anos, com \r\n possibilidade de prorrogaçăo por igual período;\n(Redaçăo dada pela Medida Provisória nş \r\n 1.710-1, de 1998)\nIII - a descriçăo detalhada de seu \r\n objeto, o valor do investimento previsto e o cronograma físico de execuçăo e \r\n de implantaçăo das obras e serviços exigidos, com metas trimestrais a serem \r\n atingidas;\n(Redaçăo dada pela Medida Provisória nş \r\n 1.710-1, de 1998)\nIV - as multas que podem ser \r\n aplicadas ŕ pessoa física ou jurídica compromissada e os casos de rescisăo, em\r\n decorręncia do năo-cumprimento das obrigaçőes nele pactuadas;\n(Redaçăo dada pela Medida Provisória nş \r\n 1.710-1, de 1998)\nV - o valor da multa de\r\n que trata o inciso anterior năo poderá ser superior ao valor do investimento previsto;\n(Redaçăo dada pela Medida Provisória nş \r\n 1.710-1, de 1998)\nVI - o foro competente para dirimir \r\n litígios entre as partes.\n(Incluído pela Medida Provisória nş \r\n 1.710-1, de 1998)\n§ 2\no\nNo\r\n tocante aos empreendimentos em curso até o dia 30 de março de 1998, envolvendo\r\n construçăo, instalaçăo, ampliaçăo e funcionamento de estabelecimentos e atividades\r\n utilizadoras de recursos ambientais, considerados efetiva ou potencialmente poluidores, a\r\n assinatura do termo de compromisso deverá ser requerida pelas pessoas físicas e\r\n jurídicas interessadas, até o dia 31 de dezembro de 1998, mediante requerimento escrito\r\n protocolizado junto aos órgăos competentes do SISNAMA, devendo ser firmado pelo\r\n dirigente máximo do estabelecimento.\n(Redaçăo dada pela Medida Provisória nş \r\n 1.710-1, de 1998)\n§ 3\no\nDa\r\n data da protocolizaçăo do requerimento previsto no parágrafo anterior e enquanto\r\n perdurar a vigęncia do correspondente termo de compromisso, ficarăo suspensas, em\r\n relaçăo aos fatos que deram causa ŕ celebraçăo do instrumento, a aplicaçăo de\r\n sançőes administrativas contra a pessoa física ou jurídica que o houver firmado.\n(Redaçăo dada pela Medida Provisória nş \r\n 1.710-1, de 1998)\n§ 4\no\nA\r\n celebraçăo do termo de compromisso de que trata este artigo năo impede a execuçăo de\r\n eventuais multas aplicadas antes da protocolizaçăo do requerimento.\n(Redaçăo dada pela Medida Provisória nş \r\n 1.710-1, de 1998)\n§ 5\no\nConsidera-se\r\n rescindido de pleno direito o termo de compromisso, quando descumprida qualquer de suas\r\n cláusulas, ressalvado o caso fortuito ou de força maior.\n(Incluído pela Medida Provisória nş \r\n 1.710-1, de 1998)\n§ 6\no\nO\r\n termo de compromisso deverá ser firmado em até noventa dias, contados da\r\n protocolizaçăo do requerimento.\n(Incluído pela Medida Provisória nş \r\n 1.710-1, de 1998)\n§ 7\no\nO\r\n requerimento de celebraçăo do termo de compromisso deverá conter as informaçőes\r\n necessárias ŕ verificaçăo da sua viabilidade técnica e jurídica, sob pena de\r\n indeferimento do plano.\n(Incluído pela Medida Provisória nş \r\n 1.710-1, de 1998)\n§ 8\no\nSob \r\n pena de ineficácia, os termos de compromisso deverăo ser publicados no órgăo \r\n oficial competente, mediante extrato.\n(Incluído pela Medida Provisória nş \r\n 1.710-1, de 1998)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 46557,
+        "char_end": 51013
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#88",
+      "type": "artigo_candidato",
+      "name": "Art. 79-A",
+      "content": "Art. 79-A. Para o cumprimento do disposto nesta Lei, os \r\nórgăos ambientais integrantes do SISNAMA, responsáveis pela\r\n execuçăo de programas e projetos e pelo controle e fiscalizaçăo dos estabelecimentos e\r\n das atividades suscetíveis de degradarem a qualidade ambiental, ficam autorizados a\r\n celebrar, com força de título executivo extrajudicial, termo de compromisso com pessoas\r\n físicas ou jurídicas responsáveis pela construçăo, instalaçăo, ampliaçăo e\r\n funcionamento de estabelecimentos e atividades utilizadores de recursos ambientais,\r\n considerados efetiva ou potencialmente poluidores.\n(Redaçăo dada pela Medida Provisória nş 2.163-41, de 2001)\n§ 1\no\nO\r\n termo de compromisso a que se refere este artigo destinar-se-á, exclusivamente, a\r\n permitir que as pessoas físicas e jurídicas mencionadas no\ncaput\npossam promover\r\n as necessárias correçőes de suas atividades, para o atendimento das exigęncias\r\n impostas pelas autoridades ambientais competentes, sendo obrigatório que o respectivo\r\n instrumento disponha sobre:\n(Redaçăo dada pela Medida Provisória nş 2.163-41, de 2001)\nI - o nome, a qualificaçăo e o\r\n endereço das partes compromissadas e dos respectivos representantes legais;\n(Redaçăo dada pela Medida Provisória nş 2.163-41, de 2001)\nII - o prazo de vigęncia do\r\n compromisso, que, em funçăo da complexidade das obrigaçőes nele fixadas, poderá\r\n variar entre o mínimo de noventa dias e o máximo de tręs anos, com possibilidade de\r\n prorrogaçăo por igual período;\n(Redaçăo dada pela Medida Provisória nş 2.163-41, de 2001)\nIII - a descriçăo detalhada de\r\n seu objeto, o valor do investimento previsto e o cronograma físico de execuçăo e de\r\n implantaçăo das obras e serviços exigidos, com metas trimestrais a serem atingidas;\n(Redaçăo dada pela Medida Provisória nş 2.163-41, de 2001)\nIV - as multas que podem ser\r\n aplicadas ŕ pessoa física ou jurídica compromissada e os casos de rescisăo, em\r\n decorręncia do năo-cumprimento das obrigaçőes nele pactuadas;\n(Redaçăo dada pela Medida Provisória nş 2.163-41, de 2001)\nV - o valor da multa de que trata o\r\n inciso IV năo poderá ser superior ao valor do investimento previsto;\n(Redaçăo dada pela Medida Provisória nş 2.163-41, de 2001)\nVI - o foro competente para dirimir\r\n litígios entre as partes.\n(Incluído pela Medida Provisória\r\n nş 2.163-41, de 2001)\n§ 2\no\nNo\r\n tocante aos empreendimentos em curso até o dia 30 de março de 1998, envolvendo\r\n construçăo, instalaçăo, ampliaçăo e funcionamento de estabelecimentos e atividades\r\n utilizadores de recursos ambientais, considerados efetiva ou potencialmente poluidores, a\r\n assinatura do termo de compromisso deverá ser requerida pelas pessoas físicas e\r\n jurídicas interessadas, até o dia 31 de dezembro de 1998, mediante requerimento escrito\r\n protocolizado junto aos órgăos competentes do SISNAMA, devendo ser firmado pelo\r\n dirigente máximo do estabelecimento.\n(Redaçăo dada pela Medida Provisória nş 2.163-41, de 2001)\n§ 3\no\nDa\r\n data da protocolizaçăo do requerimento previsto no § 2\no\ne enquanto\r\n perdurar a vigęncia do correspondente termo de compromisso, ficarăo suspensas, em\r\n relaçăo aos fatos que deram causa ŕ celebraçăo do instrumento, a aplicaçăo de\r\n sançőes administrativas contra a pessoa física ou jurídica que o houver firmado.\n(Redaçăo dada pela Medida Provisória nş 2.163-41, de 2001)\n§ 4\no\nA\r\n celebraçăo do termo de compromisso de que trata este artigo năo impede a execuçăo de\r\n eventuais multas aplicadas antes da protocolizaçăo do requerimento.\n(Redaçăo dada pela Medida Provisória nş 2.163-41, de 2001)\n§ 5\no\nConsidera-se\r\n rescindido de pleno direito o termo de compromisso, quando descumprida qualquer de suas\r\n cláusulas, ressalvado o caso fortuito ou de força maior.\n(Incluído pela Medida Provisória\r\n nş 2.163-41, de 2001)\n§ 6\no\nO\r\n termo de compromisso deverá ser firmado em até noventa dias, contados da\r\n protocolizaçăo do requerimento.\n(Incluído pela Medida Provisória\r\n nş 2.163-41, de 2001)\n§ 7\no\nO\r\n requerimento de celebraçăo do termo de compromisso deverá conter as informaçőes\r\n necessárias ŕ verificaçăo da sua viabilidade técnica e jurídica, sob pena de\r\n indeferimento do plano.\n(Incluído pela Medida Provisória\r\n nş 2.163-41, de 2001)\n§ 8\no\nSob \r\n pena de ineficácia, os termos de compromisso deverăo ser publicados no órgăo \r\n oficial competente, mediante extrato.\n(Incluído pela Medida Provisória\r\n nş 2.163-41, de 2001)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 51013,
+        "char_end": 55409
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#89",
+      "type": "artigo_candidato",
+      "name": "Art. 80",
+      "content": "Art. 80. O Poder Executivo regulamentará esta Lei no prazo de noventa dias a contar de\r\n sua publicaçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 55409,
+        "char_end": 55514
+      }
+    },
+    {
+      "id": "BR.LEI.9605.1998#90",
+      "type": "artigo_candidato",
+      "name": "Art. 82",
+      "content": "Art. 82. Revogam-se as disposiçőes em contrário.\nBrasília, 12 de fevereiro de 1998; 177ş da\r\n Independęncia e 110ş da República.\nFERNANDO HENRIQUE CARDOSO\nGustavo Krause\nEste texto năo substitui o publicado no\r\nDOU de 13.2.1998 e\nretificado em 17.2.1998\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 55532,
+        "char_end": 55788
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "b56cab998fc27414f91dca42a313fc2bcf9acbe633a347d2f48d8d2aac17c7b0"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "meio ambiente"
+    },
+    {
+      "type": "subject",
+      "target": "licenciamento"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:31:39.912764+00:00",
+      "sha256": "b56cab998fc27414f91dca42a313fc2bcf9acbe633a347d2f48d8d2aac17c7b0",
+      "file": "documentos_oficiais/08_transversal/br-lei-9605-1998.html",
+      "extracted_text": "textos_extraidos/08_transversal/br-lei-9605-1998.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 90,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

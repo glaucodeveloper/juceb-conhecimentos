@@ -1,0 +1,64 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.BA.PORTAL_JUCEB.procedimentos.2026",
+  "title": "Passo a passo de registro na JUCEB",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BA"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "03e712a162cd3cc37615a17350c3bb60d9c08915d277e4d11637abeb3bfc4868"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "juceb"
+    },
+    {
+      "type": "subject",
+      "target": "atos"
+    },
+    {
+      "type": "subject",
+      "target": "viabilidade"
+    },
+    {
+      "type": "subject",
+      "target": "registro"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.ba.gov.br/juceb/passo-passo",
+      "original_url": "https://www.ba.gov.br/juceb/passo-passo",
+      "authority": "JUCEB",
+      "retrieved_at": "2026-10-20T07:31:37.420789+00:00",
+      "sha256": "03e712a162cd3cc37615a17350c3bb60d9c08915d277e4d11637abeb3bfc4868",
+      "file": "documentos_oficiais/07_bahia/br-ba-portal-juceb-procedimentos-2026.html",
+      "extracted_text": "textos_extraidos/07_bahia/br-ba-portal-juceb-procedimentos-2026.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 0,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

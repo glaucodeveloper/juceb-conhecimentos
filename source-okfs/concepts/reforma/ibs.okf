@@ -1,0 +1,153 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.IBS",
+  "title": "IBS",
+  "summary": "Tributo sobre bens e serviços e seus mecanismos de apuração em transição.",
+  "elements": [
+    {
+      "id": "ibs.1",
+      "type": "fator_de_decisao",
+      "name": "competencia"
+    },
+    {
+      "id": "ibs.2",
+      "type": "fator_de_decisao",
+      "name": "tipo operacao"
+    },
+    {
+      "id": "ibs.3",
+      "type": "fator_de_decisao",
+      "name": "destino"
+    },
+    {
+      "id": "ibs.4",
+      "type": "fator_de_decisao",
+      "name": "contribuinte"
+    },
+    {
+      "id": "ibs.5",
+      "type": "fator_de_decisao",
+      "name": "regime"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "reforma"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.EC.132.2023"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.214.2025"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.227.2026"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "competencia",
+        "tipo operacao",
+        "destino",
+        "contribuinte",
+        "regime"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.EC.132.2023",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LC.214.2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LC.227.2026",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Distinguir exercício de referência, teste e recolhimento efetivo"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "reforma/ibs",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.EC.132.2023",
+      "title": "Reforma Tributária do Consumo",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+      "evidence_url": "",
+      "reference_okf": "references/05_reforma/ec-132-2023.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LC.214.2025",
+      "title": "IBS, CBS, Imposto Seletivo e legislação do consumo",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "evidence_url": "",
+      "reference_okf": "references/05_reforma/lc-214-2025.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LC.227.2026",
+      "title": "CGIBS e processo administrativo do IBS",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm",
+      "evidence_url": "",
+      "reference_okf": "references/05_reforma/lc-227-2026.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

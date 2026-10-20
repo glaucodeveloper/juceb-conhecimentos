@@ -1,0 +1,933 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.LEI.9784.1999",
+  "title": "Processo administrativo federal",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.LEI.9784.1999#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1\no\nEsta Lei estabelece normas básicas sobre o processo\r\nadministrativo no âmbito da Administraçăo Federal direta e indireta, visando, em\r\nespecial, ŕ proteçăo dos direitos dos administrados e ao melhor cumprimento dos fins da\r\nAdministraçăo.\n§\r\n1\no\nOs preceitos desta Lei também se aplicam aos órgăos dos Poderes\r\nLegislativo e Judiciário da Uniăo, quando no desempenho de funçăo administrativa.\n§\r\n2\no\nPara os fins desta Lei, consideram-se:\nI\r\n- órgăo - a unidade de atuaçăo integrante da estrutura da Administraçăo direta e da\r\nestrutura da Administraçăo indireta;\nII\r\n- entidade - a unidade de atuaçăo dotada de personalidade jurídica;\nIII - autoridade - o servidor ou agente público dotado de poder de decisăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 333,
+        "char_end": 1054
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#2",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2\no\nA Administraçăo Pública obedecerá, dentre outros, aos\r\nprincípios da legalidade, finalidade, motivaçăo, razoabilidade, proporcionalidade,\r\nmoralidade, ampla defesa, contraditório, segurança jurídica, interesse público e\r\neficięncia.\nParágrafo único. Nos processos administrativos serăo observados, entre outros, os\r\ncritérios de:\nI\r\n- atuaçăo conforme a lei e o Direito;\nII\r\n- atendimento a fins de interesse geral, vedada a renúncia total ou parcial de poderes ou\r\ncompetęncias, salvo autorizaçăo em lei;\nIII - objetividade no atendimento do interesse público, vedada a promoçăo pessoal de\r\nagentes ou autoridades;\nIV\r\n- atuaçăo segundo padrőes éticos de probidade, decoro e boa-fé;\nV\r\n- divulgaçăo oficial dos atos administrativos, ressalvadas as hipóteses de sigilo\r\nprevistas na Constituiçăo;\nVI\r\n- adequaçăo entre meios e fins, vedada a imposiçăo de obrigaçőes, restriçőes e\r\nsançőes em medida superior ŕquelas estritamente necessárias ao atendimento do\r\ninteresse público;\nVII - indicaçăo dos pressupostos de fato e de direito que determinarem a decisăo;\nVIII – observância das formalidades essenciais ŕ garantia dos direitos dos\r\nadministrados;\nIX\r\n- adoçăo de formas simples, suficientes para propiciar adequado grau de certeza,\r\nsegurança e respeito aos direitos dos administrados;\nX\r\n- garantia dos direitos ŕ comunicaçăo, ŕ apresentaçăo de alegaçőes finais, ŕ\r\nproduçăo de provas e ŕ interposiçăo de recursos, nos processos de que possam resultar\r\nsançőes e nas situaçőes de litígio;\nXI\r\n- proibiçăo de cobrança de despesas processuais, ressalvadas as previstas em lei;\nXII - impulsăo, de ofício, do processo administrativo, sem prejuízo da atuaçăo dos\r\ninteressados;\nXIII - interpretaçăo da norma administrativa da forma que melhor garanta o atendimento\r\ndo fim público a que se dirige, vedada aplicaçăo retroativa de nova interpretaçăo.\nCAPÍTULO II\nDOS DIREITOS DOS ADMINISTRADOS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1054,
+        "char_end": 2956
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#3",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3\no\nO administrado tem os seguintes direitos perante a\r\nAdministraçăo, sem prejuízo de outros que lhe sejam assegurados:\nI\r\n- ser tratado com respeito pelas autoridades e servidores, que deverăo facilitar o\r\nexercício de seus direitos e o cumprimento de suas obrigaçőes;\nII\r\n- ter cięncia da tramitaçăo dos processos administrativos em que tenha a condiçăo de\r\ninteressado, ter vista dos autos, obter cópias de documentos neles contidos e conhecer as\r\ndecisőes proferidas;\nIII - formular alegaçőes e apresentar documentos antes da decisăo, os quais serăo\r\nobjeto de consideraçăo pelo órgăo competente;\nIV\r\n- fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a\r\nrepresentaçăo, por força de lei.\nCAPÍTULO III\nDOS DEVERES DO ADMINISTRADO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2956,
+        "char_end": 3722
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#4",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4\no\nSăo deveres do administrado perante a Administraçăo, sem\r\nprejuízo de outros previstos em ato normativo:\nI\r\n- expor os fatos conforme a verdade;\nII\r\n- proceder com lealdade, urbanidade e boa-fé;\nIII - năo agir de modo temerário;\nIV\r\n- prestar as informaçőes que lhe forem solicitadas e colaborar para o esclarecimento dos\r\nfatos.\nCAPÍTULO IV\nDO INÍCIO DO PROCESSO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3722,
+        "char_end": 4095
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#5",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5\no\nO processo administrativo pode iniciar-se de\r\nofício ou a pedido de interessado.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4095,
+        "char_end": 4185
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#6",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6\no\nO requerimento inicial do interessado,\r\nsalvo casos em que for admitida solicitaçăo oral, deve ser formulado por escrito e\r\nconter os seguintes dados:\nI\r\n- órgăo ou autoridade administrativa a que se dirige;\nII\r\n- identificaçăo do interessado ou de quem o represente;\nIII - domicílio do requerente ou local para recebimento de comunicaçőes;\nIV\r\n- formulaçăo do pedido, com exposiçăo dos fatos e de seus fundamentos;\nV\r\n- data e assinatura do requerente ou de seu representante.\nParágrafo único. É vedada ŕ Administraçăo a recusa imotivada de recebimento de\r\ndocumentos, devendo o servidor orientar o interessado quanto ao suprimento de eventuais\r\nfalhas.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4185,
+        "char_end": 4849
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#7",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7\no\nOs órgăos e entidades administrativas deverăo elaborar\r\nmodelos ou formulários padronizados para assuntos que importem pretensőes equivalentes.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4849,
+        "char_end": 5002
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#8",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8\no\nQuando os pedidos de uma pluralidade de interessados tiverem\r\nconteúdo e fundamentos idęnticos, poderăo ser formulados em um único requerimento,\r\nsalvo preceito legal em contrário.\nCAPÍTULO V\nDOS INTERESSADOS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5002,
+        "char_end": 5220
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#9",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9\no\nSăo legitimados como interessados no\r\nprocesso administrativo:\nI\r\n- pessoas físicas ou jurídicas que o iniciem como titulares de direitos ou interesses\r\nindividuais ou no exercício do direito de representaçăo;\nII\r\n- aqueles que, sem terem iniciado o processo, tęm direitos ou interesses que possam ser\r\nafetados pela decisăo a ser     adotada;\nIII - as organizaçőes e associaçőes representativas, no tocante a direitos e\r\ninteresses coletivos;\nIV\r\n- as pessoas ou as associaçőes legalmente constituídas quanto a direitos ou interesses\r\ndifusos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5220,
+        "char_end": 5774
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#10",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. Săo capazes, para fins de processo administrativo, os maiores de dezoito anos,\r\nressalvada previsăo especial em ato normativo próprio.\nCAPÍTULO VI\nDA COMPETĘNCIA",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5774,
+        "char_end": 5945
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#11",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11. A competęncia é irrenunciável e se exerce pelos órgăos administrativos a que\r\nfoi atribuída como própria, salvo os casos de delegaçăo e avocaçăo legalmente\r\nadmitidos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5945,
+        "char_end": 6122
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#12",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12. Um órgăo administrativo e seu titular poderăo, se năo\r\nhouver impedimento legal, delegar parte da sua competęncia a outros órgăos ou\r\ntitulares, ainda que estes năo lhe sejam hierarquicamente subordinados, quando for\r\nconveniente, em razăo de circunstâncias de índole técnica, social, econômica,\r\njurídica ou territorial.\nParágrafo \r\núnico. O disposto no\ncaput\ndeste artigo aplica-se ŕ delegaçăo de \r\ncompetęncia dos órgăos colegiados aos respectivos presidentes.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6122,
+        "char_end": 6595
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#13",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13. Năo podem ser objeto de delegaçăo:\nI\r\n- a ediçăo de atos de caráter normativo;\nII\r\n- a decisăo de recursos administrativos;\nIII - as matérias de competęncia exclusiva do órgăo ou autoridade.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6595,
+        "char_end": 6795
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#14",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14. O ato de delegaçăo e sua revogaçăo deverăo ser\r\npublicados no meio oficial.\n§\r\n1\no\nO ato de delegaçăo especificará as matérias e poderes\r\ntransferidos, os limites da atuaçăo do delegado, a duraçăo e os objetivos da\r\ndelegaçăo e o recurso cabível, podendo conter ressalva de exercício da atribuiçăo\r\ndelegada.\n§\r\n2\no\nO ato de delegaçăo é revogável a qualquer tempo pela autoridade\r\ndelegante.\n§\r\n3\no\nAs decisőes adotadas por delegaçăo devem mencionar explicitamente\r\nesta qualidade e considerar-se-ăo editadas pelo delegado.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6795,
+        "char_end": 7328
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#15",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15. Será permitida, em caráter excepcional e por motivos relevantes devidamente\r\njustificados, a avocaçăo temporária de competęncia atribuída a órgăo\r\nhierarquicamente inferior.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7328,
+        "char_end": 7511
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#16",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16. Os órgăos e entidades administrativas divulgarăo publicamente os locais das\r\nrespectivas sedes e, quando conveniente, a unidade fundacional competente em matéria de\r\ninteresse especial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7511,
+        "char_end": 7706
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#17",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17. Inexistindo competęncia legal específica, o processo administrativo deverá ser\r\niniciado perante a autoridade de menor grau hierárquico para decidir.\nCAPÍTULO VII\nDOS IMPEDIMENTOS E DA SUSPEIÇĂO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7706,
+        "char_end": 7910
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#18",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "Art. 18. É impedido de atuar em processo administrativo o servidor ou autoridade que:\nI\r\n- tenha interesse direto ou indireto na matéria;\nII\r\n- tenha participado ou venha a participar como perito, testemunha ou representante, ou se\r\ntais situaçőes ocorrem quanto ao cônjuge, companheiro ou parente e afins até o\r\nterceiro grau;\nIII - esteja litigando judicial ou administrativamente com o interessado ou respectivo\r\ncônjuge ou companheiro.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7910,
+        "char_end": 8350
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#19",
+      "type": "artigo_candidato",
+      "name": "Art. 19",
+      "content": "Art. 19. A autoridade ou servidor que incorrer em impedimento deve comunicar o fato ŕ\r\nautoridade competente, abstendo-se de atuar.\nParágrafo único. A omissăo do dever de comunicar o impedimento constitui falta grave,\r\npara efeitos disciplinares.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8350,
+        "char_end": 8597
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#20",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20. Pode ser argüida a suspeiçăo de autoridade ou servidor que tenha amizade\r\níntima ou inimizade notória com algum dos interessados ou com os respectivos cônjuges,\r\ncompanheiros, parentes e afins até o terceiro grau.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8597,
+        "char_end": 8820
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#21",
+      "type": "artigo_candidato",
+      "name": "Art. 21",
+      "content": "Art. 21. O indeferimento de alegaçăo de suspeiçăo poderá ser objeto de recurso, sem\r\nefeito suspensivo.\nCAPÍTULO VIII\nDA FORMA, TEMPO E LUGAR DOS ATOS DO PROCESSO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8820,
+        "char_end": 8983
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#22",
+      "type": "artigo_candidato",
+      "name": "Art. 22",
+      "content": "Art. 22. Os atos do processo administrativo năo dependem de forma determinada senăo\r\nquando a lei expressamente a exigir.\n§\r\n1\no\nOs atos do processo devem ser produzidos por escrito, em vernáculo,\r\ncom a data e o local de sua realizaçăo e a assinatura da autoridade responsável.\n§\r\n2\no\nSalvo imposiçăo legal, o reconhecimento de firma somente será\r\nexigido quando houver dúvida de autenticidade.\n§\r\n3\no\nA autenticaçăo de documentos exigidos em cópia poderá ser feita\r\npelo órgăo administrativo.\n§\r\n4\no\nO processo deverá ter suas páginas numeradas seqüencialmente e\r\nrubricadas.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8983,
+        "char_end": 9561
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#23",
+      "type": "artigo_candidato",
+      "name": "Art. 23",
+      "content": "Art. 23. Os atos do processo devem realizar-se em dias úteis, no horário normal de\r\nfuncionamento da repartiçăo na qual tramitar o processo.\nParágrafo único. Serăo concluídos depois do horário normal os atos já iniciados,\r\ncujo adiamento prejudique o curso regular do procedimento ou cause dano ao interessado ou\r\nŕ Administraçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9561,
+        "char_end": 9892
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#24",
+      "type": "artigo_candidato",
+      "name": "Art. 24",
+      "content": "Art. 24. Inexistindo disposiçăo específica, os atos do órgăo ou autoridade\r\nresponsável pelo processo e dos administrados que dele participem devem ser praticados no\r\nprazo de cinco dias, salvo motivo de força maior.\nParágrafo único. O prazo previsto neste artigo pode ser dilatado até o dobro, mediante\r\ncomprovada justificaçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9892,
+        "char_end": 10222
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#25",
+      "type": "artigo_candidato",
+      "name": "Art. 25",
+      "content": "Art. 25. Os atos do processo devem realizar-se preferencialmente na sede do órgăo,\r\ncientificando-se o interessado se outro for o local de realizaçăo.\nCAPÍTULO IX\nDA COMUNICAÇĂO DOS ATOS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 10222,
+        "char_end": 10409
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#26",
+      "type": "artigo_candidato",
+      "name": "Art. 26",
+      "content": "Art. 26. O órgăo competente perante o qual tramita o processo administrativo\r\ndeterminará a intimaçăo do interessado para cięncia de decisăo ou a efetivaçăo de\r\ndiligęncias.\n§\r\n1\no\nA intimaçăo deverá conter:\nI\r\n- identificaçăo do intimado e nome do órgăo ou entidade administrativa;\nII\r\n- finalidade da intimaçăo;\nIII - data, hora e local em que deve comparecer;\nIV\r\n- se o intimado deve comparecer pessoalmente, ou fazer-se representar;\nV\r\n- informaçăo da continuidade do processo independentemente do seu comparecimento;\nVI\r\n- indicaçăo dos fatos e fundamentos legais pertinentes.\n§\r\n2\no\nA intimaçăo observará a antecedęncia mínima de tręs dias úteis\r\nquanto ŕ data de comparecimento.\n§\r\n3\no\nA intimaçăo pode ser efetuada por cięncia no processo, por via\r\npostal com aviso de recebimento, por telegrama ou outro meio que assegure a certeza da\r\ncięncia do interessado.\n§\r\n4\no\nNo caso de interessados indeterminados, desconhecidos ou com\r\ndomicílio indefinido, a intimaçăo deve ser efetuada por meio de publicaçăo oficial.\n§\r\n5\no\nAs intimaçőes serăo nulas quando feitas sem observância das\r\nprescriçőes legais, mas o comparecimento do administrado supre sua falta ou\r\nirregularidade.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 10409,
+        "char_end": 11593
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#27",
+      "type": "artigo_candidato",
+      "name": "Art. 27",
+      "content": "Art. 27. O desatendimento da intimaçăo năo importa o reconhecimento da verdade dos\r\nfatos, nem a renúncia a direito pelo administrado.\nParágrafo único. No prosseguimento do processo, será garantido direito de ampla defesa\r\nao interessado.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11593,
+        "char_end": 11832
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#28",
+      "type": "artigo_candidato",
+      "name": "Art. 28",
+      "content": "Art. 28. Devem ser objeto de intimaçăo os atos do processo que resultem para o\r\ninteressado em imposiçăo de deveres, ônus, sançőes ou restriçăo ao exercício de\r\ndireitos e atividades e os atos de outra natureza, de seu interesse.\nCAPÍTULO X\nDA INSTRUÇĂO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11832,
+        "char_end": 12086
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#29",
+      "type": "artigo_candidato",
+      "name": "Art. 29",
+      "content": "Art. 29. As atividades de instruçăo destinadas a averiguar e comprovar os dados\r\nnecessários ŕ tomada de decisăo realizam-se de ofício ou mediante impulsăo do órgăo\r\nresponsável pelo processo, sem prejuízo do direito dos interessados de propor atuaçőes\r\nprobatórias.\n§\r\n1\no\nO órgăo competente para a instruçăo fará constar dos autos os\r\ndados necessários ŕ decisăo do processo.\n§\r\n2\no\nOs atos de instruçăo que exijam a atuaçăo dos interessados devem\r\nrealizar-se do modo menos oneroso para estes.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 12086,
+        "char_end": 12583
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#30",
+      "type": "artigo_candidato",
+      "name": "Art. 30",
+      "content": "Art. 30. Săo inadmissíveis no processo administrativo as provas obtidas por meios\r\nilícitos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 12583,
+        "char_end": 12676
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#31",
+      "type": "artigo_candidato",
+      "name": "Art. 31",
+      "content": "Art. 31. Quando a matéria do processo envolver assunto de\r\ninteresse geral, o órgăo competente poderá, mediante despacho motivado, abrir período\r\nde consulta pública para manifestaçăo de terceiros, antes da decisăo do pedido, se\r\nnăo houver prejuízo para a parte interessada.\n§\r\n1\no\nA abertura da consulta pública será objeto de divulgaçăo pelos\r\nmeios oficiais, a fim de que pessoas físicas ou jurídicas possam examinar os autos,\r\nfixando-se prazo para oferecimento de alegaçőes escritas.\n§\r\n2\no\nO comparecimento ŕ consulta pública năo confere, por si, a\r\ncondiçăo de interessado do processo, mas confere o direito de obter da Administraçăo\r\nresposta fundamentada, que poderá ser comum a todas as alegaçőes substancialmente\r\niguais.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 12676,
+        "char_end": 13410
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#32",
+      "type": "artigo_candidato",
+      "name": "Art. 32",
+      "content": "Art. 32. Antes da tomada de decisăo, a juízo da autoridade, diante da relevância da\r\nquestăo, poderá ser realizada audięncia pública para debates sobre a matéria do\r\nprocesso.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 13410,
+        "char_end": 13586
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#33",
+      "type": "artigo_candidato",
+      "name": "Art. 33",
+      "content": "Art. 33. Os órgăos e entidades administrativas, em matéria relevante, poderăo\r\nestabelecer outros meios de participaçăo de administrados, diretamente ou por meio de\r\norganizaçőes e associaçőes legalmente reconhecidas.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 13586,
+        "char_end": 13804
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#34",
+      "type": "artigo_candidato",
+      "name": "Art. 34",
+      "content": "Art. 34. Os resultados da consulta e audięncia pública e de outros meios de\r\nparticipaçăo de administrados deverăo ser apresentados com a indicaçăo do\r\nprocedimento adotado.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 13804,
+        "char_end": 13978
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#35",
+      "type": "artigo_candidato",
+      "name": "Art. 35",
+      "content": "Art. 35. Quando necessária ŕ instruçăo do processo, a audięncia de outros órgăos ou\r\nentidades administrativas poderá ser realizada em reuniăo conjunta, com a participaçăo\r\nde titulares ou representantes dos órgăos competentes, lavrando-se a respectiva ata, a\r\nser juntada aos autos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 13978,
+        "char_end": 14262
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#36",
+      "type": "artigo_candidato",
+      "name": "Art. 36",
+      "content": "Art. 36. Cabe ao interessado a prova dos fatos que tenha alegado, sem prejuízo do dever\r\natribuído ao órgăo competente para a instruçăo e do disposto no art. 37 desta Lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 14262,
+        "char_end": 14434
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#37",
+      "type": "artigo_candidato",
+      "name": "Art. 37",
+      "content": "Art. 37. Quando o interessado declarar que fatos e dados estăo registrados em documentos\r\nexistentes na própria Administraçăo responsável pelo processo ou em outro órgăo\r\nadministrativo, o órgăo competente para a instruçăo proverá, de ofício, ŕ\r\nobtençăo dos documentos ou das respectivas cópias.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 14434,
+        "char_end": 14731
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#38",
+      "type": "artigo_candidato",
+      "name": "Art. 38",
+      "content": "Art. 38. O interessado poderá, na fase instrutória e antes da tomada da decisăo, juntar\r\ndocumentos e pareceres, requerer diligęncias e perícias, bem como aduzir alegaçőes\r\nreferentes ŕ matéria objeto do processo.\n§\r\n1\no\nOs elementos probatórios deverăo ser considerados na motivaçăo do\r\nrelatório e da decisăo.\n§\r\n2\no\nSomente poderăo ser recusadas, mediante decisăo fundamentada, as\r\nprovas propostas pelos interessados quando sejam ilícitas, impertinentes, desnecessárias\r\nou protelatórias.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 14731,
+        "char_end": 15224
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#39",
+      "type": "artigo_candidato",
+      "name": "Art. 39",
+      "content": "Art. 39. Quando for necessária a prestaçăo de informaçőes ou a apresentaçăo de\r\nprovas pelos interessados ou terceiros, serăo expedidas intimaçőes para esse fim,\r\nmencionando-se data, prazo, forma e condiçőes de atendimento.\nParágrafo único. Năo sendo atendida a intimaçăo, poderá o órgăo competente, se\r\nentender relevante a matéria, suprir de ofício a omissăo, năo se eximindo de proferir\r\na decisăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15224,
+        "char_end": 15627
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#40",
+      "type": "artigo_candidato",
+      "name": "Art. 40",
+      "content": "Art. 40. Quando dados, atuaçőes ou documentos solicitados ao interessado forem\r\nnecessários ŕ apreciaçăo de pedido formulado, o năo atendimento no prazo fixado pela\r\nAdministraçăo para a respectiva apresentaçăo implicará arquivamento do processo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15627,
+        "char_end": 15874
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#41",
+      "type": "artigo_candidato",
+      "name": "Art. 41",
+      "content": "Art. 41. Os interessados serăo intimados de prova ou diligęncia ordenada, com\r\nantecedęncia mínima de tręs dias úteis, mencionando-se data, hora e local de\r\nrealizaçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15874,
+        "char_end": 16043
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#42",
+      "type": "artigo_candidato",
+      "name": "Art. 42",
+      "content": "Art. 42. Quando deva ser obrigatoriamente ouvido um órgăo consultivo, o parecer deverá\r\nser emitido no prazo máximo de quinze dias, salvo norma especial ou comprovada\r\nnecessidade de maior prazo.\n§\r\n1\no\nSe um parecer obrigatório e vinculante deixar de ser emitido no\r\nprazo fixado, o processo năo terá seguimento até a respectiva apresentaçăo,\r\nresponsabilizando-se quem der causa ao atraso.\n§\r\n2\no\nSe um parecer obrigatório e năo vinculante deixar de ser emitido no\r\nprazo fixado, o processo poderá ter prosseguimento e ser decidido com sua dispensa, sem\r\nprejuízo da responsabilidade de quem se omitiu no atendimento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 16043,
+        "char_end": 16663
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#43",
+      "type": "artigo_candidato",
+      "name": "Art. 43",
+      "content": "Art. 43. Quando por disposiçăo de ato normativo devam ser previamente obtidos laudos\r\ntécnicos de órgăos administrativos e estes năo cumprirem o encargo no prazo\r\nassinalado, o órgăo responsável pela instruçăo deverá solicitar laudo técnico de\r\noutro órgăo dotado de qualificaçăo e capacidade técnica equivalentes.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 16663,
+        "char_end": 16978
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#44",
+      "type": "artigo_candidato",
+      "name": "Art. 44",
+      "content": "Art. 44. Encerrada a instruçăo, o interessado terá o direito de manifestar-se no prazo\r\nmáximo de dez dias, salvo se outro prazo for legalmente fixado.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 16978,
+        "char_end": 17130
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#45",
+      "type": "artigo_candidato",
+      "name": "Art. 45",
+      "content": "Art. 45. Em caso de risco iminente, a Administraçăo Pública poderá motivadamente\r\nadotar providęncias acauteladoras sem a prévia manifestaçăo do interessado.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17130,
+        "char_end": 17288
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#46",
+      "type": "artigo_candidato",
+      "name": "Art. 46",
+      "content": "Art. 46. Os interessados tęm direito ŕ vista do processo e a obter certidőes ou cópias\r\nreprográficas dos dados e documentos que o integram, ressalvados os dados e documentos de\r\nterceiros protegidos por sigilo ou pelo direito ŕ privacidade, ŕ honra e ŕ imagem.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17288,
+        "char_end": 17550
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#47",
+      "type": "artigo_candidato",
+      "name": "Art. 47",
+      "content": "Art. 47. O órgăo de instruçăo que năo for competente para emitir a decisăo final\r\nelaborará relatório indicando o pedido inicial, o conteúdo das fases do procedimento e\r\nformulará proposta de decisăo, objetivamente justificada, encaminhando o processo ŕ\r\nautoridade competente.\nCAPÍTULO XI\nDO DEVER DE DECIDIR",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17550,
+        "char_end": 17860
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#48",
+      "type": "artigo_candidato",
+      "name": "Art. 48",
+      "content": "Art. 48. A Administraçăo tem o dever de explicitamente emitir decisăo nos processos\r\nadministrativos e sobre solicitaçőes ou reclamaçőes, em matéria de sua competęncia.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17860,
+        "char_end": 18029
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#49",
+      "type": "artigo_candidato",
+      "name": "Art. 49",
+      "content": "Art. 49. Concluída a instruçăo de processo administrativo, a Administraçăo tem o\r\nprazo de até trinta dias para decidir, salvo prorrogaçăo por igual período\r\nexpressamente motivada.\nCAPÍTULO \r\nXI-A\nDA DECISĂO COORDENADA\n(Incluído pela Lei nş \r\n14.210, de 2021)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18029,
+        "char_end": 18290
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#50",
+      "type": "artigo_candidato",
+      "name": "Art. 49-A",
+      "content": "Art. 49-A. No âmbito da Administraçăo Pública federal, as \r\ndecisőes administrativas que exijam a participaçăo de 3 (tręs) ou mais setores, \r\nórgăos ou entidades poderăo ser tomadas mediante decisăo coordenada, sempre que:\n(Incluído pela Lei nş \r\n14.210, de 2021)\nI - for \r\njustificável pela relevância da matéria; e\n(Incluído pela Lei nş \r\n14.210, de 2021)\nII - \r\nhouver discordância que prejudique a celeridade do processo administrativo \r\ndecisório.\n(Incluído pela Lei nş \r\n14.210, de 2021)\n§ 1ş \r\nPara os fins desta Lei, considera-se decisăo coordenada a instância de natureza \r\ninterinstitucional ou intersetorial que atua de forma compartilhada com a \r\nfinalidade de simplificar o processo administrativo mediante participaçăo \r\nconcomitante de todas as autoridades e agentes decisórios e dos responsáveis \r\npela instruçăo técnico-jurídica, observada a natureza do objeto e a \r\ncompatibilidade do procedimento e de sua formalizaçăo com a legislaçăo \r\npertinente.\n(Incluído pela Lei nş \r\n14.210, de 2021)\n§ 2ş \r\n (VETADO).\n(Incluído pela Lei nş \r\n14.210, de 2021)\n§ 3ş \r\n (VETADO).\n(Incluído pela Lei nş \r\n14.210, de 2021)\n§ 4ş A \r\ndecisăo coordenada năo exclui a responsabilidade originária de cada órgăo ou \r\nautoridade envolvida.\n(Incluído pela Lei nş \r\n14.210, de 2021)\n§ 5ş A \r\ndecisăo coordenada obedecerá aos princípios da legalidade, da eficięncia e da \r\ntransparęncia, com utilizaçăo, sempre que necessário, da simplificaçăo do \r\nprocedimento e da concentraçăo das instâncias decisórias.\n(Incluído pela Lei nş \r\n14.210, de 2021)\n§ 6ş Năo \r\nse aplica a decisăo coordenada aos processos administrativos:\n(Incluído pela Lei nş \r\n14.210, de 2021)\nI - de \r\nlicitaçăo;\n(Incluído pela Lei nş \r\n14.210, de 2021)\nII - \r\nrelacionados ao poder sancionador; ou\n(Incluído pela Lei nş \r\n14.210, de 2021)\nIII - em \r\nque estejam envolvidas autoridades de Poderes distintos.\n(Incluído pela Lei nş \r\n14.210, de 2021)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18290,
+        "char_end": 20203
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#51",
+      "type": "artigo_candidato",
+      "name": "Art. 49-B",
+      "content": "Art. 49-B. Poderăo habilitar-se a participar da decisăo \r\ncoordenada, na qualidade de ouvintes, os interessados de que trata o art. 9ş \r\ndesta Lei.\n(Incluído pela Lei nş \r\n14.210, de 2021)\nParágrafo único. A participaçăo na reuniăo, que poderá incluir direito a voz, \r\nserá deferida por decisăo irrecorrível da autoridade responsável pela convocaçăo \r\nda decisăo coordenada.\n(Incluído pela Lei nş \r\n14.210, de 2021)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 20203,
+        "char_end": 20619
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#52",
+      "type": "artigo_candidato",
+      "name": "Art. 49-C",
+      "content": "Art. 49-C.  (VETADO).\n(Incluído pela Lei nş \r\n14.210, de 2021)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 20619,
+        "char_end": 20682
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#53",
+      "type": "artigo_candidato",
+      "name": "Art. 49-D",
+      "content": "Art. 49-D. Os participantes da decisăo coordenada deverăo \r\nser intimados na forma do art. 26 desta Lei.\n(Incluído pela Lei nş \r\n14.210, de 2021)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 20682,
+        "char_end": 20828
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#54",
+      "type": "artigo_candidato",
+      "name": "Art. 49-E",
+      "content": "Art. 49-E. Cada órgăo ou entidade participante é \r\nresponsável pela elaboraçăo de documento específico sobre o tema atinente ŕ \r\nrespectiva competęncia, a fim de subsidiar os trabalhos e integrar o processo da \r\ndecisăo coordenada.\n(Incluído pela Lei nş \r\n14.210, de 2021)\nParágrafo único. O documento previsto no\ncaput\ndeste artigo abordará a \r\nquestăo objeto da decisăo coordenada e eventuais precedentes.\n(Incluído pela Lei nş \r\n14.210, de 2021)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 20828,
+        "char_end": 21277
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#55",
+      "type": "artigo_candidato",
+      "name": "Art. 49-F",
+      "content": "Art. 49-F. Eventual dissenso na soluçăo do objeto da \r\ndecisăo coordenada deverá ser manifestado durante as reuniőes, de forma \r\nfundamentada, acompanhado das propostas de soluçăo e de alteraçăo necessárias \r\npara a resoluçăo da questăo.\n(Incluído pela Lei nş \r\n14.210, de 2021)\nParágrafo único. Năo poderá ser arguida matéria estranha ao objeto da \r\nconvocaçăo.\n(Incluído pela Lei nş \r\n14.210, de 2021)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21277,
+        "char_end": 21681
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#56",
+      "type": "artigo_candidato",
+      "name": "Art. 49-G",
+      "content": "Art. 49-G. A conclusăo dos trabalhos da decisăo coordenada \r\nserá consolidada em ata, que conterá as seguintes informaçőes:\n(Incluído pela Lei nş \r\n14.210, de 2021)\nI - \r\nrelato sobre os itens da pauta;\n(Incluído pela Lei nş \r\n14.210, de 2021)\nII - \r\nsíntese dos fundamentos aduzidos;\n(Incluído pela Lei nş \r\n14.210, de 2021)\nIII - \r\nsíntese das teses pertinentes ao objeto da convocaçăo;\n(Incluído pela Lei nş \r\n14.210, de 2021)\nIV - \r\nregistro das orientaçőes, das diretrizes, das soluçőes ou das propostas de atos \r\ngovernamentais relativos ao objeto da convocaçăo;\n(Incluído pela Lei nş \r\n14.210, de 2021)\nV - \r\nposicionamento dos participantes para subsidiar futura atuaçăo governamental em \r\nmatéria idęntica ou similar; e\n(Incluído pela Lei nş \r\n14.210, de 2021)\nVI - \r\ndecisăo de cada órgăo ou entidade relativa ŕ matéria sujeita ŕ sua competęncia.\n(Incluído pela Lei nş \r\n14.210, de 2021)\n§ 1ş Até \r\na assinatura da ata, poderá ser complementada a fundamentaçăo da decisăo da \r\nautoridade ou do agente a respeito de matéria de competęncia do órgăo ou da \r\nentidade representada.\n(Incluído pela Lei nş \r\n14.210, de 2021)\n§ 2ş \r\n(VETADO).\n(Incluído pela Lei nş \r\n14.210, de 2021)\n§ 3ş A \r\nata será publicada por extrato no Diário Oficial da Uniăo, do qual deverăo \r\nconstar, além do registro referido no inciso IV do\ncaput\ndeste artigo, os \r\ndados identificadores da decisăo coordenada e o órgăo e o local em que se \r\nencontra a ata em seu inteiro teor, para conhecimento dos interessados.\n(Incluído pela Lei nş \r\n14.210, de 2021)\nCAPÍTULO XII\nDA MOTIVAÇĂO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21681,
+        "char_end": 23245
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#57",
+      "type": "artigo_candidato",
+      "name": "Art. 50",
+      "content": "Art. 50. Os atos administrativos deverăo ser motivados, com indicaçăo dos fatos e dos\r\nfundamentos jurídicos, quando:\nI\r\n- neguem, limitem ou afetem direitos ou interesses;\nII\r\n- imponham ou agravem deveres, encargos ou sançőes;\nIII - decidam processos administrativos de concurso ou seleçăo pública;\nIV\r\n- dispensem ou declarem a inexigibilidade de processo licitatório;\nV\r\n- decidam recursos administrativos;\nVI\r\n- decorram de reexame de ofício;\nVII - deixem de aplicar jurisprudęncia firmada sobre a questăo ou discrepem de\r\npareceres, laudos, propostas e relatórios oficiais;\nVIII - importem anulaçăo, revogaçăo, suspensăo ou convalidaçăo de ato\r\nadministrativo.\n§\r\n1\no\nA motivaçăo deve ser explícita, clara e congruente, podendo\r\nconsistir em declaraçăo de concordância com fundamentos de anteriores pareceres,\r\ninformaçőes, decisőes ou propostas, que, neste caso, serăo parte integrante do ato.\n§\r\n2\no\nNa soluçăo de vários assuntos da mesma natureza, pode ser\r\nutilizado meio mecânico que reproduza os fundamentos das decisőes, desde que năo\r\nprejudique direito ou garantia dos interessados.\n§\r\n3\no\nA motivaçăo das decisőes de órgăos colegiados e comissőes ou de\r\ndecisőes orais constará da respectiva ata ou de termo escrito.\nCAPÍTULO XIII\nDA DESISTĘNCIA E OUTROS CASOS DE EXTINÇĂO DO PROCESSO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 23245,
+        "char_end": 24546
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#58",
+      "type": "artigo_candidato",
+      "name": "Art. 51",
+      "content": "Art. 51. O interessado poderá, mediante manifestaçăo escrita, desistir total ou\r\nparcialmente do pedido formulado ou, ainda, renunciar a direitos disponíveis.\n§\r\n1\no\nHavendo vários interessados, a desistęncia ou renúncia atinge\r\nsomente quem a tenha formulado.\n§\r\n2\no\nA desistęncia ou renúncia do interessado, conforme o caso, năo\r\nprejudica o prosseguimento do processo, se a Administraçăo considerar que o interesse\r\npúblico assim o exige.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 24546,
+        "char_end": 24988
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#59",
+      "type": "artigo_candidato",
+      "name": "Art. 52",
+      "content": "Art. 52. O órgăo competente poderá declarar extinto o processo quando exaurida sua\r\nfinalidade ou o objeto da decisăo se tornar impossível, inútil ou prejudicado por fato\r\nsuperveniente.\nCAPÍTULO XIV\nDA ANULAÇĂO, REVOGAÇĂO E CONVALIDAÇĂO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 24988,
+        "char_end": 25226
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#60",
+      "type": "artigo_candidato",
+      "name": "Art. 53",
+      "content": "Art. 53. A Administraçăo deve anular seus próprios atos, quando eivados de vício de\r\nlegalidade, e pode revogá-los por motivo de convenięncia ou oportunidade, respeitados os\r\ndireitos adquiridos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 25226,
+        "char_end": 25422
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#61",
+      "type": "artigo_candidato",
+      "name": "Art. 54",
+      "content": "Art. 54. O direito da Administraçăo de anular os atos\r\nadministrativos de que decorram efeitos favoráveis para os destinatários decai em cinco\r\nanos, contados da data em que foram praticados, salvo comprovada má-fé.\n§\r\n1\no\nNo caso de efeitos patrimoniais contínuos, o prazo de decadęncia\r\ncontar-se-á da percepçăo do primeiro pagamento.\n§\r\n2\no\nConsidera-se exercício do direito de anular qualquer medida de\r\nautoridade administrativa que importe impugnaçăo ŕ     validade do\r\nato.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 25422,
+        "char_end": 25903
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#62",
+      "type": "artigo_candidato",
+      "name": "Art. 55",
+      "content": "Art. 55. Em decisăo na qual se evidencie năo acarretarem lesăo\r\nao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos\r\nsanáveis poderăo ser convalidados pela própria Administraçăo.\nCAPÍTULO XV\nDO RECURSO ADMINISTRATIVO E DA REVISĂO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 25903,
+        "char_end": 26162
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#63",
+      "type": "artigo_candidato",
+      "name": "Art. 56",
+      "content": "Art. 56. Das decisőes administrativas cabe recurso, em face de razőes de legalidade e de\r\nmérito.\n§\r\n1\no\nO recurso será dirigido ŕ autoridade que proferiu a decisăo, a\r\nqual, se năo a reconsiderar no prazo de cinco dias, o encaminhará ŕ autoridade\r\nsuperior.\n§\r\n2\no\nSalvo exigęncia legal, a interposiçăo de recurso administrativo\r\nindepende de cauçăo.\n§ 3\no\nSe o recorrente alegar que a decisăo administrativa contraria enunciado da \r\n súmula vinculante, caberá ŕ autoridade prolatora da decisăo impugnada, se \r\nnăo a reconsiderar, explicitar, antes de encaminhar o recurso ŕ autoridade \r\nsuperior, as razőes da aplicabilidade ou inaplicabilidade da súmula, conforme o \r\ncaso.\n(Incluído pela Lei nş \r\n11.417, de 2006).\nVigęncia",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26162,
+        "char_end": 26890
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#64",
+      "type": "artigo_candidato",
+      "name": "Art. 57",
+      "content": "Art. 57. O recurso administrativo tramitará no máximo por tręs instâncias\r\nadministrativas, salvo disposiçăo legal diversa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26890,
+        "char_end": 27014
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#65",
+      "type": "artigo_candidato",
+      "name": "Art. 58",
+      "content": "Art. 58. Tęm legitimidade para interpor recurso administrativo:\nI\r\n- os titulares de direitos e interesses que forem parte no processo;\nII\r\n- aqueles cujos direitos ou interesses forem indiretamente afetados pela decisăo\r\nrecorrida;\nIII - as organizaçőes e associaçőes representativas, no tocante a direitos e\r\ninteresses coletivos;\nIV\r\n- os cidadăos ou associaçőes, quanto a direitos ou interesses difusos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 27014,
+        "char_end": 27422
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#66",
+      "type": "artigo_candidato",
+      "name": "Art. 59",
+      "content": "Art. 59. Salvo disposiçăo legal específica, é de dez dias o prazo para\r\ninterposiçăo de recurso administrativo, contado a partir da cięncia ou divulgaçăo\r\noficial da decisăo recorrida.\n§\r\n1\no\nQuando a lei năo fixar prazo diferente, o recurso administrativo\r\ndeverá ser decidido no prazo máximo de trinta dias, a partir do recebimento dos autos\r\npelo órgăo competente.\n§\r\n2\no\nO prazo mencionado no parágrafo anterior poderá ser prorrogado por\r\nigual período, ante justificativa explícita.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 27422,
+        "char_end": 27910
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#67",
+      "type": "artigo_candidato",
+      "name": "Art. 60",
+      "content": "Art. 60. O recurso interpőe-se por meio de requerimento no qual o recorrente deverá\r\nexpor os fundamentos do pedido de reexame, podendo juntar os documentos que julgar\r\nconvenientes.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 27910,
+        "char_end": 28093
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#68",
+      "type": "artigo_candidato",
+      "name": "Art. 61",
+      "content": "Art. 61. Salvo disposiçăo legal em contrário, o recurso năo tem efeito suspensivo.\nParágrafo único. Havendo justo receio de prejuízo de difícil ou incerta reparaçăo\r\ndecorrente da execuçăo, a autoridade recorrida ou a imediatamente superior poderá, de\r\nofício ou a pedido, dar efeito suspensivo ao recurso.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 28093,
+        "char_end": 28400
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#69",
+      "type": "artigo_candidato",
+      "name": "Art. 62",
+      "content": "Art. 62. Interposto o recurso, o órgăo competente para dele conhecer deverá intimar os\r\ndemais interessados para que, no prazo de cinco dias úteis, apresentem alegaçőes.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 28400,
+        "char_end": 28570
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#70",
+      "type": "artigo_candidato",
+      "name": "Art. 63",
+      "content": "Art. 63. O recurso năo será conhecido quando interposto:\nI\r\n- fora do prazo;\nII\r\n- perante órgăo incompetente;\nIII - por quem năo seja legitimado;\nIV\r\n- após exaurida a esfera administrativa.\n§\r\n1\no\nNa hipótese do inciso II, será indicada ao recorrente a autoridade\r\ncompetente, sendo-lhe devolvido o prazo para recurso.\n§\r\n2\no\nO năo conhecimento do recurso năo impede a Administraçăo de rever\r\nde ofício o ato ilegal, desde que năo ocorrida preclusăo administrativa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 28570,
+        "char_end": 29038
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#71",
+      "type": "artigo_candidato",
+      "name": "Art. 64",
+      "content": "Art. 64. O órgăo competente para decidir o recurso poderá confirmar, modificar, anular\r\nou revogar, total ou parcialmente, a decisăo recorrida, se a matéria for de sua\r\ncompetęncia.\nParágrafo único. Se da aplicaçăo do disposto neste artigo puder decorrer gravame ŕ\r\nsituaçăo do recorrente, este deverá ser cientificado para que formule suas alegaçőes\r\nantes da decisăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 29038,
+        "char_end": 29408
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#72",
+      "type": "artigo_candidato",
+      "name": "Art. 64-A",
+      "content": "Art. 64-A.  Se o recorrente alegar violaçăo de \r\nenunciado da súmula vinculante, o órgăo competente para decidir o recurso \r\nexplicitará as razőes da aplicabilidade ou inaplicabilidade da súmula, conforme \r\no caso.\n(Incluído pela Lei nş \r\n11.417, de 2006).\nVigęncia",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 29408,
+        "char_end": 29674
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#73",
+      "type": "artigo_candidato",
+      "name": "Art. 64-B",
+      "content": "Art. 64-B.  Acolhida pelo Supremo Tribunal Federal a reclamaçăo fundada \r\nem violaçăo de enunciado da súmula vinculante, dar-se-á cięncia ŕ autoridade \r\nprolatora e ao órgăo competente para o julgamento do recurso, que deverăo \r\nadequar as futuras decisőes administrativas em casos semelhantes, sob pena de \r\nresponsabilizaçăo pessoal nas esferas cível, administrativa e penal.\n(Incluído pela Lei nş \r\n11.417, de 2006).\nVigęncia",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 29674,
+        "char_end": 30103
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#74",
+      "type": "artigo_candidato",
+      "name": "Art. 65",
+      "content": "Art. 65. Os processos administrativos de que resultem sançőes poderăo ser revistos, a\r\nqualquer tempo, a pedido ou de ofício, quando surgirem fatos novos ou circunstâncias\r\nrelevantes suscetíveis de justificar a inadequaçăo da sançăo aplicada.\nParágrafo único. Da revisăo do processo năo poderá resultar agravamento da sançăo.\nCAPÍTULO XVI\nDOS PRAZOS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30103,
+        "char_end": 30454
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#75",
+      "type": "artigo_candidato",
+      "name": "Art. 66",
+      "content": "Art. 66. Os prazos começam a correr a partir da data da\r\ncientificaçăo oficial, excluindo-se da contagem o dia do começo e incluindo-se o do\r\nvencimento.\n§\r\n1\no\nConsidera-se prorrogado o prazo até o primeiro dia útil seguinte se\r\no vencimento cair em dia em que năo houver expediente ou este for encerrado antes da hora\r\nnormal.\n§\r\n2\no\nOs prazos expressos em dias contam-se de modo contínuo.\n§\r\n3\no\nOs prazos fixados em meses ou anos contam-se de data a data. Se no\r\nmęs do vencimento năo houver o dia equivalente ŕquele do início do prazo, tem-se como\r\ntermo o último dia do męs.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30454,
+        "char_end": 31035
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#76",
+      "type": "artigo_candidato",
+      "name": "Art. 67",
+      "content": "Art. 67. Salvo motivo de força maior devidamente comprovado, os\r\nprazos processuais năo se suspendem.\nCAPÍTULO XVII\nDAS SANÇŐES",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31035,
+        "char_end": 31163
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#77",
+      "type": "artigo_candidato",
+      "name": "Art. 68",
+      "content": "Art. 68. As sançőes, a serem aplicadas por autoridade competente, terăo natureza\r\npecuniária ou consistirăo em obrigaçăo de fazer ou de năo fazer, assegurado sempre o\r\ndireito de defesa.\nCAPÍTULO XVIII\nDAS DISPOSIÇŐES FINAIS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31163,
+        "char_end": 31388
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#78",
+      "type": "artigo_candidato",
+      "name": "Art. 69",
+      "content": "Art. 69. Os processos administrativos específicos continuarăo a reger-se por lei\r\nprópria, aplicando-se-lhes apenas subsidiariamente os preceitos desta Lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31388,
+        "char_end": 31545
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#79",
+      "type": "artigo_candidato",
+      "name": "Art. 69-A",
+      "content": "Art. 69-A.  \r\nTerăo prioridade na tramitaçăo, em qualquer órgăo ou instância, os procedimentos \r\nadministrativos em que figure como parte ou interessado:\n(Incluído pela Lei \r\n nş 12.008, de 2009).\nI - pessoa \r\ncom idade igual ou superior a 60 (sessenta) anos;\n(Incluído pela Lei \r\n nş 12.008, de 2009).\nII - pessoa \r\nportadora de deficięncia, física ou mental;\n(Incluído pela Lei \r\n nş 12.008, de 2009).\nIII –\n(VETADO)\n(Incluído pela Lei \r\n nş 12.008, de 2009).\nIV - pessoa \r\nportadora de tuberculose ativa, esclerose múltipla, neoplasia maligna, \r\nhanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de \r\nParkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, \r\nestados avançados da doença de Paget (osteíte deformante), contaminaçăo por \r\nradiaçăo, síndrome de imunodeficięncia adquirida, ou outra doença grave, com \r\nbase em conclusăo da medicina especializada, mesmo que a doença tenha sido \r\ncontraída após o início do processo.\n(Incluído pela Lei \r\n nş 12.008, de 2009).\n§ 1\no\nA pessoa interessada na obtençăo do benefício, juntando prova de sua condiçăo, \r\ndeverá requerę-lo ŕ autoridade administrativa competente, que determinará as \r\nprovidęncias a serem cumpridas.\n(Incluído pela Lei \r\n nş 12.008, de 2009).\n§ 2\no\nDeferida a prioridade, os autos receberăo identificaçăo própria que evidencie o \r\nregime de tramitaçăo prioritária.\n(Incluído pela Lei \r\n nş 12.008, de 2009).\n§ 3\no\n(VETADO)\n(Incluído pela Lei \r\n nş 12.008, de 2009).\n§ 4\no\n(VETADO)\n(Incluído pela Lei \r\n nş 12.008, de 2009).",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31545,
+        "char_end": 33094
+      }
+    },
+    {
+      "id": "BR.LEI.9784.1999#80",
+      "type": "artigo_candidato",
+      "name": "Art. 70",
+      "content": "Art. 70. Esta Lei entra em vigor na data de sua publicaçăo.\nBrasília 29 de janeiro de 1999; 178\no\nda Independęncia e 111\no\nda República.\nFERNANDO HENRIQUE CARDOSO\nRenan Calheiros\nPaulo Paiva\nEste texto năo substitui o publicado no\r\nDOU de 1.2.1999 e\nretificado em 11.3.1999\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 33094,
+        "char_end": 33370
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "1d9d5ea1ebb2c2aca078f1ca5cbf09a8d27ee1072a38b2c48d82e790889d21a3"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "processo administrativo"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:30:12.971356+00:00",
+      "sha256": "1d9d5ea1ebb2c2aca078f1ca5cbf09a8d27ee1072a38b2c48d82e790889d21a3",
+      "file": "documentos_oficiais/00_fundamentos/br-lei-9784-1999.html",
+      "extracted_text": "textos_extraidos/00_fundamentos/br-lei-9784-1999.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 80,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

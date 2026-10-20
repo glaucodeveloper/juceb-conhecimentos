@@ -1,0 +1,88 @@
+{
+  "schema": "okfforge.juceb.legal_source.v1",
+  "id": "BR.EC.132.2023",
+  "title": "Reforma Tributária do Consumo",
+  "summary": "Referência normativa no domínio 05_reforma; sem transcrição integral no arquivo de descoberta. Texto obtido posteriormente por sync_official.py.",
+  "elements": [
+    {
+      "id": "norma:BR.EC.132.2023",
+      "type": "ato_normativo",
+      "name": "Reforma Tributária do Consumo",
+      "attributes": {
+        "kind": "EC",
+        "year": 2023,
+        "jurisdiction": "BR",
+        "subjects": [
+          "ibs",
+          "cbs",
+          "is",
+          "transicao"
+        ]
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "fonte_primaria_obrigatoria",
+      "value": true
+    },
+    {
+      "name": "proibido_inferir_vigencia_sem_conferencia",
+      "value": true
+    }
+  ],
+  "relations": [],
+  "functions": [],
+  "sources": [
+    {
+      "id": "BR.EC.132.2023",
+      "tipo": "EC",
+      "numero": "132",
+      "ano": 2023,
+      "jurisdicao": "BR",
+      "orgao": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+      "verificacao_url": "consulta_dirigida",
+      "consultado_em": "2026-10-19",
+      "texto_integral_capturado": false,
+      "hash_sha256": null
+    }
+  ],
+  "open_questions": [
+    "Conferir vigência material e efeitos diferidos; captura de texto integral ainda pendente."
+  ],
+  "provenance": {
+    "status": "indice_documental",
+    "retrieved_at": null,
+    "notes": "",
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "completeness": {
+    "classification": "referencia_catalogada",
+    "full_text": false,
+    "article_count": 0,
+    "do_not_use_as_consolidated_law": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review",
+    "contract": {
+      "no_unverified_normative_conclusions": true
+    }
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_source_reference",
+  "topic_key": "references/br-ec-132-2023",
+  "catalog_status": "url-consulted",
+  "official_source": {
+    "id": "BR.EC.132.2023",
+    "authority": "Planalto",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+    "evidence_url": "",
+    "source_verified": true,
+    "notes": ""
+  }
+}

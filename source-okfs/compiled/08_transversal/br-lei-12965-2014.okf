@@ -1,0 +1,510 @@
+{
+  "schema": "okfforge.juceb.compiled_source.v1",
+  "id": "BR.LEI.12965.2014",
+  "title": "Marco Civil da Internet",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.LEI.12965.2014#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1ş\nEsta Lei estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil e determina as diretrizes para atuaçăo da Uniăo, dos Estados, do Distrito Federal e dos Municípios em relaçăo ŕ matéria.\nParágrafo único.  O disposto nesta Lei \n aplica-se mesmo que as atividades sejam realizadas por pessoa jurídica \n sediada no exterior, desde que oferte serviço ao público brasileiro ou, no \n mínimo, uma pessoa jurídica integrante do mesmo grupo econômico possua \n estabelecimento situado no País.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 365,
+        "char_end": 952
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#2",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2ş A disciplina do uso da internet no Brasil tem como fundamento o respeito ŕ liberdade de expressăo, bem como:\nI - o reconhecimento da escala mundial da rede;\nII - os direitos humanos, o desenvolvimento da personalidade e o exercício da cidadania em meios digitais;\nIII - a pluralidade e a diversidade;\nIV - a abertura e a colaboraçăo;\nV - a livre iniciativa, a livre concorręncia e a defesa do consumidor; e\nVI - a finalidade social da rede.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 952,
+        "char_end": 1401
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#3",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3ş\nA disciplina do uso da internet no Brasil tem os seguintes princípios:\nI - garantia da liberdade de expressăo, comunicaçăo e manifestaçăo de pensamento, nos termos da Constituiçăo Federal;\nII - proteçăo da privacidade;\nIII - proteçăo dos dados pessoais, na forma da lei;\nIV - preservaçăo e garantia da neutralidade de rede;\nV - preservaçăo da estabilidade, segurança e funcionalidade da rede, por meio de medidas técnicas compatíveis com os padrőes internacionais e pelo estímulo ao uso de boas práticas;\nVI - responsabilizaçăo dos agentes de acordo com suas atividades, nos termos da lei;\nVII - preservaçăo da natureza participativa da rede;\nVIII - liberdade dos modelos de negócios promovidos na internet, desde que năo conflitem com os demais princípios estabelecidos nesta Lei.\nParágrafo único. Os princípios expressos nesta Lei năo excluem outros previstos no ordenamento jurídico pátrio relacionados ŕ matéria ou nos tratados internacionais em que a República Federativa do Brasil seja parte.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1401,
+        "char_end": 2408
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#4",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4ş A disciplina do uso da internet no Brasil tem por objetivo a promoçăo:\nI - do direito de acesso ŕ internet a todos;\nII - do acesso ŕ informaçăo, ao conhecimento e ŕ participaçăo na vida cultural e na conduçăo dos assuntos públicos;\nIII - da inovaçăo e do fomento ŕ ampla difusăo de novas tecnologias e modelos de uso e acesso; e\nIV - da adesăo a padrőes tecnológicos abertos que permitam a comunicaçăo, a acessibilidade e a interoperabilidade entre aplicaçőes e bases de dados.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2408,
+        "char_end": 2894
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#5",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5ş\nPara os efeitos desta Lei, considera-se:\nI - internet: o sistema constituído do conjunto de protocolos lógicos, estruturado em escala mundial para uso público e irrestrito, com a finalidade de possibilitar a comunicaçăo de dados entre terminais por meio de diferentes redes;\nII - terminal: o computador ou qualquer dispositivo que se conecte ŕ internet;\nIII - endereço de protocolo de internet (endereço IP): o código atribuído a um terminal de uma rede para permitir sua identificaçăo, definido segundo parâmetros internacionais;\nIV - administrador de sistema autônomo: a pessoa física ou jurídica que administra blocos de endereço IP específicos e o respectivo sistema autônomo de roteamento, devidamente cadastrada no ente nacional responsável pelo registro e distribuiçăo de endereços IP geograficamente referentes ao País;\nV - conexăo ŕ internet: a habilitaçăo de um terminal para envio e recebimento de pacotes de dados pela internet, mediante a atribuiçăo ou autenticaçăo de um endereço IP;\nVI - registro de conexăo: o conjunto de informaçőes referentes ŕ data e hora de início e término de uma conexăo ŕ internet, sua duraçăo e o endereço IP utilizado pelo terminal para o envio e recebimento de pacotes de dados;\nVII - aplicaçőes de internet: o conjunto de funcionalidades que podem ser acessadas por meio de um terminal conectado ŕ internet; e\nVII - aplicaçőes de internet - o conjunto \n de funcionalidades que podem ser acessadas por meio de um terminal conectado \n ŕ internet;\n(Redaçăo dada \n pela Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nVII - aplicaçőes de internet: o conjunto de funcionalidades que podem ser acessadas por meio de um terminal conectado ŕ internet; e\nVIII - registros de acesso a aplicaçőes de internet: o conjunto de informaçőes referentes ŕ data e hora de uso de uma determinada aplicaçăo de internet a partir de um determinado endereço IP.\nVIII - registros de acesso a aplicaçőes de \n internet - o conjunto de informaçőes referentes ŕ data e ŕ hora de uso de \n uma determinada aplicaçăo de internet a partir de um determinado endereço IP;\n(Redaçăo dada \n pela Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nVIII - registros de acesso a aplicaçőes de internet: o conjunto de informaçőes referentes ŕ data e hora de uso de uma determinada aplicaçăo de internet a partir de um determinado endereço IP.\nIX - rede social - aplicaçăo de internet cuja \n principal finalidade seja o compartilhamento e a disseminaçăo, pelos \n usuários, de opiniőes e informaçőes, veiculados por textos ou arquivos de \n imagens, sonoros ou audiovisuais, em uma única plataforma, por meio de \n contas conectadas ou acessíveis de forma articulada, permitida a conexăo \n entre usuários, e que seja provida por pessoa jurídica que exerça atividade \n com fins econômicos e de forma organizada, mediante a oferta de serviços ao \n público brasileiro com, no mínimo, dez milhőes de usuários registrados no \n País; e\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nX - moderaçăo em redes sociais - açőes dos \n provedores de redes sociais de exclusăo, suspensăo ou bloqueio da divulgaçăo \n de conteúdo gerado por usuário e açőes de cancelamento ou suspensăo, total \n ou parcial, dos serviços e das funcionalidades de conta ou perfil de usuário \n de redes sociais.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nParágrafo único.  Năo se incluem na definiçăo de que trata o inciso \r\n IX do\ncaput\nas aplicaçőes de internet que se destinam ŕ troca \r\n de mensagens instantâneas e ŕs chamadas de voz, assim como aquelas \r\n que tenham como principal finalidade a viabilizaçăo do comércio de \r\n bens ou serviços.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2894,
+        "char_end": 6619
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#6",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6ş Na interpretaçăo desta Lei serăo levados em conta, além dos fundamentos, princípios e objetivos previstos, a natureza da internet, seus usos e costumes particulares e sua importância para a promoçăo do desenvolvimento humano, econômico, social e cultural.\nCAPÍTULO II\nDOS DIREITOS E GARANTIAS DOS USUÁRIOS\nSeçăo I\nDisposiçőes gerais\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6619,
+        "char_end": 7026
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#7",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7ş O acesso ŕ internet é essencial ao exercício da cidadania, e ao usuário săo assegurados os seguintes direitos:\nI - inviolabilidade da intimidade e da vida privada, sua proteçăo e indenizaçăo pelo dano material ou moral decorrente de sua violaçăo;\nII - inviolabilidade e sigilo do fluxo de suas comunicaçőes pela internet, salvo por ordem judicial, na forma da lei;\nIII - inviolabilidade e sigilo de suas comunicaçőes privadas armazenadas, salvo por ordem judicial;\nIV - năo suspensăo da conexăo ŕ internet, salvo por débito diretamente decorrente de sua utilizaçăo;\nV - manutençăo da qualidade contratada da conexăo ŕ internet;\nVI - informaçőes claras e completas constantes dos contratos de prestaçăo de serviços, com detalhamento sobre o regime de proteçăo aos registros de conexăo e aos registros de acesso a aplicaçőes de internet, bem como sobre práticas de gerenciamento da rede que possam afetar sua qualidade;\nVII - năo fornecimento a terceiros de seus dados pessoais, inclusive registros de conexăo, e de acesso a aplicaçőes de internet, salvo mediante consentimento livre, expresso e informado ou nas hipóteses previstas em lei;\nVIII - informaçőes claras e completas sobre coleta, uso, armazenamento, tratamento e proteçăo de seus dados pessoais, que somente poderăo ser utilizados para finalidades que:\na) justifiquem sua coleta;\nb) năo sejam vedadas pela legislaçăo; e\nc) estejam especificadas nos contratos de prestaçăo de serviços ou em termos de uso de aplicaçőes de internet;\nIX - consentimento expresso sobre coleta, uso, armazenamento e tratamento de dados pessoais, que deverá ocorrer de forma destacada das demais cláusulas contratuais;\nX - exclusăo definitiva dos dados pessoais que tiver fornecido a determinada aplicaçăo de internet, a seu requerimento, ao término da relaçăo entre as partes, ressalvadas as hipóteses de guarda obrigatória de registros previstas nesta Lei;\nX - exclusăo definitiva dos dados pessoais que tiver fornecido a determinada aplicaçăo de internet, a seu requerimento, ao término da relaçăo entre as partes, ressalvadas as hipóteses de guarda obrigatória de registros previstas nesta Lei e na que dispőe sobre a proteçăo de dados pessoais;\n(Redaçăo dada pela Lei nş 13.709, de 2018)\n(Vigęncia)\nXI - publicidade e clareza de eventuais políticas de uso dos provedores de conexăo ŕ internet e de aplicaçőes de internet;\nXII - acessibilidade, consideradas as características físico-motoras, perceptivas, sensoriais, intelectuais e mentais do usuário, nos termos da lei; e\nXIII - aplicaçăo das normas de proteçăo e defesa do consumidor nas relaçőes de consumo realizadas na internet.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7026,
+        "char_end": 9661
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#8",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8ş\nA garantia do direito ŕ privacidade e ŕ liberdade de expressăo nas comunicaçőes é condiçăo para o pleno exercício do direito de acesso ŕ internet.\nParágrafo único. Săo nulas de pleno direito as cláusulas contratuais que violem o disposto no\ncaput,\ntais como aquelas que:\nI - impliquem ofensa ŕ inviolabilidade e ao sigilo das comunicaçőes privadas, pela internet; ou\nII - em contrato de adesăo, năo ofereçam como alternativa ao contratante a adoçăo do foro brasileiro para soluçăo de controvérsias decorrentes de serviços prestados no Brasil.\nSeçăo II\nDos direitos e das \n garantias dos usuários de redes sociais\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9661,
+        "char_end": 10348
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#9",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8ş-A  Aos usuários,\nnas relaçőes com os provedores de redes sociais, săo assegurados os \n seguintes direitos, sem prejuízo do disposto na Seçăo I deste Capítulo:\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nI - acesso a informaçőes claras, públicas e objetivas sobre \n quaisquer políticas, procedimentos, medidas e instrumentos utilizados para \n fins de eventual moderaçăo ou limitaçăo do alcance da divulgaçăo de conteúdo \n gerado pelo usuário, incluídos os critérios e os procedimentos utilizados \n para a decisăo humana ou automatizada, ressalvados os segredos comercial e \n industrial;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nII - contraditório, ampla defesa e recurso, a serem obrigatoriamente \n observados nas hipóteses de moderaçăo de conteúdo, devendo o provedor de \n redes sociais oferecer, no mínimo, um canal eletrônico de comunicaçăo \n dedicado ao exercício desses direitos;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nIII - restituiçăo do conteúdo disponibilizado pelo usuário, em \n particular de dados pessoais, textos, imagens, dentre outros, quando houver \n requerimento;\n(Incluído pela \n Medida Provisória nş 1.068,\nde 2021)\n(Rejeitada)\nIV - restabelecimento da conta, do perfil ou do conteúdo no mesmo \n estado em que se encontrava, na hipótese de moderaçăo indevida pelo provedor \n de redes sociais;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nV - năo exclusăo, cancelamento ou suspensăo, total ou parcial, de \n serviços e funcionalidades da conta ou do perfil, exceto por justa causa, \n observado o disposto no art. 8ş-B;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nVI - năo exclusăo, suspensăo ou bloqueio da divulgaçăo de conteúdo \n gerado pelo usuário, exceto por justa causa, observado o disposto no art. \n 8ş-C; e\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nVII - acesso a resumo dos termos de uso da rede social, com \n destaque ŕs regras de maior significância para o usuário.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nParágrafo único.  É vedada aos provedores de redes sociais a adoçăo \n de critérios de moderaçăo ou limitaçăo do alcance da divulgaçăo de conteúdo \n que impliquem censura de ordem política, ideológica, científica, artística \n ou religiosa, observado o disposto nos art. 8ş-B e art. 8ş-C.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 10348,
+        "char_end": 12810
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#10",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8ş-B  Em observância ŕ liberdade de \n expressăo, comunicaçăo e manifestaçăo de pensamento, a exclusăo, o \n cancelamento ou a suspensăo, total ou parcial, dos serviços e das \n funcionalidades da conta ou do perfil de usuário de redes sociais somente \n poderá ser realizado com justa causa e motivaçăo.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\n§ 1ş  Considera-se caracterizada a justa causa nas seguintes \n hipóteses:\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nI - inadimplemento do usuário;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nII - contas criadas com o propósito de assumir ou simular \n identidade de terceiros para enganar o público, ressalvados o direito ao uso \n de nome social e ŕ pseudonímia e o explícito ânimo humorístico ou paródico;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nIII - contas preponderantemente geridas por qualquer programa de \n computador ou tecnologia para simular ou substituir atividades humanas na \n distribuiçăo de conteúdo em provedores;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nIV - prática reiterada das condutas previstas no art. 8ş-C;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nV - contas que ofertem produtos ou serviços que violem patente, \n marca registrada, direito autoral ou outros direitos de propriedade \n intelectual; ou\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nVI - cumprimento de determinaçăo judicial.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\n§ 2ş  O \n usuário deverá ser notificado da exclusăo, do cancelamento ou da suspensăo, \n total ou parcial, dos serviços e das funcionalidades da conta ou do perfil.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\n§ 3ş  A \n notificaçăo de que trata o § 2ş:\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nI - \n poderá ocorrer por meio eletrônico, de acordo com as regras de uso da rede \n social;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nII - \n ocorrerá de forma prévia ou concomitante ŕ exclusăo, ao cancelamento ou ŕ \n suspensăo, total ou parcial, dos serviços e das funcionalidades da conta ou \n do perfil; e\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nIII - \n conterá a identificaçăo da medida adotada, a motivaçăo da decisăo e as \n informaçőes sobre prazos, canais eletrônicos de comunicaçăo e procedimentos \n para a contestaçăo e a eventual revisăo pelo provedor de redes sociais.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\n§ 4ş  As \n medidas de que trata o\ncaput\ntambém poderăo ser adotadas a \n requerimento do próprio usuário, de seu representante legal ou de seus \n herdeiros, ressalvadas as hipóteses de guarda obrigatória de registros \n previstas na legislaçăo.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 12810,
+        "char_end": 15744
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#11",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8ş-C  Em observância ŕ liberdade de \n expressăo, comunicaçăo e manifestaçăo de pensamento, a exclusăo, a suspensăo \n ou o bloqueio da divulgaçăo de conteúdo gerado por usuário somente poderá \n ser realizado com justa causa e motivaçăo.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\n§ 1ş  Considera-se caracterizada a justa causa nas seguintes \n hipóteses:\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nI - quando o conteúdo publicado pelo usuário estiver em desacordo \n com o disposto na\nLei nş 8.069, de 13 de \n julho de 1990\n;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nII - quando a divulgaçăo ou a reproduçăo configurar:\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\na) nudez ou representaçőes explícitas ou implícitas de atos \n sexuais;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nb) prática, apoio, promoçăo ou incitaçăo de crimes contra a vida, \n pedofilia, terrorismo, tráfico ou quaisquer outras infraçőes penais sujeitas \n ŕ açăo penal pública incondicionada;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nc) apoio, recrutamento, promoçăo ou ajuda a organizaçőes criminosas \n ou terroristas ou a seus atos;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nd) prática, apoio, promoçăo ou incitaçăo de atos de ameaça ou \n violęncia, inclusive por razőes de discriminaçăo ou preconceito de raça, \n cor, sexo, etnia, religiăo ou orientaçăo sexual;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\ne) promoçăo, ensino, incentivo ou apologia ŕ fabricaçăo ou ao \n consumo, explícito ou implícito, de drogas ilícitas;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nf) prática, apoio, promoçăo ou incitaçăo de atos de violęncia \n contra animais;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\ng) utilizaçăo ou ensino do uso de computadores ou tecnologia da \n informaçăo com o objetivo de roubar credenciais, invadir sistemas, \n comprometer dados pessoais ou causar danos a terceiros;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nh) prática, apoio, promoçăo ou incitaçăo de atos contra a segurança \n pública, defesa nacional ou segurança do Estado;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\ni) utilizaçăo ou ensino do uso de aplicaçőes de internet, sítios \n eletrônicos ou tecnologia da informaçăo com o objetivo de violar patente, \n marca registrada, direito autoral ou outros direitos de propriedade \n intelectual;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nj) infraçăo ŕs normas editadas pelo Conselho Nacional de \n Autorregulamentaçăo Publicitária referentes a conteúdo ou material \n publicitário ou propagandístico;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nk) disseminaçăo de vírus de\nsoftware\nou qualquer outro \n código de computador, arquivo ou programa projetado para interromper, \n destruir ou limitar a funcionalidade de qualquer recurso de computador; ou\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nl) comercializaçăo de produtos impróprios ao consumo, nos termos do \n disposto no\n§ 6ş do art. 18 da Lei \n nş 8.078, de 11 de setembro de 1990\n;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021\n(Rejeitada)\nIII - requerimento do ofendido, de seu representante legal ou de \n seus herdeiros, na hipótese de violaçăo ŕ intimidade, ŕ privacidade, ŕ \n imagem, ŕ honra, ŕ proteçăo de seus dados pessoais ou ŕ propriedade \n intelectual; ou\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nIV - cumprimento de determinaçăo judicial.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\n§ 2ş  O \n usuário deverá ser notificado da exclusăo, da suspensăo ou do bloqueio da \n divulgaçăo de conteúdo por ele gerado.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\n§ 3ş  A \n notificaçăo de que trata o § 2ş:\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nI - \n poderá ocorrer por meio eletrônico, de acordo com as regras de uso da rede \n social;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nII - \n ocorrerá de forma prévia ou concomitante ŕ exclusăo, ŕ suspensăo ou ao \n bloqueio da divulgaçăo de conteúdo; e\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nIII - \n conterá a identificaçăo da medida adotada, a motivaçăo da decisăo e as \n informaçőes sobre prazos, canais eletrônicos de comunicaçăo e procedimentos \n para a contestaçăo e a eventual revisăo pelo provedor de redes sociais.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\n§ 4ş  As \n medidas de que trata o\ncaput\ntambém poderăo ser adotadas a \n requerimento do próprio usuário, ressalvadas as hipóteses de guarda \n obrigatória de registros previstas na legislaçăo.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15744,
+        "char_end": 20678
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#12",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8ş-D  Para aplicaçăo do disposto nos art. 8ş-B e",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 20678,
+        "char_end": 20733
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#13",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "art. 8ş-C, será considerada motivada a decisăo que:\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nI - \n indicar a parte específica do contrato de prestaçăo de serviços ou do termo \n de uso relativo aos serviços fornecidos pelo provedor de aplicaçőes de \n internet que foi violada;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nII - \n especificar a postagem ou a conduta considerada afrontosa ao contrato de \n prestaçăo de serviços ou ao termo de uso; e\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nIII - \n informar o fundamento jurídico da decisăo.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nCAPÍTULO III\nDA PROVISĂO DE CONEXĂO E DE APLICAÇŐES DE INTERNET\nSeçăo I\nDa Neutralidade de Rede",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 20733,
+        "char_end": 21506
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#14",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9ş O responsável pela transmissăo, comutaçăo ou roteamento tem o dever de tratar de forma isonômica quaisquer pacotes de dados, sem distinçăo por conteúdo, origem e destino, serviço, terminal ou aplicaçăo.\n§ 1ş A discriminaçăo ou degradaçăo do tráfego será regulamentada nos termos das atribuiçőes privativas do Presidente da República previstas no\ninciso IV do art. 84 da Constituiçăo Federal,\npara a fiel execuçăo desta Lei, ouvidos o Comitę Gestor da Internet e a Agęncia Nacional de Telecomunicaçőes, e somente poderá decorrer de:\nI - requisitos técnicos indispensáveis ŕ prestaçăo adequada dos serviços e aplicaçőes; e\nII - priorizaçăo de serviços de emergęncia.\n§ 2ş Na hipótese de discriminaçăo ou degradaçăo do tráfego prevista no § 1ş , o responsável mencionado no\ncaput\ndeve:\nI - abster-se de causar dano aos usuários, na forma do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 21506,
+        "char_end": 22352
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#15",
+      "type": "artigo_candidato",
+      "name": "Art. 927",
+      "content": "art. 927 da Lei nş 10.406, de 10 de janeiro de 2002 - Código Civil;\nII - agir com proporcionalidade, transparęncia e isonomia;\nIII - informar previamente de modo transparente, claro e suficientemente descritivo aos seus usuários sobre as práticas de gerenciamento e mitigaçăo de tráfego adotadas, inclusive as relacionadas ŕ segurança da rede; e\nIV - oferecer serviços em condiçőes comerciais năo discriminatórias e abster-se de praticar condutas anticoncorrenciais.\n§ 3ş Na provisăo de conexăo ŕ internet, onerosa ou gratuita, bem como na transmissăo, comutaçăo ou roteamento, é vedado bloquear, monitorar, filtrar ou analisar o conteúdo dos pacotes de dados, respeitado o disposto neste artigo.\nSeçăo II\nDa Proteçăo aos Registros, aos Dados Pessoais e ŕs Comunicaçőes Privadas",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 22352,
+        "char_end": 23131
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#16",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. A guarda e a disponibilizaçăo dos registros de conexăo e de acesso a aplicaçőes de internet de que trata esta Lei, bem como de dados pessoais e do conteúdo de comunicaçőes privadas, devem atender ŕ preservaçăo da intimidade, da vida privada, da honra e da imagem das partes direta ou indiretamente envolvidas.\n§ 1ş O provedor responsável pela guarda somente será obrigado a disponibilizar os registros mencionados no\ncaput,\nde forma autônoma ou associados a dados pessoais ou a outras informaçőes que possam contribuir para a identificaçăo do usuário ou do terminal, mediante ordem judicial, na forma do disposto na Seçăo IV deste Capítulo, respeitado o disposto no art. 7ş .\n§ 2ş O conteúdo das comunicaçőes privadas somente poderá ser disponibilizado mediante ordem judicial, nas hipóteses e na forma que a lei estabelecer, respeitado o disposto nos incisos II e III do art. 7ş .\n§ 3ş O disposto no\ncaput\nnăo impede o acesso aos dados cadastrais que informem qualificaçăo pessoal, filiaçăo e endereço, na forma da lei, pelas autoridades administrativas que detenham competęncia legal para a sua requisiçăo.\n§ 4ş As medidas e os procedimentos de segurança e de sigilo devem ser informados pelo responsável pela provisăo de serviços de forma clara e atender a padrőes definidos em regulamento, respeitado seu direito de confidencialidade quanto a segredos empresariais.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 23131,
+        "char_end": 24510
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#17",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11. Em qualquer operaçăo de coleta, armazenamento, guarda e tratamento de registros, de dados pessoais ou de comunicaçőes por provedores de conexăo e de aplicaçőes de internet em que pelo menos um desses atos ocorra em território nacional, deverăo ser obrigatoriamente respeitados a legislaçăo brasileira e os direitos ŕ privacidade, ŕ proteçăo dos dados pessoais e ao sigilo das comunicaçőes privadas e dos registros.\n§ 1ş O disposto no\ncaput\naplica-se aos dados coletados em território nacional e ao conteúdo das comunicaçőes, desde que pelo menos um dos terminais esteja localizado no Brasil.\n§ 2ş O disposto no\ncaput\naplica-se mesmo que as atividades sejam realizadas por pessoa jurídica sediada no exterior, desde que oferte serviço ao público brasileiro ou pelo menos uma integrante do mesmo grupo econômico possua estabelecimento no Brasil.\n(Revogado pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\n§ 2ş O disposto no\ncaput\naplica-se mesmo que as atividades sejam realizadas por pessoa jurídica sediada no exterior, desde que oferte serviço ao público brasileiro ou pelo menos uma integrante do mesmo grupo econômico possua estabelecimento no Brasil.\n§ 3ş Os provedores de conexăo e de aplicaçőes de internet deverăo prestar, na forma da regulamentaçăo, informaçőes que permitam a verificaçăo quanto ao cumprimento da legislaçăo brasileira referente ŕ coleta, ŕ guarda, ao armazenamento ou ao tratamento de dados, bem como quanto ao respeito ŕ privacidade e ao sigilo de comunicaçőes.\n§ 4ş Decreto regulamentará o procedimento para apuraçăo de infraçőes ao disposto neste artigo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 24510,
+        "char_end": 26110
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#18",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12. Sem prejuízo das demais sançőes cíveis, criminais ou administrativas, as infraçőes ŕs normas previstas nos arts. 10 e 11 ficam sujeitas, conforme o caso, ŕs seguintes sançőes, aplicadas de forma isolada ou cumulativa:\n(Revogado pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nI - advertęncia, com indicaçăo de prazo para adoçăo de medidas corretivas;\n(Revogado pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nII - multa de até 10% (dez por cento) do faturamento do grupo econômico no Brasil no seu último exercício, excluídos os tributos, considerados a condiçăo econômica do infrator e o princípio da proporcionalidade entre a gravidade da falta e a intensidade da sançăo;\n(Revogado pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nIII - suspensăo temporária das atividades que envolvam os atos previstos no art. 11; ou\n(Revogado pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nIV - proibiçăo de exercício das atividades que envolvam os atos previstos no art. 11.\n(Revogado pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nParágrafo único. Tratando-se de empresa estrangeira, responde solidariamente pelo pagamento da multa de que trata o\ncaput\nsua filial, sucursal, escritório ou estabelecimento situado no País.\n(Revogado pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26110,
+        "char_end": 27438
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#19",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12. Sem prejuízo das demais sançőes cíveis, criminais ou administrativas, as infraçőes ŕs normas previstas nos arts. 10 e 11 ficam sujeitas, conforme o caso, ŕs seguintes sançőes, aplicadas de forma isolada ou cumulativa:\nI - advertęncia, com indicaçăo de prazo para adoçăo de medidas corretivas;\nII - multa de até 10% (dez por cento) do faturamento do grupo econômico no Brasil no seu último exercício, excluídos os tributos, considerados a condiçăo econômica do infrator e o princípio da proporcionalidade entre a gravidade da falta e a intensidade da sançăo;\nIII - suspensăo temporária das atividades que envolvam os atos previstos no art. 11; ou\nIV - proibiçăo de exercício das atividades que envolvam os atos previstos no art. 11.\nParágrafo único. Tratando-se de empresa estrangeira, responde solidariamente pelo pagamento da multa de que trata o\ncaput\nsua filial, sucursal, escritório ou estabelecimento situado no País.\nSubseçăo I\nDa Guarda de Registros de Conexăo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 27438,
+        "char_end": 28415
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#20",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13. Na provisăo de conexăo ŕ internet, cabe ao administrador de sistema autônomo respectivo o dever de manter os registros de conexăo, sob sigilo, em ambiente controlado e de segurança, pelo prazo de 1 (um) ano, nos termos do regulamento.\n§ 1ş A responsabilidade pela manutençăo dos registros de conexăo năo poderá ser transferida a terceiros.\n§ 2ş A autoridade policial ou administrativa ou o Ministério Público poderá requerer cautelarmente que os registros de conexăo sejam guardados por prazo superior ao previsto no\ncaput.\n§ 3ş Na hipótese do § 2ş , a autoridade requerente terá o prazo de 60 (sessenta) dias, contados a partir do requerimento, para ingressar com o pedido de autorizaçăo judicial de acesso aos registros previstos no\ncaput.\n§ 4ş O provedor responsável pela guarda dos registros deverá manter sigilo em relaçăo ao requerimento previsto no § 2ş , que perderá sua eficácia caso o pedido de autorizaçăo judicial seja indeferido ou năo tenha sido protocolado no prazo previsto no § 3ş .\n§ 5ş Em qualquer hipótese, a disponibilizaçăo ao requerente dos registros de que trata este artigo deverá ser precedida de autorizaçăo judicial, conforme disposto na Seçăo IV deste Capítulo.\n§ 6ş Na aplicaçăo de sançőes pelo descumprimento ao disposto neste artigo, serăo considerados a natureza e a gravidade da infraçăo, os danos dela resultantes, eventual vantagem auferida pelo infrator, as circunstâncias agravantes, os antecedentes do infrator e a reincidęncia.\nSubseçăo II\nDa Guarda de Registros de Acesso a Aplicaçőes de Internet na Provisăo de Conexăo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 28415,
+        "char_end": 29985
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#21",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14. Na provisăo de conexăo, onerosa ou gratuita, é vedado guardar os registros de acesso a aplicaçőes de internet.\nSubseçăo III\nDa Guarda de Registros de Acesso a Aplicaçőes de Internet na Provisăo de Aplicaçőes",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 29985,
+        "char_end": 30202
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#22",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15. O provedor de aplicaçőes de internet constituído na forma de pessoa jurídica e que exerça essa atividade de forma organizada, profissionalmente e com fins econômicos deverá manter os respectivos registros de acesso a aplicaçőes de internet, sob sigilo, em ambiente controlado e de segurança, pelo prazo de 6 (seis) meses, nos termos do regulamento.\n§ 1ş Ordem judicial poderá obrigar, por tempo certo, os provedores de aplicaçőes de internet que năo estăo sujeitos ao disposto no\ncaput\na guardarem registros de acesso a aplicaçőes de internet, desde que se trate de registros relativos a fatos específicos em período determinado.\n§ 2ş A autoridade policial ou administrativa ou o Ministério Público poderăo requerer cautelarmente a qualquer provedor de aplicaçőes de internet que os registros de acesso a aplicaçőes de internet sejam guardados, inclusive por prazo superior ao previsto no\ncaput,\nobservado o disposto nos §§ 3ş e 4ş do art. 13.\n§ 3ş Em qualquer hipótese, a disponibilizaçăo ao requerente dos registros de que trata este artigo deverá ser precedida de autorizaçăo judicial, conforme disposto na Seçăo IV deste Capítulo.\n§ 4ş Na aplicaçăo de sançőes pelo descumprimento ao disposto neste artigo, serăo considerados a natureza e a gravidade da infraçăo, os danos dela resultantes, eventual vantagem auferida pelo infrator, as circunstâncias agravantes, os antecedentes do infrator e a reincidęncia.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30202,
+        "char_end": 31623
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#23",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16. Na provisăo de aplicaçőes de internet, onerosa ou gratuita, é vedada a guarda:\nI - dos registros de acesso a outras aplicaçőes de internet sem que o titular dos dados tenha consentido previamente, respeitado o disposto no art. 7ş ; ou\nII - de dados pessoais que sejam excessivos em relaçăo ŕ finalidade para a qual foi dado consentimento pelo seu titular.\nII - de dados pessoais que sejam excessivos em \n relaçăo ŕ finalidade para a qual foi dado consentimento pelo seu titular, \n exceto nas hipóteses previstas na Lei que dispőe sobre a proteçăo de dados \n pessoais.\n(Redaçăo dada pela Lei nş 13.709, de 2018)\n(Vigęncia)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31623,
+        "char_end": 32254
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#24",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17. Ressalvadas as hipóteses previstas nesta Lei, a opçăo por năo guardar os registros de acesso a aplicaçőes de internet năo implica responsabilidade sobre danos decorrentes do uso desses serviços por terceiros.\nSeçăo III\nDa Responsabilidade por Danos Decorrentes de Conteúdo Gerado por Terceiros",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 32254,
+        "char_end": 32557
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#25",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "Art. 18. O provedor de conexăo ŕ internet năo será responsabilizado civilmente por danos decorrentes de conteúdo gerado por terceiros.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 32557,
+        "char_end": 32692
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#26",
+      "type": "artigo_candidato",
+      "name": "Art. 19",
+      "content": "Art. 19. Com o intuito de assegurar a liberdade de expressăo e impedir a censura, o provedor de aplicaçőes de internet somente poderá ser responsabilizado civilmente por danos decorrentes de conteúdo gerado por terceiros se, após ordem judicial específica, năo tomar as providęncias para, no âmbito e nos limites técnicos do seu serviço e dentro do prazo assinalado, tornar indisponível o conteúdo apontado como infringente, ressalvadas as disposiçőes legais em contrário.\n§ 1ş A ordem judicial de que trata o\ncaput\ndeverá conter, sob pena de nulidade, identificaçăo clara e específica do conteúdo apontado como infringente, que permita a localizaçăo inequívoca do material.\n§ 2ş A aplicaçăo do disposto neste artigo para infraçőes a direitos de autor ou a direitos conexos depende de previsăo legal específica, que deverá respeitar a liberdade de expressăo e demais garantias previstas no art. 5ş da Constituiçăo Federal.\n§ 3ş As causas que versem sobre ressarcimento por danos decorrentes de conteúdos disponibilizados na internet relacionados ŕ honra, ŕ reputaçăo ou a direitos de personalidade, bem como sobre a indisponibilizaçăo desses conteúdos por provedores de aplicaçőes de internet, poderăo ser apresentadas perante os juizados especiais.\n§ 4ş O juiz, inclusive no procedimento previsto no § 3ş , poderá antecipar, total ou parcialmente, os efeitos da tutela pretendida no pedido inicial, existindo prova inequívoca do fato e considerado o interesse da coletividade na disponibilizaçăo do conteúdo na internet, desde que presentes os requisitos de verossimilhança da alegaçăo do autor e de fundado receio de dano irreparável ou de difícil reparaçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 32692,
+        "char_end": 34353
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#27",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20. Sempre que tiver informaçőes de contato do usuário diretamente responsável pelo conteúdo a que se refere o art. 19, caberá ao provedor de aplicaçőes de internet comunicar-lhe os motivos e informaçőes relativos ŕ indisponibilizaçăo de conteúdo, com informaçőes que permitam o contraditório e a ampla defesa em juízo, salvo expressa previsăo legal ou expressa determinaçăo judicial fundamentada em contrário.\nParágrafo único. Quando solicitado pelo usuário que disponibilizou o conteúdo tornado indisponível, o provedor de aplicaçőes de internet que exerce essa atividade de forma organizada, profissionalmente e com fins econômicos substituirá o conteúdo tornado indisponível pela motivaçăo ou pela ordem judicial que deu fundamento ŕ indisponibilizaçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 34353,
+        "char_end": 35116
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#28",
+      "type": "artigo_candidato",
+      "name": "Art. 21",
+      "content": "Art. 21. O provedor de aplicaçőes de internet que disponibilize conteúdo gerado por terceiros será responsabilizado subsidiariamente pela violaçăo da intimidade decorrente da divulgaçăo, sem autorizaçăo de seus participantes, de imagens, de vídeos ou de outros materiais contendo cenas de nudez ou de atos sexuais de caráter privado quando, após o recebimento de notificaçăo pelo participante ou seu representante legal, deixar de promover, de forma diligente, no âmbito e nos limites técnicos do seu serviço, a indisponibilizaçăo desse conteúdo.\nParágrafo único. A notificaçăo prevista no\ncaput\ndeverá conter, sob pena de nulidade, elementos que permitam a identificaçăo específica do material apontado como violador da intimidade do participante e a verificaçăo da legitimidade para apresentaçăo do pedido.\nSeçăo IV\nDa Requisiçăo Judicial de Registros",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 35116,
+        "char_end": 35970
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#29",
+      "type": "artigo_candidato",
+      "name": "Art. 22",
+      "content": "Art. 22. A parte interessada poderá, com o propósito de formar conjunto probatório em processo judicial cível ou penal, em caráter incidental ou autônomo, requerer ao juiz que ordene ao responsável pela guarda o fornecimento de registros de conexăo ou de registros de acesso a aplicaçőes de internet.\nParágrafo único. Sem prejuízo dos demais requisitos legais, o requerimento deverá conter, sob pena de inadmissibilidade:\nI - fundados indícios da ocorręncia do ilícito;\nII - justificativa motivada da utilidade dos registros solicitados para fins de investigaçăo ou instruçăo probatória; e\nIII - período ao qual se referem os registros.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 35970,
+        "char_end": 36607
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#30",
+      "type": "artigo_candidato",
+      "name": "Art. 23",
+      "content": "Art. 23. Cabe ao juiz tomar as providęncias necessárias ŕ garantia do sigilo das informaçőes recebidas e ŕ preservaçăo da intimidade, da vida privada, da honra e da imagem do usuário, podendo determinar segredo de justiça, inclusive quanto aos pedidos de guarda de registro.\nCAPÍTULO IV\nDA ATUAÇĂO DO PODER PÚBLICO",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 36607,
+        "char_end": 36922
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#31",
+      "type": "artigo_candidato",
+      "name": "Art. 24",
+      "content": "Art. 24. Constituem diretrizes para a atuaçăo da Uniăo, dos Estados, do Distrito Federal e dos Municípios no desenvolvimento da internet no Brasil:\nI - estabelecimento de mecanismos de governança multiparticipativa, transparente, colaborativa e democrática, com a participaçăo do governo, do setor empresarial, da sociedade civil e da comunidade acadęmica;\nII - promoçăo da racionalizaçăo da gestăo, expansăo e uso da internet, com participaçăo do Comitę Gestor da internet no Brasil;\nIII - promoçăo da racionalizaçăo e da interoperabilidade tecnológica dos serviços de governo eletrônico, entre os diferentes Poderes e âmbitos da Federaçăo, para permitir o intercâmbio de informaçőes e a celeridade de procedimentos;\nIV - promoçăo da interoperabilidade entre sistemas e terminais diversos, inclusive entre os diferentes âmbitos federativos e diversos setores da sociedade;\nV - adoçăo preferencial de tecnologias, padrőes e formatos abertos e livres;\nVI - publicidade e disseminaçăo de dados e informaçőes públicos, de forma aberta e estruturada;\nVII - otimizaçăo da infraestrutura das redes e estímulo ŕ implantaçăo de centros de armazenamento, gerenciamento e disseminaçăo de dados no País, promovendo a qualidade técnica, a inovaçăo e a difusăo das aplicaçőes de internet, sem prejuízo ŕ abertura, ŕ neutralidade e ŕ natureza participativa;\nVIII - desenvolvimento de açőes e programas de capacitaçăo para uso da internet;\nIX - promoçăo da cultura e da cidadania; e\nX - prestaçăo de serviços públicos de atendimento ao cidadăo de forma integrada, eficiente, simplificada e por múltiplos canais de acesso, inclusive remotos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 36922,
+        "char_end": 38548
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#32",
+      "type": "artigo_candidato",
+      "name": "Art. 25",
+      "content": "Art. 25. As aplicaçőes de internet de entes do poder público devem buscar:\nI - compatibilidade dos serviços de governo eletrônico com diversos terminais, sistemas operacionais e aplicativos para seu acesso;\nII - acessibilidade a todos os interessados, independentemente de suas capacidades físico-motoras, perceptivas, sensoriais, intelectuais, mentais, culturais e sociais, resguardados os aspectos de sigilo e restriçőes administrativas e legais;\nIII - compatibilidade tanto com a leitura humana quanto com o tratamento automatizado das informaçőes;\nIV - facilidade de uso dos serviços de governo eletrônico; e\nV - fortalecimento da participaçăo social nas políticas públicas.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 38548,
+        "char_end": 39227
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#33",
+      "type": "artigo_candidato",
+      "name": "Art. 26",
+      "content": "Art. 26. O cumprimento do dever constitucional do Estado na prestaçăo da educaçăo, em todos os níveis de ensino, inclui a capacitaçăo, integrada a outras práticas educacionais, para o uso seguro, consciente e responsável da internet como ferramenta para o exercício da cidadania, a promoçăo da cultura e o desenvolvimento tecnológico.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 39227,
+        "char_end": 39562
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#34",
+      "type": "artigo_candidato",
+      "name": "Art. 27",
+      "content": "Art. 27. As iniciativas públicas de fomento ŕ cultura digital e de promoçăo da internet como ferramenta social devem:\nI - promover a inclusăo digital;\nII - buscar reduzir as desigualdades, sobretudo entre as diferentes regiőes do País, no acesso ŕs tecnologias da informaçăo e comunicaçăo e no seu uso; e\nIII - fomentar a produçăo e circulaçăo de conteúdo nacional.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 39562,
+        "char_end": 39928
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#35",
+      "type": "artigo_candidato",
+      "name": "Art. 28",
+      "content": "Art. 28. O Estado deve, periodicamente, formular e fomentar estudos, bem como fixar metas, estratégias, planos e cronogramas, referentes ao uso e desenvolvimento da internet no País.\nCAPÍTULO \n IV-A\nDAS SANÇŐES\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 39928,
+        "char_end": 40205
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#36",
+      "type": "artigo_candidato",
+      "name": "Art. 28-A",
+      "content": "Art. 28-A.  Sem prejuízo das demais sançőes cíveis, \n criminais ou administrativas, as infraçőes ŕs normas previstas nos art. \n 8ş-A, art. 8ş-B, art. 8ş-C, art. 10 e art. 11 ficam sujeitas, conforme o \n caso, ŕs seguintes sançőes:\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nI - advertęncia, com indicaçăo de prazo para adoçăo de medidas \n corretivas;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nII - multa de até dez por cento do faturamento do grupo econômico \n no País em seu último exercício, excluídos os tributos, considerados a \n condiçăo econômica do infrator e o princípio da proporcionalidade entre a \n gravidade da falta e a intensidade da sançăo;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nIII - multa diária, observado o limite total a que se refere o \n inciso II;\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nIV - suspensăo temporária das atividades que envolvam os atos \n previstos no art. 11; ou\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nV - proibiçăo de exercício das atividades que envolvam os atos \n previstos no art. 11.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\n§ 1ş  Na hipótese de empresa estrangeira, responde solidariamente \n pelo pagamento da multa de que trata o\ncaput\na filial, a sucursal, o \n escritório ou o estabelecimento situado no País.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\n§ 2ş  As sançőes previstas neste artigo serăo aplicadas pela \n autoridade administrativa, no âmbito de suas competęncias, isolada ou \n cumulativamente, inclusive por medida cautelar, antecedente ou incidente de \n procedimento administrativo.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\n§ 3ş  As sançőes previstas neste artigo serăo aplicadas de forma \n proporcional, de acordo com as peculiaridades do caso concreto, e dependerăo \n de procedimento administrativo, assegurados a ampla defesa e o \n contraditório.\n(Incluído pela \n Medida Provisória nş 1.068, de 2021)\n(Rejeitada)\nCAPÍTULO V\nDISPOSIÇŐES FINAIS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 40205,
+        "char_end": 42308
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#37",
+      "type": "artigo_candidato",
+      "name": "Art. 29",
+      "content": "Art. 29. O usuário terá a opçăo de livre escolha na utilizaçăo de programa de computador em seu terminal para exercício do controle parental de conteúdo entendido por ele como impróprio a seus filhos menores, desde que respeitados os princípios desta Lei e da\nLei nş 8.069, de 13 de julho de 1990\n- Estatuto da Criança e do Adolescente.\nParágrafo único. Cabe ao poder público, em conjunto com os provedores de conexăo e de aplicaçőes de internet e a sociedade civil, promover a educaçăo e fornecer informaçőes sobre o uso dos programas de computador previstos no\ncaput,\nbem como para a definiçăo de boas práticas para a inclusăo digital de crianças e adolescentes.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 42308,
+        "char_end": 42973
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#38",
+      "type": "artigo_candidato",
+      "name": "Art. 30",
+      "content": "Art. 30. A defesa dos interesses e dos direitos estabelecidos nesta Lei poderá ser exercida em juízo, individual ou coletivamente, na forma da lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 42973,
+        "char_end": 43121
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#39",
+      "type": "artigo_candidato",
+      "name": "Art. 31",
+      "content": "Art. 31. Até a entrada em vigor da lei específica prevista no § 2ş do art. 19, a responsabilidade do provedor de aplicaçőes de internet por danos decorrentes de conteúdo gerado por terceiros, quando se tratar de infraçăo a direitos de autor ou a direitos conexos, continuará a ser disciplinada pela legislaçăo autoral vigente aplicável na data da entrada em vigor desta Lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 43121,
+        "char_end": 43496
+      }
+    },
+    {
+      "id": "BR.LEI.12965.2014#40",
+      "type": "artigo_candidato",
+      "name": "Art. 32",
+      "content": "Art. 32. Esta Lei entra em vigor após decorridos 60 (sessenta) dias de sua publicaçăo oficial.\nBrasília, 23 de abril de 2014; 193ş da Independęncia e 126ş da República.\nDILMA ROUSSEFF\nJosé Eduardo Cardozo\nMiriam Belchior\nPaulo Bernardo Silva\nClélio Campolina Diniz\nEste texto năo substitui o publicado no DOU de 24.4.2014\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 43496,
+        "char_end": 43820
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "67c665693501b5a710f190e310c6be8956f01ba3485a5d0e1855d2c850447daf"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "internet"
+    },
+    {
+      "type": "subject",
+      "target": "prestador"
+    },
+    {
+      "type": "subject",
+      "target": "dados"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:31:39.352495+00:00",
+      "sha256": "67c665693501b5a710f190e310c6be8956f01ba3485a5d0e1855d2c850447daf",
+      "file": "documentos_oficiais/08_transversal/br-lei-12965-2014.html",
+      "extracted_text": "textos_extraidos/08_transversal/br-lei-12965-2014.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 40,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "automatically_extracted_legal_source",
+  "topic_key": "compiled/br-lei-12965-2014",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "review_status": "automatic_extraction_not_legally_consolidated"
+}

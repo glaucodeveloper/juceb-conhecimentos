@@ -1,0 +1,153 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.IMPORT_EXPORT",
+  "title": "Tributação comércio exterior",
+  "summary": "Importação e exportação de bens e operações conexas.",
+  "elements": [
+    {
+      "id": "import-export.1",
+      "type": "fator_de_decisao",
+      "name": "operacao"
+    },
+    {
+      "id": "import-export.2",
+      "type": "fator_de_decisao",
+      "name": "produto"
+    },
+    {
+      "id": "import-export.3",
+      "type": "fator_de_decisao",
+      "name": "NCM"
+    },
+    {
+      "id": "import-export.4",
+      "type": "fator_de_decisao",
+      "name": "pais origem"
+    },
+    {
+      "id": "import-export.5",
+      "type": "fator_de_decisao",
+      "name": "regime aduaneiro"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "tributacao"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.DECRETO_LEI.37.1966"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.DECRETO.6759.2009"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.214.2025"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "operacao",
+        "produto",
+        "NCM",
+        "pais origem",
+        "regime aduaneiro"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.DECRETO_LEI.37.1966",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0037.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.DECRETO.6759.2009",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6759.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LC.214.2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Conferir NCM, tratamento administrativo, incidências específicas"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "tributacao/import-export",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.DECRETO_LEI.37.1966",
+      "title": "Imposto de Importação e normas aduaneiras",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0037.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/decreto-lei-37-1966.okf",
+      "source_verified": false
+    },
+    {
+      "id": "BR.DECRETO.6759.2009",
+      "title": "Regulamento Aduaneiro",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6759.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/decreto-6759-2009.okf",
+      "source_verified": false
+    },
+    {
+      "id": "BR.LC.214.2025",
+      "title": "IBS, CBS, Imposto Seletivo e legislação do consumo",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "evidence_url": "",
+      "reference_okf": "references/05_reforma/lc-214-2025.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

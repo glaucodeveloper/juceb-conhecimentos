@@ -1,0 +1,60 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.PORTAL_JUCEB.resolucoes.2026",
+  "title": "Resoluções do Plenário JUCEB",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "ee2595f989f34da61523d6e7ec6e034ec8393f20225c17e612bc51619b0393d0"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "juceb"
+    },
+    {
+      "type": "subject",
+      "target": "resolucoes"
+    },
+    {
+      "type": "subject",
+      "target": "procedimentos"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.ba.gov.br/juceb/editais/12622/resolucoes-do-plenario-2",
+      "original_url": "https://www.ba.gov.br/juceb/editais/12622/resolucoes-do-plenario-2",
+      "authority": "JUCEB",
+      "retrieved_at": "2026-10-20T07:30:32.756851+00:00",
+      "sha256": "ee2595f989f34da61523d6e7ec6e034ec8393f20225c17e612bc51619b0393d0",
+      "file": "documentos_oficiais/01_registro/br-portal-juceb-resolucoes-2026.html",
+      "extracted_text": "textos_extraidos/01_registro/br-portal-juceb-resolucoes-2026.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 0,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

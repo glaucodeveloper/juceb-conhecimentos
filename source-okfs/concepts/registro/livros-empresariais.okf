@@ -1,0 +1,122 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.LIVROS_EMPRESARIAIS",
+  "title": "Livros empresariais",
+  "summary": "Autenticação, escrituração e conservação de livros empresariais.",
+  "elements": [
+    {
+      "id": "livros-empresariais.1",
+      "type": "fator_de_decisao",
+      "name": "tipo societario"
+    },
+    {
+      "id": "livros-empresariais.2",
+      "type": "fator_de_decisao",
+      "name": "escrituracao"
+    },
+    {
+      "id": "livros-empresariais.3",
+      "type": "fator_de_decisao",
+      "name": "documento"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "registro"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.IN_DREI.82.2021"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.DECRETO.6022.2007"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "tipo societario",
+        "escrituracao",
+        "documento"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.IN_DREI.82.2021",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/arquivos/legislacoes-federais/indrei822023_compilada.pdf/@@display-file/file",
+      "authority": "DREI",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.DECRETO.6022.2007",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Distinguir livro empresarial de obrigação SPED"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "registro/livros-empresariais",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.IN_DREI.82.2021",
+      "title": "Autenticação de livros empresariais",
+      "authority": "DREI",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/arquivos/legislacoes-federais/indrei822023_compilada.pdf/@@display-file/file",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/in-drei-82-2021.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.DECRETO.6022.2007",
+      "title": "SPED — Sistema Público de Escrituração Digital",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm",
+      "evidence_url": "",
+      "reference_okf": "references/04_obrigacoes/decreto-6022-2007.okf",
+      "source_verified": false
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

@@ -1,0 +1,153 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.IRPJ_CSLL",
+  "title": "IRPJ e CSLL",
+  "summary": "Regimes do lucro e formas de cálculo, receitas e adições/exclusões.",
+  "elements": [
+    {
+      "id": "irpj-csll.1",
+      "type": "fator_de_decisao",
+      "name": "regime"
+    },
+    {
+      "id": "irpj-csll.2",
+      "type": "fator_de_decisao",
+      "name": "receita"
+    },
+    {
+      "id": "irpj-csll.3",
+      "type": "fator_de_decisao",
+      "name": "lucro"
+    },
+    {
+      "id": "irpj-csll.4",
+      "type": "fator_de_decisao",
+      "name": "periodo"
+    },
+    {
+      "id": "irpj-csll.5",
+      "type": "fator_de_decisao",
+      "name": "atividade"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "tributacao"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.DECRETO.9580.2018"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.7689.1988"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.9249.1995"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "regime",
+        "receita",
+        "lucro",
+        "periodo",
+        "atividade"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.DECRETO.9580.2018",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9580.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LEI.7689.1988",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7689.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LEI.9249.1995",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Verificar regime admitido e bases por atividade"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "tributacao/irpj-csll",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.DECRETO.9580.2018",
+      "title": "Regulamento do Imposto sobre a Renda",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9580.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/decreto-9580-2018.okf",
+      "source_verified": false
+    },
+    {
+      "id": "BR.LEI.7689.1988",
+      "title": "Contribuição Social sobre o Lucro Líquido",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7689.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lei-7689-1988.okf",
+      "source_verified": false
+    },
+    {
+      "id": "BR.LEI.9249.1995",
+      "title": "IRPJ e CSLL - disposições gerais",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lei-9249-1995.okf",
+      "source_verified": false
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

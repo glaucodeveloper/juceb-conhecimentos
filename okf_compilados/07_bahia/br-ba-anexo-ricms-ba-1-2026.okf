@@ -1,0 +1,68 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.BA.ANEXO_RICMS_BA.1.2026",
+  "title": "Anexo I RICMS-BA — Substituição Tributária",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BA"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "46768ebfef042531bf7e25d5bed460e64c8001a901360edf7e6e6b9171ca65b3"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "icms bahia"
+    },
+    {
+      "type": "subject",
+      "target": "ncm"
+    },
+    {
+      "type": "subject",
+      "target": "cest"
+    },
+    {
+      "type": "subject",
+      "target": "st"
+    },
+    {
+      "type": "subject",
+      "target": "mv a"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2026.pdf",
+      "original_url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2026.pdf",
+      "authority": "SEFAZ-BA",
+      "retrieved_at": "2026-10-20T07:31:33.549911+00:00",
+      "sha256": "46768ebfef042531bf7e25d5bed460e64c8001a901360edf7e6e6b9171ca65b3",
+      "file": "documentos_oficiais/07_bahia/br-ba-anexo-ricms-ba-1-2026.pdf",
+      "extracted_text": "textos_extraidos/07_bahia/br-ba-anexo-ricms-ba-1-2026.txt",
+      "page_count": 42
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 0,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

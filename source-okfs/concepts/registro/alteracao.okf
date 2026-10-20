@@ -1,0 +1,148 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.ALTERACAO",
+  "title": "Alteração contratual",
+  "summary": "Requisitos formais, poderes de representação e publicidade dos atos.",
+  "elements": [
+    {
+      "id": "alteracao.1",
+      "type": "fator_de_decisao",
+      "name": "tipo juridico"
+    },
+    {
+      "id": "alteracao.2",
+      "type": "fator_de_decisao",
+      "name": "ato"
+    },
+    {
+      "id": "alteracao.3",
+      "type": "fator_de_decisao",
+      "name": "representante"
+    },
+    {
+      "id": "alteracao.4",
+      "type": "fator_de_decisao",
+      "name": "data do protocolo"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "registro"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.8934.1994"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.10406.2002"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.IN_DREI.81.2020"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "tipo juridico",
+        "ato",
+        "representante",
+        "data do protocolo"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.LEI.8934.1994",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LEI.10406.2002",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.IN_DREI.81.2020",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file",
+      "authority": "DREI",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Checar manual DREI aplicável",
+    "Checar assinaturas e exigências"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "registro/alteracao",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.LEI.8934.1994",
+      "title": "Registro Público de Empresas Mercantis",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/lei-8934-1994.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LEI.10406.2002",
+      "title": "Código Civil",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/lei-10406-2002.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.IN_DREI.81.2020",
+      "title": "Normas gerais de registro e manuais",
+      "authority": "DREI",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/in-drei-81-2020.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

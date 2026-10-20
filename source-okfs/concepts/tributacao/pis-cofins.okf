@@ -1,0 +1,172 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.PIS_COFINS",
+  "title": "PIS/Pasep e Cofins",
+  "summary": "Apuração cumulativa/não cumulativa e créditos sob legislação temporalmente aplicável.",
+  "elements": [
+    {
+      "id": "pis-cofins.1",
+      "type": "fator_de_decisao",
+      "name": "regime"
+    },
+    {
+      "id": "pis-cofins.2",
+      "type": "fator_de_decisao",
+      "name": "receita"
+    },
+    {
+      "id": "pis-cofins.3",
+      "type": "fator_de_decisao",
+      "name": "insumos"
+    },
+    {
+      "id": "pis-cofins.4",
+      "type": "fator_de_decisao",
+      "name": "operacao"
+    },
+    {
+      "id": "pis-cofins.5",
+      "type": "fator_de_decisao",
+      "name": "competencia"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "tributacao"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.9718.1998"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.10637.2002"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.10833.2003"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.214.2025"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "regime",
+        "receita",
+        "insumos",
+        "operacao",
+        "competencia"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.LEI.9718.1998",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9718.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LEI.10637.2002",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637compilado.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LEI.10833.2003",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.833compilado.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LC.214.2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Verificar substituições pela CBS e efeitos transitórios"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "tributacao/pis-cofins",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.LEI.9718.1998",
+      "title": "PIS/Pasep e Cofins; legislação geral",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9718.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lei-9718-1998.okf",
+      "source_verified": false
+    },
+    {
+      "id": "BR.LEI.10637.2002",
+      "title": "PIS/Pasep — não cumulatividade",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637compilado.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lei-10637-2002.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LEI.10833.2003",
+      "title": "Cofins — não cumulatividade",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.833compilado.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lei-10833-2003.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LC.214.2025",
+      "title": "IBS, CBS, Imposto Seletivo e legislação do consumo",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "evidence_url": "",
+      "reference_okf": "references/05_reforma/lc-214-2025.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

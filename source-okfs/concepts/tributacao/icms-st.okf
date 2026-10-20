@@ -1,0 +1,159 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.ICMS_ST",
+  "title": "Substituição Tributária ICMS",
+  "summary": "Tratamento de NCM/CEST e protocolos de substituição tributária na Bahia.",
+  "elements": [
+    {
+      "id": "icms-st.1",
+      "type": "fator_de_decisao",
+      "name": "UF origem"
+    },
+    {
+      "id": "icms-st.2",
+      "type": "fator_de_decisao",
+      "name": "UF destino"
+    },
+    {
+      "id": "icms-st.3",
+      "type": "fator_de_decisao",
+      "name": "NCM"
+    },
+    {
+      "id": "icms-st.4",
+      "type": "fator_de_decisao",
+      "name": "CEST"
+    },
+    {
+      "id": "icms-st.5",
+      "type": "fator_de_decisao",
+      "name": "mercadoria"
+    },
+    {
+      "id": "icms-st.6",
+      "type": "fator_de_decisao",
+      "name": "competencia"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "tributacao"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.87.1996"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.BA.DECRETO_BA.13780.2012"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.BA.ANEXO_RICMS_BA.1.2026"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "UF origem",
+        "UF destino",
+        "NCM",
+        "CEST",
+        "mercadoria",
+        "competencia"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.LC.87.1996",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.BA.DECRETO_BA.13780.2012",
+      "url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_texto_2021.pdf",
+      "authority": "SEFAZ-BA",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.BA.ANEXO_RICMS_BA.1.2026",
+      "url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2026.pdf",
+      "authority": "SEFAZ-BA",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Checar acordo interestadual vigente, margem e regime"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "tributacao/icms-st",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.LC.87.1996",
+      "title": "Lei Kandir — ICMS",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lc-87-1996.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.BA.DECRETO_BA.13780.2012",
+      "title": "Regulamento ICMS da Bahia (RICMS-BA)",
+      "authority": "SEFAZ-BA",
+      "url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_texto_2021.pdf",
+      "evidence_url": "",
+      "reference_okf": "references/07_bahia/decreto-ba-13780-2012.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.BA.ANEXO_RICMS_BA.1.2026",
+      "title": "Anexo I RICMS-BA — Substituição Tributária",
+      "authority": "SEFAZ-BA",
+      "url": "https://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2026.pdf",
+      "evidence_url": "",
+      "reference_okf": "references/07_bahia/anexo-ricms-ba-1-2026.okf",
+      "source_verified": true
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

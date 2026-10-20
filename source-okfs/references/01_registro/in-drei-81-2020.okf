@@ -1,0 +1,89 @@
+{
+  "schema": "okfforge.juceb.legal_source.v1",
+  "id": "BR.IN_DREI.81.2020",
+  "title": "Normas gerais de registro e manuais",
+  "summary": "Referência normativa no domínio 01_registro; sem transcrição integral no arquivo de descoberta. Texto obtido posteriormente por sync_official.py.",
+  "elements": [
+    {
+      "id": "norma:BR.IN_DREI.81.2020",
+      "type": "ato_normativo",
+      "name": "Normas gerais de registro e manuais",
+      "attributes": {
+        "kind": "IN DREI",
+        "year": 2020,
+        "jurisdiction": "BR",
+        "subjects": [
+          "registro",
+          "atos",
+          "empresario individual",
+          "sociedade limitada",
+          "cooperativa"
+        ]
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "fonte_primaria_obrigatoria",
+      "value": true
+    },
+    {
+      "name": "proibido_inferir_vigencia_sem_conferencia",
+      "value": true
+    }
+  ],
+  "relations": [],
+  "functions": [],
+  "sources": [
+    {
+      "id": "BR.IN_DREI.81.2020",
+      "tipo": "IN DREI",
+      "numero": "81",
+      "ano": 2020,
+      "jurisdicao": "BR",
+      "orgao": "DREI",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file",
+      "verificacao_url": "consulta_dirigida",
+      "consultado_em": "2026-10-19",
+      "texto_integral_capturado": false,
+      "hash_sha256": null
+    }
+  ],
+  "open_questions": [
+    "Conferir vigência material e efeitos diferidos; captura de texto integral ainda pendente."
+  ],
+  "provenance": {
+    "status": "indice_documental",
+    "retrieved_at": null,
+    "notes": "Catálogo inclui versões atualizadas e anexos; coletor faz descoberta de links dos manuais.",
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "completeness": {
+    "classification": "referencia_catalogada",
+    "full_text": false,
+    "article_count": 0,
+    "do_not_use_as_consolidated_law": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review",
+    "contract": {
+      "no_unverified_normative_conclusions": true
+    }
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_source_reference",
+  "topic_key": "references/br-in-drei-81-2020",
+  "catalog_status": "url-consulted",
+  "official_source": {
+    "id": "BR.IN_DREI.81.2020",
+    "authority": "DREI",
+    "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file",
+    "evidence_url": "",
+    "source_verified": true,
+    "notes": "Catálogo inclui versões atualizadas e anexos; coletor faz descoberta de links dos manuais."
+  }
+}

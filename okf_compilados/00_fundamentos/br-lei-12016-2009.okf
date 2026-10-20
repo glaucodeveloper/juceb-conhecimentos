@@ -1,0 +1,453 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.LEI.12016.2009",
+  "title": "Mandado de segurança",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.LEI.12016.2009#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1\no\nConceder-se-á mandado de \r\nsegurança para proteger direito líquido e certo, năo amparado por\nhabeas \r\ncorpus\nou\nhabeas data\n, sempre que, ilegalmente ou com abuso de \r\npoder, qualquer pessoa física ou jurídica sofrer violaçăo ou houver justo receio \r\nde sofrę-la por parte de autoridade, seja de que categoria for e sejam quais \r\nforem as funçőes que exerça.\n(Vide ADIN 4296)\n§ 1\no\nEquiparam-se ŕs autoridades, \r\npara os efeitos desta Lei, os representantes ou órgăos de partidos políticos e \r\nos administradores de entidades autárquicas, bem como os dirigentes de pessoas \r\njurídicas ou as pessoas naturais no exercício de atribuiçőes do poder público, \r\nsomente no que disser respeito a essas atribuiçőes.\n§ 2\no\nNăo cabe mandado de segurança \r\ncontra os atos de gestăo comercial praticados pelos administradores de empresas \r\npúblicas, de sociedade de economia mista e de concessionárias de serviço \r\npúblico.\n(Vide ADIN 4296)\n§ 3\no\nQuando o direito ameaçado ou \r\nviolado couber a várias pessoas, qualquer delas poderá requerer o mandado de \r\nsegurança.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 323,
+        "char_end": 1388
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#2",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2\no\nConsiderar-se-á federal a \r\nautoridade coatora se as consequęncias de ordem patrimonial do ato contra o qual \r\nse requer o mandado houverem de ser suportadas pela Uniăo ou entidade por ela \r\ncontrolada.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1388,
+        "char_end": 1600
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#3",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3\no\nO titular de direito \r\nlíquido e certo decorrente de direito, em condiçőes idęnticas, de terceiro \r\npoderá impetrar mandado de segurança a favor do direito originário, se o seu \r\ntitular năo o fizer, no prazo de 30 (trinta) dias, quando notificado \r\njudicialmente.\nParágrafo único.  O exercício do direito previsto no\ncaput\ndeste artigo submete-se ao prazo fixado no art. 23 desta \r\nLei, contado da notificaçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1600,
+        "char_end": 2021
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#4",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4\no\nEm caso de urgęncia, é \r\npermitido, observados os requisitos legais, impetrar mandado de segurança por \r\ntelegrama, radiograma, fax ou outro meio eletrônico de autenticidade \r\ncomprovada.\n§ 1\no\nPoderá o juiz, em caso de \r\nurgęncia, notificar a autoridade por telegrama, radiograma ou outro meio que \r\nassegure a autenticidade do documento e a imediata cięncia pela autoridade.\n§ 2\no\nO texto original da petiçăo \r\ndeverá ser apresentado nos 5 (cinco) dias úteis seguintes.\n§ 3\no\nPara os fins deste artigo, em \r\nse tratando de documento eletrônico, serăo observadas as regras da \r\nInfra-Estrutura de Chaves Públicas Brasileira - ICP-Brasil.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2021,
+        "char_end": 2669
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#5",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5\no\nNăo se concederá mandado de \r\nsegurança quando se tratar:\nI - de ato do qual caiba recurso administrativo com \r\nefeito suspensivo, independentemente de cauçăo;\nII - de decisăo judicial da qual caiba recurso com \r\nefeito suspensivo;\nIII - de decisăo judicial transitada em julgado.\nParágrafo único.\n(VETADO)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2669,
+        "char_end": 2985
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#6",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6\no\nA petiçăo inicial, que \r\ndeverá preencher os requisitos estabelecidos pela lei processual, será \r\napresentada em 2 (duas) vias com os documentos que instruírem a primeira \r\nreproduzidos na segunda e indicará, além da autoridade coatora, a pessoa \r\njurídica que esta integra, ŕ qual se acha vinculada ou da qual exerce \r\natribuiçőes.\n§ 1\no\nNo caso em que o documento \r\nnecessário ŕ prova do alegado se ache em repartiçăo ou estabelecimento público \r\nou em poder de autoridade que se recuse a fornecę-lo por certidăo ou de \r\nterceiro, o juiz ordenará, preliminarmente, por ofício, a exibiçăo desse \r\ndocumento em original ou em cópia autęntica e marcará, para o cumprimento da \r\nordem, o prazo de 10 (dez) dias. O escrivăo extrairá cópias do documento para \r\njuntá-las ŕ segunda via da petiçăo.\n§ 2\no\nSe a autoridade que tiver \r\nprocedido dessa maneira for a própria coatora, a ordem far-se-á no próprio \r\ninstrumento da notificaçăo.\n§ 3\no\nConsidera-se autoridade \r\ncoatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para \r\na sua prática.\n§ 4\no\n(VETADO)\n§ 5\no\nDenega-se o mandado de \r\nsegurança nos casos previstos pelo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2985,
+        "char_end": 4137
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#7",
+      "type": "artigo_candidato",
+      "name": "Art. 267",
+      "content": "art. 267 da Lei n\no\n5.869, \r\nde 11 de janeiro de 1973 - Código de Processo Civil.\n§ 6\no\nO pedido de mandado de \r\nsegurança poderá ser renovado dentro do prazo decadencial, se a decisăo \r\ndenegatória năo lhe houver apreciado o mérito.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4137,
+        "char_end": 4371
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#8",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7\no\nAo despachar a inicial, o \r\njuiz ordenará:\nI - que se notifique o coator do conteúdo da petiçăo \r\ninicial, enviando-lhe a segunda via apresentada com as cópias dos documentos, a \r\nfim de que, no prazo de 10 (dez) dias, preste as informaçőes;\nII - que se dę cięncia do feito ao órgăo de \r\nrepresentaçăo judicial da pessoa jurídica interessada, enviando-lhe cópia da \r\ninicial sem documentos, para que, querendo, ingresse no feito;\nIII - que se suspenda o ato que deu motivo ao pedido, \r\nquando houver fundamento relevante e do ato impugnado puder resultar a \r\nineficácia da medida, caso seja finalmente deferida, sendo facultado exigir do \r\nimpetrante cauçăo, fiança ou depósito, com o objetivo de assegurar o \r\nressarcimento ŕ pessoa jurídica.\n(Vide ADIN 4296)\n§ 1\no\nDa decisăo do juiz de primeiro \r\ngrau que conceder ou denegar a liminar caberá agravo de instrumento, observado o \r\ndisposto na\nLei n\no\n5.869, de 11 de janeiro de 1973 - Código de \r\nProcesso Civil.\n§ 2\no\nNăo será concedida medida \r\nliminar que tenha por objeto a compensaçăo de créditos tributários, a entrega de \r\nmercadorias e bens provenientes do exterior, a reclassificaçăo ou equiparaçăo de \r\nservidores públicos e a concessăo de aumento ou a extensăo de vantagens ou \r\npagamento de qualquer natureza.\n(Vide ADIN 4296)\n§ 3\no\nOs efeitos da medida liminar, \r\nsalvo se revogada ou cassada, persistirăo até a prolaçăo da sentença.\n§ 4\no\nDeferida a medida liminar, o \r\nprocesso terá prioridade para julgamento.\n§ 5\no\nAs vedaçőes relacionadas com a \r\nconcessăo de liminares previstas neste artigo se estendem ŕ tutela antecipada a \r\nque se referem os\narts. 273\ne\n461 da Lei n\no\n5.869, de 11 \r\njaneiro de 1973 - Código de Processo Civil.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4371,
+        "char_end": 6083
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#9",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8\no\nSerá decretada a perempçăo \r\nou caducidade da medida liminar\nex officio\nou a requerimento do \r\nMinistério Público quando, concedida a medida, o impetrante criar obstáculo ao \r\nnormal andamento do processo ou deixar de promover, por mais de 3 (tręs) dias \r\núteis, os atos e as diligęncias que lhe cumprirem.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6083,
+        "char_end": 6399
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#10",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9\no\nAs autoridades \r\nadministrativas, no prazo de 48 (quarenta e oito) horas da notificaçăo da medida \r\nliminar, remeterăo ao Ministério ou órgăo a que se acham subordinadas e ao \r\nAdvogado-Geral da Uniăo ou a quem tiver a representaçăo judicial da Uniăo, do \r\nEstado, do Município ou da entidade apontada como coatora cópia autenticada do \r\nmandado notificatório, assim como indicaçőes e elementos outros necessários ŕs \r\nprovidęncias a serem tomadas para a eventual suspensăo da medida e defesa do ato \r\napontado como ilegal ou abusivo de poder.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6399,
+        "char_end": 6952
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#11",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10.  A inicial será desde logo indeferida, por \r\ndecisăo motivada, quando năo for o caso de mandado de segurança ou lhe faltar \r\nalgum dos requisitos legais ou quando decorrido o prazo legal para a \r\nimpetraçăo.\n§ 1\no\nDo indeferimento da inicial \r\npelo juiz de primeiro grau caberá apelaçăo e, quando a competęncia para o \r\njulgamento do mandado de segurança couber originariamente a um dos tribunais, do \r\nato do relator caberá agravo para o órgăo competente do tribunal que integre.\n§ 2\no\nO ingresso de litisconsorte \r\nativo năo será admitido após o despacho da petiçăo inicial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6952,
+        "char_end": 7538
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#12",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11.  Feitas as notificaçőes, o serventuário em \r\ncujo cartório corra o feito juntará aos autos cópia autęntica dos ofícios \r\nendereçados ao coator e ao órgăo de representaçăo judicial da pessoa jurídica \r\ninteressada, bem como a prova da entrega a estes ou da sua recusa em aceitá-los \r\nou dar recibo e, no caso do art. 4\no\ndesta Lei, a comprovaçăo \r\nda remessa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7538,
+        "char_end": 7906
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#13",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12.  Findo o prazo a que se refere o inciso I do\ncaput\ndo art. 7\no\ndesta Lei, o juiz ouvirá o \r\nrepresentante do Ministério Público, que opinará, dentro do prazo improrrogável \r\nde 10 (dez) dias.\nParágrafo único.  Com ou sem o parecer do Ministério \r\nPúblico, os autos serăo conclusos ao juiz, para a decisăo, a qual deverá ser \r\nnecessariamente proferida em 30 (trinta) dias.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7906,
+        "char_end": 8288
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#14",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13.  Concedido o mandado, o juiz transmitirá em \r\nofício, por intermédio do oficial do juízo, ou pelo correio, mediante \r\ncorrespondęncia com aviso de recebimento, o inteiro teor da sentença ŕ \r\nautoridade coatora e ŕ pessoa jurídica interessada.\nParágrafo único.  Em caso de urgęncia, poderá o juiz \r\nobservar o disposto no art. 4\no\ndesta Lei.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8288,
+        "char_end": 8638
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#15",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14.  Da sentença, denegando ou concedendo o \r\nmandado, cabe apelaçăo.\n§ 1\no\nConcedida a segurança, a \r\nsentença estará sujeita obrigatoriamente ao duplo grau de jurisdiçăo.\n§ 2\no\nEstende-se ŕ autoridade \r\ncoatora o direito de recorrer.\n§ 3\no\nA sentença que conceder o \r\nmandado de segurança pode ser executada provisoriamente, salvo nos casos em que \r\nfor vedada a concessăo da medida liminar.\n§ 4\no\nO pagamento de vencimentos e \r\nvantagens pecuniárias assegurados em sentença concessiva de mandado de segurança \r\na servidor público da administraçăo direta ou autárquica federal, estadual e \r\nmunicipal somente será efetuado relativamente ŕs prestaçőes que se vencerem a \r\ncontar da data do ajuizamento da inicial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8638,
+        "char_end": 9358
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#16",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15.  Quando, a requerimento de pessoa jurídica de \r\ndireito público interessada ou do Ministério Público e para evitar grave lesăo ŕ \r\nordem, ŕ saúde, ŕ segurança e ŕ economia públicas, o presidente do tribunal ao \r\nqual couber o conhecimento do respectivo recurso suspender, em decisăo \r\nfundamentada, a execuçăo da liminar e da sentença, dessa decisăo caberá agravo, \r\nsem efeito suspensivo, no prazo de 5 (cinco) dias, que será levado a julgamento \r\nna sessăo seguinte ŕ sua interposiçăo.\n§ 1\no\nIndeferido o pedido de \r\nsuspensăo ou provido o agravo a que se refere o\ncaput\ndeste \r\nartigo, caberá novo pedido de suspensăo ao presidente do tribunal competente \r\npara conhecer de eventual recurso especial ou extraordinário.\n§ 2\no\nÉ cabível também o pedido de \r\nsuspensăo a que se refere o § 1\no\ndeste artigo, quando negado \r\nprovimento a agravo de instrumento interposto contra a liminar a que se refere \r\neste artigo.\n§ 3\no\nA interposiçăo de agravo de \r\ninstrumento contra liminar concedida nas açőes movidas contra o poder público e \r\nseus agentes năo prejudica nem condiciona o julgamento do pedido de suspensăo a \r\nque se refere este artigo.\n§ 4\no\nO presidente do tribunal \r\npoderá conferir ao pedido efeito suspensivo liminar se constatar, em juízo \r\nprévio, a plausibilidade do direito invocado e a urgęncia na concessăo da \r\nmedida.\n§ 5\no\nAs liminares cujo objeto seja \r\nidęntico poderăo ser suspensas em uma única decisăo, podendo o presidente do \r\ntribunal estender os efeitos da suspensăo a liminares supervenientes, mediante \r\nsimples aditamento do pedido original.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9358,
+        "char_end": 10942
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#17",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16.  Nos casos de competęncia originária dos \r\ntribunais, caberá ao relator a instruçăo do processo, sendo assegurada a defesa \r\noral na sessăo do julgamento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 10942,
+        "char_end": 11106
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#18",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16.  Nos casos de competęncia originária dos \r\ntribunais, caberá ao relator a instruçăo do processo, sendo assegurada a defesa \r\noral na sessăo do julgamento do mérito ou do pedido liminar.\n(Redaçăo dada pela Lei \r\nnş 13.676, de 2018)\nParágrafo único.  Da decisăo do relator que conceder \r\nou denegar a medida liminar caberá agravo ao órgăo competente do tribunal que \r\nintegre.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11106,
+        "char_end": 11490
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#19",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17.  Nas decisőes proferidas em mandado de \r\nsegurança e nos respectivos recursos, quando năo publicado, no prazo de 30 \r\n(trinta) dias, contado da data do julgamento, o acórdăo será substituído pelas \r\nrespectivas notas taquigráficas, independentemente de revisăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11490,
+        "char_end": 11761
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#20",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "Art. 18.  Das decisőes em mandado de segurança \r\nproferidas em única instância pelos tribunais cabe recurso especial e \r\nextraordinário, nos casos legalmente previstos, e recurso ordinário, quando a \r\nordem for denegada.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11761,
+        "char_end": 11982
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#21",
+      "type": "artigo_candidato",
+      "name": "Art. 19",
+      "content": "Art. 19.  A sentença ou o acórdăo que denegar mandado \r\nde segurança, sem decidir o mérito, năo impedirá que o requerente, por açăo \r\nprópria, pleiteie os seus direitos e os respectivos efeitos patrimoniais.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 11982,
+        "char_end": 12190
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#22",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20.  Os processos de mandado de segurança e os \r\nrespectivos recursos terăo prioridade sobre todos os atos judiciais, salvo\nhabeas corpus\n.\n§ 1\no\nNa instância superior, deverăo \r\nser levados a julgamento na primeira sessăo que se seguir ŕ data em que forem \r\nconclusos ao relator.\n§ 2\no\nO prazo para a conclusăo dos \r\nautos năo poderá exceder de 5 (cinco) dias.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 12190,
+        "char_end": 12557
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#23",
+      "type": "artigo_candidato",
+      "name": "Art. 21",
+      "content": "Art. 21.  O mandado de segurança coletivo pode ser \r\nimpetrado por partido político com representaçăo no Congresso Nacional, na \r\ndefesa de seus interesses legítimos relativos a seus integrantes ou ŕ finalidade \r\npartidária, ou por organizaçăo sindical, entidade de classe ou associaçăo \r\nlegalmente constituída e em funcionamento há, pelo menos, 1 (um) ano, em defesa \r\nde direitos líquidos e certos da totalidade, ou de parte, dos seus membros ou \r\nassociados, na forma dos seus estatutos e desde que pertinentes ŕs suas \r\nfinalidades, dispensada, para tanto, autorizaçăo especial.\nParágrafo único.  Os direitos protegidos pelo mandado \r\nde segurança coletivo podem ser:\nI - coletivos, assim entendidos, para efeito desta \r\nLei, os transindividuais, de natureza indivisível, de que seja titular grupo ou \r\ncategoria de pessoas ligadas entre si ou com a parte contrária por uma relaçăo \r\njurídica básica;\nII - individuais homogęneos, assim entendidos, para \r\nefeito desta Lei, os decorrentes de origem comum e da atividade ou situaçăo \r\nespecífica da totalidade ou de parte dos associados ou membros do impetrante.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 12557,
+        "char_end": 13673
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#24",
+      "type": "artigo_candidato",
+      "name": "Art. 22",
+      "content": "Art. 22.  No mandado de segurança coletivo, a sentença \r\nfará coisa julgada limitadamente aos membros do grupo ou categoria substituídos \r\npelo impetrante.\n(Vide ADIN 4296)\n§ 1\no\nO mandado de segurança \r\ncoletivo năo induz litispendęncia para as açőes individuais, mas os efeitos da \r\ncoisa julgada năo beneficiarăo o impetrante a título individual se năo requerer \r\na desistęncia de seu mandado de segurança no prazo de 30 (trinta) dias a contar \r\nda cięncia comprovada da impetraçăo da segurança coletiva.\n§ 2\no\nNo mandado de segurança \r\ncoletivo, a liminar só poderá ser concedida após a audięncia do representante \r\njudicial da pessoa jurídica de direito público, que deverá se pronunciar no \r\nprazo de 72 (setenta e duas) horas.\n(Vide ADIN 4296)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 13673,
+        "char_end": 14424
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#25",
+      "type": "artigo_candidato",
+      "name": "Art. 23",
+      "content": "Art. 23.  O direito de requerer mandado de segurança \r\nextinguir-se-á decorridos 120 (cento e vinte) dias, contados da cięncia, pelo \r\ninteressado, do ato impugnado.\n(Vide ADIN 4296)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 14424,
+        "char_end": 14607
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#26",
+      "type": "artigo_candidato",
+      "name": "Art. 24",
+      "content": "Art. 24.  Aplicam-se ao mandado de segurança os\narts. \r\n46\na\n49 da Lei n\no\n5.869, de 11 de janeiro de 1973 - Código de \r\nProcesso Civil.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 14607,
+        "char_end": 14744
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#27",
+      "type": "artigo_candidato",
+      "name": "Art. 25",
+      "content": "Art. 25.  Năo cabem, no processo de mandado de \r\nsegurança, a interposiçăo de embargos infringentes e a condenaçăo ao pagamento \r\ndos honorários advocatícios, sem prejuízo da aplicaçăo de sançőes no caso de \r\nlitigância de má-fé.\n(Vide ADIN 4296)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 14744,
+        "char_end": 14991
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#28",
+      "type": "artigo_candidato",
+      "name": "Art. 26",
+      "content": "Art. 26.  Constitui crime de desobedięncia, nos termos \r\ndo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 14991,
+        "char_end": 15051
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#29",
+      "type": "artigo_candidato",
+      "name": "Art. 330",
+      "content": "art. 330 do Decreto-Lei n\no\n2.848, de 7 de dezembro de 1940\n, \r\no năo cumprimento das decisőes proferidas em mandado de segurança, sem prejuízo \r\ndas sançőes administrativas e da aplicaçăo da\nLei n\no\n1.079, de \r\n10 de abril de 1950\n, quando cabíveis.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15051,
+        "char_end": 15302
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#30",
+      "type": "artigo_candidato",
+      "name": "Art. 27",
+      "content": "Art. 27.  Os regimentos dos tribunais e, no que \r\ncouber, as leis de organizaçăo judiciária deverăo ser adaptados ŕs disposiçőes \r\ndesta Lei no prazo de 180 (cento e oitenta) dias, contado da sua publicaçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15302,
+        "char_end": 15510
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#31",
+      "type": "artigo_candidato",
+      "name": "Art. 28",
+      "content": "Art. 28.  Esta Lei entra em vigor na data de sua \r\npublicaçăo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15510,
+        "char_end": 15573
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#32",
+      "type": "artigo_candidato",
+      "name": "Art. 29",
+      "content": "Art. 29.  Revogam-se as\nLeis n\nos\n1.533, de 31 de dezembro de 1951\n,\n4.166, de 4 de dezembro de 1962\n,\n4.348, de 26 \r\nde junho de 1964\n,\n5.021, de 9 de junho de 1966\n; o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15573,
+        "char_end": 15743
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#33",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "art. 3\no\nda \r\nLei n\no\n6.014, de 27 de dezembro de 1973\n, o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15743,
+        "char_end": 15802
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#34",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "art. 1\no\nda Lei n\no\n6.071, de 3 de julho de 1974\n, o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15802,
+        "char_end": 15855
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#35",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "art. 12 da Lei n\no\n6.978, de 19 de janeiro de 1982\n, e o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15855,
+        "char_end": 15912
+      }
+    },
+    {
+      "id": "BR.LEI.12016.2009#36",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "art. 2\no\nda Lei n\no\n9.259, de 9 de janeiro de 1996.\nBrasília,  7  de  agosto  de 2009; 188\no\nda Independęncia e 121\no\nda República.\nLUIZ INÁCIO LULA DA SILVA\nTarso Genro\nJosé Antonio Dias Toffoli\nEste texto năo substitui o publicado \r\nno DOU de 10.8.2009\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15912,
+        "char_end": 16169
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "02a4255695c90c9f740bcd49c915feb507fe411600cfd844bd1ed506bf084c69"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "contencioso"
+    },
+    {
+      "type": "subject",
+      "target": "direitos"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:30:13.967989+00:00",
+      "sha256": "02a4255695c90c9f740bcd49c915feb507fe411600cfd844bd1ed506bf084c69",
+      "file": "documentos_oficiais/00_fundamentos/br-lei-12016-2009.html",
+      "extracted_text": "textos_extraidos/00_fundamentos/br-lei-12016-2009.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 36,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

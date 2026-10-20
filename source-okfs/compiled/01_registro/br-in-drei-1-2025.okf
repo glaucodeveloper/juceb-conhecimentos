@@ -1,0 +1,65 @@
+{
+  "schema": "okfforge.juceb.compiled_source.v1",
+  "id": "BR.IN_DREI.1.2025",
+  "title": "Altera IN DREI 81/2020",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "9ebb6dd6b89ad0938d98b143844b2d8d10b1f1cfa6f229c36e8167bbba66b983"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "registro"
+    },
+    {
+      "type": "subject",
+      "target": "atualizacoes"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas",
+      "original_url": "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas",
+      "authority": "DREI",
+      "retrieved_at": "2026-10-20T07:30:31.668095+00:00",
+      "sha256": "9ebb6dd6b89ad0938d98b143844b2d8d10b1f1cfa6f229c36e8167bbba66b983",
+      "file": "documentos_oficiais/01_registro/br-in-drei-1-2025.html",
+      "extracted_text": "textos_extraidos/01_registro/br-in-drei-1-2025.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 0,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "automatically_extracted_legal_source",
+  "topic_key": "compiled/br-in-drei-1-2025",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "review_status": "automatic_extraction_not_legally_consolidated"
+}

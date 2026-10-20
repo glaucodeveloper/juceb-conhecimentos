@@ -1,0 +1,299 @@
+{
+  "schema": "okf.knowledge.v1",
+  "id": "BR.LC.167.2019",
+  "title": "Empresa Simples de Crédito e Inova Simples",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.LC.167.2019#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1\no\nA Empresa Simples de Crédito (ESC), \r\nde âmbito municipal ou distrital, com atuaçăo exclusivamente no Município de sua \r\nsede e em Municípios limítrofes, ou, quando for o caso, no Distrito Federal e em \r\nMunicípios limítrofes, destina-se ŕ realizaçăo de operaçőes de empréstimo, de \r\nfinanciamento e de desconto de títulos de crédito, exclusivamente com recursos \r\npróprios, tendo como contrapartes microempreendedores individuais, microempresas \r\ne empresas de pequeno porte, nos termos da\nLei Complementar nş 123, de 14 de \r\ndezembro de 2006\n(Lei do Simples Nacional).",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 572,
+        "char_end": 1152
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#2",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2ş A ESC deve adotar a forma de empresa individual de \r\nresponsabilidade limitada (Eireli), empresário individual ou sociedade limitada \r\nconstituída exclusivamente por pessoas naturais e terá por objeto social \r\nexclusivo as atividades enumeradas no art. 1ş desta Lei Complementar.\n§ 1ş O nome empresarial de que trata o\ncaput\ndeste artigo conterá a \r\nexpressăo “Empresa Simples de Crédito”, e năo poderá constar dele, ou de \r\nqualquer texto de divulgaçăo de suas atividades, a expressăo “banco” ou outra \r\nexpressăo identificadora de instituiçăo autorizada a funcionar pelo Banco \r\nCentral do Brasil.\n§ 2ş O capital inicial da ESC e os posteriores aumentos de capital deverăo ser \r\nrealizados integralmente em moeda corrente.\n§ 3ş O valor total das operaçőes de empréstimo, de financiamento e de desconto \r\nde títulos de crédito da ESC năo poderá ser superior ao capital realizado.\n§ 4ş A mesma pessoa natural năo poderá participar de mais de uma ESC, ainda que \r\nlocalizadas em Municípios distintos ou sob a forma de filial.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1152,
+        "char_end": 2185
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#3",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3ş É vedada ŕ ESC a realizaçăo de:\nI - qualquer captaçăo de recursos, em nome próprio ou de terceiros, sob pena de \r\nenquadramento no crime previsto no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2185,
+        "char_end": 2342
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#4",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "art. 16 da Lei nş 7.492, de 16 de junho de \r\n1986\n(Lei dos Crimes contra o Sistema Financeiro Nacional); e\nII - operaçőes de crédito, na qualidade de credora, com entidades integrantes da \r\nadministraçăo pública direta, indireta e fundacional de qualquer dos poderes da \r\nUniăo, dos Estados, do Distrito Federal e dos Municípios.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2342,
+        "char_end": 2672
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#5",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4ş A receita bruta anual da ESC năo poderá exceder o \r\nlimite de receita bruta para Empresa de Pequeno Porte (EPP) definido na\nLei \r\nComplementar nş 123, de 14 de dezembro de 2006\n(Lei do Simples Nacional).\nParágrafo único. Considera-se receita bruta, para fins do disposto no\ncaput\ndeste artigo, a remuneraçăo auferida pela ESC com a cobrança de juros, inclusive \r\nquando cobertos pela venda do valor do bem objeto de alienaçăo fiduciária.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 2672,
+        "char_end": 3118
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#6",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5ş Nas operaçőes referidas no art. 1ş desta Lei \r\nComplementar, devem ser observadas as seguintes condiçőes:\nI - a remuneraçăo da ESC somente pode ocorrer por meio de juros remuneratórios, \r\nvedada a cobrança de quaisquer outros encargos, mesmo sob a forma de tarifa;\nII - a formalizaçăo do contrato deve ser realizada por meio de instrumento \r\npróprio, cuja cópia deverá ser entregue ŕ contraparte da operaçăo;\nIII - a movimentaçăo dos recursos deve ser realizada exclusivamente mediante \r\ndébito e crédito em contas de depósito de titularidade da ESC e da pessoa \r\njurídica contraparte na operaçăo.\n§ 1ş A ESC poderá utilizar o instituto da alienaçăo fiduciária em suas operaçőes \r\nde empréstimo, de financiamento e de desconto de títulos de crédito.\n§ 2ş A ESC deverá providenciar a anotaçăo, em bancos de dados, de informaçőes de \r\nadimplemento e de inadimplemento de seus clientes, na forma da legislaçăo em \r\nvigor.\n§ 3ş É condiçăo de validade das operaçőes de que trata o\ncaput\ndeste \r\nartigo o registro delas em entidade registradora autorizada pelo Banco Central \r\ndo Brasil ou pela Comissăo de Valores Mobiliários, nos termos do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 3118,
+        "char_end": 4262
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#7",
+      "type": "artigo_candidato",
+      "name": "Art. 28",
+      "content": "art. 28 da Lei \r\nnş 12.810, de 15 de maio de 2013.\n§ 4ş Năo se aplicam ŕ ESC as limitaçőes ŕ cobrança de juros previstas no\nDecreto \r\nnş 22.626, de 7 de abril de 1933\n(Lei da Usura), e no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4262,
+        "char_end": 4450
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#8",
+      "type": "artigo_candidato",
+      "name": "Art. 591",
+      "content": "art. 591 da Lei nş 10.406, \r\nde 10 de janeiro de 2002\n(Código Civil).",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4450,
+        "char_end": 4520
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#9",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6ş É facultado ao Banco Central do Brasil, năo \r\nconstituindo violaçăo ao dever de sigilo, o acesso ŕs informaçőes decorrentes do \r\nregistro de que trata o § 3ş do art. 5ş desta Lei Complementar, para fins \r\nestatísticos e de controle macroprudencial do risco de crédito.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4520,
+        "char_end": 4797
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#10",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7ş As ESCs estăo sujeitas aos regimes de recuperaçăo \r\njudicial e extrajudicial e ao regime falimentar regulados pela\nLei nş 11.101, de \r\n9 de fevereiro de 2005\n(Lei de Falęncias).",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4797,
+        "char_end": 4983
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#11",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8ş A ESC deverá manter escrituraçăo com observância das \r\nleis comerciais e fiscais e transmitir a Escrituraçăo Contábil Digital (ECD) por \r\nmeio do Sistema Público de Escrituraçăo Digital (Sped).",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 4983,
+        "char_end": 5185
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#12",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9ş Constitui crime o descumprimento do disposto no art. \r\n1ş, no § 3ş do art. 2ş, no art. 3ş e no\ncaput\ndo art. 5ş desta Lei \r\nComplementar.\nPena - reclusăo, de 1 (um) a 4 (quatro) anos, e multa.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5185,
+        "char_end": 5386
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#13",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. O Serviço Brasileiro de Apoio ŕs Micro e Pequenas \r\nEmpresas (Sebrae) poderá apoiar a constituiçăo e o fortalecimento das ESCs.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5386,
+        "char_end": 5523
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#14",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11. O art. 9ş da\nLei nş 9.613, de 3 de março de 1998\n(Lei de Lavagem de Dinheiro), passa a vigorar com a seguinte redaçăo:\n“Art. 9ş \r\n .........................................................................................................\n.....................................................................................................................\nParágrafo único. \r\n .............................................................................................\n.....................................................................................................................\nV -\nas empresas de arrendamento mercantil (\nleasing\n), as empresas de \r\n fomento comercial (\nfactoring\n) e as Empresas Simples de Crédito (ESC);\n............................................................................................................” \r\n (NR)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 5523,
+        "char_end": 6382
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#15",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12. Os arts. 15 e 20 da\nLei nş 9.249, de 26 de dezembro \r\nde 1995\n, passam a vigorar com a seguinte redaçăo:\n“Art. 15. \r\n .......................................................................................................\n§ 1ş \r\n .............................................................................................................\n....................................................................................................................\nIV -\n38,4% (trinta e oito inteiros e quatro décimos por cento), para as \r\n atividades de operaçăo de empréstimo, de financiamento e de desconto de \r\n títulos de crédito realizadas por Empresa Simples de Crédito (ESC).\n..........................................................................................................” \r\n (NR)\n“",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 6382,
+        "char_end": 7184
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#16",
+      "type": "artigo_candidato",
+      "name": "Art. 20",
+      "content": "Art. 20.\nA base de cálculo da Contribuiçăo Social sobre o Lucro Líquido (CSLL) \r\n devida pelas pessoas jurídicas que efetuarem o pagamento mensal ou \r\n trimestral a que se referem os\narts. 2ş\n,\n25\ne\n27 da Lei nş 9.430, de 27 de \r\n dezembro de 1996\n, corresponderá aos seguintes percentuais aplicados sobre a \r\n receita bruta definida pelo",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7184,
+        "char_end": 7523
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#17",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "art. 12 do Decreto-Lei nş 1.598, de 26 de \r\n dezembro de 1977\n, auferida no período, deduzida das devoluçőes, das vendas \r\n canceladas e dos descontos incondicionais concedidos:\nI - 32% (trinta e dois por cento) para a receita bruta decorrente das \r\n atividades previstas no inciso III do § 1ş do art. 15 desta Lei;\nII - 38,4% (trinta e oito inteiros e quatro décimos por cento) para a \r\n receita bruta decorrente das atividades previstas no inciso IV do § 1ş do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7523,
+        "char_end": 7988
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#18",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "art. 15 desta Lei; e\nIII - 12% (doze por cento) para as demais receitas brutas.\n..........................................................................................................” \r\n (NR)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 7988,
+        "char_end": 8185
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#19",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13. A\nLei Complementar nş 123, de 14 de dezembro de \r\n2006 (Lei do Simples Nacional)\n, passa a vigorar com as seguintes alteraçőes:\n“",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8185,
+        "char_end": 8324
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#20",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17.\nNăo poderăo recolher os impostos e contribuiçőes na forma do \r\n Simples Nacional a microempresa ou empresa de pequeno porte:\nI - que explore atividade de prestaçăo cumulativa e contínua de serviços de \r\n assessoria creditícia, gestăo de crédito, seleçăo e riscos, administraçăo de \r\n contas a pagar e a receber, gerenciamento de ativos (\nasset management\n) \r\n ou compra de direitos creditórios resultantes de vendas mercantis a prazo ou \r\n de prestaçăo de serviços (\nfactoring\n) ou que execute operaçőes de \r\n empréstimo, de financiamento e de desconto de títulos de crédito, \r\n exclusivamente com recursos próprios, tendo como contrapartes \r\n microempreendedores individuais, microempresas e empresas de pequeno porte, \r\n inclusive sob a forma de empresa simples de crédito;\n...........................................................................................................” \r\n (NR)\n“Art. 18-A. \r\n ...................................................................................................\n...................................................................................................................\n§ 4ş \r\n ............................................................................................................\n...................................................................................................................\nV -\nconstituído na forma de\nstartup\n.\n..........................................................................................................” \r\n (NR)\n“\nSeçăo II\nDo Apoio ŕ Inovaçăo e do \r\n Inova Simples da Empresa Simples de Inovaçăo\n” (NR)\n“",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 8324,
+        "char_end": 9937
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#21",
+      "type": "artigo_candidato",
+      "name": "Art. 65-A",
+      "content": "Art. 65-A.\nÉ criado o Inova Simples, regime especial simplificado que \r\n concede ŕs iniciativas empresariais de caráter incremental ou disruptivo que \r\n se autodeclarem como\nstartups\nou empresas de inovaçăo tratamento \r\n diferenciado com vistas a estimular sua criaçăo, formalizaçăo, \r\n desenvolvimento e consolidaçăo como agentes indutores de avanços \r\n tecnológicos e da geraçăo de emprego e renda.\n§ 1ş Para os fins desta Lei Complementar, considera-se\nstartup\na \r\n empresa de caráter inovador que visa a aperfeiçoar sistemas, métodos ou \r\n modelos de negócio, de produçăo, de serviços ou de produtos, os quais, \r\n quando já existentes, caracterizam\nstartups\nde natureza incremental, \r\n ou, quando relacionados ŕ criaçăo de algo totalmente novo, caracterizam\nstartups\nde natureza disruptiva.\n§ 2ş As\nstartups\ncaracterizam-se por desenvolver suas inovaçőes em \r\n condiçőes de incerteza que requerem experimentos e validaçőes constantes, \r\n inclusive mediante comercializaçăo experimental provisória, antes de \r\n procederem ŕ comercializaçăo plena e ŕ obtençăo de receita.\n§ 3ş O tratamento diferenciado a que se refere o\ncaput\ndeste artigo \r\n consiste na fixaçăo de rito sumário para abertura e fechamento de empresas \r\n sob o regime do Inova Simples, que se dará de forma simplificada e \r\n automática, no mesmo ambiente digital do portal da Rede Nacional para a \r\n Simplificaçăo do Registro e da Legalizaçăo de Empresas e Negócios (Redesim), \r\n em sítio eletrônico oficial do governo federal, por meio da utilizaçăo de \r\n formulário digital próprio, disponível em janela ou ícone intitulado Inova \r\n Simples.\n§ 4ş Os titulares de empresa submetida ao regime do Inova Simples \r\n preencherăo cadastro básico com as seguintes informaçőes:\nI - qualificaçăo civil, domicílio e CPF;\nII - descriçăo do escopo da intençăo empresarial inovadora e definiçăo da \r\n razăo social, que deverá conter obrigatoriamente a expressăo “Inova Simples \r\n (I.S.)”;\nIII - autodeclaraçăo, sob as penas da lei, de que o funcionamento da empresa \r\n submetida ao regime do Inova Simples năo produzirá poluiçăo, barulho e \r\n aglomeraçăo de tráfego de veículos, para fins de caracterizar baixo grau de \r\n risco, nos termos do § 4ş do art. 6ş desta Lei Complementar;\nIV - definiçăo do local da sede, que poderá ser comercial, residencial ou de \r\n uso misto, sempre que năo proibido pela legislaçăo municipal ou distrital, \r\n admitindo-se a possibilidade de sua instalaçăo em locais onde funcionam \r\n parques tecnológicos, instituiçőes de ensino, empresas juniores, \r\n incubadoras, aceleradoras e espaços compartilhados de trabalho na forma de\ncoworking\n; e\nV - em caráter facultativo, a existęncia de apoio ou validaçăo de instituto \r\n técnico, científico ou acadęmico, público ou privado, bem como de \r\n incubadoras, aceleradoras e instituiçőes de ensino, nos parques tecnológicos \r\n e afins.\n§ 5ş Realizado o correto preenchimento das informaçőes, será gerado \r\n automaticamente número de CNPJ específico, em nome da denominaçăo da empresa \r\n Inova Simples, em código próprio Inova Simples.\n§ 6ş A empresa submetida ao regime do Inova Simples constituída na forma \r\n deste artigo deverá abrir, imediatamente, conta bancária de pessoa jurídica, \r\n para fins de captaçăo e integralizaçăo de capital, proveniente de aporte \r\n próprio de seus titulares ou de investidor domiciliado no exterior, de linha \r\n de crédito público ou privado e de outras fontes previstas em lei.\n§ 7ş No portal da Redesim, no espaço destinado ao preenchimento de dados do \r\n Inova Simples, deverá ser criado campo ou ícone para comunicaçăo automática \r\n ao Instituto Nacional da Propriedade Industrial (INPI) do conteúdo inventivo \r\n do escopo da inciativa empresarial, se houver, para fins de registro de \r\n marcas e patentes, sem prejuízo de o titular providenciar os registros de \r\n propriedade intelectual e industrial diretamente, de moto próprio, no INPI.\n§ 8ş O INPI deverá criar mecanismo que concatene desde a recepçăo dos dados \r\n ao processamento sumário das solicitaçőes de marcas e patentes de empresas \r\n Inova Simples.\n§ 9ş Os recursos capitalizados năo constituirăo renda e destinar-se-ăo \r\n exclusivamente ao custeio do desenvolvimento de projetos de\nstartup\nde que trata o § 1ş deste artigo.\n§ 10. É permitida a comercializaçăo experimental do serviço ou produto até o \r\n limite fixado para o MEI nesta Lei Complementar.\n§ 11. Na eventualidade de năo lograr ęxito no desenvolvimento do escopo \r\n pretendido, a baixa do CNPJ será automática, mediante procedimento de \r\n autodeclaraçăo no portal da Redesim.\n§ 12. (VETADO).\n§ 13. O disposto neste artigo será regulamentado pelo Comitę Gestor do \r\n Simples Nacional”",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 9937,
+        "char_end": 14617
+      }
+    },
+    {
+      "id": "BR.LC.167.2019#22",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14. Esta Lei Complementar entra em vigor na data de sua \r\npublicaçăo.\nBrasília, 24 \r\nde abril de 2019; 198\no\nda Independęncia e 131\no\nda República.\nJAIR MESSIAS BOLSONARO\nPaulo Guedes\nEste texto năo substitui o publicado no DOU \r\nde 25.4.2019\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 14617,
+        "char_end": 14867
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "8852f9fd151030004245af81fee9243c75f2b3c714f2064973e73d1a3921ea60"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "simples nacional"
+    },
+    {
+      "type": "subject",
+      "target": "inova simples"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp167.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp167.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:30:41.039986+00:00",
+      "sha256": "8852f9fd151030004245af81fee9243c75f2b3c714f2064973e73d1a3921ea60",
+      "file": "documentos_oficiais/02_simples/br-lc-167-2019.html",
+      "extracted_text": "textos_extraidos/02_simples/br-lc-167-2019.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 22,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.RESPONSABILIDADE_SOCIETARIA",
+  "title": "Responsabilidades societárias",
+  "summary": "Responsabilidade de administradores, sócios e empresários conforme natureza e operação.",
+  "elements": [
+    {
+      "id": "responsabilidade-societaria.1",
+      "type": "fator_de_decisao",
+      "name": "tipo juridico"
+    },
+    {
+      "id": "responsabilidade-societaria.2",
+      "type": "fator_de_decisao",
+      "name": "contrato"
+    },
+    {
+      "id": "responsabilidade-societaria.3",
+      "type": "fator_de_decisao",
+      "name": "administradores"
+    },
+    {
+      "id": "responsabilidade-societaria.4",
+      "type": "fator_de_decisao",
+      "name": "capital"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "registro"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": false
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.10406.2002"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LEI.6404.1976"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "tipo juridico",
+        "contrato",
+        "administradores",
+        "capital"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.LEI.10406.2002",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LEI.6404.1976",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Checar exceções e deveres formais"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "registro/responsabilidade-societaria",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.LEI.10406.2002",
+      "title": "Código Civil",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/lei-10406-2002.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LEI.6404.1976",
+      "title": "Lei das Sociedades por Ações",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm",
+      "evidence_url": "",
+      "reference_okf": "references/01_registro/lei-6404-1976.okf",
+      "source_verified": false
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

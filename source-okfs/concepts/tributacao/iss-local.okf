@@ -1,0 +1,154 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.ISS_LOCAL",
+  "title": "ISS e lista de serviços",
+  "summary": "Atividades da lista da LC 116 e incidência territorial municipal.",
+  "elements": [
+    {
+      "id": "iss-local.1",
+      "type": "fator_de_decisao",
+      "name": "municipio"
+    },
+    {
+      "id": "iss-local.2",
+      "type": "fator_de_decisao",
+      "name": "descricao servico"
+    },
+    {
+      "id": "iss-local.3",
+      "type": "fator_de_decisao",
+      "name": "item lista"
+    },
+    {
+      "id": "iss-local.4",
+      "type": "fator_de_decisao",
+      "name": "tomador"
+    },
+    {
+      "id": "iss-local.5",
+      "type": "fator_de_decisao",
+      "name": "prestador"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "tributacao"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": true
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.116.2003"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.157.2016"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.LC.175.2020"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "municipio",
+        "descricao servico",
+        "item lista",
+        "tomador",
+        "prestador"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.LC.116.2003",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LC.157.2016",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp157.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.LC.175.2020",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp175.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Local de incidência pode divergir do domicílio do prestador",
+    " conferir código municipal"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "tributacao/iss-local",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.LC.116.2003",
+      "title": "ISS e lista de serviços",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lc-116-2003.okf",
+      "source_verified": true
+    },
+    {
+      "id": "BR.LC.157.2016",
+      "title": "Alterações da legislação do ISS",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp157.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lc-157-2016.okf",
+      "source_verified": false
+    },
+    {
+      "id": "BR.LC.175.2020",
+      "title": "ISS de serviços determinados e obrigações acessórias",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp175.htm",
+      "evidence_url": "",
+      "reference_okf": "references/03_tributos/lc-175-2020.okf",
+      "source_verified": false
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

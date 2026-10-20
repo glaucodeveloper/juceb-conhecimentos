@@ -1,0 +1,153 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.DOCUMENTOS_FISCAIS",
+  "title": "Documentos fiscais eletrônicos",
+  "summary": "Emissão de NF-e, NFC-e, NFS-e, CT-e e MDF-e.",
+  "elements": [
+    {
+      "id": "documentos-fiscais.1",
+      "type": "fator_de_decisao",
+      "name": "UF"
+    },
+    {
+      "id": "documentos-fiscais.2",
+      "type": "fator_de_decisao",
+      "name": "municipio"
+    },
+    {
+      "id": "documentos-fiscais.3",
+      "type": "fator_de_decisao",
+      "name": "atividade"
+    },
+    {
+      "id": "documentos-fiscais.4",
+      "type": "fator_de_decisao",
+      "name": "operacao"
+    },
+    {
+      "id": "documentos-fiscais.5",
+      "type": "fator_de_decisao",
+      "name": "destinatario"
+    }
+  ],
+  "properties": [
+    {
+      "name": "scope",
+      "value": "fiscal"
+    },
+    {
+      "name": "effect_date_must_be_confirmed",
+      "value": true
+    },
+    {
+      "name": "jurisdiction_required",
+      "value": true
+    }
+  ],
+  "relations": [
+    {
+      "type": "fundamentado_em",
+      "target": "BR.DECRETO.6022.2007"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.PORTAL_ENCAT.nfe.2026"
+    },
+    {
+      "type": "fundamentado_em",
+      "target": "BR.PORTAL_NFS-E.nacional.2026"
+    }
+  ],
+  "functions": [
+    {
+      "name": "consultar_fontes_vigentes",
+      "type": "retrieval_hook",
+      "inputs": [
+        "UF",
+        "municipio",
+        "atividade",
+        "operacao",
+        "destinatario"
+      ],
+      "outputs": [
+        "fontes",
+        "dispositivos",
+        "vigencia",
+        "excecoes",
+        "status_confianca"
+      ],
+      "requires_live_source_validation": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "BR.DECRETO.6022.2007",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm",
+      "authority": "Planalto",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.PORTAL_ENCAT.nfe.2026",
+      "url": "https://www.nfe.fazenda.gov.br/portal/principal.aspx",
+      "authority": "SEFAZ/ENCAT",
+      "full_text_present": false
+    },
+    {
+      "id": "BR.PORTAL_NFS-E.nacional.2026",
+      "url": "https://www.gov.br/nfse/pt-br",
+      "authority": "Comitê Gestor NFS-e",
+      "full_text_present": false
+    }
+  ],
+  "open_questions": [
+    "Confirmar NT, versão de schema e ambiente autorizador"
+  ],
+  "completeness": {
+    "classification": "mapa_tematico",
+    "full_text": false,
+    "requires_extraction": true
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "skill",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "fiscal/documentos-fiscais",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "linked_sources": [
+    {
+      "id": "BR.DECRETO.6022.2007",
+      "title": "SPED — Sistema Público de Escrituração Digital",
+      "authority": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm",
+      "evidence_url": "",
+      "reference_okf": "references/04_obrigacoes/decreto-6022-2007.okf",
+      "source_verified": false
+    },
+    {
+      "id": "BR.PORTAL_ENCAT.nfe.2026",
+      "title": "NF-e, NFC-e, CT-e, MDF-e — notas técnicas e esquemas",
+      "authority": "SEFAZ/ENCAT",
+      "url": "https://www.nfe.fazenda.gov.br/portal/principal.aspx",
+      "evidence_url": "",
+      "reference_okf": "references/04_obrigacoes/portal-encat-nfe-2026.okf",
+      "source_verified": false
+    },
+    {
+      "id": "BR.PORTAL_NFS-E.nacional.2026",
+      "title": "Padrão Nacional NFS-e e documentação",
+      "authority": "Comitê Gestor NFS-e",
+      "url": "https://www.gov.br/nfse/pt-br",
+      "evidence_url": "",
+      "reference_okf": "references/04_obrigacoes/portal-nfs-e-nacional-2026.okf",
+      "source_verified": false
+    }
+  ],
+  "review_status": "unreviewed_legal_research_map"
+}

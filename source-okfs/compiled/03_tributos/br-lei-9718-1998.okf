@@ -1,0 +1,609 @@
+{
+  "schema": "okfforge.juceb.compiled_source.v1",
+  "id": "BR.LEI.9718.1998",
+  "title": "PIS/Pasep e Cofins; legislação geral",
+  "summary": "Documento oficial obtido integralmente em bytes e texto extraído automaticamente; revisão de consolidação e vigência jurídica pendente.",
+  "elements": [
+    {
+      "id": "BR.LEI.9718.1998#1",
+      "type": "artigo_candidato",
+      "name": "Art. 1",
+      "content": "Art. 1\n°\nEsta Lei aplica-se no âmbito da legislaçăo tributária\r\nfederal, relativamente ŕs contribuiçőes para os Programas de Integraçăo Social e de\r\nFormaçăo do Patrimônio do Servidor Público - PIS/PASEP e ŕ Contribuiçăo para o\r\nFinanciamento da Seguridade Social - COFINS, de que tratam o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 464,
+        "char_end": 754
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#2",
+      "type": "artigo_candidato",
+      "name": "Art. 239",
+      "content": "art. 239 da Constituiçăo\ne a\nLei Complementar n\n°\n70, de 30 de dezembro de 1991\n,\r\nao Imposto sobre a Renda e ao Imposto sobre Operaçőes de Crédito, Câmbio e Seguro, ou\r\nrelativos a Títulos ou Valores Mobiliários - IOF.\nCAPÍTULO I\nDA CONTRIBUIÇĂO PARA O PIS/PASEP E COFINS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 754,
+        "char_end": 1027
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#3",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "Art. 2\n°\nAs contribuiçőes para o PIS/PASEP e a\r\nCOFINS, devidas pelas pessoas jurídicas de direito privado, serăo calculadas com base no\r\nseu faturamento, observadas a legislaçăo vigente e as alteraçőes introduzidas por esta\r\nLei.\n(Vide Medida Provisória nş 2.158-35, de 2001)\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1027,
+        "char_end": 1364
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#4",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3ş O faturamento a que se refere o\r\nartigo anterior corresponde ŕ receita bruta da pessoa jurídica.\n(Vide Medida Provisória nş 2.158-35, de 2001)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1364,
+        "char_end": 1515
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#5",
+      "type": "artigo_candidato",
+      "name": "Art. 3",
+      "content": "Art. 3\no\nO faturamento a \r\n que se refere o art. 2\no\ncompreende a receita bruta de \r\n que trata o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1515,
+        "char_end": 1613
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#6",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "art. 12 do Decreto-Lei n\no\n1.598, de 26 de \r\n dezembro de 1977.\n(Redaçăo dada pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 1ş Entende-se por receita bruta a totalidade das receitas\r\nauferidas pela pessoa jurídica, sendo irrelevantes o tipo de atividade por ela exercida e\r\na classificaçăo contábil adotada para as receitas.\n(Revogado pela Lei nş 11.941, \r\n de 2009)\n§ 2\nş\nPara fins de determinaçăo da base de cálculo das\r\ncontribuiçőes a que se refere o art. 2\nş\n, excluem-se da receita bruta:\nI - as vendas canceladas, os descontos incondicionais concedidos, o Imposto\r\nsobre Produtos Industrializados - IPI e o Imposto sobre Operaçőes relativas ŕ\r\nCirculaçăo de Mercadorias e sobre Prestaçőes de Serviços de Transporte Interestadual\r\ne Intermunicipal e de Comunicaçăo - ICMS, quando cobrado pelo vendedor dos bens ou\r\nprestador dos serviços na condiçăo de substituto tributário;\nI - as vendas canceladas e os descontos \r\n incondicionais concedidos;\n(Redaçăo dada pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\nII - as reversőes de provisőes operacionais e\r\nrecuperaçőes de créditos baixados como perda, que năo representem ingresso de novas\r\nreceitas, o resultado positivo da avaliaçăo de investimentos pelo valor do patrimônio\r\nlíquido e os lucros e dividendos derivados de investimentos avaliados pelo custo de\r\naquisiçăo, que tenham sido computados como receita;\nII - as\r\n reversőes de provisőes e recuperaçőes de créditos baixados como perda, que năo\r\n representem ingresso de novas receitas, o resultado positivo da avaliaçăo de\r\n investimentos pelo valor do patrimônio líquido e os lucros e dividendos derivados de\r\n investimentos avaliados pelo custo de aquisiçăo, que tenham sido computados como\r\n receita;\n(Redaçăo dada pela Medida Provisória nş 1.991-15, de 2000)\nII - as reversőes de provisőes e\r\n recuperaçőes de créditos baixados como perda, que năo representem ingresso de novas\r\n receitas, o resultado positivo da avaliaçăo de investimentos pelo valor do patrimônio\r\n líquido e os lucros e dividendos derivados de investimentos avaliados pelo custo de\r\n aquisiçăo, que tenham sido computados como receita;\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\nII - as reversőes de provisőes e recuperaçőes \r\n de créditos baixados como perda, que năo representem ingresso de novas \r\n receitas, o resultado positivo da avaliaçăo de investimento pelo valor \r\n do patrimônio líquido e os lucros e dividendos derivados de \r\n participaçőes societárias, que tenham sido computados como receita \r\n bruta;\n(Redaçăo dada pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\nIII - os valores que, computados como receita, tenham sido\r\ntransferidos para outra pessoa jurídica, observadas normas regulamentadoras expedidas\r\npelo Poder Executivo;\n(Vide Medida Provisória nş \r\n1.991-18, de\r\n2000)\n(Revogado pela Medida Provisória nş 2.158-35, de\r\n2001)\nIV - a receita decorrente da venda de bens do ativo permanente.\nIV - a receita decorrente da venda de bens \r\n classificados no ativo năo circulante que tenha sido computada como \r\n receita bruta;\n(Redaçăo dada pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\nIV - as receitas de que trata o\ninciso \r\n IV do\ncaput\ndo art. 187 da Lei \r\n n\no\n6.404, de 15 de dezembro de 1976\n, decorrentes da \r\n venda de bens do ativo năo circulante, classificado como investimento, \r\n imobilizado ou intangível; e\n(Redaçăo dada pela Lei nş \r\n13.043 de 2014)\n(Vigęncia)\nV - a receita decorrente da transferęncia onerosa, a \r\noutros contribuintes do ICMS, de créditos de ICMS originados de operaçőes de \r\nexportaçăo, conforme o disposto no\ninciso II do § 1ş do art. \r\n25 da Lei Complementar nş 87, de 13 de setembro de 1996\n.\n(Incluído pela Medida \r\nProvisória nş 451, de 2008)\n(Produçăo \r\nde efeito)\nV - a receita decorrente da transferęncia onerosa a outros contribuintes \r\n do ICMS de créditos de ICMS originados de operaçőes de exportaçăo, \r\n conforme o disposto no\ninciso II do § 1\no\ndo art. 25 da \r\n Lei Complementar n\no\n87, de 13 de setembro de 1996\n.\n(Redaçăo dada pela Lei nş \r\n11.945, de 2009).\n(Produçăo de efeitos)\n(Revogado pela Lei \r\nnş 12.973, de 2014)\n(Vigęncia)\nVI - a receita reconhecida pela construçăo, \r\n recuperaçăo, ampliaçăo ou melhoramento da infraestrutura, cuja \r\n contrapartida seja ativo intangível representativo de direito de \r\n exploraçăo, no caso de contratos de concessăo de serviços públicos.\n(Incluído pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\n§ 3ş Nas operaçőes realizadas em mercados\r\nfuturos, considera-se receita bruta o resultado positivo dos ajustes diários ocorridos no\r\nmęs.\n(Revogado pela Lei nş\r\n11.051, de 2004)\n§ 4\nş\nNas operaçőes de câmbio, realizadas por instituiçăo\r\nautorizada pelo Banco Central do Brasil, considera-se receita bruta a diferença positiva\r\nentre o preço de venda e o preço de compra da moeda estrangeira.\n§ 5\nş\nNa hipótese das pessoas jurídicas\r\nreferidas no\n§ 1\nş\ndo art. 22 da\r\nLei n\nş\n8.212, de 24 de julho de 1991\n, serăo admitidas, para os\r\nefeitos da COFINS, as mesmas exclusőes e deduçőes facultadas para fins de\r\ndeterminaçăo da base de cálculo da contribuiçăo para o PIS/PASEP.\n§ 6\n°\nNa\r\n determinaçăo da base de cálculo das contribuiçőes para o PIS/PASEP e COFINS, as\r\n pessoas jurídicas referidas no\n§ 1° do art. 22 da Lei n°\r\n 8.212, de 1991\n, além das exclusőes e deduçőes mencionadas no parágrafo anterior,\r\n poderăo excluir ou deduzir:\n(Incluído pela Medida Provisória nş \r\n 1.807, de 1999)\nI - no\r\n caso de bancos comerciais, bancos de investimentos, bancos de desenvolvimento, caixas\r\n econômicas, sociedades de crédito, financiamento e investimento, sociedades de crédito\r\n imobiliário, sociedades corretoras, distribuidoras de títulos e valores mobiliários,\r\n empresas de arrendamento mercantil e cooperativas de crédito:\n(Incluído pela Medida Provisória nş \r\n 1.807, de 1999)\na) despesas\r\n incorridas nas operaçőes de intermediaçăo financeira;\n(Incluído pela Medida Provisória nş \r\n 1.807, de 1999)\nb) despesas\r\n de obrigaçőes por empréstimos, para repasse, de recursos de instituiçőes de direito\r\n privado;\n(Incluído pela Medida Provisória nş \r\n 1.807, de 1999)\nc) deságio\r\n na colocaçăo de títulos;\n(Incluído pela Medida Provisória nş \r\n 1.807, de 1999)\nd) perdas\r\n com títulos de renda fixa e variável, exceto com açőes;\n(Incluído pela Medida Provisória nş \r\n 1.807, de 1999)\ne) perdas\r\n com ativos financeiros e mercadorias, em operaçőes de\nhedge\n;\n(Incluído pela Medida Provisória nş \r\n 1.807, de 1999)\nII - no\r\n caso de empresas de seguros privados, os rendimentos auferidos nas aplicaçőes\r\n financeiras destinadas ŕ garantia de provisőes técnicas, durante o período de\r\n cobertura do risco;\n(Incluído pela Medida Provisória nş \r\n 1.807, de 1999)\nIII - no caso de entidades de \r\n previdęncia privada, abertas e fechadas, os rendimentos auferidos nas \r\n aplicaçőes financeiras destinadas ao pagamento de benefícios de \r\n aposentadoria, pensăo, pecúlio e de resgates;\n(Incluído pela Medida Provisória nş \r\n 1.807, de 1999)\nIV - no\r\n caso de empresas de capitalizaçăo, os rendimentos auferidos nas aplicaçőes financeiras\r\n destinadas ao pagamento de resgate de títulos.\n(Incluído pela Medida Provisória nş \r\n 1.807, de 1999)\n§ 6\no\nNa\r\n determinaçăo da base de cálculo das contribuiçőes para o PIS/PASEP e COFINS, as\r\n pessoas jurídicas referidas no\n§ 1\no\ndo art. 22 da Lei n\no\n8.212, de 1991\n, além das exclusőes e deduçőes mencionadas no § 5\no\n,\r\n poderăo excluir ou deduzir:\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\nI - no caso de bancos comerciais,\r\n bancos de investimentos, bancos de desenvolvimento, caixas econômicas, sociedades de\r\n crédito, financiamento e investimento, sociedades de crédito imobiliário, sociedades\r\n corretoras, distribuidoras de títulos e valores mobiliários, empresas de arrendamento\r\n mercantil e cooperativas de crédito:\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\na) despesas incorridas nas operaçőes\r\n de intermediaçăo financeira;\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\nb) despesas de obrigaçőes por\r\n empréstimos, para repasse, de recursos de instituiçőes de direito privado;\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\nc) deságio na colocaçăo de\r\n títulos;\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\nd) perdas com títulos de renda fixa e\r\n variável, exceto com açőes;\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\ne) perdas com ativos financeiros e\r\n mercadorias, em operaçőes de hedge;\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\nII - no caso de empresas de\r\n seguros privados, o valor referente ŕs indenizaçőes correspondentes aos sinistros\r\n ocorridos, efetivamente pago, deduzido das importâncias recebidas a título de cosseguro\r\n e resseguro, salvados e outros ressarcimentos.\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\nIII - no caso de entidades de\r\n previdęncia privada, abertas e fechadas, os rendimentos auferidos nas aplicaçőes\r\n financeiras destinadas ao pagamento de benefícios de aposentadoria, pensăo, pecúlio e\r\n de resgates;\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\nIV - no caso de empresas de\r\n capitalizaçăo, os rendimentos auferidos nas aplicaçőes financeiras destinadas ao\r\n pagamento de resgate de títulos.\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\n§ 7\n°\nAs\r\n exclusőes previstas nos incisos II a IV do parágrafo anterior restringem-se aos\r\n rendimentos de aplicaçőes financeiras que năo excedam o total das provisőes técnicas,\r\n constituídas na forma fixada pela Superintendęncia de Seguros Privados -SUSEP.\n(Incluído pela Medida Provisória nş \r\n1.807, de 1999)\n§ 7\no\nAs exclusőes\r\n previstas nos incisos III e IV do § 6\no\nrestringem-se aos rendimentos de\r\n aplicaçőes financeiras proporcionados pelos ativos garantidores das provisőes\r\n técnicas, limitados esses ativos ao montante das referidas provisőes.\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\n§ 8ş\nNa\r\n determinaçăo da base de cálculo da contribuiçăo para o PIS/PASEP e da COFINS,\r\n poderăo ser deduzidas as despesas de captaçăo de recursos incorridas pelas pessoas\r\n jurídicas que tenham por objeto a securitizaçăo de créditos:\n(Incluído pela Medida Provisória nş \r\n 1.858-6, de 1999)\n§ 8\no\nNa\r\n determinaçăo da base de cálculo da contribuiçăo para o PIS/PASEP e COFINS, poderăo\r\n ser deduzidas as despesas de captaçăo de recursos incorridas pelas pessoas jurídicas\r\n que tenham por objeto a securitizaçăo de créditos:\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\n§ 8ş Na determinaçăo da base de cálculo da \r\n Contribuiçăo para o PIS/Pasep e a Cofins, poderăo ser deduzidas as \r\n despesas de captaçăo de recursos incorridas pelas pessoas jurídicas \r\n que tenham por objeto a securitizaçăo de créditos.\n(Redaçăo dada pela \r\nLei nş 14.430, de 2022)\nI - imobiliários,\r\n nos termos da\nLei nş 9.514, de 20 de novembro de 1997\n;\n(Incluído pela Medida Provisória nş \r\n 1.858-6, de 1999)\nI - imobiliários, nos termos da\nLei n\no\n9.514, de 20 de novembro de 1997\n;\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\nI - (\nrevogado\n);\n(Redaçăo dada pela \r\nLei nş 14.430, de 2022)\nII - financeiros, observada regulamentaçăo editada pelo Conselho \r\n Monetário Nacional.\n(Incluído pela Medida Provisória nş \r\n 1.858-6, de 1999)\n)\nII - financeiros, observada\r\n regulamentaçăo editada pelo Conselho Monetário Nacional.\n(Redaçăo dada pela Medida Provisória nş 2.158-35, de 2001)\nII -\n(revogado)\n;\n(Redaçăo dada pela \r\nLei nş 14.430, de 2022)\nIII - agrícolas,\r\n conforme ato do Conselho Monetário Nacional.\n(Incluído pela \r\nMedida Provisória nş 252, de 2005)\nSem eficácia\nIII - agrícolas, conforme ato do Conselho Monetário Nacional.\n(Incluído pela Lei nş\r\n11.196, de 2005)\nIII -\n(revogado)\n.\n(Redaçăo dada pela \r\nLei nş 14.430, de 2022)\n§ 9\no\nNa\r\n determinaçăo da base de cálculo da contribuiçăo para o PIS/PASEP e COFINS, as\r\n operadoras de planos de assistęncia ŕ saúde poderăo deduzir:\n(Incluído pela Medida Provisória nş 2.158-35, de 2001)\nI - co-responsabilidades cedidas;\n(Incluído pela Medida Provisória nş 2.158-35, de 2001)\nII - a parcela das\r\n contraprestaçőes pecuniárias destinada ŕ constituiçăo de provisőes técnicas;\n(Incluído pela Medida Provisória nş 2.158-35, de 2001)\nIII - o valor referente ŕs\r\n indenizaçőes correspondentes aos eventos ocorridos, efetivamente pago, deduzido das\r\n importâncias recebidas a título de transferęncia de responsabilidades.\n(Incluído pela Medida Provisória nş 2.158-35, de 2001)\n§ 9\no\n-A.  \r\n Para efeito de interpretaçăo, o valor referente ŕs indenizaçőes \r\n correspondentes aos eventos ocorridos de que trata o inciso III do § 9\no\nentende-se o total dos custos assistenciais decorrentes da utilizaçăo pelos \r\n beneficiários da cobertura oferecida pelos planos de saúde, incluindo-se \r\n neste total os custos de beneficiários da própria operadora e os \r\n beneficiários de outra operadora atendidos a título de transferęncia de \r\n responsabilidade assumida.\n(Incluído pela Lei nş \r\n12.873, de 2013)\n§ 9\no\n-B. \r\n  Para efeitos de interpretaçăo do\ncaput\n, năo săo \r\n considerados receita bruta das administradoras de benefícios os valores \r\n devidos a outras operadoras de planos de assistęncia ŕ saúde.\n(Incluído pela Lei nş \r\n12.995, de 2014)\n§ 10. As pessoas jurídicas integrantes da \r\n Rede Arrecadadora de Receitas Federais - Rarf poderăo excluir da base de \r\n cálculo da Cofins  o valor auferido em cada período de apuraçăo como \r\n remuneraçăo dos serviços de arrecadaçăo de receitas federais, dividido \r\n pela alíquota referida no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 1613,
+        "char_end": 15169
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#7",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "art. 18 da Lei n\nş\n10.684, de 30 de maio \r\n de 2003\n.\n(Incluído pela Medida \r\n Provisória nş 601, de 2012)\n(Produçăo de efeito)\n(Vigęncia encerrada)\n§ 10.  Em substituiçăo ŕ \r\nremuneraçăo por meio do pagamento de tarifas, as pessoas jurídicas que prestem \r\nserviços de arrecadaçăo de receitas federais poderăo excluir da base de cálculo \r\nda Cofins o valor a elas devido em cada período de apuraçăo como remuneraçăo por \r\nesses serviços, dividido pela alíquota referida no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15169,
+        "char_end": 15642
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#8",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "art. 18 da Lei n\no\n10.684, de 30 de maio de 2003\n.\n(Incluído \r\n pela Lei nş 12.844, de 2013)\n§ 11. Caso năo seja possível fazer a \r\n exclusăo de que trata o § 10 na base de cálculo da  Cofins referente ao \r\n período em que auferida remuneraçăo, o montante excedente poderá ser \r\n excluído da base de cálculo da Cofins dos períodos subsequentes.\n(Incluído pela Medida \r\n Provisória nş 601, de 2012)\n(Produçăo de efeito)\n(Vigęncia encerrada)\n§ 11.  Caso năo seja possível \r\nfazer a exclusăo de que trata o § 10 na base de cálculo da  Cofins referente ao \r\nperíodo em que auferida remuneraçăo, o montante excedente poderá ser excluído da \r\nbase de cálculo da Cofins dos períodos subsequentes.\n(Incluído \r\n pela Lei nş 12.844, de 2013)\n§ 12. A Secretaria da Receita Federal do \r\n Brasil do Ministério da Fazenda disciplinará o disposto nos §§ 10 e 11, \r\n inclusive quanto ŕ definiçăo do valor auferido como remuneraçăo dos \r\n serviços de arrecadaçăo de receitas federais.\n(Incluído pela Medida \r\n Provisória nş 601, de 2012)\n(Produçăo de efeito)\n(Vigęncia encerrada)\n§ 12.  A Secretaria da \r\n Receita Federal do Brasil do Ministério da Fazenda disciplinará o \r\n disposto nos §§ 10 e 11, inclusive quanto ŕ definiçăo do valor devido \r\n como remuneraçăo dos serviços de arrecadaçăo de receitas federais.\n(Incluído pela Lei \r\n nş 12.844, de 2013)\n§ 13.  A contribuiçăo incidente na \r\n hipótese de contratos, com prazo de execuçăo superior a 1 (um) ano, de \r\n construçăo por empreitada ou de fornecimento, a preço predeterminado, de \r\n bens ou serviços a serem produzidos será calculada sobre a receita \r\n apurada de acordo com os critérios de reconhecimento adotados pela \r\n legislaçăo do imposto sobre a renda, previstos para a espécie de \r\n operaçăo.\n(Incluído pela Lei \r\n nş 12.973, de 2014)\n(Vigęncia)\n§ 14.  A pessoa jurídica poderá \r\n excluir da base de cálculo da Contribuiçăo para o PIS/Pasep e da Cofins \r\n incidentes sobre a receita decorrente da alienaçăo de participaçăo \r\n societária o valor despendido para aquisiçăo dessa participaçăo, desde \r\n que a receita de alienaçăo năo tenha sido excluída da base de cálculo \r\n das mencionadas contribuiçőes na forma do inciso IV do § 2\no\ndo art. 3\no\n.\n(Incluído pela Lei \r\n nş 13.043, de 2014)\n(Vigęncia)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 15642,
+        "char_end": 17896
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#9",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4ş As refinarias de petróleo, relativamente ŕs\r\nvendas que fizerem, ficam obrigadas a cobrar e a recolher, na condiçăo de contribuintes\r\nsubstitutos, as contribuiçőes a que se refere o art. 2ş, devidas pelos distribuidores e\r\ncomerciantes varejistas de combustíveis derivados de petróleo, inclusive gás.\nParágrafo único. Na hipótese deste artigo, a contribuiçăo será calculada sobre\r\no preço de venda da refinaria, multiplicado por quatro.\n(Vide Medida Provisória nş 2.158-35, de 2001)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 17896,
+        "char_end": 18387
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#10",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4\no\nAs\r\n contribuiçőes para os Programas de Integraçăo Social e de Formaçăo do Patrimônio do\r\n Servidor Público - PIS/PASEP e para o Financiamento da Seguridade\r\n Social - COFINS devidas pelas refinarias de petróleo serăo calculadas,\r\n respectivamente, com base nas seguintes alíquotas:\n(Redaçăo dada pela Medida Provisória nş 1.991-15, de 2000)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18387,
+        "char_end": 18738
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#11",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4\no\nAs\r\n contribuiçőes para o PIS/PASEP e COFINS devidas pelas refinarias de petróleo serăo\r\n calculadas, respectivamente, com base nas seguintes alíquotas:\n(Redaçăo dada pela Medida Provisória nş 1.991-18, de 2000)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18738,
+        "char_end": 18959
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#12",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4\no\nAs contribuiçőes para os Programas de\r\nIntegraçăo Social e de Formaçăo do Patrimônio do Servidor Público – PIS/Pasep e\r\npara o Financiamento da Seguridade Social – Cofins, devidas pelas refinarias de\r\npetróleo serăo calculadas, respectivamente, com base nas seguintes alíquotas:\n(Redaçăo dada pela Lei nş 9.990, de 2000)\n(Vide arts. 4ş\ne",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 18959,
+        "char_end": 19306
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#13",
+      "type": "artigo_candidato",
+      "name": "Art. 92",
+      "content": "art. 92, da Medida Provisória nş\r\n2.158-35, de 2001)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 19306,
+        "char_end": 19359
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#14",
+      "type": "artigo_candidato",
+      "name": "Art. 4",
+      "content": "Art. 4\no\nAs contribuiçőes para os Programas de Integraçăo Social e de Formaçăo do Patrimônio\r\ndo Servidor Público – PIS/PASEP e para o Financiamento da Seguridade Social –\r\nCOFINS devidas pelos produtores e importadores de derivados de petróleo serăo\r\ncalculadas, respectivamente, com base nas seguintes alíquotas:\n(Redaçăo dada pela Lei nş 10.865, de\r\n2004)\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nI - tręs\r\n inteiros e vinte e cinco centésimos por cento e quinze por cento, incidentes sobre a\r\n receita bruta decorrente da venda de gasolina automotiva e de gás liqüefeito de\r\n petróleo - GLP;\n(Incluído pela Medida Provisória nş 1.991-15, de 2000)\nI - dois\r\n inteiros e sete décimos por cento e doze inteiros e quarenta e cinco centésimos por\r\n cento, incidentes sobre a receita bruta decorrente da venda de gasolinas, exceto gasolina\r\n de aviaçăo;\n(Redaçăo dada pela Medida Provisória nş 1.991-18, de 2000)\nI – dois inteiros e\r\nsete décimos por cento e doze inteiros e quarenta e cinco centésimos por cento,\r\nincidentes sobre a receita bruta decorrente da venda de gasolinas, exceto gasolina de\r\naviaçăo;\n(Redaçăo dada pela Lei nş 9.990, de 2000)\nI\r\n– 5,08% (cinco inteiros e oito centésimos por cento) e 23,44% (vinte inteiros e\r\nquarenta e quatro centésimos por cento), incidentes sobre a receita bruta decorrente da\r\nvenda de gasolinas e suas correntes, exceto gasolina de aviaçăo;\n(Redaçăo dada pela Lei nş 10.865,\r\nde 2004)\n(Vide Lei nş\r\n11.051, de 2004)\n(Vide Medida Provisória nş\r\n1.157, de 2023)\nII - dois\r\n inteiros e oito décimos por cento e treze por cento, incidentes sobre a receita bruta\r\n decorrente da venda de óleo diesel;\n(Incluído pela Medida Provisória nş 1.991-15, de 2000)\nII - dois\r\n inteiros e vinte e tręs centésimos por cento e dez inteiros e vinte e nove centésimos\r\n por cento, incidentes sobre a receita bruta decorrente da venda de óleo diesel;\n(Redaçăo dada pela Medida Provisória nş 1.991-18, de 2000)\nII – dois inteiros e\r\nvinte e tręs centésimos por cento e dez inteiros e vinte e nove centésimos por cento,\r\nincidentes sobre a receita bruta decorrente da venda de óleo diesel;\n(Redaçăo dada pela Lei nş 9.990, de 2000)\nII\r\n– 4,21% (quatro inteiros e vinte e um centésimos por cento) e 19,42% (dezenove\r\ninteiros e quarenta e dois centésimos por cento), incidentes sobre a receita bruta\r\ndecorrente da venda de óleo diesel e suas correntes;\n(Redaçăo dada pela Lei nş 10.865,\r\nde 2004)\n(Vide Lei nş\r\n11.051, de 2004)\n(Vide Medida Provisória nş\r\n1.157, de 2023)\nIII - sessenta e cinco centésimos por cento e tręs por cento, incidentes \r\n sobre a receita bruta decorrente das demais atividades.\n(Incluído pela Medida Provisória nş 1.991-15, de 2000)\nIII - dois\r\n inteiros e cinqüenta e seis centésimos por cento e onze inteiros e oitenta e quatro\r\n centésimos por cento, incidentes sobre a receita bruta decorrente da venda de gás\r\n liqüefeito de petróleo - GLP;\n(Redaçăo dada pela Medida Provisória nş 1.991-18, de 2000)\nIII – dois inteiros\r\ne cinqüenta e seis centésimos por cento e onze inteiros e oitenta e quatro centésimos\r\npor cento incidentes sobre a receita bruta decorrente da venda de gás liqüefeito de\r\npetróleo – GLP;\n(Redaçăo dada pela Lei nş 9.990, de 2000)\nIII\r\n– 10,2% (dez inteiros e dois décimos por cento) e 47,4% (quarenta e sete inteiros e\r\nquatro décimos por cento) incidentes sobre a receita bruta decorrente da venda de gás\r\nliquefeito de petróleo (GLP) dos derivados de petróleo e gás natural;\n(Redaçăo dada pela Lei nş\r\n10.865, de 2004)\nIII - 10,2% (dez inteiros e dois décimos por cento) e 47,4%\r\n(quarenta e sete inteiros e quatro décimos por cento) incidentes sobre a receita bruta\r\ndecorrente da venda de gás liquefeito de petróleo - GLP derivado de petróleo e de gás\r\nnatural;\n(Redaçăo dada pela Lei nş\r\n11.051, de 2004)\n(Vide Lei nş\r\n11.051, de 2004)\n(Vide Medida Provisória nş\r\n1.157, de 2023)\nIV - sessenta e cinco centésimos por cento e tręs por cento, incidentes \r\n sobre a receita bruta decorrente das demais atividades.\n(Incluído pela Medida Provisória nş 1.991-18, de 2000)\nIV – sessenta e cinco centésimos por cento e tręs por\r\ncento incidentes sobre a receita bruta decorrente das demais atividades.\n(Redaçăo dada pela Lei nş 9.990, de 2000)\nParágrafo\r\núnico. Revogado.\n(Redaçăo dada pela Lei nş 9.990, de 2000)\n\"",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 19359,
+        "char_end": 23669
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#15",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5ş As distribuidoras de álcool para fins carburantes ficam obrigadas a cobrar\r\ne a recolher, na condiçăo de contribuintes substitutos, as contribuiçőes referidas no",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 23669,
+        "char_end": 23840
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#16",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "art. 2ş, devidas pelos comerciantes varejistas do referido produto, relativamente ŕs\r\nvendas que lhes fizerem.\n(Vide Medida Provisória nş 2.158-35, de 2001)\nParágrafo único. Na hipótese\r\ndeste artigo, a contribuiçăo será calculada sobre o preço de venda do distribuidor,\r\nmultiplicado por um inteiro e quatro décimos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 23840,
+        "char_end": 24158
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#17",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5\no\nAs\r\n contribuiçőes para os Programas de Integraçăo Social e de Formaçăo do Patrimônio do\r\n Servidor Público - PIS/PASEP e para o Financiamento da Seguridade\r\n Social - COFINS devidas pelas distribuidoras de álcool para fins carburantes\r\n serăo calculadas, respectivamente, com base nas seguintes alíquotas:\n(Redaçăo dada pela Medida Provisória nş 1.991-15, de 2000)\nI - um\r\n inteiro e seis décimos por cento e sete por cento, incidentes sobre a receita bruta\r\n decorrente da venda de álcool para fins carburantes, inclusive quando adicionada ŕ\r\n gasolina;\n(Incluído pela Medida Provisória nş 1.991-15, de 2000)\nII - sessenta\r\n e cinco centésimos por cento e tręs por cento, incidentes sobre a receita bruta\r\n decorrente das demais atividades.\n(Incluído pela Medida Provisória nş 1.991-15, de 2000)\nParágrafo único.  Na\r\n hipótese do inciso I do\ncaput\n, relativamente ŕ venda de álcool \r\n adicionado ŕ gasolina, a base de cálculo será o valor resultante da \r\n aplicaçăo do percentual de mistura, fixado em lei, sobre o valor da \r\n venda.\n(Redaçăo dada pela Medida Provisória nş 1.991-15, de 2000)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 24158,
+        "char_end": 25263
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#18",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5\no\nAs\r\n contribuiçőes para o PIS/PASEP e COFINS devidas pelas distribuidoras de álcool para\r\n fins carburantes serăo calculadas, respectivamente, com base nas seguintes alíquotas:\n(Redaçăo dada pela Medida Provisória nş 1.991-18, de 2000)\nI - um\r\n inteiro e quarenta e seis centésimos por cento e seis inteiros e setenta e quatro\r\n centésimos por cento, incidentes sobre a receita bruta decorrente da venda de álcool\r\n para fins carburantes, exceto quando adicionado ŕ gasolina;\n(Redaçăo dada pela Medida Provisória nş 1.991-18, de 2000)\nII - sessenta e cinco centésimos por cento e tręs por cento, incidentes \r\n sobre a receita bruta decorrente das demais atividades.\n(Redaçăo dada pela Medida Provisória nş 1.991-18, de 2000)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 25263,
+        "char_end": 25997
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#19",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5\no\nAs contribuiçőes para os Programas de\r\nIntegraçăo Social e de Formaçăo do Patrimônio do Servidor Público – PIS/Pasep e\r\npara o Financiamento da Seguridade Social – Cofins devidas pelas distribuidoras de\r\nálcool para fins carburantes serăo calculadas, respectivamente, com base nas seguintes\r\nalíquotas:\n(Redaçăo dada pela Lei nş 9.990, de 2000)\n(Vide\r\nMedida Provisória nş 2.158-35, de 2001)\n(Vide Medida provisória nş 413, \r\nde 2008)\nI – um inteiro e quarenta e seis centésimos por cento e\r\nseis inteiros e setenta e quatro centésimos por cento, incidentes sobre a receita bruta\r\ndecorrente da venda de álcool para fins carburantes, exceto quando adicionado ŕ\r\ngasolina;\n(Redaçăo dada pela Lei nş 9.990, de 2000)\nII – sessenta e cinco centésimos por cento e tręs por\r\ncento incidentes sobre a receita bruta decorrente das demais atividades.\n(Redaçăo dada pela Lei nş 9.990, de 2000)\nParágrafo único. Revogado.\n(Redaçăo\r\ndada pela Lei nş 9.990, de 2000)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 25997,
+        "char_end": 26960
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#20",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5\no\nA \r\n Contribuiçăo para o PIS/PASEP e a COFINS, incidentes sobre a receita \r\n bruta, auferida por produtor e por importador na venda de álcool, \r\n inclusive para fins carburantes, serăo calculadas com base nas alíquotas \r\n de 3,75% (tręs inteiros e setenta e cinco centésimos por cento) e 17,25% \r\n (dezessete inteiros e vinte e cinco centésimos por cento), \r\n respectivamente.\n(Redaçăo\r\ndada pela Medida Provisória nş 413, de 2008)\nProduçăo de \r\nefeitos\n§ 1\no\nFicam \r\n reduzidas a 0% (zero por cento) as alíquotas da Contribuiçăo para o \r\n PIS/PASEP e da COFINS incidentes sobre a receita bruta de venda de \r\n álcool, inclusive para fins carburantes, quando auferida por \r\n distribuidor ou comerciante varejista.\n(Redaçăo\r\ndada pela Medida Provisória nş 413, de 2008)\nProduçăo de \r\nefeitos\n§ 2\no\nO produtor \r\n e o importador de que trata o caput poderăo optar por regime especial de \r\n apuraçăo e pagamento da Contribuiçăo para o PIS/PASEP e da COFINS, no \r\n qual as alíquotas específicas das contribuiçőes săo fixadas, \r\n respectivamente, em R$ 58,45 (cinqüenta e oito reais e quarenta e cinco \r\n centavos) e R$ 268,80 (duzentos e sessenta e oito reais e oitenta \r\n centavos) por metro cúbico de álcool.\n(Redaçăo\r\ndada pela Medida Provisória nş 413, de 2008)\nProduçăo de \r\nefeitos\n§ 3\no\nA opçăo \r\n prevista no § 2\no\nserá exercida, segundo normas e \r\n condiçőes estabelecidas pela Secretaria da Receita Federal do Brasil, \r\n até o último dia útil do męs de novembro de cada ano-calendário, \r\n produzindo efeitos, de forma irretratável, durante todo o ano-calendário \r\n subseqüente ao da opçăo.\n(Redaçăo\r\ndada pela Medida Provisória nş 413, de 2008)\nProduçăo de \r\nefeitos\n§ 4\no\nNo caso da \r\n opçăo efetuada nos termos dos §§ 2\no\ne 3\no\n, \r\n a Secretaria da Receita Federal do Brasil divulgará o nome da pessoa \r\n jurídica optante e a data de início da opçăo.\n(Redaçăo\r\ndada pela Medida Provisória nş 413, de 2008)\nProduçăo de \r\nefeitos\n§ 5\no\nA opçăo a \r\n que se refere este artigo será automaticamente prorrogada para o \r\n ano-calendário seguinte, salvo se a pessoa jurídica dela desistir, nos \r\n termos e condiçőes estabelecidos pela Secretaria da Receita Federal do \r\n Brasil, até o último dia útil do męs de novembro do ano-calendário, \r\n hipótese em que a produçăo de efeitos se dará a partir do dia 1\no\nde janeiro do ano-calendário subseqüente.\n(Redaçăo\r\ndada pela Medida Provisória nş 413, de 2008)\nProduçăo de \r\nefeitos\n§ 6\no\nFica o \r\n Poder Executivo autorizado a fixar coeficientes para reduçăo das \r\n alíquotas previstas no § 2\no\n, os quais poderăo ser \r\n alterados, para mais ou para menos, em relaçăo aos produtos ou sua \r\n utilizaçăo, a qualquer tempo.\n(Redaçăo\r\ndada pela Medida Provisória nş 413, de 2008)\nProduçăo de \r\nefeitos\n§ 7\no\nNo \r\n ano-calendário em que a pessoa jurídica iniciar atividades de produçăo \r\n ou importaçăo de álcool, a opçăo pelo regime especial poderá ser \r\n exercida em qualquer data, produzindo efeitos a partir do primeiro dia \r\n do męs da opçăo.\n(Redaçăo\r\ndada pela Medida Provisória nş 413, de 2008)\nProduçăo de \r\nefeitos\n§ 8\no\nEm relaçăo \r\n ŕ receita bruta auferida com a venda de álcool, inclusive para fins \r\n carburantes, năo se aplicam as disposiçőes do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 26960,
+        "char_end": 30169
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#21",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "art. 15 da Medida \r\n Provisória n\no\n2.158-35, de 24 de agosto de 2001\n.\n(Redaçăo\r\ndada pela Medida Provisória nş 413, de 2008)\nProduçăo de \r\nefeitos\n§ 9\no\nNa hipótese \r\n de o produtor ou importador efetuar a venda de álcool, inclusive para \r\n fins carburantes, para pessoa jurídica com a qual mantenha relaçăo de \r\n interdependęncia, o valor tributável năo poderá ser inferior a 32,43% \r\n (trinta e dois inteiros e quarenta e tręs centésimos por cento) do preço \r\n corrente de venda desse produto aos consumidores na praça desse produtor \r\n ou importador.\n(Redaçăo\r\ndada pela Medida Provisória nş 413, de 2008)\nProduçăo de \r\nefeitos\n§ 10.  Para os efeitos do § 9\no\n, \r\n na verificaçăo da existęncia de interdependęncia entre duas pessoas \r\n jurídicas aplicar-se-ăo as disposiçőes do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30169,
+        "char_end": 30952
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#22",
+      "type": "artigo_candidato",
+      "name": "Art. 42",
+      "content": "art. 42 da Lei n\no\n4.502, de 30 de novembro de 1964\n.\n(Redaçăo\r\ndada pela Medida Provisória nş 413, de 2008)\nProduçăo de \r\nefeitos\n§ 11.  As disposiçőes dos §§ 9\no\ne 10 năo se aplicam ao produtor ou importador que seja optante pelo \r\n regime especial de apuraçăo e pagamento da Contribuiçăo para o PIS/PASEP \r\n e da COFINS instituído pelo § 2\no\ndeste artigo.\n(Redaçăo\r\ndada pela Medida Provisória nş 413, de 2008)\nProduçăo de \r\nefeitos",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 30952,
+        "char_end": 31388
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#23",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5\no\nA Contribuiçăo\npara\no\nPIS/Pasep\ne a Cofins incidentes sobre a receita bruta auferida na venda de \r\n álcool, inclusive para fins carburantes, serăo calculadas com base nas \r\n alíquotas, respectivamente, de:\n(Redaçăo \r\n dada pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Vide Medida \r\n Provisória nş\r\n1.157, de 2023)\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31388,
+        "char_end": 31783
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#24",
+      "type": "artigo_candidato",
+      "name": "Art. 5",
+      "content": "Art. 5ş A Contribuiçăo para o PIS/Pasep e a Cofins incidentes sobre a receita \r\n bruta auferida pelo produtor ou importador nas operaçőes com etanol, \r\n inclusive para fins carburantes, serăo calculadas com base nas \r\n alíquotas, respectivamente, de 5,25% (cinco inteiros e vinte e cinco \r\n centésimos por cento) e 24,15% (vinte e quatro inteiros e quinze \r\n centésimos por cento).\n(Redaçăo dada pela Lei Complementar nş \r\n 214, de 2025)\nProduçăo de efeitos\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nI – 1,5% (um inteiro \r\n e cinco décimos por cento) e 6,9% (seis inteiros e nove décimos por \r\n cento), no caso de produtor ou importador; e\n(Redaçăo \r\n dada pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Revogado pela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nII – 3,75% (tręs \r\n inteiros e setenta e cinco centésimos por cento) e 17,25% (dezessete \r\n inteiros e vinte e cinco centésimos por cento), no caso de distribuidor.\n(Redaçăo \r\n dada pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Revogado pela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 1\no\nFicam reduzidas a 0% (zero por cento) as alíquotas da Contribuiçăo para \r\n o PIS/Pasep e da Cofins incidentes sobre a receita bruta de venda de \r\n álcool, inclusive para fins carburantes, quando auferida:\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\nI – por \r\n distribuidor, no caso de venda de álcool anidro adicionado ŕ gasolina;\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Revogado pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\nI -\n(revogado)\n;\n(Redaçăo dada \r\n pela Lei nş 14.292, de 2022)\nII – por comerciante \r\n varejista, em qualquer caso;\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\nII - por comerciante \r\n varejista, exceto na hipótese prevista no inciso II do § 4ş-B; e\n(Redaçăo dada pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\nII - por comerciante varejista, exceto na hipótese \r\nprevista no inciso II do § 4ş-B deste artigo; e\n(Redaçăo dada pela Lei \r\nnş 14.292, de 2022)\nIII – nas operaçőes \r\n realizadas em bolsa de mercadorias e futuros.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\nIV - por \r\n distribuidor, no caso de venda de etanol combustível.\n(Redaçăo \r\n dada pela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 2\no\nA reduçăo a 0 (zero) das alíquotas previstas no inciso III do § 1\no\ndeste artigo năo se aplica ŕs operaçőes em que ocorra liquidaçăo física \r\n do contrato.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n§ 3\no\nAs demais pessoas jurídicas que comerciem álcool năo enquadradas como \r\n produtor, importador, distribuidor ou varejista ficam sujeitas ŕs \r\n disposiçőes da legislaçăo da Contribuiçăo para o PIS/Pasep e da Cofins \r\n aplicáveis ŕ pessoa jurídica distribuidora.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Revogado pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\n§ 3ş\n(Revogado)\n.\n(Redaçăo dada \r\n pela Lei nş 14.292, de 2022)\n§ 4\no\nO produtor, o importador e o distribuidor de que trata o caput\ndeste artigo poderăo optar por regime especial de apuraçăo e \r\n pagamento da  Contribuiçăo  para  o PIS/Pasep e da Cofins, no qual as \r\n alíquotas específicas das contribuiçőes săo fixadas, respectivamente, \r\n em:\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 4ş O \r\n produtor e o importador de que trata o\ncaput\ndeste artigo \r\n poderăo optar por regime especial de apuraçăo e pagamento da \r\n Contribuiçăo para o PIS/Pasep e da Cofins, com incidęncia única, no qual \r\n as alíquotas específicas das contribuiçőes săo fixadas, respectivamente, \r\n em R$ 34,33 (trinta e quatro reais e trinta e tręs centavos) e R$ 157,87 \r\n (cento e cinquenta e sete reais e oitenta e sete centavos) por metro \r\n cúbico de etanol combustível.\n(Redaçăo dada pela Lei Complementar nş \r\n 214, de 2025)\nProduçăo de efeitos\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nI – R$ 23,38 (vinte \r\n e tręs reais e trinta e oito centavos) e R$ 107,52 (cento e sete reais e \r\n cinqüenta e dois centavos) por metro cúbico de álcool, no caso de venda \r\n realizada por produtor ou importador;\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Revogado \r\n pela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nII – R$ 58,45 \r\n (cinqüenta e oito reais e quarenta e cinco centavos) e R$ 268,80 \r\n (duzentos e sessenta e oito reais e oitenta centavos) por metro cúbico \r\n de álcool, no caso de venda realizada por distribuidor.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Revogado \r\n pela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 4ş-A  Na hipótese \r\n de venda efetuada diretamente do produtor ou do importador para as \r\n pessoas jurídicas de que tratam os\nincisos II e III do\ncaput\ndo art. 68-B da Lei nş 9.478, de 6 de agosto de 1997\n, a alíquota \r\n aplicável, conforme o caso, será aquela resultante do somatório das \r\n alíquotas previstas:\n(Incluído pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\nI - nos incisos I e II do\ncaput\n; ou\n(Incluído pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\nII - nos incisos I e II do § 4ş, observado o disposto no § 8ş.\n(Incluído pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\n§ 4ş-A  Na hipótese de venda efetuada diretamente \r\n do produtor, da cooperativa de produçăo ou comercializaçăo de etanol, da \r\n empresa comercializadora de etanol ou do importador para as pessoas \r\n jurídicas de que tratam os\nincisos II\ne\nIII do\ncaput\ndo art. 68-B da Lei nş 9.478, de 6 de agosto de 1997\n, \r\n a alíquota aplicável, conforme o caso, será aquela resultante do \r\n somatório das alíquotas previstas:\n(Redaçăo \r\n dada \r\n pela Medida Provisória nş 1.069, de 2021)\n§ 4ş-A Na hipótese de venda efetuada diretamente do \r\nprodutor ou do importador para as pessoas jurídicas de que tratam os incisos II \r\ne III do\ncaput\ndo art. 68-B da Lei nş 9.478, de 6 de agosto de 1997, a alíquota aplicável, \r\nconforme o caso, será aquela resultante do somatório das alíquotas previstas:\n(Incluído pela Lei nş \r\n14.292, de 2022)\n§ 4ş-A \r\n Na hipótese de venda efetuada diretamente do produtor ou do importador para as \r\npessoas jurídicas comerciantes varejistas, a alíquota aplicável, conforme o \r\ncaso, será aquela resultante do somatório das alíquotas previstas:\n(Redaçăo dada pela Medida \r\nProvisória nş 1.100, de 2022)\n§ 4ş-A. Na hipótese de venda efetuada diretamente do \r\nprodutor ou do importador para as pessoas jurídicas comerciantes varejistas, a \r\nalíquota aplicável, conforme o caso, será aquela resultante do somatório das \r\nalíquotas previstas:\n(Redaçăo dada pela Lei nş \r\n14.367, de 2022)\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nI - nos incisos I e II do\ncaput\ndeste artigo; ou\n(Incluído pela Lei nş \r\n14.292, de 2022)\n(Revogado \r\npela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nII - nos incisos I e II do § 4ş, observado o disposto no § 8ş deste artigo.\n(Incluído pela Lei nş \r\n14.292, de 2022)\n(Revogado \r\npela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 4ş-B  As alíquotas \r\n de que trata o § 4ş-A aplicam-se nas seguintes hipóteses:\n(Incluído pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\nI - de o importador exercer também a funçăo de distribuidor;\n(Incluído pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\nII - de as vendas serem efetuadas pelas pessoas jurídicas de que \r\n trata o\ninciso II ou III do caput do art. 68-B da Lei nş \r\n 9.478, de 1997\n, quando estes efetuarem a importaçăo; e\n(Incluído pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\nIII - de as vendas serem efetuadas pelas demais pessoas jurídicas \r\n năo enquadradas como produtor, importador, distribuidor ou \r\n varejista.\n(Incluído pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\n§ 4ş-B As alíquotas de que trata o § 4ş-A deste artigo \r\naplicam-se, também, nas seguintes hipóteses:\n(Incluído pela Lei nş \r\n14.292, de 2022)\nI - de o importador exercer também a funçăo de distribuidor;\n(Incluído pela Lei nş \r\n14.292, de 2022)\nII - de as vendas serem efetuadas pelas pessoas jurídicas de que trata o\ninciso II\nou\nIII do caput do art. 68-B da Lei nş 9.478, de 6 de \r\nagosto de 1997\n, quando elas efetuarem a importaçăo; e\n(Incluído pela Lei nş \r\n14.292, de 2022)\nII - de \r\nas vendas serem efetuadas pelas pessoas jurídicas comerciantes varejistas, \r\nquando elas efetuarem a importaçăo; e\n(Redaçăo dada pela Medida \r\nProvisória nş 1.100, de 2022)\nII - de as vendas serem efetuadas pelas pessoas \r\njurídicas comerciantes varejistas, quando elas efetuarem a importaçăo; e\n(Redaçăo dada pela Lei nş \r\n14.367, de 2022)\nIII - de as vendas serem efetuadas pelas demais pessoas jurídicas năo \r\nenquadradas como produtor, importador, distribuidor ou varejista.\n(Incluído pela Lei nş \r\n14.292, de 2022)\n§ 4ş-C  Na hipótese \r\n de venda de gasolina pelo distribuidor, em relaçăo ao percentual de \r\n álcool anidro a ela adicionado, a incidęncia da Contribuiçăo para o \r\n PIS/Pasep e da Cofins ocorrerá, conforme o caso, pela aplicaçăo das \r\n alíquotas previstas:\n(Incluído pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\nI - no inciso I do\ncaput\n; ou\n(Incluído pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\nII - no inciso I do § 4ş, observado o disposto no § 8ş.\n(Incluído pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\n§ 4ş-C Na hipótese de venda de gasolina pelo \r\ndistribuidor, em relaçăo ao percentual de álcool anidro a ela adicionado, a \r\nincidęncia da Contribuiçăo para o PIS/Pasep e da Cofins ocorrerá, conforme o \r\ncaso, pela aplicaçăo das alíquotas previstas:\n(Incluído pela Lei nş \r\n14.292, de 2022)\n(Vide \r\nLei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 4ş-C. Na \r\n hipótese de venda de gasolina pelo distribuidor, em relaçăo ao \r\n percentual de álcool anidro a ela adicionado, ficam reduzidas a zero as \r\n alíquotas da Contribuiçăo para o PIS/Pasep e da Cofins.\n(Redaçăo dada pela Lei Complementar nş \r\n214, de 2025)\nProduçăo de efeitos\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nI - no inciso I do\ncaput\ndeste artigo; ou\n(Incluído pela Lei nş \r\n14.292, de 2022)\n(Revogado \r\npela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nII - no inciso I do § 4ş, observado o disposto no § 8ş deste artigo.\n(Incluído pela Lei nş \r\n14.292, de 2022)\n(Revogado \r\npela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 4ş-D \r\n Na hipótese de venda de etanol hidratado combustível efetuada diretamente de \r\ncooperativa para as pessoas jurídicas comerciantes varejistas:\n(Incluído pela Medida \r\nProvisória nş 1.100, de 2022)\nI - no \r\ncaso de cooperativa năo optante pelo regime especial de que trata o § 4ş, o \r\nvalor da Contribuiçăo para o PIS/Pasep e da Cofins devido será obtido pelo \r\nsomatório de duas parcelas, calculadas mediante a aplicaçăo das alíquotas:\n(Incluído pela Medida \r\nProvisória nş 1.100, de 2022)\na) de \r\nque trata o inciso I do\ncaput\nsobre a receita auferida na venda de etanol \r\nhidratado combustível, respectivamente; e\n(Incluído pela Medida \r\nProvisória nş 1.100, de 2022)\nb) de R$ \r\n19,81 (dezenove reais e oitenta e um centavos) e de R$ 91,10 (noventa e um reais \r\ne dez centavos) por metro cúbico de etanol hidratado combustível, \r\nrespectivamente; e\n(Incluído pela Medida \r\nProvisória nş 1.100, de 2022)\nII - no \r\ncaso de cooperativa optante pelo regime especial de que trata o § 4ş, será \r\naplicado o disposto no inciso II do § 4ş-A.\n(Incluído pela Medida \r\nProvisória nş 1.100, de 2022)\n§ 4ş-D. Na hipótese de venda de etanol hidratado \r\ncombustível efetuada diretamente de cooperativa para as pessoas jurídicas \r\ncomerciantes varejistas:\n(Incluído pela Lei nş \r\n14.367, de 2022)\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nI - no caso de \r\ncooperativa năo optante pelo regime especial de que trata o § 4ş deste artigo, \r\nos valores da Contribuiçăo para o PIS/Pasep e da Cofins devidos serăo obtidos \r\npelo somatório de 2 (duas) parcelas, calculadas mediante a aplicaçăo das \r\nalíquotas:\n(Incluído pela Lei nş \r\n14.367, de 2022)\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nI - no caso \r\n de cooperativa năo optante pelo regime especial de que trata o § 4ş \r\n deste artigo, os valores da Contribuiçăo para o PIS/Pasep e da Cofins \r\n devidos serăo obtidos pela aplicaçăo da alíquota prevista no\ncaput\ndo art. 5ş.\n(Redaçăo dada pela Lei Complementar nş \r\n214, de 2025)\nProduçăo de efeitos\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\na) de que trata \r\no inciso I do\ncaput\ndeste artigo sobre a receita auferida na venda de \r\netanol hidratado combustível, respectivamente; e\n(Incluído pela Lei nş \r\n14.367, de 2022)\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nb) de R$ 19,81 \r\n(dezenove reais e oitenta e um centavos) e de R$ 91,10 (noventa e um reais e dez \r\ncentavos) por metro cúbico de etanol hidratado combustível, respectivamente; e\n(Incluído pela Lei nş \r\n14.367, de 2022)\n(Vide Medida Provisória nş\r\n1.157, de 2023)\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nII - no caso de \r\ncooperativa optante pelo regime especial de que trata o § 4ş deste artigo, será \r\naplicado o disposto no inciso II do § 4ş-A deste artigo.\n(Incluído pela Lei nş \r\n14.367, de 2022)\n(Revogado \r\npela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 5\no\nA opçăo prevista no § 4\no\ndeste artigo será exercida, \r\n segundo normas e condiçőes estabelecidas pela Secretaria da Receita \r\n Federal do Brasil, até o último dia útil do męs de novembro de cada \r\n ano-calendário, produzindo efeitos, de forma irretratável, durante todo \r\n o ano-calendário subseqüente ao da opçăo.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n§ 6\no\nNo caso da opçăo efetuada nos termos dos §§ 4\no\ne 5\no\ndeste artigo, a Secretaria da Receita Federal do Brasil divulgará o nome \r\n da pessoa jurídica optante e a data de início da opçăo.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n§ 7\no\nA opçăo a que se refere este artigo será automaticamente prorrogada para \r\n o ano-calendário seguinte, salvo se a pessoa jurídica dela desistir, nos \r\n termos e condiçőes estabelecidos pela Secretaria da Receita Federal do \r\n Brasil, até o último dia útil do męs de novembro do ano-calendário, \r\n hipótese em que a produçăo de efeitos se dará a partir do dia 1\no\nde janeiro do ano-calendário subseqüente.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n§ 8\no\nFica o Poder Executivo autorizado a fixar coeficientes para reduçăo das \r\n alíquotas previstas no caput\ne no § 4\no\ndeste artigo, as quais poderăo ser alteradas, para mais ou para menos, \r\n em relaçăo a classe de produtores, produtos ou sua utilizaçăo.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Vide ADI 5277)\n§ 9\no\nNa hipótese do § 8\no\ndeste artigo, os coeficientes \r\n estabelecidos para o produtor e o importador poderăo ser diferentes \r\n daqueles estabelecidos para o distribuidor.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Vide ADI 5277)\n(Revogado pela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 10.  A aplicaçăo \r\n dos coeficientes de que tratam os §§ 8\no\ne 9\no\ndeste artigo năo poderá resultar em alíquotas da Contribuiçăo para o \r\n PIS/Pasep e da Cofins superiores a, respectivamente, 1,65% (um inteiro e \r\n sessenta e cinco centésimos por cento) e 7,6% (sete inteiros e seis \r\n décimos por cento) do preço médio de venda no varejo.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n§ 10. A \r\n aplicaçăo dos coeficientes de que trata o § 8ş deste artigo năo poderá \r\n resultar em alíquotas da Contribuiçăo para o PIS/Pasep e da Cofins \r\n superiores a, respectivamente, a 1,65% (um inteiro e sessenta e cinco \r\n centésimos por cento) e 7,6% (sete inteiros e seis décimos por cento) do \r\n preço médio de venda no varejo.\n(Redaçăo dada pela Lei \r\n Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 11.  O preço médio \r\n a que se refere o § 10 deste artigo será determinado a partir de dados \r\n colhidos por instituiçăo idônea, de forma ponderada com base nos volumes \r\n de  álcool comercializados nos Estados e no Distrito Federal nos 12 \r\n (doze) meses anteriores ao da fixaçăo dos coeficientes de que tratam os \r\n §§ 8\no\ne 9\no\ndeste artigo.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n§ 11. O preço \r\n médio a que se refere o § 10 deste artigo será determinado a partir de \r\n dados colhidos por instituiçőes idônea, de forma ponderada com base nos \r\n volumes de etanol comercializados nos Estados e no Distrito Federal nos \r\n 12 (doze) meses anteriores ao da fixaçăo dos coeficientes de trata o § \r\n 8ş deste artigo.\n(Redaçăo dada pela Lei \r\n Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 12.  No \r\n ano-calendário em que a pessoa jurídica iniciar atividades de produçăo, \r\n importaçăo ou distribuiçăo de álcool, a opçăo pelo regime especial \r\n poderá ser exercida em qualquer data, produzindo efeitos a partir do \r\n primeiro dia do męs em que for exercida.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n§ 12. No \r\n ano-calendário em que a pessoa jurídica iniciar atividades de produçăo \r\n ou importaçăo de álcool a opçăo pelo regime especial poderá ser exercida \r\n em qualquer data, produzindo efeitos a partir do primeiro dia do męs em \r\n que for exercida.\n(Redaçăo dada pela Lei \r\n Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 13.  O produtor, \r\n importador ou distribuidor de álcool, inclusive para fins carburantes, \r\n sujeito ao regime de apuraçăo năo cumulativa da Contribuiçăo para o \r\n PIS/Pasep e da Cofins, pode descontar créditos relativos ŕ aquisiçăo do \r\n produto para revenda de outro produtor, importador ou distribuidor                         .\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n§ 13.  O produtor e o importador de álcool, \r\ninclusive para fins carburantes, sujeito ao regime de apuraçăo năo cumulativa da \r\nContribuiçăo para o PIS/PASEP e da COFINS, pode descontar créditos relativos ŕ \r\naquisiçăo do produto para revenda de outro produtor ou de outro importador.\n(Redaçăo dada pela \r\n Medida Provisória nş 613, de 2013)\n§ 13.  O produtor e o importador de álcool, \r\n inclusive para fins carburantes, sujeitos ao regime de apuraçăo năo \r\n cumulativa da Contribuiçăo para o PIS/Pasep e da Cofins podem descontar \r\n créditos relativos ŕ aquisiçăo do produto para revenda de outro produtor \r\n ou de outro importador.\n(Redaçăo dada pela \r\n Lei nş 12.859, de 2013)\n§ 13-A.  O \r\n distribuidor sujeito ao regime de apuraçăo năo cumulativa da \r\n Contribuiçăo para o PIS/Pasep e da Cofins poderá descontar créditos \r\n relativos ŕ aquisiçăo, no mercado interno, de álcool anidro para \r\n adiçăo ŕ gasolina.\n(Incluído pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\n§ 13-A. O distribuidor sujeito ao regime de \r\n apuraçăo năo cumulativa da Contribuiçăo para o PIS/Pasep e da Cofins \r\n poderá descontar créditos relativos ŕ aquisiçăo, no mercado interno, \r\n de álcool anidro para adiçăo ŕ gasolina.\n(Incluído \r\n pela Lei nş 14.292, de 2022)\n(Revogado pela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 14.  Os créditos \r\n de que trata o § 13 deste artigo correspondem aos valores da \r\n Contribuiçăo para o PIS/Pasep e da Cofins devidos pelo vendedor em \r\n decorręncia da operaçăo.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n§ 14-A.  Os créditos \r\n de que trata o § 13-A correspondem aos valores da Contribuiçăo para \r\n o PIS/Pasep e da Cofins que incidiram sobre a operaçăo de aquisiçăo.\n(Incluído pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\n§ 14-A. Os créditos de que trata o § 13-A \r\n deste artigo correspondem aos valores da Contribuiçăo para o \r\n PIS/Pasep e da Cofins que incidiram sobre a operaçăo de aquisiçăo.\n(Incluído \r\n pela Lei nş 14.292, de 2022)\n(Revogado pela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 15.  O disposto no \r\n § 14 deste artigo năo se aplica ŕs aquisiçőes de álcool anidro para \r\n adiçăo ŕ gasolina, hipótese em que os valores dos créditos serăo \r\n estabelecidos por ato do Poder Executivo.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008)\n(Produçăo de \r\nefeitos)\n§ 15.\n(Revogado)\n.\n(Redaçăo dada \r\n pela Lei nş 14.292, de 2022)\n§ 16.  Observado o \r\n disposto nos §§ 14 e 15 deste artigo, năo se aplica ŕs aquisiçőes de que \r\n trata o § 13 deste artigo o disposto na\nalínea\nb\ndo inciso I do\r\n caput\ndo art. 3\no\nda Lei n\no\n10.637, de 30 de dezembro de 2002\n, e na\nalínea\nb\ndo inciso I do\r\n caput\ndo art. 3\no\nda Lei n\no\n10.833, de 29 de dezembro de 2003\n.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n§ 16. Observado o disposto nos §§ 14 e 14-A \r\n deste artigo, năo se aplica ŕs aquisiçőes de que tratam os §§ 13 e 13-A \r\n deste artigo o disposto na\nalínea “b” \r\n do inciso I do\ncaput\ndo art. 3ş da Lei nş 10.637, de 30 de dezembro de 2002\n, \r\n e na\nalínea “b” do inciso I do\ncaput\ndo art. 3ş da Lei nş 10.833, de 29 de dezembro de 2003.\n(Redaçăo dada \r\n pela Lei nş 14.292, de 2022)\n§ 17.  Na hipótese \r\n de o produtor ou importador efetuar a venda de álcool, inclusive para \r\n fins carburantes, para pessoa jurídica com a qual mantenha relaçăo de \r\n interdependęncia, o valor tributável năo poderá ser inferior a 32,43% \r\n (trinta e dois inteiros e quarenta e tręs centésimos por cento) do preço \r\n corrente de venda desse produto aos consumidores na praça desse produtor \r\n ou importador.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Revogado pela de \r\n Medida Provisória nş 497, de 2010)\n§ 17.  Na hipótese \r\n de o produtor ou importador efetuar a venda de álcool, inclusive para \r\n fins carburantes, para pessoa jurídica com a qual mantenha relaçăo de \r\n interdependęncia, o valor tributável năo poderá ser inferior a 32,43% \r\n (trinta e dois inteiros e quarenta e tręs centésimos por cento) do preço \r\n corrente de venda desse produto aos consumidores na praça desse produtor \r\n ou importador.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Vide \r\n Medida Provisória nş 497, de 2010)\n§ 18.  Para os \r\n efeitos do § 17 deste artigo, na verificaçăo da existęncia de \r\n interdependęncia entre 2 (duas) pessoas jurídicas, aplicar-se-ăo as \r\n disposiçőes do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 31783,
+        "char_end": 54315
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#25",
+      "type": "artigo_candidato",
+      "name": "Art. 42",
+      "content": "art. 42 da Lei n\no\n4.502, de 30 de \r\n novembro de 1964\n.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Revogado pela de \r\n Medida Provisória nş 497, de 2010)\n§ 18.  Para os \r\n efeitos do § 17 deste artigo, na verificaçăo da existęncia de \r\n interdependęncia entre 2 (duas) pessoas jurídicas, aplicar-se-ăo as \r\n disposiçőes do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 54315,
+        "char_end": 54666
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#26",
+      "type": "artigo_candidato",
+      "name": "Art. 42",
+      "content": "art. 42 da Lei n\no\n4.502, de 30 de \r\n novembro de 1964\n.\n(Incluído \r\n pela Lei \r\nnş 11.727, de 2008).\n(Produçăo de \r\nefeitos)\n(Vide \r\n Medida Provisória nş 497, de 2010)\n§ 19.  O disposto no § 3\no\nnăo se aplica ŕs \r\n pessoas jurídicas controladas por produtores de álcool ou interligadas a \r\n produtores de álcool, seja diretamente ou por intermédio de cooperativas \r\n de produtores, ficando sujeitas ŕs disposiçőes da legislaçăo da \r\n contribuiçăo para o PIS/Pasep e da Cofins aplicáveis ŕ pessoa jurídica \r\n produtora.\n(Incluído pela Lei \r\n nş 11.945, de 2009)\n(Revogado pela Medida Provisória nş 1.063, de 2021)\n(Produçăo de efeitos)\n§ 19.\n(Revogado)\n.\n(Redaçăo dada \r\n pela Lei nş 14.292, de 2022)\n§ 20.  A cooperativa de produçăo ou comercializaçăo de \r\netanol e a pessoa jurídica comercializadora de etanol controlada por produtores \r\nde álcool ou interligada a produtores de álcool, seja diretamente ou por \r\nintermédio de cooperativas de produtores, ficam sujeitas ŕs disposiçőes da \r\nlegislaçăo da contribuiçăo para o PIS/Pasep e da Cofins aplicáveis ŕ pessoa \r\njurídica produtora.\n(Redaçăo dada pela Medida \r\nProvisória nş 1.069, de 2021)\n§ 20. A cooperativa de produçăo ou \r\n comercializaçăo de etanol e a pessoa jurídica comercializadora de etanol \r\n controlada por produtores de etanol ou interligada a produtores de \r\n etanol, diretamente ou por intermédio de cooperativas de produtores, \r\n ficam sujeitas ŕs disposiçőes da legislaçăo da Contribuiçăo para o \r\n PIS/Pasep e da Cofins aplicáveis ŕ pessoa jurídica produtora, observadas \r\n as disposiçőes dos\narts. 15\ne\n16 da Medida Provisória nş 2.158-35, \r\n de 24 de agosto de 2001\n.\n(Incluído pela \r\n Lei nş 14.292, de 2022)\n§ 20-A.  O transportador-revendedor-retalhista fica sujeito ŕs \r\n disposiçőes da legislaçăo da Contribuiçăo para o PIS/Pasep e da Cofins \r\n aplicáveis ŕ pessoa jurídica comerciante varejista.\n(Incluído pela \r\n Medida Provisória nş 1.100, de 2022)\n§ 21.  Na hipótese de venda de álcool pelas cooperativas \r\nde que trata o § 20, inclusive para a pessoa jurídica comercializadora de etanol \r\nnele referida, năo se aplicam as disposiçőes dos",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 54666,
+        "char_end": 56793
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#27",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "art. 16 da Medida Provisória nş 2.158-35, de \r\n24 de agosto de 2001.\n(Incluído pela Medida \r\nProvisória nş 1.069, de 2021)\n§ 21. O transportador-revendedor-retalhista fica sujeito \r\nŕs disposiçőes da legislaçăo da Contribuiçăo para o PIS/Pasep e da Cofins \r\naplicáveis ŕ pessoa jurídica comerciante varejista.\n(Incluído pela Lei nş \r\n14.367, de 2022)\n(Revogado \r\npela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 22.  Na hipótese de que trata o § 21, os valores dos \r\nrepasses recebidos pelos associados, decorrentes da comercializaçăo do álcool \r\npor eles entregue a essas cooperativas, devem ser excluídos de sua base de \r\ncálculo da contribuiçăo para o PIS/Pasep e da Cofins.\n(Incluído pela Medida \r\nProvisória nş 1.069, de 2021)\n(Revogado \r\npela Lei Complementar nş 214, de 2025)\nProduçăo de efeitos",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 56803,
+        "char_end": 57618
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#28",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6ş As distribuidoras de combustíveis ficam obrigadas ao pagamento das\r\ncontribuiçőes a que se refere o art. 2ş sobre o valor do álcool que adicionarem ŕ\r\ngasolina, como contribuintes e como contribuintes substitutos, relativamente ŕs vendas,\r\npara os comerciantes varejistas, do produto misturado.\n(Vide Medida Provisória nş\r\n2.158-35, de 2001)\nParágrafo único. Na hipótese\r\ndeste artigo, os valores das contribuiçőes deverăo ser calculados, relativamente ŕ\r\nparcela devida na condiçăo de:\nI - contribuinte: tomando por\r\nbase o valor resultante da aplicaçăo do percentual de mistura, fixado em lei, sobre o\r\nvalor da venda;\nII - contribuinte substituto:\r\ntomando por base o valor resultante da aplicaçăo do percentual de mistura, fixado em\r\nlei, sobre o valor da venda, multiplicado pelo coeficiente de um inteiro e quatro\r\ndécimos.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 57618,
+        "char_end": 58456
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#29",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6\no\nO\r\n disposto nos arts. 4\no\ne 5\no\ndesta Lei \r\naplica-se, também, ŕs unidades de processamento de condensado e de gás natural e \r\naos importadores de combustíveis derivados de petróleo.\n(Redaçăo dada pela Medida Provisória nş 1.991-15, de 2000)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 58456,
+        "char_end": 58708
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#30",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6\no\nO\r\n disposto no art. 4\no\ndesta Lei aplica-se, também, aos demais produtores\r\n e importadores dos produtos ali referidos.\n(Redaçăo dada pela Medida Provisória nş 1.991-18, de 2000)\nParágrafo\r\n único.  Na hipótese de importaçăo de álcool carburante, a incidęncia\r\n referida no art. 5\no\ndar-se-á na forma de seu:\n(Redaçăo dada pela Medida Provisória nş 1.991-18, de 2000)\nI - inciso\r\n I, quando realizada por distribuidora do produto;\n(Redaçăo dada pela Medida Provisória nş 1.991-18, de 2000)\nII - inciso II, nos demais casos.\n(Redaçăo dada \r\n pela Medida Provisória nş 1.991-18, de 2000)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 58708,
+        "char_end": 59304
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#31",
+      "type": "artigo_candidato",
+      "name": "Art. 6",
+      "content": "Art. 6\no\nO disposto no art. 4\no\ndesta Lei aplica-se, também, aos demais produtores e importadores dos produtos ali\r\nreferidos.\n(Redaçăo dada pela Lei nş 9.990, de 2000)\n(Vide arts. 42, parágrafo único\ne\n92, da Medida Provisória nş\r\n2.158-35, de 2001)\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nParágrafo único. Na hipótese de importaçăo de álcool\r\ncarburante, a incidęncia referida no art. 5\no\ndar-se-á na forma de seu:\n(Redaçăo dada pela Lei nş 9.990, de 2000)\n(Vide Medida Medida Provisória \r\nnş 413, de 2008)\n(Revogado pela Lei nş \r\n11.727, de 2008)\nI – inciso I, quando realizada por distribuidora do produto;\n(Redaçăo dada pela Lei nş 9.990, de 2000)\nII – inciso II, nos demais casos.\n(Redaçăo dada pela Lei nş 9.990, de 2000)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 59304,
+        "char_end": 60053
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#32",
+      "type": "artigo_candidato",
+      "name": "Art. 7",
+      "content": "Art. 7\nş\nNo caso de construçăo por empreitada ou de\r\nfornecimento a preço predeterminado de bens ou serviços, contratados por pessoa\r\njurídica de direito público, empresa pública, sociedade de economia mista ou suas\r\nsubsidiárias, o pagamento das contribuiçőes de que trata o art. 2\nş\ndesta Lei poderá ser diferido, pelo contratado, até a data do recebimento do preço.\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nParágrafo único. A utilizaçăo do\r\ntratamento tributário previsto no\ncaput\ndeste artigo é facultada ao\r\nsubempreiteiro ou subcontratado, na hipótese de subcontrataçăo parcial ou total da\r\nempreitada ou do fornecimento.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 60053,
+        "char_end": 60700
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#33",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8\n°\nFica elevada para tręs por cento a alíquota\r\nda COFINS.\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\n§ 1° A pessoa jurídica poderá compensar, com\r\na Contribuiçăo Social sobre o Lucro Líquido - CSLL devida em cada período de\r\napuraçăo trimestral ou anual, até um terço da COFINS efetivamente paga, calculada de\r\nconformidade com este artigo.\n(Vide Medida Provisória nş \r\n1.858-10, de\r\n1999)\n(Revogado pela Medida Provisória nş 2.158-35, de\r\n2001)\n§ 2° A compensaçăo referida no § 1°:\n(Vide Medida Provisória nş \r\n1.858-10, de\r\n1999)\n.(Revogado pela Medida Provisória nş 2.158-35, de\r\n2001)\nI - somente será admitida em relaçăo ŕ COFINS correspondente a męs\r\ncompreendido no período de apuraçăo da CSLL a ser compensada, limitada ao valor desta;\n(Vide Medida Provisória nş \r\n1.858-10, de\r\n1999)\n.(Revogado pela Medida Provisória nş 2.158-35, \r\nde 2001)\nII - no caso de pessoas jurídicas tributadas pelo regime de lucro real anual,\r\npoderá ser efetuada com a CSLL determinada na forma dos\narts.\r\n28 a 30 da Lei n° 9.430, de 27 de dezembro de 1996.\n(Vide Medida Provisória nş \r\n1.858-10, de\r\n1999)\n(Revogado pela Medida Provisória nş 2.158-35, de\r\n2001)\n§ 3° Da aplicaçăo do disposto neste artigo, năo decorrerá, em\r\nnenhuma hipótese, saldo de COFINS ou CSLL a restituir ou a compensar com o devido em\r\nperíodos de apuraçăo subseqüentes.\n(Vide Medida Provisória nş 1.858-10, de\r\n1999)\n.(Revogado pela Medida Provisória nş 2.158-35, de\r\n2001)\n§ 4° A parcela da COFINS compensada na forma deste artigo năo\r\nserá dedutível para fins de determinaçăo do lucro real.\n(Vide Medida Provisória nş \r\n1.858-10, de\r\n1999)\n(Revogado pela Medida Provisória nş 2.158-35, de\r\n2001)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 60700,
+        "char_end": 62386
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#34",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8\no\n-A.  \r\n Fica elevada para 4% (quatro por cento) a alíquota da Contribuiçăo para o \r\n Financiamento da Seguridade Social - COFINS devida pelas pessoas jurídicas \r\n referidas no § 9\no\ndo art. 3\no\ndesta Lei, \r\n observada a norma de interpretaçăo do § 9\no\n-A, produzindo \r\n efeitos a partir do 1\no\n(primeiro) dia do 4\no\n(quarto) męs subsequente ao da publicaçăo da lei decorrente da conversăo da\nMedida Provisória n\no\n619, de 6 de junho de 2013\n, \r\n exclusivamente quanto ŕ alíquota.\n(Incluído pela Lei nş \r\n12.873, de 2013)\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 62386,
+        "char_end": 62976
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#35",
+      "type": "artigo_candidato",
+      "name": "Art. 8",
+      "content": "Art. 8\no\n-B.  A Cofins incidente sobre as receitas \r\ndecorrentes da alienaçăo de participaçőes societárias deve ser apurada mediante \r\na aplicaçăo da alíquota de 4% (quatro por cento).\n(Incluído \r\npela Lei nş 13.043, de \r\n2014)\nVigęncia\n(Vide Lei Complementar nş 214, de 2025)\nProduçăo de efeitos\nCAPÍTULO II\nDO IMPOSTO SOBRE A RENDA",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 62976,
+        "char_end": 63310
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#36",
+      "type": "artigo_candidato",
+      "name": "Art. 9",
+      "content": "Art. 9° As variaçőes monetárias dos direitos de crédito e das\r\nobrigaçőes do contribuinte, em funçăo da taxa de câmbio ou de índices ou\r\ncoeficientes aplicáveis por disposiçăo legal ou contratual serăo consideradas, para\r\nefeitos da legislaçăo do imposto de renda, da contribuiçăo social sobre o lucro\r\nlíquido, da contribuiçăo PIS/PASEP e da COFINS, como receitas ou despesas financeiras,\r\nconforme o caso.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 63310,
+        "char_end": 63718
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#37",
+      "type": "artigo_candidato",
+      "name": "Art. 10",
+      "content": "Art. 10. Os dispositivos abaixo enumerados da\nLei n\n°\n9.532, de 10 de dezembro de 1997\n, passam a\r\nvigorar com a seguinte redaçăo:\n\"Art. 7\n°\n........................................................................\n...................................................................................\nIII -\npoderá\r\n amortizar o valor do ágio cujo fundamento seja o de que trata a\nalínea \"b\" do\r\n § 2\n°\ndo art. 20 do Decreto-lei n\n°\n1.598, de\r\n 1977\n, nos balanços correspondentes ŕ apuraçăo de lucro real, levantados posteriormente\r\n ŕ incorporaçăo, fusăo ou cisăo, ŕ razăo de um sessenta avos, no máximo, para cada\r\n męs do período de apuraçăo;\n................................................................................\"\r\n (NR)\n\"Art. 12.\r\n ...................................................................\n.................................................................................\n§ 3\n°\nConsidera-se entidade sem fins lucrativos a que năo apresente superávit em suas contas\r\n ou, caso o apresente em determinado exercício, destine referido resultado, integralmente,\r\n ŕ manutençăo e ao desenvolvimento dos seus objetivos sociais.\" (NR)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 63718,
+        "char_end": 64867
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#38",
+      "type": "artigo_candidato",
+      "name": "Art. 11",
+      "content": "Art. 11. Sem prejuízo do disposto nos\nincisos III\ne\nIV do art. 7\n°\nda Lei n\n°\n9.532,\r\nde 1997\n, a pessoa jurídica sucessora poderá classificar, no patrimônio líquido,\r\nalternativamente ao disposto no § 2\n°\ndo mencionado artigo, a conta\r\nque registrar o ágio ou deságio nele mencionado.\nParágrafo único. O disposto neste artigo aplica-se aos fatos geradores ocorridos a\r\npartir de 1\n°\nde janeiro de 1998.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 64867,
+        "char_end": 65271
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#39",
+      "type": "artigo_candidato",
+      "name": "Art. 12",
+      "content": "Art. 12. Sem prejuízo das normas de tributaçăo aplicáveis aos năo-residentes no\r\nPaís, sujeitar-se-á ŕ tributaçăo pelo imposto de renda, como residente, a pessoa\r\nfísica que ingressar no Brasil:\nI\r\n- com visto temporário:\na)\r\npara trabalhar com vínculo empregatício, em relaçăo aos fatos geradores ocorridos a\r\npartir da data de sua chegada;\nb)\r\npor qualquer outro motivo, e permanecer por período superior a cento e oitenta e tręs\r\ndias, consecutivos ou năo, contado, dentro de um intervalo de doze meses, da data de\r\nqualquer chegada, em relaçăo aos fatos geradores ocorridos a partir do dia subseqüente\r\nŕquele em que se completar referido período de permanęncia;\nII\r\n- com visto permanente, em relaçăo aos fatos geradores ocorridos a partir de sua\r\nchegada.\nParágrafo único. A Secretaria da Receita Federal expedirá normas quanto ŕs\r\nobrigaçőes acessórias decorrentes da aplicaçăo do disposto neste artigo.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 65271,
+        "char_end": 66182
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#40",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13. A pessoa jurídica, cuja receita bruta total, no ano-calendário anterior,\r\ntenha sido igual ou inferior a R$ 24.000.000,00 (vinte e quatro milhőes de reais), ou a\r\nR$ 2.000.000,00 (dois milhőes de reais) multiplicado pelo número de meses de atividade\r\ndo ano-calendário anterior, quando inferior a doze meses, poderá optar pelo regime de\r\ntributaçăo com base no lucro presumido.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 66182,
+        "char_end": 66569
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#41",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. 13. A pessoa jurídica cuja receita bruta total, no\r\nano-calendário anterior, tenha sido igual ou inferior a R$ 48.000.000,00 (quarenta e oito\r\nmilhőes de reais), ou a R$ 4.000.000,00 (quatro milhőes de reais) multiplicado pelo\r\nnúmero de meses de atividade do ano-calendário anterior, quando inferior a 12 (doze)\r\nmeses, poderá optar pelo regime de tributaçăo com base no lucro presumido.\n(Redaçăo dada pela Lei nş 10.637, de 2002)\n(Vide Medida Provisória nş \r\n 612, de 2013)\n(Vigęncia \r\nencerrada)",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 66569,
+        "char_end": 67073
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#42",
+      "type": "artigo_candidato",
+      "name": "Art. 13",
+      "content": "Art. \r\n 13.  A pessoa jurídica cuja receita bruta total no ano-calendário \r\n anterior tenha sido igual ou inferior a R$ 78.000.000,00 (setenta e oito \r\n milhőes de reais) ou a R$ 6.500.000,00 (seis milhőes e quinhentos mil \r\n reais) multiplicado pelo número de meses de atividade do ano-calendário \r\n anterior, quando inferior a 12 (doze) meses, poderá optar pelo regime de \r\n tributaçăo com base no lucro presumido.\n(Redaçăo dada pela Lei nş 12.814, de \r\n2013)\n(Vigęncia)\n§ 1\n°\nA opçăo pela tributaçăo com base no lucro presumido será\r\ndefinitiva em relaçăo a todo o ano-calendário.\n§ 2\n°\nRelativamente aos limites estabelecidos neste artigo, a\r\nreceita bruta auferida no ano anterior será considerada segundo o regime de competęncia\r\nou de caixa, observado o critério adotado pela pessoa jurídica, caso tenha, naquele ano,\r\noptado pela tributaçăo com base no lucro presumido.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 67073,
+        "char_end": 67951
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#43",
+      "type": "artigo_candidato",
+      "name": "Art. 14",
+      "content": "Art. 14. Estăo obrigadas ŕ apuraçăo do lucro real as pessoas\r\njurídicas:\nI - cuja receita total, no ano-calendário anterior, seja superior ao limite de\r\nR$ 24.000.000,00 (vinte e quatro milhőes de reais), ou proporcional ao número de meses\r\ndo período, quando inferior a doze meses;\nI - cuja receita total, no ano-calendário anterior seja superior ao\r\nlimite de R$ 48.000.000,00 (quarenta e oito milhőes de reais), ou proporcional ao número\r\nde meses do período, quando inferior a 12 (doze) meses;\n(Redaçăo\r\ndada pela Lei nş 10.637, de 2002)\n(Vide Medida Provisória nş \r\n 612, de 2013)\n(Vigęncia \r\nencerrada)\nI - cuja receita total no \r\n ano-calendário anterior seja superior ao limite de R$ 78.000.000,00 \r\n (setenta e oito milhőes de reais) ou proporcional ao número de meses do \r\n período, quando inferior a 12 (doze) meses;\n(Redaçăo dada pela Lei nş 12.814, de \r\n2013)\n(Vigęncia)\nII - cujas atividades sejam de bancos comerciais, \r\nbancos de investimentos, bancos de desenvolvimento, caixas econômicas, \r\nsociedades de crédito, financiamento e investimento, sociedades de crédito \r\nimobiliário, sociedades corretoras de títulos, valores mobiliários e câmbio, \r\ndistribuidoras de títulos e valores mobiliários, empresas de arrendamento \r\nmercantil, cooperativas de crédito, empresas de seguros privados e de \r\ncapitalizaçăo e entidades de previdęncia privada aberta;\nIII - que tiverem lucros, rendimentos ou ganhos de capital oriundos do exterior;\nIV - que, autorizadas pela legislaçăo tributária, usufruam de benefícios\r\nfiscais relativos ŕ isençăo ou reduçăo do imposto;\nV - que, no decorrer do ano-calendário, tenham efetuado pagamento mensal pelo\r\nregime de estimativa, na forma do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 67951,
+        "char_end": 69640
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#44",
+      "type": "artigo_candidato",
+      "name": "Art. 2",
+      "content": "art. 2° da Lei n°\r\n9.430, de 1996\n;\nVI - que explorem as atividades de prestaçăo cumulativa e contínua de\r\nserviços de assessoria creditícia, mercadológica, gestăo de crédito, seleçăo e\r\nriscos, administraçăo de contas a pagar e a receber, compras de direitos creditórios\r\nresultantes de vendas mercantis a prazo ou de prestaçăo de serviços (\nfactoring\n).\nVII - que \r\nexplorem as atividades de securitizaçăo de créditos imobiliários, financeiros e \r\ndo agronegócio.\n(Incluído pela \r\nMedida Provisória nş 472, de 2009)\nVII - que explorem as atividades \r\nde securitizaçăo de créditos imobiliários, financeiros e do agronegócio\n(Incluído  pela Lei nş 12.249, de 2010)\nVII - que explorem as atividades de securitizaçăo \r\nde crédito.\n(Redaçăo dada pela \r\nLei nş 14.430, de 2022)\nCAPÍTULO III\nDO Imposto sobre Operaçőes de Crédito,\r\nCâmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 69640,
+        "char_end": 70530
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#45",
+      "type": "artigo_candidato",
+      "name": "Art. 15",
+      "content": "Art. 15. A alíquota do Imposto sobre Operaçőes de Crédito, Câmbio e\r\nSeguro, ou relativas a Títulos ou Valores Mobiliários - IOF nas operaçőes de seguro\r\nserá de vinte e cinco por cento.\n(Vide Decreto 3.819,\r\nde 2001)\n(Vide Decreto 4.357,\r\nde 2002)\nCAPÍTULO IV\nDAS DISPOSIÇŐES GERAIS E FINAIS",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 70530,
+        "char_end": 70823
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#46",
+      "type": "artigo_candidato",
+      "name": "Art. 16",
+      "content": "Art. 16. A pessoa jurídica que, obrigada a apresentar, ŕ Secretaria da Receita\r\nFederal, declaraçăo de informaçőes, deixar de fazę-lo ou fizer após o prazo fixado\r\npara sua apresentaçăo, sujeitar-se-á ŕ multa de um por cento ao męs ou fraçăo,\r\nincidente sobre o imposto de renda devido, ainda que integralmente pago, relativo ao\r\nano-calendário a que corresponderem as respectivas informaçőes.\nParágrafo único. Ao disposto neste artigo aplicam-se as normas constantes dos\n§§ 1\n°\na 3\nş\ndo art. 88\r\nda Lei n\n°\n8.981, de 20 de janeiro de 1995\n, e do",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 70823,
+        "char_end": 71370
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#47",
+      "type": "artigo_candidato",
+      "name": "Art. 17",
+      "content": "Art. 17. Esta Lei entra em vigor na data de sua publicaçăo, produzindo efeitos:\nI - em relaçăo aos arts. 2\n°\na 8\n°\n, para os\r\nfatos geradores ocorridos a partir de 1\n°\nde fevereiro de 1999;\nII - em relaçăo aos arts. 9\n°\ne 12 a 15, a partir de 1\n°\nde janeiro de 1999.",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 71405,
+        "char_end": 71672
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#48",
+      "type": "artigo_candidato",
+      "name": "Art. 18",
+      "content": "Art. 18. Ficam revogados, a partir de 1\n°\nde janeiro de 1999:\nI - o\n§ 2\n°\ndo art. 1\n°\ndo Decreto-lei n\n°\n1.330, de 13 de maio de\r\n1974;\nII - o\n§ 2\n°\ndo art. 4\n°\ndo Decreto-lei n\n°\n1.506, de 23 de dezembro\r\nde 1976;\nIII - o",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 71672,
+        "char_end": 71895
+      }
+    },
+    {
+      "id": "BR.LEI.9718.1998#49",
+      "type": "artigo_candidato",
+      "name": "Art. 36",
+      "content": "art. 36\ne o\ninciso VI do art. 47 da Lei n\n°\n8.981, de 1995\n;\nIV - o\n§ 4\n°\ndo art. 15 da Lei\r\nn\n°\n9.532, de 1997\n.\nBrasília, 27 de novembro de 1998; 177\no\nda Independęncia e 110\no\nda República.\nFERNANDO HENRIQUE CARDOSO\nPedro Malan\nEste texto năo substitui o\r\npublicado no DOU de 28.11.1998\n*",
+      "attributes": {
+        "automated_extraction": true,
+        "char_start": 71895,
+        "char_end": 72187
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "jurisdiction",
+      "value": "BR"
+    },
+    {
+      "name": "document_bytes_sha256",
+      "value": "7fd1d8573c3f3df51e9082f199e698dd5b01cf8e2b0f5f6c374078c16afaa15c"
+    }
+  ],
+  "relations": [
+    {
+      "type": "subject",
+      "target": "pis"
+    },
+    {
+      "type": "subject",
+      "target": "cofins"
+    },
+    {
+      "type": "subject",
+      "target": "cumulativo"
+    }
+  ],
+  "functions": [],
+  "sources": [
+    {
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9718.htm",
+      "original_url": "https://www.planalto.gov.br/ccivil_03/leis/l9718.htm",
+      "authority": "Planalto",
+      "retrieved_at": "2026-10-20T07:30:51.930487+00:00",
+      "sha256": "7fd1d8573c3f3df51e9082f199e698dd5b01cf8e2b0f5f6c374078c16afaa15c",
+      "file": "documentos_oficiais/03_tributos/br-lei-9718-1998.html",
+      "extracted_text": "textos_extraidos/03_tributos/br-lei-9718-1998.txt",
+      "page_count": 0
+    }
+  ],
+  "open_questions": [
+    "Validar vigência por artigo e efeitos diferidos; textos compilados podem conter redações revogadas ou programadas.",
+    "Conferir integridade da extração e limites dos artigos."
+  ],
+  "completeness": {
+    "classification": "fonte_integral_capturada",
+    "full_source_bytes": true,
+    "text_extracted": true,
+    "article_count": 49,
+    "legal_consolidation_verified": false
+  },
+  "compatibility": {
+    "cognoscere_okf_version": "0.1",
+    "document_type": "source",
+    "status": "review"
+  },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "automatically_extracted_legal_source",
+  "topic_key": "compiled/br-lei-9718-1998",
+  "provenance": {
+    "conversion": "build_speciality.py",
+    "converted_at": "2026-10-20T07:47:25+00:00",
+    "source_archive": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip"
+  },
+  "review_status": "automatic_extraction_not_legally_consolidated"
+}
