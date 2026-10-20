@@ -4,14 +4,28 @@
   "source_zip_sha256": "6e1afbd5ee467980c94311d351aa3c97a36e3e98ec644cbde7e4f69a4ddca903",
   "model": "IAAR-Shanghai/Metis-4B",
   "layout": "okf-staging",
-  "status": "awaiting-metis-tensor-generation",
+  "status": "legal-corpus-ready-unreviewed",
   "monitor": {
     "okf_path": "okf/monitor.okf",
     "tensor_path": "memories/imported/monitor.safetensors",
     "status": "pending",
     "source_sha256": "4f07ce6855a14acbb29ed0283ec9609e1610a02702fa38ee03916fe58408b63e"
   },
-  "skills": [],
+  "skills": [
+    {
+      "id": "juceb-simples-nfe-pipeline",
+      "code": "JUCEB-SIMPLES-NFE-PIPELINE",
+      "title": "Pipeline NF-e e Simples Nacional",
+      "topic_key": "simples/nfe-pipeline",
+      "kind": "legal_research_map",
+      "source_okf": "concepts/simples/nfe-pipeline-memory.okf",
+      "tensor_path": "memories/imported/skills/juceb-simples-nfe-pipeline.safetensors",
+      "source_sha256": "5781b863a992bbc26a3c780b6ff327929afca49a5c4379abb4ec600c9016be7c",
+      "status": "ready",
+      "purpose": "Processar propriedades de NF-e e estimativas legais do Simples com segregacoes e corte de vigencia explicitados.",
+      "tensor_sha256": "17ec3cc1162812ac235e9bf6fdebcbb23f3aae9b9543c11afccc0b0e43fc2ea7"
+    }
+  ],
   "candidate_units": [
     {
       "id": "juceb-bahia-cad-icms",
@@ -474,11 +488,37 @@
       "tensor_path": "memories/imported/skills/juceb-tributacao-retencoes.safetensors",
       "source_sha256": "622631b7b6d27c4dbd43bae425588be238a639eee18c59693b825fd96805e39b",
       "status": "pending_metis_tensor"
+    },
+    {
+      "id": "juceb-simples-nfe-pipeline",
+      "code": "JUCEB-SIMPLES-NFE-PIPELINE",
+      "title": "Pipeline NF-e e Simples Nacional",
+      "topic_key": "simples/nfe-pipeline",
+      "kind": "legal_research_map",
+      "source_okf": "concepts/simples/nfe-pipeline-memory.okf",
+      "tensor_path": "memories/imported/skills/juceb-simples-nfe-pipeline.safetensors",
+      "source_sha256": "5781b863a992bbc26a3c780b6ff327929afca49a5c4379abb4ec600c9016be7c",
+      "status": "ready",
+      "purpose": "Processar propriedades de NF-e e estimativas legais do Simples com segregacoes e corte de vigencia explicitados.",
+      "tensor_sha256": "17ec3cc1162812ac235e9bf6fdebcbb23f3aae9b9543c11afccc0b0e43fc2ea7"
     }
   ],
   "source_counts": {
     "catalog_references": 86,
     "concept_maps": 42,
     "compiled_sources": 78
+  },
+  "legal_corpus": {
+    "status": "auto-partitioned-unreviewed",
+    "unchanged": true,
+    "source_digest": "f1acc0bca37ab8f17e8af376b85b4fe9c4a1fd1ff41359a31dbed6bf873e6600",
+    "index_path": "source-okfs/provision-index.json",
+    "documents": 78,
+    "article_candidates": 14190,
+    "subdevice_candidates": 32743,
+    "research_maps": 42,
+    "memory_status": "ready",
+    "memory_seed_sha256": "25eff39823dd6360a1849715ae6ba93fd6b6efdff4cd9cdc261acf2c404dd323",
+    "partition_contract": "one-OKF-per-article-candidate; paragraphs, incisos and alíneas nested as identified subdevices"
   }
 }

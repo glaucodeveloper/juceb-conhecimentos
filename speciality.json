@@ -1,15 +1,22 @@
 {
   "schema": "cognoscere.speciality.v1",
   "slug": "juceb-conhecimentos",
-  "title": "JUCEB | Legislação empresarial e fiscal da Bahia",
-  "description": "Speciality de pesquisa sobre registro empresarial na Bahia e legislação empresarial, tributária e fiscal brasileira. Corpus em curadoria; exige validação de fontes e vigência.",
+  "title": "JUCEB | Bens, serviços e legislação empresarial da Bahia",
+  "description": "Especialidade de consulta ao registro mercantil da Bahia e legislação empresarial e fiscal relacionada a comércio, serviços e atividades mistas; respostas fundamentadas em OKFs por artigo e fontes oficiais.",
   "created_at": "2026-10-20T00:00:00Z",
-  "updated_at": "2026-10-20T07:47:25Z",
+  "updated_at": "2026-10-20T18:39:35Z",
   "memory_path": "memories",
   "metadata": {
-    "status": "source-corpus-staged",
+    "status": "legal-corpus-ready-unreviewed",
     "source_bundle": "OKF_Legislacao_Empresarial_BR_Bahia_2026-10-19.zip",
-    "metis_tensors_ready": false,
-    "source_archive_sha256": "6e1afbd5ee467980c94311d351aa3c97a36e3e98ec644cbde7e4f69a4ddca903"
+    "metis_tensors_ready": true,
+    "source_archive_sha256": "6e1afbd5ee467980c94311d351aa3c97a36e3e98ec644cbde7e4f69a4ddca903",
+    "legal_corpus_status": "auto-partitioned-unreviewed",
+    "legal_corpus_index": "source-okfs/provision-index.json",
+    "legal_article_candidates": 14190,
+    "legal_subdevice_candidates": 32743,
+    "legal_sources": 78,
+    "metis_units_ready": false,
+    "nfe_simples_pipeline_okf": "source-okfs/concepts/simples/nfe-pipeline.okf"
   }
 }

@@ -1,0 +1,44 @@
+{
+  "schema": "okfforge.juceb.research_map.v1",
+  "id": "BR.KNOWLEDGE.NFE_SIMPLES_PIPELINE_MEMORY",
+  "title": "Memoria: NF-e e Simples Nacional",
+  "summary": "Processar NF-e de mercadorias e estimar receita ordinaria do Simples apenas quando competencia, atividade, RBT12, anexo, base e segregacao estiverem validados.",
+  "properties": [
+    { "name": "source_map", "value": "concepts/simples/nfe-pipeline.okf" },
+    { "name": "documented_horizon", "value": "competencias ate 2026-12; revalidar 2027+" },
+    { "name": "estimate_is_not_monthly_das", "value": true },
+    { "name": "do_not_infer_activity_from_cfop_or_ncm", "value": true },
+    { "name": "do_not_claim_sefaz_authorization_from_xsd", "value": true }
+  ],
+  "rules": [
+    "Leia XML modelo 55, registre chave, emitente, destinatario, data, itens, CFOP/NCM, CSOSN/CST, bases e totais; valide contra o XSD vigente, mantendo validade estrutural separada de assinatura e autorizacao.",
+    "Associe CNPJ do emitente na saida e do destinatario na entrada. NF-e de entrada nao e receita de venda do cliente.",
+    "Nao escolha anexo pelo CFOP, NCM, nome ou CSOSN. Exija atividade/receita do cliente, RBT12 legal, regime de apuracao, periodo e base reconciliada.",
+    "Para a estimativa ordinaria: aliquota efetiva = (RBT12 x aliquota nominal da faixa - parcela a deduzir) / RBT12; aplique a base documental suportada e registre a tabela e formula usadas.",
+    "Pare e tipifique pendencia para servicos/NFS-e, fator R, regime de caixa sem recebimentos, RBT12 ausente/inicio de atividade, competencia sem regra e receita sem classificacao.",
+    "Pare para regra de segregacao propria: ICMS-ST/antecipacao, monofasico, exportacao, devolucao/cancelamento, isencao, suspensao, retencao, ISSQN ou tratamento nao coberto.",
+    "Uma estimativa por nota nao e apuracao mensal. Reuna todas as receitas de todos os estabelecimentos e segrege por atividade/tratamento para reconciliar no PGDAS-D.",
+    "A tabela local cobre somente ate 2026-12. Confira atos CGSN e transicao CBS/IBS antes de calcular 2027+; NFS-e nacional tem regra de vigencia propria."
+  ],
+  "relations": [
+    { "type": "fundamentado_em", "target": "BR.LC.123.2006 art. 18 e Anexos I-V" },
+    { "type": "fundamentado_em", "target": "BR.RESOLUÇÃO_CGSN.140.2018 art. 25" },
+    { "type": "procedimento_declaratorio", "target": "BR.RFB.PGDAS-D.MANUAL.2025" },
+    { "type": "formato_xml", "target": "BR.PORTAL_ENCAT.NFE_SCHEMA.PL010F_2026" },
+    { "type": "fonte_completa", "target": "concepts/simples/nfe-pipeline.okf" }
+  ],
+  "sources": [
+    { "id": "BR.LC.123.2006", "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm", "provisions": ["art. 18, §§ 1, 1-A, 4, 4-A e 5-J a 5-M", "Anexos I-V"] },
+    { "id": "BR.RESOLUÇÃO_CGSN.140.2018", "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/normas.receisulta/link.action?idAto=92278&visao=compilado", "provisions": ["arts. 16-19", "arts. 21-26", "art. 25"] },
+    { "id": "BR.RFB.PGDAS-D.MANUAL.2025", "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/Arquivos/manual/MANUAL_PGDAS-D_2018_V4.pdf", "version": "2025-06-17" },
+    { "id": "BR.PORTAL_ENCAT.NFE_SCHEMA.PL010F_2026", "url": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=8ITFuBLltXs=", "schema": "PL_010f_v1.04/nfe_v4.00.xsd" },
+    { "id": "BR.RESOLUÇÃO_CGSN.190.2026", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/cgsn-atualiza-regras-do-simples-nacional-para-adequacao-a-reforma-tributaria-do-consumo", "effect": "em regra desde 2027-01-01; confirmar ato consolidado" },
+    { "id": "BR.RESOLUÇÃO_CGSN.191.2026", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-epp-a-partir-de-1o-de-novembro-de-2026", "effect": "NFS-e nacional prevista para 2026-11-01; confirmar excecoes" }
+  ],
+  "completeness": { "classification": "memoria_resumida_com_mapa_completo_ligado", "full_text": false, "requires_live_source_validation": true },
+  "compatibility": { "cognoscere_okf_version": "0.1", "document_type": "skill", "status": "review" },
+  "legacy_schema": "okf.knowledge.v1",
+  "kind": "legal_research_map",
+  "topic_key": "simples/nfe-pipeline",
+  "review_status": "compact_memory_seed_source_checked_2026-10-20"
+}

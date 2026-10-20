@@ -8,6 +8,14 @@ Referência do bundle: 19/10/2026. Captura e revisão: 20/10/2026.
 - 42 mapas temáticos convertidos para OKFForge.
 - 78 capturas oficiais com extração automática.
 - 8 registros sem texto extraído. O detalhe por ato, URL final, hash e erro está em [`relatorio_sincronizacao.json`](relatorio_sincronizacao.json).
+- 14.190 candidatos de artigo particionados pelo serviço Cognoscere em OKFs individuais.
+- 32.743 candidatos de subdispositivos (parágrafos, incisos e alíneas) associados aos artigos.
+- 42 mapas temáticos originais disponíveis para roteamento; os tensores isolados desses mapas seguem pendentes.
+- Um mapa adicional de pipeline NF-e/Simples possui tensor próprio `juceb-simples-nfe-pipeline`, criado pela API direta de memória do Cognoscere; o mapa completo e a memória curta contraparte estão em `source-okfs/concepts/simples/`.
+- Duas referências operacionais complementam as 86 fichas do catálogo: Manual PGDAS-D/DEFIS de 2025 e pacote oficial de XSD NF-e PL_010f v1.04.
+- Os 12 XMLs de demonstração passam pelo XSD e por verificação XMLDSig de teste. CNPJs e certificado são sintéticos; não há protocolo SEFAZ e os arquivos não são documentos fiscais para circulação ou transmissão.
+
+O particionamento ocorre automaticamente em `POST /specialities/create`. O índice `source-okfs/provision-index.json` registra o hash do corpus; a mesma chamada não reescreve as partições quando as fontes não mudam. A memória raiz Cognoscere contém apenas escopo, método e contagens. Para responder, o chat busca os OKFs por artigo e injeta as evidências encontradas com origem e URL.
 
 O relatório registra os endereços tentados em cada execução. `catalogo_fontes.json` contém a URL atualmente curada e separa `evidence_url` quando há comunicado oficial, mas ainda falta o texto do ato.
 
@@ -16,7 +24,7 @@ O relatório registra os endereços tentados em cada execução. `catalogo_fonte
 - Resoluções CGSN 140/2018, 187/2026, 190/2026 e 191/2026: o SIJUT serve a aplicação dinâmica e não entregou texto ao coletor. Os links 187/190/191 do bundle apontavam para a Resolução 140. A Receita confirma as alterações de 2026; faltam os atos diretos e uma captura textual verificável.
 - IN RFB 2.005/2021: o ato original está revogado pela IN RFB 2.237/2024. A URL direta foi corrigida, mas a aplicação dinâmica não forneceu texto ao coletor. Não usar como regra atual de DCTFWeb.
 - IN RFB 2.110/2022: a URL direta foi corrigida, mas a aplicação dinâmica não forneceu texto. O ato recebeu alterações, inclusive em 2026; a versão consolidada ainda precisa ser capturada.
-- Portal nacional da NF-e: a URL oficial redireciona em ciclo.
+- Portal nacional da NF-e: a URL de página redireciona em ciclo. O pacote XSD PL_010f v1.04 foi obtido pelo endpoint oficial de download e os 12 XMLs passaram por `nfe_v4.00.xsd`; mantenha a confirmação da versão vigente antes de validar competências futuras.
 - Portal da SEFAZ-BA: a validação TLS falhou. O coletor mantém a verificação de certificado habilitada.
 
 As URLs de LC 128/2008 e LC 147/2014 foram corrigidas para o Planalto e recapturadas; ambas agora constam entre as 78 capturas.
@@ -24,6 +32,8 @@ As URLs de LC 128/2008 e LC 147/2014 foram corrigidas para o Planalto e recaptur
 ## Como interpretar as capturas
 
 `extracted_automatic` informa apenas que o coletor obteve bytes oficiais e texto suficiente para processar. Não confirma vigência, consolidação, efeitos temporais, autenticidade de cada trecho nem precisão da divisão por artigo. O texto pode conter codificação imperfeita. Todo OKF compilado conserva `legal_consolidation_verified: false` e deve passar por revisão humana antes de orientar uma decisão.
+
+Os OKFs por artigo também são candidatos extraídos automaticamente: fragmentos podem atravessar fronteiras de página e a associação de parágrafos, incisos e alíneas é heurística. Os arquivos preservam os identificadores dos trechos de origem, hash e estado de revisão; valide o dispositivo no ato oficial antes de confiar em sua delimitação.
 
 Os mapas temáticos são roteiros de pesquisa com questões abertas e referências; não são pareceres nem interpretações validadas. O corpus não cobre a legislação tributária dos 417 municípios baianos, todos os atos setoriais, convênios, protocolos ou atualizações posteriores à data da captura.
 
