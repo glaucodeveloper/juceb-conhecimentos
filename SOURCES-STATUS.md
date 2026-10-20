@@ -8,6 +8,11 @@ Referência do bundle: 19/10/2026. Captura e revisão: 20/10/2026.
 - 42 mapas temáticos convertidos para OKFForge.
 - 78 capturas oficiais com extração automática.
 - 8 registros sem texto extraído. O detalhe por ato, URL final, hash e erro está em [`relatorio_sincronizacao.json`](relatorio_sincronizacao.json).
+- 14.190 candidatos de artigo particionados pelo serviço Cognoscere em OKFs individuais.
+- 32.743 candidatos de subdispositivos (parágrafos, incisos e alíneas) associados aos artigos.
+- 42 mapas disponíveis para roteamento temático; os tensores isolados desses mapas ainda não foram gerados.
+
+O particionamento ocorre automaticamente em `POST /specialities/create`. O índice `source-okfs/provision-index.json` registra o hash do corpus; a mesma chamada não reescreve as partições quando as fontes não mudam. A memória raiz Cognoscere contém apenas escopo, método e contagens. Para responder, o chat busca os OKFs por artigo e injeta as evidências encontradas com origem e URL.
 
 O relatório registra os endereços tentados em cada execução. `catalogo_fontes.json` contém a URL atualmente curada e separa `evidence_url` quando há comunicado oficial, mas ainda falta o texto do ato.
 
@@ -24,6 +29,8 @@ As URLs de LC 128/2008 e LC 147/2014 foram corrigidas para o Planalto e recaptur
 ## Como interpretar as capturas
 
 `extracted_automatic` informa apenas que o coletor obteve bytes oficiais e texto suficiente para processar. Não confirma vigência, consolidação, efeitos temporais, autenticidade de cada trecho nem precisão da divisão por artigo. O texto pode conter codificação imperfeita. Todo OKF compilado conserva `legal_consolidation_verified: false` e deve passar por revisão humana antes de orientar uma decisão.
+
+Os OKFs por artigo também são candidatos extraídos automaticamente: fragmentos podem atravessar fronteiras de página e a associação de parágrafos, incisos e alíneas é heurística. Os arquivos preservam os identificadores dos trechos de origem, hash e estado de revisão; valide o dispositivo no ato oficial antes de confiar em sua delimitação.
 
 Os mapas temáticos são roteiros de pesquisa com questões abertas e referências; não são pareceres nem interpretações validadas. O corpus não cobre a legislação tributária dos 417 municípios baianos, todos os atos setoriais, convênios, protocolos ou atualizações posteriores à data da captura.
 

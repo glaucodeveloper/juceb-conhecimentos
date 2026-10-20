@@ -7,10 +7,11 @@ Especialidade de pesquisa do Cognoscere Metis para registro empresarial na Bahia
 - 86 referências normativas e institucionais no catálogo.
 - 42 mapas temáticos preparados no envelope OKFForge.
 - 78 fontes oficiais capturadas e extraídas automaticamente; 8 seguem pendentes.
-- Speciality copiada para a raiz local `~/cognoscere/specialities/juceb-conhecimentos`.
-- Os tensores Safetensors das 42 unidades ainda não foram gerados. O serviço Metis estava parado e a GPU tinha 383 MiB livres; sem o serviço carregado, não há inferência de memória a registrar.
+- O Cognoscere particionou automaticamente 14.190 candidatos de artigo em OKFs individuais e identificou 32.743 candidatos de parágrafo, inciso e alínea como subdispositivos.
+- O índice jurídico possui 78 documentos e 42 mapas de pesquisa. A memória raiz da speciality é criada pela API direta do Cognoscere; os textos completos ficam nos OKFs e entram no chat por recuperação de evidências.
+- Os tensores isolados dos 42 mapas temáticos continuam pendentes; eles são diferentes da memória raiz e da recuperação automática por artigo.
 
-Consulte [`SOURCES-STATUS.md`](SOURCES-STATUS.md) e [`relatorio_sincronizacao.json`](relatorio_sincronizacao.json) antes de usar qualquer conteúdo. Captura automática não confirma vigência ou consolidação legal.
+Consulte [`SOURCES-STATUS.md`](SOURCES-STATUS.md) e [`relatorio_sincronizacao.json`](relatorio_sincronizacao.json) antes de usar qualquer conteúdo. Captura e partição automáticas não confirmam vigência ou consolidação legal.
 
 ## Estrutura
 
@@ -22,6 +23,8 @@ Consulte [`SOURCES-STATUS.md`](SOURCES-STATUS.md) e [`relatorio_sincronizacao.js
 | [`source-okfs/references/`](source-okfs/references/) | 86 fichas com fonte oficial e proveniência |
 | [`source-okfs/concepts/`](source-okfs/concepts/) | 42 mapas temáticos com referências ligadas |
 | [`source-okfs/compiled/`](source-okfs/compiled/) | Texto candidato extraído automaticamente |
+| `source-okfs/provisions/` (gerado) | Um OKF por artigo candidato, com subdispositivos e proveniência |
+| `source-okfs/provision-index.json` (gerado) | Índice usado pelo Cognoscere para localizar artigos durante o chat |
 | [`documentos_oficiais/`](documentos_oficiais/) | Respostas originais dos hosts oficiais permitidos |
 | [`textos_extraidos/`](textos_extraidos/) | Extrações textuais com marcadores de página quando disponíveis |
 | [`okf_compilados/`](okf_compilados/) | Saída bruta do coletor, antes da conversão para OKFForge |
@@ -40,15 +43,28 @@ python3 scripts/build_speciality.py
 
 Revise `catalogo_fontes.json`, `relatorio_sincronizacao.json` e [`SOURCES-STATUS.md`](SOURCES-STATUS.md) antes de publicar novas capturas. Use `--ids` somente após conferir a URL oficial exata; `--all` também tenta registros ainda não verificados. `build_speciality.py` converte referências, mapas e extrações para os schemas OKFForge e deixa `manifest.skills` vazio até a geração real dos tensores.
 
-## Gerar memórias Metis
+## Pipeline automático do Cognoscere
 
-Instale a pasta do repositório em `COGNOSCERE_SPECIALITIES_ROOT/juceb-conhecimentos`. Quando o serviço Metis estiver ativo com modelo carregado e a raiz configurada, execute na pasta instalada:
+Ao criar ou preparar a speciality pela API direta do Cognoscere, o serviço executa a partição artigo a artigo, atualiza o índice idempotente e grava um seed compacto na memória raiz Metis:
 
-```bash
-python3 scripts/seed_metis.py
+```http
+POST /specialities/create
+Content-Type: application/json
+
+{"slug":"juceb-conhecimentos","title":"JUCEB | Bens, serviços e legislação empresarial da Bahia"}
 ```
 
-O script cria o tensor isolado de cada mapa pela API local, submete o OKF correspondente à consolidação Metis e atualiza o manifesto. Os Safetensors, snapshots e registros ficam fora do Git. O script recusa operar contra outra raiz ou substituir uma memória ativa.
+O Cognoscere recupera até quatro evidências por consulta e injeta o texto e as referências oficiais no contexto do modelo. Se a preparação da memória falhar, o manifesto fica pendente e a próxima chamada à mesma rota tenta novamente. Conteúdo integral não é colocado no seed Metis.
+
+Para reconstruir localmente os OKFs de artigo e o índice, execute:
+
+```bash
+python3 scripts/partition_legal_corpus.py
+```
+
+A rotina usa somente a biblioteca padrão do Python, preserva hash e proveniência das fontes e não reescreve os resultados quando o corpus não mudou. As saídas ficam fora do Git porque são derivadas dos arquivos em `source-okfs/compiled/` e podem ser regeneradas.
+
+`scripts/seed_metis.py` permanece como operação explícita para criar memórias isoladas dos mapas temáticos. Os Safetensors, snapshots e registros ficam fora do Git.
 
 ## Regras de uso
 
@@ -60,4 +76,4 @@ O script cria o tensor isolado de cada mapa pela API local, submete o OKF corres
 
 ## Contrato Cognoscere
 
-`speciality.json` usa `cognoscere.speciality.v1`; `manifest.json` usa `okfforge.metis.monitor-manifest.v1`; as fichas seguem `okfforge.juceb.*.v1`. O bundle original usa `okf.knowledge.v1`; a conversão preserva esse valor em `legacy_schema`.
+`speciality.json` usa `cognoscere.speciality.v1`; `manifest.json` usa `okfforge.metis.monitor-manifest.v1`; os artigos usam `okfforge.juceb.legal_provision.v1`. O bundle original usa `okf.knowledge.v1`; a conversão preserva esse valor em `legacy_schema`.
